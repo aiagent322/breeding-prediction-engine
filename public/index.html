@@ -1,0 +1,657 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Breeding Prediction Engine</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=IBM+Plex+Mono:wght@300;400;500&display=swap');
+*{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#0d0a05;--card:#141008;--card2:#1a1209;--border:#271c0c;
+  --gold:#c08830;--gold-l:#d4a040;--gold-d:#7a5520;
+  --cream:#ddd0b8;--muted:#6a5830;--dim:#3a2e14;
+  --red:#a03025;--green:#4a7a30;--amber:#c07020;
+  --font-serif:'Playfair Display',serif;
+  --font-mono:'IBM Plex Mono',monospace;
+}
+body{background:var(--bg);color:var(--cream);font-family:var(--font-mono);min-height:100vh}
+.page{max-width:820px;margin:0 auto;padding:1.5rem 1rem 4rem}
+
+/* Header */
+.hd{text-align:center;padding:1.5rem 0 1.2rem;border-bottom:1px solid var(--border);margin-bottom:1.5rem}
+.hd-eye{font-size:8px;letter-spacing:.25em;color:var(--muted);text-transform:uppercase;margin-bottom:.4rem}
+.hd h1{font-family:var(--font-serif);font-size:1.6rem;color:var(--gold);letter-spacing:.01em}
+.hd-sub{font-size:8px;color:var(--dim);letter-spacing:.08em;margin-top:.3rem}
+
+/* Form sections */
+.section{background:var(--card);border:1px solid var(--border);border-radius:6px;padding:1rem;margin-bottom:.8rem}
+.section-title{font-size:8px;letter-spacing:.16em;text-transform:uppercase;color:var(--gold);margin-bottom:.8rem;display:flex;align-items:center;gap:.4rem}
+.section-title::before{content:'';display:inline-block;width:2px;height:10px;background:var(--gold)}
+.req-badge{font-size:6.5px;color:var(--gold);border:1px solid var(--gold-d);border-radius:2px;padding:1px 4px;letter-spacing:.1em}
+.grid-2{display:grid;grid-template-columns:1fr 1fr;gap:.7rem}
+.grid-3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:.7rem}
+@media(max-width:560px){.grid-2,.grid-3{grid-template-columns:1fr}}
+.field{display:flex;flex-direction:column;gap:.25rem}
+.field label{font-size:7.5px;letter-spacing:.1em;color:var(--muted);text-transform:uppercase}
+.field input,.field select{
+  background:#090704;border:1px solid var(--border);color:var(--cream);
+  padding:.42rem .6rem;border-radius:3px;font-family:var(--font-mono);font-size:.76rem;
+  width:100%;outline:none;transition:border-color .15s
+}
+.field input:focus,.field select:focus{border-color:var(--gold-d)}
+.field select option{background:var(--card)}
+.field-note{font-size:6.5px;color:var(--dim);margin-top:.1rem;line-height:1.4}
+
+/* Confidence bar */
+.conf-section{background:var(--card);border:1px solid var(--border);border-radius:6px;padding:.9rem}
+.conf-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:.7rem}
+.conf-label{font-size:8px;letter-spacing:.14em;color:var(--muted);text-transform:uppercase}
+.conf-pct{font-family:var(--font-serif);font-size:1.1rem;color:var(--gold)}
+.conf-rows{display:flex;flex-direction:column;gap:.45rem}
+.conf-row{display:flex;align-items:center;gap:.7rem}
+.conf-row-lbl{font-size:7.5px;color:var(--muted);width:88px;flex-shrink:0;letter-spacing:.04em}
+.conf-track{flex:1;height:3px;background:var(--dim);border-radius:1px;overflow:hidden}
+.conf-bar{height:100%;border-radius:1px;background:var(--gold);transition:width .4s}
+.conf-val{font-size:7.5px;width:22px;text-align:right;color:var(--gold)}
+.conf-note{font-size:7.5px;color:var(--dim);margin-top:.5rem;letter-spacing:.04em}
+
+/* Submit */
+.submit-row{display:flex;justify-content:flex-end;gap:.7rem;margin-top:1rem}
+.btn{font-family:var(--font-mono);font-size:8px;letter-spacing:.1em;text-transform:uppercase;padding:.55rem 1.4rem;border:1px solid;border-radius:3px;cursor:pointer;transition:all .15s}
+.btn-primary{background:var(--gold);color:#090704;border-color:var(--gold)}
+.btn-primary:hover{background:var(--gold-l)}
+.btn-primary:disabled{background:var(--dim);border-color:var(--dim);color:#2a2010;cursor:not-allowed}
+.btn-ghost{background:transparent;color:var(--muted);border-color:var(--border)}
+.btn-ghost:hover{border-color:var(--muted);color:var(--cream)}
+
+/* Loading */
+.loading{text-align:center;padding:2rem;display:none}
+.loading-txt{font-size:8.5px;letter-spacing:.18em;color:var(--muted);animation:pulse 1.4s ease infinite}
+@keyframes pulse{0%,100%{opacity:.3}50%{opacity:1}}
+.loading-steps{display:flex;flex-direction:column;gap:.4rem;margin-top:1rem;align-items:center}
+.lstep{font-size:7.5px;color:var(--dim);transition:color .3s}
+.lstep.done{color:var(--gold-d)}
+.lstep.active{color:var(--gold)}
+
+/* Results */
+.results{display:none}
+.results-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:.8rem;padding-bottom:.6rem;border-bottom:1px solid var(--border)}
+.results-title{font-family:var(--font-serif);font-size:1rem;color:var(--gold)}
+.results-meta{text-align:right;font-size:7.5px;color:var(--muted)}
+.results-meta b{color:var(--gold)}
+.new-query-btn{cursor:pointer;font-size:7.5px;letter-spacing:.1em;color:var(--muted);text-decoration:underline;background:none;border:none;margin-top:.3rem;display:block}
+
+/* Match cards */
+.match-card{border-radius:6px;border:1px solid var(--border);margin-bottom:.8rem;overflow:hidden}
+.match-card.Gold{border-color:var(--gold)}
+.match-card.Silver{border-color:#504438}
+.match-card.Bronze{border-color:#3a2618}
+.card-header{display:flex;align-items:center;gap:.8rem;padding:.85rem .95rem;cursor:pointer}
+.Gold .card-header{background:#181006}
+.Silver .card-header{background:#141008}
+.Bronze .card-header{background:#121007}
+.tier-tag{font-size:7px;letter-spacing:.18em;padding:2px 6px;border-radius:2px;text-transform:uppercase;flex-shrink:0;font-weight:500}
+.Gold .tier-tag{background:var(--gold);color:#090704}
+.Silver .tier-tag{background:#605040;color:#d0c0a8}
+.Bronze .tier-tag{background:#3a2414;color:#b09068}
+.card-name{font-family:var(--font-serif);font-size:1rem;color:var(--cream);flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.card-sire{font-size:7px;color:var(--muted);margin-top:.1rem}
+.card-score-wrap{text-align:right;flex-shrink:0}
+.card-score{font-family:var(--font-serif);font-size:1.5rem;line-height:1}
+.Gold .card-score{color:var(--gold)}
+.Silver .card-score{color:#907858}
+.Bronze .card-score{color:#6a5038}
+.card-conf{font-size:7px;color:var(--dim)}
+.chev{font-size:9px;color:var(--dim);margin-left:.3rem;display:inline-block;transition:transform .2s}
+.chev.open{transform:rotate(180deg)}
+
+/* Card body */
+.card-body{display:none;padding:.85rem .95rem;border-top:1px solid var(--border)}
+.card-body.open{display:block}
+.sub-label{font-size:7.5px;letter-spacing:.14em;color:var(--muted);text-transform:uppercase;margin-bottom:.5rem}
+.div{border:none;border-top:1px solid var(--border);margin:.65rem 0}
+
+/* Category bars */
+.cat-grid{display:grid;grid-template-columns:1fr 1fr;gap:.45rem;margin-bottom:.1rem}
+@media(max-width:480px){.cat-grid{grid-template-columns:1fr}}
+.cat-item{display:flex;flex-direction:column;gap:.2rem}
+.cat-hd{display:flex;justify-content:space-between}
+.cat-name{font-size:7px;color:var(--muted);letter-spacing:.05em;text-transform:uppercase}
+.cat-score{font-size:7.5px;font-weight:500}
+.cat-track{height:3px;background:var(--border);border-radius:1px}
+.cat-fill{height:100%;border-radius:1px;background:var(--gold);transition:width .7s ease}
+.cat-fill.low{background:var(--gold-d)}
+.cat-cov{font-size:6.5px;color:var(--dim);margin-top:.1rem}
+
+/* Probability bars */
+.prob-grid{display:grid;grid-template-columns:1fr 1fr;gap:.4rem}
+.prob-item{display:flex;flex-direction:column;gap:.2rem}
+.prob-hd{display:flex;justify-content:space-between;align-items:baseline}
+.prob-lbl{font-size:7px;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
+.prob-val{font-size:8px;font-weight:500}
+.prob-val.elite{color:var(--gold)}
+.prob-val.strong{color:var(--gold-d)}
+.prob-val.average{color:var(--muted)}
+.prob-val.miss{color:var(--dim)}
+.prob-track{height:4px;background:var(--border);border-radius:2px}
+.prob-fill.elite{background:var(--gold)}
+.prob-fill.strong{background:var(--gold-d)}
+.prob-fill.average{background:var(--muted)}
+.prob-fill.miss{background:var(--dim)}
+.prob-track .prob-fill{height:100%;border-radius:2px;transition:width .7s ease}
+
+/* Traits grid */
+.traits-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:.4rem}
+@media(max-width:480px){.traits-grid{grid-template-columns:1fr 1fr}}
+.trait-item{background:var(--card2);border:1px solid var(--border);border-radius:3px;padding:.4rem .5rem}
+.trait-name{font-size:7px;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;margin-bottom:.15rem}
+.trait-val{font-family:var(--font-serif);font-size:.95rem;color:var(--cream)}
+.trait-val.null{color:var(--dim);font-size:.8rem}
+
+/* Risk flags */
+.risk-list{display:flex;flex-direction:column;gap:.35rem}
+.risk-item{display:flex;align-items:flex-start;gap:.5rem;font-size:.7rem;color:#a09070;line-height:1.5}
+.risk-dot{width:6px;height:6px;border-radius:50%;flex-shrink:0;margin-top:.35rem}
+.HIGH .risk-dot{background:var(--red)}
+.MODERATE .risk-dot{background:var(--amber)}
+.LOW .risk-dot{background:var(--muted)}
+.no-risk{font-size:.7rem;color:var(--dim)}
+
+/* Modifier summary */
+.mod-summary{font-size:7.5px;color:var(--dim);letter-spacing:.04em;line-height:1.8}
+.mod-summary b{color:var(--gold-d)}
+
+/* Explanation */
+.explanation{background:var(--card2);border-left:2px solid var(--gold-d);padding:.6rem .8rem;border-radius:0 3px 3px 0;font-size:.72rem;line-height:1.65;color:#9a8a68}
+
+/* Error */
+.error-box{background:#1a0a08;border:1px solid var(--red);border-radius:5px;padding:1rem;margin-bottom:.8rem;font-size:.8rem;color:#c06050;line-height:1.6}
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- Header -->
+  <div class="hd">
+    <div class="hd-eye">Bridle &amp; Bit &mdash; AI Division &mdash; Breeding Engine V1.0</div>
+    <h1>Western Performance Match Engine</h1>
+    <div class="hd-sub">Schema-driven &middot; Partial input safe &middot; Hierarchical weights &middot; Gold / Silver / Bronze</div>
+  </div>
+
+  <!-- FORM -->
+  <div id="form-view">
+
+    <!-- Performance (required) -->
+    <div class="section">
+      <div class="section-title">Performance <span class="req-badge">REQUIRED</span></div>
+      <div class="grid-2">
+        <div class="field" style="grid-column:1/-1">
+          <label>Target Discipline</label>
+          <select id="f-discipline" onchange="calcConf()">
+            <option value="">— Select discipline —</option>
+            <option value="reining">Reining (NRHA)</option>
+            <option value="cutting">Cutting (NCHA)</option>
+            <option value="cowHorse">Working Cow Horse (NRCHA)</option>
+            <option value="teamRoping">Team Roping (USTRC)</option>
+            <option value="barrelRacing">Barrel Racing (WPRA)</option>
+            <option value="ranchRiding">Ranch Riding / Versatility (AQHA)</option>
+          </select>
+        </div>
+        <div class="field">
+          <label>Earnings Tier</label>
+          <select id="f-earnings" onchange="calcConf()">
+            <option value="">Unknown</option>
+            <option value="none">None / Unshown</option>
+            <option value="regional">Regional Competitor</option>
+            <option value="listed">Futurity / Stakes Listed</option>
+            <option value="stakes">Stakes Winner</option>
+            <option value="elite">World Champion / Elite</option>
+          </select>
+        </div>
+        <div class="field">
+          <label>Competition Level</label>
+          <select id="f-level" onchange="calcConf()">
+            <option value="">Unknown</option>
+            <option value="green">Green / Unproven</option>
+            <option value="amateur">Amateur Class</option>
+            <option value="regional">Regional Open</option>
+            <option value="open">Open Class</option>
+            <option value="elite">Elite / World Class</option>
+          </select>
+        </div>
+      </div>
+    </div>
+
+    <!-- Genetics -->
+    <div class="section">
+      <div class="section-title">Genetics</div>
+      <div class="grid-2">
+        <div class="field">
+          <label>Mare's Sire</label>
+          <input id="f-sire" type="text" placeholder="e.g. Gunner" oninput="calcConf()">
+          <div class="field-note">Exact name for proven-cross detection — +20% boost if match found</div>
+        </div>
+        <div class="field">
+          <label>Dam</label>
+          <input id="f-dam" type="text" placeholder="e.g. Smart Little Lena Mare" oninput="calcConf()">
+        </div>
+        <div class="field">
+          <label>Bloodline Cluster</label>
+          <select id="f-cluster" onchange="calcConf()">
+            <option value="">Unknown</option>
+            <option value="Whiz">Whiz (Reining)</option>
+            <option value="SmokingGun">Smoking Gun (Reining)</option>
+            <option value="Spark">Spark (Reining)</option>
+            <option value="Cat">Cat (Cutting / Cow Horse)</option>
+            <option value="Pep">Pep / Dual Rey (Cutting)</option>
+            <option value="Peppy">Peppy San (Cutting)</option>
+            <option value="Frenchman">Frenchman (Barrel / Roping)</option>
+            <option value="Dash">Dash (Barrel / Speed)</option>
+            <option value="Ease">Ease (Team Roping)</option>
+            <option value="Bar">Bar / Doc (Foundation)</option>
+            <option value="Other">Other Known</option>
+          </select>
+        </div>
+        <div class="field">
+          <label>Dam Strength Score (0–100)</label>
+          <input id="f-dam-strength" type="number" min="0" max="100" placeholder="e.g. 75" oninput="calcConf()">
+          <div class="field-note">Below 35 + weak sire line triggers &minus;25% penalty</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Physical -->
+    <div class="section">
+      <div class="section-title">Physical</div>
+      <div class="grid-2">
+        <div class="field">
+          <label>Height (hands)</label>
+          <input id="f-height" type="number" step="0.1" min="13" max="17.3" placeholder="e.g. 14.3" oninput="calcConf()">
+          <div class="field-note">Mismatch &gt;2 hands triggers &minus;15% penalty</div>
+        </div>
+        <div class="field">
+          <label>Weight Class</label>
+          <select id="f-weight" onchange="calcConf()">
+            <option value="">Unknown</option>
+            <option value="light">Light (&lt;1,050 lb)</option>
+            <option value="medium">Medium (1,050–1,200 lb)</option>
+            <option value="heavy">Heavy (&gt;1,200 lb)</option>
+          </select>
+        </div>
+        <div class="field">
+          <label>Bone Density Score (0–100)</label>
+          <input id="f-bone" type="number" min="0" max="100" placeholder="e.g. 80" oninput="calcConf()">
+        </div>
+        <div class="field">
+          <label>Balance Score (0–100)</label>
+          <input id="f-balance" type="number" min="0" max="100" placeholder="e.g. 85" oninput="calcConf()">
+        </div>
+      </div>
+    </div>
+
+    <!-- Mental -->
+    <div class="section">
+      <div class="section-title">Mental</div>
+      <div class="grid-3">
+        <div class="field">
+          <label>Trainability (0–100)</label>
+          <input id="f-trainability" type="number" min="0" max="100" placeholder="e.g. 88" oninput="calcConf()">
+        </div>
+        <div class="field">
+          <label>Reactivity</label>
+          <select id="f-reactivity" onchange="calcConf()">
+            <option value="">Unknown</option>
+            <option value="low">Low — calm</option>
+            <option value="moderate">Moderate — normal</option>
+            <option value="high">High — sensitive</option>
+          </select>
+          <div class="field-note">High × High = &minus;20% &nbsp;|&nbsp; Low × High = +10%</div>
+        </div>
+        <div class="field">
+          <label>Consistency (0–100)</label>
+          <input id="f-consistency" type="number" min="0" max="100" placeholder="e.g. 82" oninput="calcConf()">
+        </div>
+      </div>
+    </div>
+
+    <!-- Health + Cosmetic -->
+    <div class="section">
+      <div class="section-title">Health &amp; Cosmetic</div>
+      <div class="grid-3">
+        <div class="field">
+          <label>Soundness Score (0–100)</label>
+          <input id="f-soundness" type="number" min="0" max="100" placeholder="e.g. 90" oninput="calcConf()">
+        </div>
+        <div class="field">
+          <label>Color</label>
+          <select id="f-color" onchange="calcConf()">
+            <option value="">Unknown</option>
+            <option value="sorrel">Sorrel</option>
+            <option value="chestnut">Chestnut</option>
+            <option value="bay">Bay</option>
+            <option value="brown">Brown</option>
+            <option value="black">Black</option>
+            <option value="gray">Gray</option>
+            <option value="roan">Roan</option>
+            <option value="palomino">Palomino</option>
+            <option value="buckskin">Buckskin</option>
+            <option value="dun">Dun</option>
+            <option value="grullo">Grullo</option>
+            <option value="paint">Paint</option>
+            <option value="appaloosa">Appaloosa</option>
+            <option value="other">Other</option>
+          </select>
+        </div>
+        <div class="field">
+          <label>Eye Type</label>
+          <select id="f-eye" onchange="calcConf()">
+            <option value="">Unknown</option>
+            <option value="standard">Standard</option>
+            <option value="blue">Blue</option>
+            <option value="partial_blue">Partial Blue</option>
+            <option value="glass">Glass</option>
+          </select>
+        </div>
+      </div>
+    </div>
+
+    <!-- Confidence -->
+    <div class="conf-section">
+      <div class="conf-header">
+        <span class="conf-label">Input Confidence</span>
+        <span class="conf-pct" id="conf-pct">—</span>
+      </div>
+      <div class="conf-rows" id="conf-rows"></div>
+      <div class="conf-note" id="conf-note">Select a discipline to begin analysis</div>
+    </div>
+
+    <div class="submit-row">
+      <button class="btn btn-ghost" onclick="resetAll()">Reset</button>
+      <button class="btn btn-primary" id="submit-btn" onclick="submitForm()" disabled>Select discipline to run</button>
+    </div>
+
+    <div id="error-area"></div>
+  </div>
+
+  <!-- Loading -->
+  <div class="loading" id="loading">
+    <div class="loading-txt">Running pipeline&hellip;</div>
+    <div class="loading-steps">
+      <div class="lstep" id="ls1">Stage 1 &mdash; Hard filter</div>
+      <div class="lstep" id="ls2">Stage 2 &mdash; Hierarchical scoring</div>
+      <div class="lstep" id="ls3">Stage 3 &mdash; Gold / Silver / Bronze selection</div>
+    </div>
+  </div>
+
+  <!-- Results -->
+  <div class="results" id="results-view">
+    <div class="results-header">
+      <div>
+        <div class="results-title" id="results-title">Recommendations</div>
+        <div class="results-meta" id="results-meta"></div>
+      </div>
+      <button class="new-query-btn" onclick="resetAll()">&larr; New query</button>
+    </div>
+    <div id="results-cards"></div>
+  </div>
+
+</div>
+
+<script>
+// ─── Confidence categories — mirror CONFIDENCE_WEIGHTS in scoring.js ─
+// Genetics(40%) Physical(20%) Mental(20%) Performance(15%) Cosmetic(5%)
+const CONF_CATS = [
+  { key:'genetics',    label:'Genetics',    weight:0.40, fields:['f-sire','f-dam','f-cluster','f-dam-strength'] },
+  { key:'physical',    label:'Physical',    weight:0.20, fields:['f-height','f-weight','f-bone','f-balance'] },
+  { key:'mental',      label:'Mental',      weight:0.20, fields:['f-trainability','f-reactivity','f-consistency'] },
+  { key:'performance', label:'Performance', weight:0.15, fields:['f-discipline','f-earnings','f-level'] },
+  { key:'cosmetic',    label:'Cosmetic',    weight:0.05, fields:['f-color','f-eye'] },
+];
+
+function calcConf() {
+  const disc = document.getElementById('f-discipline').value;
+  const btn  = document.getElementById('submit-btn');
+  btn.disabled = !disc;
+  btn.textContent = disc ? 'Run Analysis →' : 'Select discipline to run';
+
+  let weightedSum = 0;
+  let html = '';
+
+  CONF_CATS.forEach(cat => {
+    const provided = cat.fields.filter(id => {
+      const el = document.getElementById(id);
+      return el && el.value.trim() !== '';
+    }).length;
+    const coverage = provided / cat.fields.length;        // 0–1 for this category
+    const pct      = Math.round(coverage * 100);
+    const col      = pct === 100 ? '#c08830' : pct > 0 ? '#7a5520' : '#271c0c';
+    weightedSum   += coverage * cat.weight;
+
+    html += `<div class="conf-row">
+      <span class="conf-row-lbl">${cat.label} <span style="color:var(--dim)">${Math.round(cat.weight*100)}%</span></span>
+      <div class="conf-track"><div class="conf-bar" style="width:${pct}%;background:${col}"></div></div>
+      <span class="conf-val" style="color:${col}">${pct}%</span>
+    </div>`;
+  });
+
+  document.getElementById('conf-rows').innerHTML = html;
+  const overall = Math.round(weightedSum * 100);
+  document.getElementById('conf-pct').textContent = overall + '%';
+  const noteMap = [
+    [0,  'Select discipline to begin analysis'],
+    [1,  'Minimal data — results will be approximate'],
+    [40, 'Moderate data — adequate for initial screening'],
+    [70, 'High data density — precise recommendations'],
+  ];
+  const note = noteMap.reduce((a, [t, m]) => overall >= t ? m : a, '');
+  document.getElementById('conf-note').textContent = note;
+}
+
+function collectMare() {
+  const v = id => {
+    const el = document.getElementById(id);
+    if (!el) return null;
+    const val = el.value.trim();
+    return val === '' ? null : val;
+  };
+  const n = id => {
+    const val = v(id);
+    if (val === null) return null;
+    const num = parseFloat(val);
+    return isNaN(num) ? null : num;
+  };
+  return {
+    genetics:    { sire: v('f-sire'), dam: v('f-dam'), bloodline_cluster: v('f-cluster'), dam_strength_score: n('f-dam-strength') },
+    physical:    { height_hands: n('f-height'), weight_class: v('f-weight'), bone_density_score: n('f-bone'), balance_score: n('f-balance') },
+    mental:      { trainability: n('f-trainability'), reactivity: v('f-reactivity'), consistency: n('f-consistency') },
+    performance: { discipline: v('f-discipline'), earnings: v('f-earnings'), level: v('f-level') },
+    health:      { soundness_score: n('f-soundness') },
+    cosmetic:    { color: v('f-color'), eye_type: v('f-eye') },
+    preferences: { weakness: v('f-weak'), budget: v('f-budget'), availability: v('f-avail') },
+  };
+}
+
+// ─── Submit ───────────────────────────────────────────────────
+async function submitForm() {
+  const mare = collectMare();
+  document.getElementById('error-area').innerHTML = '';
+  document.getElementById('form-view').style.display = 'none';
+  document.getElementById('results-view').style.display = 'none';
+  document.getElementById('loading').style.display = 'block';
+
+  // Animate pipeline steps
+  const steps = ['ls1','ls2','ls3'];
+  let si = 0;
+  const stepTimer = setInterval(() => {
+    if (si > 0) document.getElementById(steps[si-1]).className = 'lstep done';
+    if (si < steps.length) document.getElementById(steps[si]).className = 'lstep active';
+    si++;
+    if (si > steps.length) clearInterval(stepTimer);
+  }, 600);
+
+  try {
+    const resp = await fetch('/api/analyze', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(mare),
+    });
+    const data = await resp.json();
+    clearInterval(stepTimer);
+    steps.forEach(s => document.getElementById(s).className = 'lstep done');
+    setTimeout(() => renderResults(data, mare), 300);
+  } catch (err) {
+    clearInterval(stepTimer);
+    document.getElementById('loading').style.display = 'none';
+    document.getElementById('form-view').style.display = '';
+    document.getElementById('error-area').innerHTML = `
+      <div class="error-box">Connection error: ${err.message}<br>Make sure the server is running on port 3000.</div>`;
+  }
+}
+
+// ─── Render results ───────────────────────────────────────────
+const DISC_LABELS = {
+  reining:'Reining', cutting:'Cutting', cowHorse:'Working Cow Horse',
+  teamRoping:'Team Roping', barrelRacing:'Barrel Racing', ranchRiding:'Ranch Riding',
+};
+const TRAIT_LABELS = {
+  athleticism:'Athleticism', trainability:'Trainability', cow_sense:'Cow Sense',
+  speed:'Speed', stamina:'Stamina', temperament:'Temperament',
+};
+const CAT_LABELS = {
+  genetic:'Genetic (40%)', physical:'Physical (20%)', traits:'Traits (20%)',
+  performance:'Performance (15%)', market:'Market (5%)',
+};
+
+function renderResults(data, mare) {
+  document.getElementById('loading').style.display = 'none';
+
+  if (data.error) {
+    document.getElementById('form-view').style.display = '';
+    document.getElementById('error-area').innerHTML = `<div class="error-box">${data.message}</div>`;
+    return;
+  }
+
+  const d = data.diagnostics || {};
+  const disc = DISC_LABELS[mare?.performance?.discipline] || mare?.performance?.discipline || 'Unknown';
+  document.getElementById('results-title').textContent =
+    `${data.matches?.length ?? 0} Recommendations — ${disc}`;
+  document.getElementById('results-meta').innerHTML =
+    `<b>${d.afterHardFilter ?? '—'}</b> qualified &nbsp;|&nbsp; <b>${d.afterScoring ?? '—'}</b> scored &nbsp;|&nbsp; <b>${data.confidence ?? '—'}%</b> avg confidence`;
+
+  const cards = document.getElementById('results-cards');
+  cards.innerHTML = '';
+
+  if (!data.matches?.length) {
+    cards.innerHTML = `<div style="text-align:center;padding:2rem;color:var(--dim);font-size:.8rem">No stallions matched the selected discipline and compatibility criteria.<br>Try a different discipline or remove the reactivity filter.</div>`;
+  } else {
+    data.matches.forEach((m, i) => {
+      cards.appendChild(renderCard(m, i));
+    });
+    // Auto-open gold
+    const firstBody = document.getElementById(`body-0`);
+    if (firstBody) { firstBody.classList.add('open'); const ch = document.getElementById('chev-0'); if(ch) ch.classList.add('open'); }
+  }
+
+  document.getElementById('results-view').style.display = '';
+}
+
+function renderCard(m, i) {
+  const div = document.createElement('div');
+  div.className = `match-card ${m.tier}`;
+
+  // Category bars — category_scores and category_coverage from match output
+  const catScores   = m.category_scores   || {};
+  const catCoverage = m.category_coverage || {};
+  const catHtml = Object.keys(catScores).length
+    ? Object.entries(CAT_LABELS).map(([k, label]) => {
+        const score = catScores[k] != null ? catScores[k] : null;
+        const cov   = catCoverage[k] != null ? catCoverage[k] : 100;
+        const low   = cov < 60;
+        const col   = low ? 'var(--gold-d)' : 'var(--gold)';
+        const covTxt = low ? ' (' + cov + '% data)' : '';
+        return '<div class="cat-item">'
+          + '<div class="cat-hd"><span class="cat-name">' + label + '</span>'
+          + '<span class="cat-score" style="color:' + col + '">' + (score != null ? score : '—') + '<span style="color:var(--dim);font-size:6.5px">' + covTxt + '</span></span></div>'
+          + '<div class="cat-bar"><div class="cat-bar-fill" style="width:' + (score || 0) + '%;background:' + col + '"></div></div>'
+          + '</div>';
+      }).join('')
+    : '<div style="font-size:7.5px;color:var(--dim)">Category breakdown not available</div>'
+
+  // Probability bars
+  const prob = m.probability || {};
+  const probHtml = ['elite','strong','average','miss'].map(k =>
+    `<div class="prob-item"><div class="prob-hd"><span class="prob-lbl">${k}</span><span class="prob-val ${k}">${prob[k] ?? 0}%</span></div><div class="prob-track"><div class="prob-fill ${k}" style="width:${prob[k] ?? 0}%"></div></div></div>`
+  ).join('');
+
+  // Traits
+  const tr = m.traits || {};
+  const traitHtml = Object.entries(TRAIT_LABELS).map(([k, lbl]) =>
+    tr[k] != null
+      ? `<div class="trait-item"><div class="trait-name">${lbl}</div><div class="trait-val">${tr[k]}</div></div>`
+      : `<div class="trait-item"><div class="trait-name">${lbl}</div><div class="trait-val null">—</div></div>`
+  ).join('');
+
+  // Risk flags
+  const flags = m.risk?.flags ?? [];
+  const riskHtml = flags.length
+    ? `<div class="risk-list">${flags.map(f =>
+        `<div class="risk-item ${f.level}"><div class="risk-dot"></div><span><b>${f.level}</b> — ${f.message}</span></div>`
+      ).join('')}</div>`
+    : `<div class="no-risk">No penalty flags triggered</div>`;
+
+  const modHtml = `<div class="mod-summary">
+    Penalty total: <b>${m.risk?.penalty_total ?? 0}%</b> &nbsp;&nbsp;
+    Boost total: <b>+${m.risk?.boost_total ?? 0}%</b> &nbsp;&nbsp;
+    Net modifier: <b>${(m.risk?.net_modifier ?? 0) > 0 ? '+' : ''}${m.risk?.net_modifier ?? 0}%</b>
+  </div>`;
+
+  div.innerHTML = `
+    <div class="card-header" onclick="toggle(${i})">
+      <span class="tier-tag">${m.tier.toUpperCase()}</span>
+      <div style="flex:1;min-width:0">
+        <div class="card-name">${m.stallion_name}</div>
+      </div>
+      <div class="card-score-wrap">
+        <div class="card-score">${m.score}</div>
+        <div class="card-conf">/100 <span class="chev" id="chev-${i}">&#9660;</span></div>
+      </div>
+    </div>
+    <div class="card-body" id="body-${i}">
+      <div class="sub-label">Outcome Probabilities</div>
+      <div class="prob-grid">${probHtml}</div>
+      <div class="div"></div>
+      <div class="sub-label">Projected Offspring Traits</div>
+      <div class="traits-grid">${traitHtml}</div>
+      <div class="div"></div>
+      <div class="sub-label">Risk &amp; Modifiers</div>
+      ${riskHtml}
+      ${modHtml}
+      <div class="div"></div>
+      <div class="sub-label">Analysis</div>
+      <div class="explanation">${m.explanation}</div>
+    </div>`;
+  return div;
+}
+
+function toggle(i) {
+  const body = document.getElementById(`body-${i}`);
+  const chev = document.getElementById(`chev-${i}`);
+  body.classList.toggle('open');
+  if (chev) chev.classList.toggle('open');
+}
+
+function resetAll() {
+  document.getElementById('form-view').style.display = '';
+  document.getElementById('loading').style.display = 'none';
+  document.getElementById('results-view').style.display = 'none';
+  document.getElementById('error-area').innerHTML = '';
+  ['ls1','ls2','ls3'].forEach(id => document.getElementById(id).className = 'lstep');
+  calcConf();
+}
+
+// Init
+calcConf();
+</script>
+</body>
+</html>

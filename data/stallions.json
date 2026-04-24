@@ -1,0 +1,2912 @@
+[
+  {
+    "id": "s001",
+    "name": "Spooks Gotta Whiz",
+    "genetics": {
+      "sire": "Topsail Whiz",
+      "dam": "Docs Stylish Oak",
+      "bloodline_cluster": "Whiz",
+      "offspring_success_score": 95
+    },
+    "physical": {
+      "height_hands": 15.1,
+      "weight_class": "medium",
+      "bone_density_score": 85,
+      "balance_score": 90
+    },
+    "mental": {
+      "trainability": 92,
+      "reactivity": "moderate",
+      "consistency": 88
+    },
+    "performance": {
+      "discipline_strength": {
+        "reining": 98,
+        "cowHorse": 65,
+        "ranchRiding": 58,
+        "cutting": 38,
+        "teamRoping": 22,
+        "barrelRacing": 18
+      },
+      "earnings": 450000,
+      "offspring_earnings": 8500000,
+      "discipline_earnings": {
+        "reining": 8000000,
+        "cowHorse": 400000,
+        "ranchRiding": 100000
+      }
+    },
+    "health": {
+      "soundness_score": 85
+    },
+    "market": {
+      "stud_fee": 4500,
+      "demand_index": 92
+    },
+    "_disciplines": [
+      "reining"
+    ],
+    "_sire_line_strength": "elite",
+    "_proven_crosses": [
+      "Smart Little Lena",
+      "Shining Spark",
+      "Gunner"
+    ],
+    "_athleticism": 95,
+    "_cow_sense": 45,
+    "_speed": 70,
+    "_stamina": 88,
+    "_temperament": 85
+  },
+  {
+    "id": "s002",
+    "name": "Gunner",
+    "genetics": {
+      "sire": "Colonels Smoking Gun",
+      "dam": "Grays Starlight",
+      "bloodline_cluster": "SmokingGun",
+      "offspring_success_score": 92
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 85,
+      "balance_score": 88
+    },
+    "mental": {
+      "trainability": 95,
+      "reactivity": "low",
+      "consistency": 92
+    },
+    "performance": {
+      "discipline_strength": {
+        "reining": 95,
+        "cowHorse": 62,
+        "ranchRiding": 55,
+        "cutting": 35,
+        "teamRoping": 25,
+        "barrelRacing": 20
+      },
+      "earnings": 380000,
+      "offspring_earnings": 6200000,
+      "discipline_earnings": {
+        "reining": 5800000,
+        "cowHorse": 300000,
+        "ranchRiding": 100000
+      }
+    },
+    "health": {
+      "soundness_score": 90
+    },
+    "market": {
+      "stud_fee": 3000,
+      "demand_index": 88
+    },
+    "_disciplines": [
+      "reining"
+    ],
+    "_sire_line_strength": "elite",
+    "_proven_crosses": [
+      "Shining Spark",
+      "Topsail Whiz",
+      "Spooks Gotta Whiz"
+    ],
+    "_athleticism": 90,
+    "_cow_sense": 40,
+    "_speed": 68,
+    "_stamina": 90,
+    "_temperament": 95
+  },
+  {
+    "id": "s003",
+    "name": "Shining Spark",
+    "genetics": {
+      "sire": "Shining Spark Sr",
+      "dam": "Doc Bar Lady",
+      "bloodline_cluster": "Spark",
+      "offspring_success_score": 88
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 90,
+      "balance_score": 92
+    },
+    "mental": {
+      "trainability": 96,
+      "reactivity": "low",
+      "consistency": 94
+    },
+    "performance": {
+      "discipline_strength": {
+        "reining": 90,
+        "cowHorse": 65,
+        "ranchRiding": 68,
+        "cutting": 42,
+        "teamRoping": 28,
+        "barrelRacing": 22
+      },
+      "earnings": 220000,
+      "offspring_earnings": 4100000,
+      "discipline_earnings": {
+        "reining": 3700000,
+        "ranchRiding": 300000,
+        "cowHorse": 100000
+      }
+    },
+    "health": {
+      "soundness_score": 88
+    },
+    "market": {
+      "stud_fee": 1800,
+      "demand_index": 82
+    },
+    "_disciplines": [
+      "reining",
+      "ranchRiding"
+    ],
+    "_sire_line_strength": "premier",
+    "_proven_crosses": [
+      "Gunner",
+      "Spooks Gotta Whiz"
+    ],
+    "_athleticism": 88,
+    "_cow_sense": 52,
+    "_speed": 65,
+    "_stamina": 92,
+    "_temperament": 98
+  },
+  {
+    "id": "s004",
+    "name": "Smart Spook",
+    "genetics": {
+      "sire": "Smart Little Lena",
+      "dam": "Spooks Gotta Whiz Mare",
+      "bloodline_cluster": "Whiz",
+      "offspring_success_score": 84
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 86,
+      "balance_score": 88
+    },
+    "mental": {
+      "trainability": 88,
+      "reactivity": "moderate",
+      "consistency": 85
+    },
+    "performance": {
+      "discipline_strength": {
+        "reining": 88,
+        "cowHorse": 78,
+        "ranchRiding": 65,
+        "cutting": 55,
+        "teamRoping": 30,
+        "barrelRacing": 25
+      },
+      "earnings": 180000,
+      "offspring_earnings": 2800000,
+      "discipline_earnings": {
+        "reining": 2000000,
+        "cowHorse": 600000,
+        "ranchRiding": 200000
+      }
+    },
+    "health": {
+      "soundness_score": 92
+    },
+    "market": {
+      "stud_fee": 1800,
+      "demand_index": 80
+    },
+    "_disciplines": [
+      "reining",
+      "cowHorse"
+    ],
+    "_sire_line_strength": "premier",
+    "_proven_crosses": [
+      "Dual Rey",
+      "High Brow Cat",
+      "Spooks Gotta Whiz"
+    ],
+    "_athleticism": 92,
+    "_cow_sense": 82,
+    "_speed": 72,
+    "_stamina": 86,
+    "_temperament": 85
+  },
+  {
+    "id": "s005",
+    "name": "Colonels Smoking Gun",
+    "genetics": {
+      "sire": "Colonel Freckles",
+      "dam": "Doc Bar Lady",
+      "bloodline_cluster": "SmokingGun",
+      "offspring_success_score": 85
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 88,
+      "balance_score": 90
+    },
+    "mental": {
+      "trainability": 92,
+      "reactivity": "low",
+      "consistency": 90
+    },
+    "performance": {
+      "discipline_strength": {
+        "reining": 88,
+        "cowHorse": 62,
+        "ranchRiding": 60,
+        "cutting": 38,
+        "teamRoping": 24,
+        "barrelRacing": 20
+      },
+      "earnings": 160000,
+      "offspring_earnings": 3200000,
+      "discipline_earnings": {
+        "reining": 2800000,
+        "cowHorse": 300000,
+        "ranchRiding": 100000
+      }
+    },
+    "health": {
+      "soundness_score": 86
+    },
+    "market": {
+      "stud_fee": 1500,
+      "demand_index": 78
+    },
+    "_disciplines": [
+      "reining",
+      "cowHorse",
+      "ranchRiding"
+    ],
+    "_sire_line_strength": "premier",
+    "_proven_crosses": [
+      "Gunner",
+      "Shining Spark",
+      "Spooks Gotta Whiz"
+    ],
+    "_athleticism": 88,
+    "_cow_sense": 58,
+    "_speed": 65,
+    "_stamina": 90,
+    "_temperament": 96
+  },
+  {
+    "id": "s006",
+    "name": "Topsail Whiz",
+    "genetics": {
+      "sire": "Topsail Cody",
+      "dam": "Gay Bar King Mare",
+      "bloodline_cluster": "Whiz",
+      "offspring_success_score": 90
+    },
+    "physical": {
+      "height_hands": 15.1,
+      "weight_class": "medium",
+      "bone_density_score": null,
+      "balance_score": 88
+    },
+    "mental": {
+      "trainability": 90,
+      "reactivity": "moderate",
+      "consistency": 86
+    },
+    "performance": {
+      "discipline_strength": {
+        "reining": 92,
+        "cowHorse": 58,
+        "ranchRiding": 55,
+        "cutting": 35,
+        "teamRoping": 20,
+        "barrelRacing": 18
+      },
+      "earnings": 520000,
+      "offspring_earnings": 12000000,
+      "discipline_earnings": {
+        "reining": 11500000,
+        "cowHorse": 400000,
+        "ranchRiding": 100000
+      }
+    },
+    "health": {
+      "soundness_score": null
+    },
+    "market": {
+      "stud_fee": null,
+      "demand_index": null
+    },
+    "_disciplines": [
+      "reining"
+    ],
+    "_sire_line_strength": "elite",
+    "_proven_crosses": [
+      "Spooks Gotta Whiz",
+      "Smart Little Lena"
+    ],
+    "_athleticism": 92,
+    "_cow_sense": 40,
+    "_speed": 65,
+    "_stamina": 88,
+    "_temperament": 88
+  },
+  {
+    "id": "s007",
+    "name": "Hollywoodstinseltown",
+    "genetics": {
+      "sire": "Hollywood Dun It",
+      "dam": "Tinseltown Lady",
+      "bloodline_cluster": "Whiz",
+      "offspring_success_score": 78
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 82,
+      "balance_score": 84
+    },
+    "mental": {
+      "trainability": 88,
+      "reactivity": "moderate",
+      "consistency": 82
+    },
+    "performance": {
+      "discipline_strength": {
+        "reining": 84,
+        "cowHorse": 55,
+        "ranchRiding": 52,
+        "cutting": 32,
+        "teamRoping": 22,
+        "barrelRacing": 18
+      },
+      "earnings": 95000,
+      "offspring_earnings": 1200000,
+      "discipline_earnings": {
+        "reining": 1100000,
+        "cowHorse": 80000,
+        "ranchRiding": 20000
+      }
+    },
+    "health": {
+      "soundness_score": 84
+    },
+    "market": {
+      "stud_fee": 1200,
+      "demand_index": 68
+    },
+    "_disciplines": [
+      "reining"
+    ],
+    "_sire_line_strength": "listed",
+    "_proven_crosses": [
+      "Gunner",
+      "Shining Spark"
+    ],
+    "_athleticism": 84,
+    "_cow_sense": 38,
+    "_speed": 62,
+    "_stamina": 84,
+    "_temperament": 86
+  },
+  {
+    "id": "s008",
+    "name": "Magnum Chic Dream",
+    "genetics": {
+      "sire": "Magnum Chic",
+      "dam": "Lenas Dream",
+      "bloodline_cluster": "Whiz",
+      "offspring_success_score": 80
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 82,
+      "balance_score": 86
+    },
+    "mental": {
+      "trainability": 90,
+      "reactivity": "moderate",
+      "consistency": 84
+    },
+    "performance": {
+      "discipline_strength": {
+        "reining": 86,
+        "cowHorse": 60,
+        "ranchRiding": 58,
+        "cutting": 38,
+        "teamRoping": 25,
+        "barrelRacing": 20
+      },
+      "earnings": 110000,
+      "offspring_earnings": 1800000,
+      "discipline_earnings": {
+        "reining": 1650000,
+        "cowHorse": 120000,
+        "ranchRiding": 30000
+      }
+    },
+    "health": {
+      "soundness_score": 86
+    },
+    "market": {
+      "stud_fee": 1500,
+      "demand_index": 72
+    },
+    "_disciplines": [
+      "reining"
+    ],
+    "_sire_line_strength": "premier",
+    "_proven_crosses": [
+      "Spooks Gotta Whiz"
+    ],
+    "_athleticism": 86,
+    "_cow_sense": 42,
+    "_speed": 64,
+    "_stamina": 86,
+    "_temperament": 88
+  },
+  {
+    "id": "s009",
+    "name": "Wimpys Little Step",
+    "genetics": {
+      "sire": "Poco Pine",
+      "dam": "Wimpy Bar",
+      "bloodline_cluster": "Bar",
+      "offspring_success_score": 78
+    },
+    "physical": {
+      "height_hands": 14.3,
+      "weight_class": "medium",
+      "bone_density_score": 90,
+      "balance_score": 88
+    },
+    "mental": {
+      "trainability": 94,
+      "reactivity": "low",
+      "consistency": 92
+    },
+    "performance": {
+      "discipline_strength": {
+        "reining": 82,
+        "cowHorse": 68,
+        "ranchRiding": 78,
+        "cutting": 45,
+        "teamRoping": 35,
+        "barrelRacing": 28
+      },
+      "earnings": 85000,
+      "offspring_earnings": 950000,
+      "discipline_earnings": {
+        "reining": 700000,
+        "ranchRiding": 200000,
+        "cowHorse": 50000
+      }
+    },
+    "health": {
+      "soundness_score": 90
+    },
+    "market": {
+      "stud_fee": 1000,
+      "demand_index": 68
+    },
+    "_disciplines": [
+      "reining",
+      "ranchRiding"
+    ],
+    "_sire_line_strength": "premier",
+    "_proven_crosses": [
+      "Doc Bar",
+      "King"
+    ],
+    "_athleticism": 84,
+    "_cow_sense": 55,
+    "_speed": 62,
+    "_stamina": 90,
+    "_temperament": 96
+  },
+  {
+    "id": "s010",
+    "name": "Shine Chic Shine",
+    "genetics": {
+      "sire": "Shining Spark",
+      "dam": "Chic Lady",
+      "bloodline_cluster": "Spark",
+      "offspring_success_score": 72
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 80,
+      "balance_score": 82
+    },
+    "mental": {
+      "trainability": 86,
+      "reactivity": "low",
+      "consistency": 84
+    },
+    "performance": {
+      "discipline_strength": {
+        "reining": 80,
+        "cowHorse": 55,
+        "ranchRiding": 62,
+        "cutting": 32,
+        "teamRoping": 22,
+        "barrelRacing": 20
+      },
+      "earnings": 55000,
+      "offspring_earnings": 620000,
+      "discipline_earnings": {
+        "reining": 550000,
+        "ranchRiding": 50000,
+        "cowHorse": 20000
+      }
+    },
+    "health": {
+      "soundness_score": 88
+    },
+    "market": {
+      "stud_fee": 900,
+      "demand_index": 62
+    },
+    "_disciplines": [
+      "reining",
+      "ranchRiding"
+    ],
+    "_sire_line_strength": "listed",
+    "_proven_crosses": [
+      "Gunner"
+    ],
+    "_athleticism": 82,
+    "_cow_sense": 40,
+    "_speed": 60,
+    "_stamina": 84,
+    "_temperament": 92
+  },
+  {
+    "id": "s011",
+    "name": "The Whole Shebang",
+    "genetics": {
+      "sire": "Colonels Smoking Gun",
+      "dam": "Shebang Lady",
+      "bloodline_cluster": "SmokingGun",
+      "offspring_success_score": 70
+    },
+    "physical": {
+      "height_hands": 15.1,
+      "weight_class": "medium",
+      "bone_density_score": 78,
+      "balance_score": 80
+    },
+    "mental": {
+      "trainability": 84,
+      "reactivity": "moderate",
+      "consistency": 80
+    },
+    "performance": {
+      "discipline_strength": {
+        "reining": 78,
+        "cowHorse": 52,
+        "ranchRiding": 55,
+        "cutting": 28,
+        "teamRoping": 20,
+        "barrelRacing": 15
+      },
+      "earnings": 42000,
+      "offspring_earnings": 480000,
+      "discipline_earnings": {
+        "reining": 430000,
+        "cowHorse": 30000,
+        "ranchRiding": 20000
+      }
+    },
+    "health": {
+      "soundness_score": 82
+    },
+    "market": {
+      "stud_fee": 800,
+      "demand_index": 58
+    },
+    "_disciplines": [
+      "reining"
+    ],
+    "_sire_line_strength": "listed",
+    "_proven_crosses": [],
+    "_athleticism": 80,
+    "_cow_sense": 35,
+    "_speed": 60,
+    "_stamina": 82,
+    "_temperament": 85
+  },
+  {
+    "id": "s012",
+    "name": "Dry Doc",
+    "genetics": {
+      "sire": "Doc Bar",
+      "dam": "Dry Lady",
+      "bloodline_cluster": "Bar",
+      "offspring_success_score": 68
+    },
+    "physical": {
+      "height_hands": 14.3,
+      "weight_class": "medium",
+      "bone_density_score": 88,
+      "balance_score": 85
+    },
+    "mental": {
+      "trainability": 86,
+      "reactivity": "low",
+      "consistency": 84
+    },
+    "performance": {
+      "discipline_strength": {
+        "reining": 72,
+        "cowHorse": 65,
+        "ranchRiding": 75,
+        "cutting": 58,
+        "teamRoping": 42,
+        "barrelRacing": 32
+      },
+      "earnings": 35000,
+      "offspring_earnings": 380000,
+      "discipline_earnings": {
+        "reining": 250000,
+        "ranchRiding": 100000,
+        "cowHorse": 30000
+      }
+    },
+    "health": {
+      "soundness_score": null
+    },
+    "market": {
+      "stud_fee": null,
+      "demand_index": null
+    },
+    "_disciplines": [
+      "reining",
+      "ranchRiding",
+      "cowHorse"
+    ],
+    "_sire_line_strength": "listed",
+    "_proven_crosses": [
+      "King",
+      "Leo"
+    ],
+    "_athleticism": 78,
+    "_cow_sense": 62,
+    "_speed": 58,
+    "_stamina": 86,
+    "_temperament": 92
+  },
+  {
+    "id": "s013",
+    "name": "Lil Joe Cash",
+    "genetics": {
+      "sire": "Holland Ease",
+      "dam": "Poco Cash Lady",
+      "bloodline_cluster": "Ease",
+      "offspring_success_score": 65
+    },
+    "physical": {
+      "height_hands": 14.3,
+      "weight_class": "light",
+      "bone_density_score": 76,
+      "balance_score": 78
+    },
+    "mental": {
+      "trainability": 80,
+      "reactivity": "moderate",
+      "consistency": 76
+    },
+    "performance": {
+      "discipline_strength": {
+        "reining": 70,
+        "cowHorse": 48,
+        "ranchRiding": 62,
+        "cutting": 32,
+        "teamRoping": 55,
+        "barrelRacing": 45
+      },
+      "earnings": 28000,
+      "offspring_earnings": 280000,
+      "discipline_earnings": {
+        "reining": 180000,
+        "teamRoping": 60000,
+        "ranchRiding": 40000
+      }
+    },
+    "health": {
+      "soundness_score": 80
+    },
+    "market": {
+      "stud_fee": 700,
+      "demand_index": 52
+    },
+    "_disciplines": [
+      "reining",
+      "teamRoping"
+    ],
+    "_sire_line_strength": "listed",
+    "_proven_crosses": [],
+    "_athleticism": 76,
+    "_cow_sense": 40,
+    "_speed": 65,
+    "_stamina": 80,
+    "_temperament": 82
+  },
+  {
+    "id": "s014",
+    "name": "Custom Made Chic",
+    "genetics": {
+      "sire": "Topsail Whiz",
+      "dam": "Chic Olena",
+      "bloodline_cluster": "Whiz",
+      "offspring_success_score": 72
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 80,
+      "balance_score": 84
+    },
+    "mental": {
+      "trainability": 86,
+      "reactivity": "moderate",
+      "consistency": 82
+    },
+    "performance": {
+      "discipline_strength": {
+        "reining": 76,
+        "cowHorse": 52,
+        "ranchRiding": 55,
+        "cutting": 30,
+        "teamRoping": 22,
+        "barrelRacing": 18
+      },
+      "earnings": 48000,
+      "offspring_earnings": 520000,
+      "discipline_earnings": {
+        "reining": 480000,
+        "cowHorse": 30000,
+        "ranchRiding": 10000
+      }
+    },
+    "health": {
+      "soundness_score": 85
+    },
+    "market": {
+      "stud_fee": 900,
+      "demand_index": 60
+    },
+    "_disciplines": [
+      "reining"
+    ],
+    "_sire_line_strength": "listed",
+    "_proven_crosses": [
+      "Gunner"
+    ],
+    "_athleticism": 82,
+    "_cow_sense": 38,
+    "_speed": 62,
+    "_stamina": 84,
+    "_temperament": 85
+  },
+  {
+    "id": "s015",
+    "name": "Metallic Cat",
+    "genetics": {
+      "sire": "High Brow Cat",
+      "dam": "Zan Parr Bar",
+      "bloodline_cluster": "Cat",
+      "offspring_success_score": 96
+    },
+    "physical": {
+      "height_hands": 14.3,
+      "weight_class": "light",
+      "bone_density_score": null,
+      "balance_score": 88
+    },
+    "mental": {
+      "trainability": 78,
+      "reactivity": "high",
+      "consistency": 82
+    },
+    "performance": {
+      "discipline_strength": {
+        "cutting": 96,
+        "cowHorse": 85,
+        "reining": 52,
+        "ranchRiding": 60,
+        "teamRoping": 25,
+        "barrelRacing": 18
+      },
+      "earnings": 637000,
+      "offspring_earnings": 18000000,
+      "discipline_earnings": {
+        "cutting": 14400000,
+        "cowHorse": 3200000,
+        "reining": 400000
+      }
+    },
+    "health": {
+      "soundness_score": 88
+    },
+    "market": {
+      "stud_fee": 8000,
+      "demand_index": 97
+    },
+    "_disciplines": [
+      "cutting",
+      "cowHorse"
+    ],
+    "_sire_line_strength": "elite",
+    "_proven_crosses": [
+      "High Brow Hickory",
+      "Dual Rey",
+      "Smart Little Lena"
+    ],
+    "_athleticism": 97,
+    "_cow_sense": 98,
+    "_speed": 80,
+    "_stamina": 82,
+    "_temperament": 70
+  },
+  {
+    "id": "s016",
+    "name": "Dual Rey",
+    "genetics": {
+      "sire": "Dual Pep",
+      "dam": "Smart Little Lena",
+      "bloodline_cluster": "Pep",
+      "offspring_success_score": 94
+    },
+    "physical": {
+      "height_hands": 14.3,
+      "weight_class": "light",
+      "bone_density_score": 82,
+      "balance_score": 85
+    },
+    "mental": {
+      "trainability": 80,
+      "reactivity": "high",
+      "consistency": 78
+    },
+    "performance": {
+      "discipline_strength": {
+        "cutting": 98,
+        "cowHorse": 88,
+        "reining": 55,
+        "ranchRiding": 65,
+        "teamRoping": 30,
+        "barrelRacing": 20
+      },
+      "earnings": 723000,
+      "offspring_earnings": 22000000,
+      "discipline_earnings": {
+        "cutting": 16500000,
+        "cowHorse": 5000000,
+        "reining": 500000
+      }
+    },
+    "health": {
+      "soundness_score": 82
+    },
+    "market": {
+      "stud_fee": 6500,
+      "demand_index": 98
+    },
+    "_disciplines": [
+      "cutting",
+      "cowHorse"
+    ],
+    "_sire_line_strength": "elite",
+    "_proven_crosses": [
+      "Smart Little Lena",
+      "High Brow Cat",
+      "Metallic Cat"
+    ],
+    "_athleticism": 98,
+    "_cow_sense": 99,
+    "_speed": 82,
+    "_stamina": 85,
+    "_temperament": 72
+  },
+  {
+    "id": "s017",
+    "name": "High Brow Cat",
+    "genetics": {
+      "sire": "High Brow Hickory",
+      "dam": "Smart Little Lena",
+      "bloodline_cluster": "Cat",
+      "offspring_success_score": 96
+    },
+    "physical": {
+      "height_hands": 14.2,
+      "weight_class": "light",
+      "bone_density_score": 83,
+      "balance_score": 87
+    },
+    "mental": {
+      "trainability": 75,
+      "reactivity": "high",
+      "consistency": 80
+    },
+    "performance": {
+      "discipline_strength": {
+        "cutting": 97,
+        "cowHorse": 85,
+        "reining": 50,
+        "ranchRiding": 62,
+        "teamRoping": 28,
+        "barrelRacing": 18
+      },
+      "earnings": 890000,
+      "offspring_earnings": 30000000,
+      "discipline_earnings": {
+        "cutting": 24000000,
+        "cowHorse": 5400000,
+        "reining": 600000
+      }
+    },
+    "health": {
+      "soundness_score": null
+    },
+    "market": {
+      "stud_fee": 10000,
+      "demand_index": 98
+    },
+    "_disciplines": [
+      "cutting",
+      "cowHorse"
+    ],
+    "_sire_line_strength": "elite",
+    "_proven_crosses": [
+      "Smart Little Lena",
+      "Dual Rey",
+      "Peptoboonsmal"
+    ],
+    "_athleticism": 97,
+    "_cow_sense": 99,
+    "_speed": 82,
+    "_stamina": 83,
+    "_temperament": 68
+  },
+  {
+    "id": "s018",
+    "name": "Peptoboonsmal",
+    "genetics": {
+      "sire": "Peppy San Badger",
+      "dam": "Doc Bar Mare",
+      "bloodline_cluster": "Peppy",
+      "offspring_success_score": 91
+    },
+    "physical": {
+      "height_hands": 14.2,
+      "weight_class": "light",
+      "bone_density_score": 80,
+      "balance_score": 84
+    },
+    "mental": {
+      "trainability": 82,
+      "reactivity": "moderate",
+      "consistency": 80
+    },
+    "performance": {
+      "discipline_strength": {
+        "cutting": 94,
+        "cowHorse": 78,
+        "reining": 45,
+        "ranchRiding": 58,
+        "teamRoping": 28,
+        "barrelRacing": 18
+      },
+      "earnings": 540000,
+      "offspring_earnings": 14000000,
+      "discipline_earnings": {
+        "cutting": 12600000,
+        "cowHorse": 1200000,
+        "reining": 200000
+      }
+    },
+    "health": {
+      "soundness_score": null
+    },
+    "market": {
+      "stud_fee": 5500,
+      "demand_index": 93
+    },
+    "_disciplines": [
+      "cutting"
+    ],
+    "_sire_line_strength": "elite",
+    "_proven_crosses": [
+      "High Brow Cat",
+      "Smart Little Lena"
+    ],
+    "_athleticism": 93,
+    "_cow_sense": 98,
+    "_speed": 76,
+    "_stamina": 80,
+    "_temperament": 78
+  },
+  {
+    "id": "s019",
+    "name": "High Brow Hickory",
+    "genetics": {
+      "sire": "Hickory Holly",
+      "dam": "High Brow Lady",
+      "bloodline_cluster": "Cat",
+      "offspring_success_score": 93
+    },
+    "physical": {
+      "height_hands": 14.3,
+      "weight_class": "light",
+      "bone_density_score": 82,
+      "balance_score": 86
+    },
+    "mental": {
+      "trainability": 76,
+      "reactivity": "high",
+      "consistency": 78
+    },
+    "performance": {
+      "discipline_strength": {
+        "cutting": 95,
+        "cowHorse": 82,
+        "reining": 48,
+        "ranchRiding": 60,
+        "teamRoping": 30,
+        "barrelRacing": 20
+      },
+      "earnings": 680000,
+      "offspring_earnings": 25000000,
+      "discipline_earnings": {
+        "cutting": 20000000,
+        "cowHorse": 4500000,
+        "reining": 500000
+      }
+    },
+    "health": {
+      "soundness_score": null
+    },
+    "market": {
+      "stud_fee": null,
+      "demand_index": null
+    },
+    "_disciplines": [
+      "cutting",
+      "cowHorse"
+    ],
+    "_sire_line_strength": "elite",
+    "_proven_crosses": [
+      "Smart Little Lena",
+      "Metallic Cat"
+    ],
+    "_athleticism": 96,
+    "_cow_sense": 98,
+    "_speed": 78,
+    "_stamina": 82,
+    "_temperament": 70
+  },
+  {
+    "id": "s020",
+    "name": "Smart Little Lena",
+    "genetics": {
+      "sire": "Doc O'Lena",
+      "dam": "Smart Peppy",
+      "bloodline_cluster": "Pep",
+      "offspring_success_score": 95
+    },
+    "physical": {
+      "height_hands": 14.2,
+      "weight_class": "light",
+      "bone_density_score": null,
+      "balance_score": 85
+    },
+    "mental": {
+      "trainability": 82,
+      "reactivity": "moderate",
+      "consistency": 85
+    },
+    "performance": {
+      "discipline_strength": {
+        "cutting": 96,
+        "cowHorse": 80,
+        "reining": 52,
+        "ranchRiding": 65,
+        "teamRoping": 32,
+        "barrelRacing": 22
+      },
+      "earnings": 740000,
+      "offspring_earnings": 35000000,
+      "discipline_earnings": {
+        "cutting": 26000000,
+        "cowHorse": 6000000,
+        "reining": 2000000,
+        "ranchRiding": 1000000
+      }
+    },
+    "health": {
+      "soundness_score": null
+    },
+    "market": {
+      "stud_fee": null,
+      "demand_index": null
+    },
+    "_disciplines": [
+      "cutting",
+      "cowHorse",
+      "reining"
+    ],
+    "_sire_line_strength": "elite",
+    "_proven_crosses": [
+      "Dual Rey",
+      "High Brow Cat",
+      "Metallic Cat",
+      "Peptoboonsmal",
+      "Spooks Gotta Whiz"
+    ],
+    "_athleticism": 95,
+    "_cow_sense": 99,
+    "_speed": 78,
+    "_stamina": 84,
+    "_temperament": 82
+  },
+  {
+    "id": "s021",
+    "name": "CD Lights",
+    "genetics": {
+      "sire": "Peptoboonsmal",
+      "dam": "Dual Rey Mare",
+      "bloodline_cluster": "Peppy",
+      "offspring_success_score": 86
+    },
+    "physical": {
+      "height_hands": 14.3,
+      "weight_class": "light",
+      "bone_density_score": 80,
+      "balance_score": 84
+    },
+    "mental": {
+      "trainability": 82,
+      "reactivity": "moderate",
+      "consistency": 80
+    },
+    "performance": {
+      "discipline_strength": {
+        "cutting": 90,
+        "cowHorse": 75,
+        "reining": 45,
+        "ranchRiding": 58,
+        "teamRoping": 28,
+        "barrelRacing": 18
+      },
+      "earnings": 140000,
+      "offspring_earnings": 2200000,
+      "discipline_earnings": {
+        "cutting": 1900000,
+        "cowHorse": 250000,
+        "reining": 50000
+      }
+    },
+    "health": {
+      "soundness_score": 85
+    },
+    "market": {
+      "stud_fee": 2000,
+      "demand_index": 78
+    },
+    "_disciplines": [
+      "cutting"
+    ],
+    "_sire_line_strength": "premier",
+    "_proven_crosses": [
+      "High Brow Cat",
+      "Smart Little Lena"
+    ],
+    "_athleticism": 90,
+    "_cow_sense": 95,
+    "_speed": 75,
+    "_stamina": 80,
+    "_temperament": 78
+  },
+  {
+    "id": "s022",
+    "name": "Woody Be Tuff",
+    "genetics": {
+      "sire": "Dual Rey",
+      "dam": "Woody Lady",
+      "bloodline_cluster": "Pep",
+      "offspring_success_score": 82
+    },
+    "physical": {
+      "height_hands": 14.3,
+      "weight_class": "light",
+      "bone_density_score": 78,
+      "balance_score": 82
+    },
+    "mental": {
+      "trainability": 80,
+      "reactivity": "high",
+      "consistency": 76
+    },
+    "performance": {
+      "discipline_strength": {
+        "cutting": 88,
+        "cowHorse": 72,
+        "reining": 40,
+        "ranchRiding": 55,
+        "teamRoping": 30,
+        "barrelRacing": 20
+      },
+      "earnings": 98000,
+      "offspring_earnings": 1500000,
+      "discipline_earnings": {
+        "cutting": 1300000,
+        "cowHorse": 180000,
+        "reining": 20000
+      }
+    },
+    "health": {
+      "soundness_score": 84
+    },
+    "market": {
+      "stud_fee": 1800,
+      "demand_index": 72
+    },
+    "_disciplines": [
+      "cutting"
+    ],
+    "_sire_line_strength": "premier",
+    "_proven_crosses": [
+      "Metallic Cat"
+    ],
+    "_athleticism": 90,
+    "_cow_sense": 95,
+    "_speed": 72,
+    "_stamina": 78,
+    "_temperament": 72
+  },
+  {
+    "id": "s023",
+    "name": "WR This Cats Smart",
+    "genetics": {
+      "sire": "High Brow Cat",
+      "dam": "Smart Lady",
+      "bloodline_cluster": "Cat",
+      "offspring_success_score": 76
+    },
+    "physical": {
+      "height_hands": 14.3,
+      "weight_class": "light",
+      "bone_density_score": 78,
+      "balance_score": 82
+    },
+    "mental": {
+      "trainability": 78,
+      "reactivity": "high",
+      "consistency": 76
+    },
+    "performance": {
+      "discipline_strength": {
+        "cutting": 85,
+        "cowHorse": 70,
+        "reining": 40,
+        "ranchRiding": 55,
+        "teamRoping": 25,
+        "barrelRacing": 18
+      },
+      "earnings": 62000,
+      "offspring_earnings": 820000,
+      "discipline_earnings": {
+        "cutting": 720000,
+        "cowHorse": 80000,
+        "reining": 20000
+      }
+    },
+    "health": {
+      "soundness_score": 82
+    },
+    "market": {
+      "stud_fee": 1400,
+      "demand_index": 65
+    },
+    "_disciplines": [
+      "cutting"
+    ],
+    "_sire_line_strength": "listed",
+    "_proven_crosses": [],
+    "_athleticism": 88,
+    "_cow_sense": 94,
+    "_speed": 72,
+    "_stamina": 78,
+    "_temperament": 70
+  },
+  {
+    "id": "s024",
+    "name": "Smooth As A Cat",
+    "genetics": {
+      "sire": "High Brow Hickory",
+      "dam": "Smooth Lady",
+      "bloodline_cluster": "Cat",
+      "offspring_success_score": 74
+    },
+    "physical": {
+      "height_hands": 14.2,
+      "weight_class": "light",
+      "bone_density_score": 76,
+      "balance_score": 80
+    },
+    "mental": {
+      "trainability": 76,
+      "reactivity": "high",
+      "consistency": 74
+    },
+    "performance": {
+      "discipline_strength": {
+        "cutting": 83,
+        "cowHorse": 68,
+        "reining": 38,
+        "ranchRiding": 52,
+        "teamRoping": 22,
+        "barrelRacing": 15
+      },
+      "earnings": 45000,
+      "offspring_earnings": 580000,
+      "discipline_earnings": {
+        "cutting": 520000,
+        "cowHorse": 55000,
+        "reining": 5000
+      }
+    },
+    "health": {
+      "soundness_score": 80
+    },
+    "market": {
+      "stud_fee": 1200,
+      "demand_index": 60
+    },
+    "_disciplines": [
+      "cutting"
+    ],
+    "_sire_line_strength": "listed",
+    "_proven_crosses": [],
+    "_athleticism": 86,
+    "_cow_sense": 93,
+    "_speed": 70,
+    "_stamina": 76,
+    "_temperament": 68
+  },
+  {
+    "id": "s025",
+    "name": "Dual Smart Rey",
+    "genetics": {
+      "sire": "Dual Rey",
+      "dam": "Smart Little Lena Mare",
+      "bloodline_cluster": "Pep",
+      "offspring_success_score": 78
+    },
+    "physical": {
+      "height_hands": 14.3,
+      "weight_class": "light",
+      "bone_density_score": 80,
+      "balance_score": 82
+    },
+    "mental": {
+      "trainability": 80,
+      "reactivity": "moderate",
+      "consistency": 78
+    },
+    "performance": {
+      "discipline_strength": {
+        "cutting": 82,
+        "cowHorse": 72,
+        "reining": 48,
+        "ranchRiding": 58,
+        "teamRoping": 28,
+        "barrelRacing": 20
+      },
+      "earnings": 55000,
+      "offspring_earnings": 720000,
+      "discipline_earnings": {
+        "cutting": 580000,
+        "cowHorse": 130000,
+        "reining": 10000
+      }
+    },
+    "health": {
+      "soundness_score": 84
+    },
+    "market": {
+      "stud_fee": 1400,
+      "demand_index": 65
+    },
+    "_disciplines": [
+      "cutting",
+      "cowHorse"
+    ],
+    "_sire_line_strength": "listed",
+    "_proven_crosses": [
+      "High Brow Cat"
+    ],
+    "_athleticism": 88,
+    "_cow_sense": 95,
+    "_speed": 72,
+    "_stamina": 78,
+    "_temperament": 78
+  },
+  {
+    "id": "s026",
+    "name": "Docs Prescription",
+    "genetics": {
+      "sire": "Doc Bar",
+      "dam": "Prescription Lady",
+      "bloodline_cluster": "Bar",
+      "offspring_success_score": 68
+    },
+    "physical": {
+      "height_hands": 14.3,
+      "weight_class": "medium",
+      "bone_density_score": 85,
+      "balance_score": 82
+    },
+    "mental": {
+      "trainability": 84,
+      "reactivity": "low",
+      "consistency": 82
+    },
+    "performance": {
+      "discipline_strength": {
+        "cutting": 78,
+        "cowHorse": 65,
+        "reining": 45,
+        "ranchRiding": 62,
+        "teamRoping": 35,
+        "barrelRacing": 25
+      },
+      "earnings": 38000,
+      "offspring_earnings": 420000,
+      "discipline_earnings": {
+        "cutting": 300000,
+        "ranchRiding": 80000,
+        "cowHorse": 40000
+      }
+    },
+    "health": {
+      "soundness_score": 85
+    },
+    "market": {
+      "stud_fee": 800,
+      "demand_index": 55
+    },
+    "_disciplines": [
+      "cutting",
+      "ranchRiding"
+    ],
+    "_sire_line_strength": "listed",
+    "_proven_crosses": [
+      "King"
+    ],
+    "_athleticism": 82,
+    "_cow_sense": 82,
+    "_speed": 62,
+    "_stamina": 82,
+    "_temperament": 90
+  },
+  {
+    "id": "s027",
+    "name": "Nu Cash",
+    "genetics": {
+      "sire": "Freckles Playboy",
+      "dam": "Nu Cash Lady",
+      "bloodline_cluster": "Other",
+      "offspring_success_score": 86
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 85,
+      "balance_score": 88
+    },
+    "mental": {
+      "trainability": 88,
+      "reactivity": "moderate",
+      "consistency": 86
+    },
+    "performance": {
+      "discipline_strength": {
+        "cowHorse": 92,
+        "cutting": 75,
+        "reining": 78,
+        "ranchRiding": 72,
+        "teamRoping": 35,
+        "barrelRacing": 25
+      },
+      "earnings": 195000,
+      "offspring_earnings": 3500000,
+      "discipline_earnings": {
+        "cowHorse": 2800000,
+        "reining": 500000,
+        "cutting": 200000
+      }
+    },
+    "health": {
+      "soundness_score": 88
+    },
+    "market": {
+      "stud_fee": 2500,
+      "demand_index": 82
+    },
+    "_disciplines": [
+      "cowHorse",
+      "reining"
+    ],
+    "_sire_line_strength": "premier",
+    "_proven_crosses": [
+      "Dual Rey",
+      "High Brow Cat",
+      "Smart Spook"
+    ],
+    "_athleticism": 92,
+    "_cow_sense": 85,
+    "_speed": 72,
+    "_stamina": 86,
+    "_temperament": 86
+  },
+  {
+    "id": "s028",
+    "name": "Paddys Irish Whiskey",
+    "genetics": {
+      "sire": "Paddys Irish Whiskey Sr",
+      "dam": "Whiskey Lady",
+      "bloodline_cluster": "Other",
+      "offspring_success_score": 84
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 84,
+      "balance_score": 86
+    },
+    "mental": {
+      "trainability": 86,
+      "reactivity": "moderate",
+      "consistency": 84
+    },
+    "performance": {
+      "discipline_strength": {
+        "cowHorse": 90,
+        "cutting": 72,
+        "reining": 76,
+        "ranchRiding": 70,
+        "teamRoping": 32,
+        "barrelRacing": 22
+      },
+      "earnings": 165000,
+      "offspring_earnings": 2800000,
+      "discipline_earnings": {
+        "cowHorse": 2200000,
+        "reining": 450000,
+        "cutting": 150000
+      }
+    },
+    "health": {
+      "soundness_score": 86
+    },
+    "market": {
+      "stud_fee": 2200,
+      "demand_index": 78
+    },
+    "_disciplines": [
+      "cowHorse",
+      "reining"
+    ],
+    "_sire_line_strength": "premier",
+    "_proven_crosses": [
+      "Nu Cash",
+      "Smart Spook"
+    ],
+    "_athleticism": 90,
+    "_cow_sense": 82,
+    "_speed": 70,
+    "_stamina": 84,
+    "_temperament": 84
+  },
+  {
+    "id": "s029",
+    "name": "Smart Like Juice",
+    "genetics": {
+      "sire": "Smart Little Lena",
+      "dam": "Juice Lady",
+      "bloodline_cluster": "Pep",
+      "offspring_success_score": 76
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 82,
+      "balance_score": 84
+    },
+    "mental": {
+      "trainability": 84,
+      "reactivity": "moderate",
+      "consistency": 80
+    },
+    "performance": {
+      "discipline_strength": {
+        "cowHorse": 82,
+        "cutting": 65,
+        "reining": 60,
+        "ranchRiding": 65,
+        "teamRoping": 30,
+        "barrelRacing": 22
+      },
+      "earnings": 88000,
+      "offspring_earnings": 980000,
+      "discipline_earnings": {
+        "cowHorse": 700000,
+        "cutting": 200000,
+        "reining": 80000
+      }
+    },
+    "health": {
+      "soundness_score": 84
+    },
+    "market": {
+      "stud_fee": 1500,
+      "demand_index": 65
+    },
+    "_disciplines": [
+      "cowHorse",
+      "cutting"
+    ],
+    "_sire_line_strength": "listed",
+    "_proven_crosses": [
+      "Dual Rey"
+    ],
+    "_athleticism": 86,
+    "_cow_sense": 80,
+    "_speed": 68,
+    "_stamina": 82,
+    "_temperament": 82
+  },
+  {
+    "id": "s030",
+    "name": "Bet Hes A Cowboy",
+    "genetics": {
+      "sire": "Bets Off",
+      "dam": "Cowboy Lady",
+      "bloodline_cluster": "Other",
+      "offspring_success_score": 70
+    },
+    "physical": {
+      "height_hands": 15.1,
+      "weight_class": "medium",
+      "bone_density_score": 82,
+      "balance_score": 82
+    },
+    "mental": {
+      "trainability": 82,
+      "reactivity": "low",
+      "consistency": 80
+    },
+    "performance": {
+      "discipline_strength": {
+        "cowHorse": 78,
+        "cutting": 62,
+        "reining": 58,
+        "ranchRiding": 65,
+        "teamRoping": 35,
+        "barrelRacing": 28
+      },
+      "earnings": 52000,
+      "offspring_earnings": 620000,
+      "discipline_earnings": {
+        "cowHorse": 480000,
+        "ranchRiding": 100000,
+        "cutting": 40000
+      }
+    },
+    "health": {
+      "soundness_score": 86
+    },
+    "market": {
+      "stud_fee": 1100,
+      "demand_index": 58
+    },
+    "_disciplines": [
+      "cowHorse",
+      "ranchRiding"
+    ],
+    "_sire_line_strength": "listed",
+    "_proven_crosses": [],
+    "_athleticism": 82,
+    "_cow_sense": 75,
+    "_speed": 66,
+    "_stamina": 82,
+    "_temperament": 88
+  },
+  {
+    "id": "s031",
+    "name": "Dox Style Oak",
+    "genetics": {
+      "sire": "Docs Stylish Oak",
+      "dam": "Style Lady",
+      "bloodline_cluster": "Bar",
+      "offspring_success_score": 66
+    },
+    "physical": {
+      "height_hands": 14.3,
+      "weight_class": "medium",
+      "bone_density_score": 86,
+      "balance_score": 84
+    },
+    "mental": {
+      "trainability": 84,
+      "reactivity": "low",
+      "consistency": 82
+    },
+    "performance": {
+      "discipline_strength": {
+        "cowHorse": 75,
+        "cutting": 60,
+        "reining": 55,
+        "ranchRiding": 68,
+        "teamRoping": 38,
+        "barrelRacing": 30
+      },
+      "earnings": 42000,
+      "offspring_earnings": 480000,
+      "discipline_earnings": {
+        "cowHorse": 360000,
+        "ranchRiding": 80000,
+        "cutting": 40000
+      }
+    },
+    "health": {
+      "soundness_score": 88
+    },
+    "market": {
+      "stud_fee": 900,
+      "demand_index": 55
+    },
+    "_disciplines": [
+      "cowHorse",
+      "ranchRiding"
+    ],
+    "_sire_line_strength": "listed",
+    "_proven_crosses": [],
+    "_athleticism": 80,
+    "_cow_sense": 72,
+    "_speed": 62,
+    "_stamina": 84,
+    "_temperament": 90
+  },
+  {
+    "id": "s032",
+    "name": "Takin On The Cash",
+    "genetics": {
+      "sire": "Holland Ease",
+      "dam": "Doc Bar Mare",
+      "bloodline_cluster": "Ease",
+      "offspring_success_score": 82
+    },
+    "physical": {
+      "height_hands": 15.1,
+      "weight_class": "medium",
+      "bone_density_score": 88,
+      "balance_score": 88
+    },
+    "mental": {
+      "trainability": 88,
+      "reactivity": "low",
+      "consistency": 88
+    },
+    "performance": {
+      "discipline_strength": {
+        "teamRoping": 90,
+        "barrelRacing": 75,
+        "cowHorse": 45,
+        "ranchRiding": 62,
+        "reining": 32,
+        "cutting": 22
+      },
+      "earnings": 145000,
+      "offspring_earnings": 1800000,
+      "discipline_earnings": {
+        "teamRoping": 1300000,
+        "barrelRacing": 400000,
+        "ranchRiding": 100000
+      }
+    },
+    "health": {
+      "soundness_score": 90
+    },
+    "market": {
+      "stud_fee": 1500,
+      "demand_index": 80
+    },
+    "_disciplines": [
+      "teamRoping",
+      "barrelRacing"
+    ],
+    "_sire_line_strength": "premier",
+    "_proven_crosses": [
+      "BF Frenchman",
+      "Corona Cartel",
+      "Frenchmans Guy"
+    ],
+    "_athleticism": 88,
+    "_cow_sense": 62,
+    "_speed": 85,
+    "_stamina": 90,
+    "_temperament": 90
+  },
+  {
+    "id": "s033",
+    "name": "BF Frenchman",
+    "genetics": {
+      "sire": "Frenchmans Guy",
+      "dam": "Bully Bullion Mare",
+      "bloodline_cluster": "Frenchman",
+      "offspring_success_score": 80
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 82,
+      "balance_score": 85
+    },
+    "mental": {
+      "trainability": 84,
+      "reactivity": "moderate",
+      "consistency": 80
+    },
+    "performance": {
+      "discipline_strength": {
+        "teamRoping": 85,
+        "barrelRacing": 82,
+        "cowHorse": 38,
+        "ranchRiding": 55,
+        "reining": 28,
+        "cutting": 18
+      },
+      "earnings": 118000,
+      "offspring_earnings": 1400000,
+      "discipline_earnings": {
+        "teamRoping": 850000,
+        "barrelRacing": 480000,
+        "ranchRiding": 70000
+      }
+    },
+    "health": {
+      "soundness_score": 86
+    },
+    "market": {
+      "stud_fee": 1200,
+      "demand_index": 75
+    },
+    "_disciplines": [
+      "teamRoping",
+      "barrelRacing"
+    ],
+    "_sire_line_strength": "premier",
+    "_proven_crosses": [
+      "Takin On The Cash",
+      "Dash Ta Fame"
+    ],
+    "_athleticism": 88,
+    "_cow_sense": 55,
+    "_speed": 90,
+    "_stamina": 86,
+    "_temperament": 82
+  },
+  {
+    "id": "s034",
+    "name": "Bully Bullion",
+    "genetics": {
+      "sire": "Mr Jess Perry",
+      "dam": "Bullion Lady",
+      "bloodline_cluster": "Other",
+      "offspring_success_score": 74
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 84,
+      "balance_score": 82
+    },
+    "mental": {
+      "trainability": 82,
+      "reactivity": "moderate",
+      "consistency": 78
+    },
+    "performance": {
+      "discipline_strength": {
+        "teamRoping": 82,
+        "barrelRacing": 72,
+        "cowHorse": 35,
+        "ranchRiding": 52,
+        "reining": 25,
+        "cutting": 18
+      },
+      "earnings": 72000,
+      "offspring_earnings": 920000,
+      "discipline_earnings": {
+        "teamRoping": 600000,
+        "barrelRacing": 280000,
+        "ranchRiding": 40000
+      }
+    },
+    "health": {
+      "soundness_score": 84
+    },
+    "market": {
+      "stud_fee": 1000,
+      "demand_index": 65
+    },
+    "_disciplines": [
+      "teamRoping",
+      "barrelRacing"
+    ],
+    "_sire_line_strength": "listed",
+    "_proven_crosses": [
+      "BF Frenchman"
+    ],
+    "_athleticism": 84,
+    "_cow_sense": 48,
+    "_speed": 86,
+    "_stamina": 86,
+    "_temperament": 80
+  },
+  {
+    "id": "s035",
+    "name": "Short Fuse",
+    "genetics": {
+      "sire": "Shorty Lena",
+      "dam": "Fuse Lady",
+      "bloodline_cluster": "Other",
+      "offspring_success_score": 68
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 80,
+      "balance_score": 80
+    },
+    "mental": {
+      "trainability": 80,
+      "reactivity": "moderate",
+      "consistency": 76
+    },
+    "performance": {
+      "discipline_strength": {
+        "teamRoping": 80,
+        "barrelRacing": 68,
+        "cowHorse": 32,
+        "ranchRiding": 52,
+        "reining": 22,
+        "cutting": 15
+      },
+      "earnings": 48000,
+      "offspring_earnings": 580000,
+      "discipline_earnings": {
+        "teamRoping": 430000,
+        "barrelRacing": 130000,
+        "ranchRiding": 20000
+      }
+    },
+    "health": {
+      "soundness_score": 82
+    },
+    "market": {
+      "stud_fee": 850,
+      "demand_index": 58
+    },
+    "_disciplines": [
+      "teamRoping"
+    ],
+    "_sire_line_strength": "listed",
+    "_proven_crosses": [],
+    "_athleticism": 82,
+    "_cow_sense": 45,
+    "_speed": 82,
+    "_stamina": 84,
+    "_temperament": 78
+  },
+  {
+    "id": "s036",
+    "name": "Oklahoma Proven",
+    "genetics": {
+      "sire": "Oklahoma Bar Bee",
+      "dam": "Proven Lady",
+      "bloodline_cluster": "Other",
+      "offspring_success_score": 65
+    },
+    "physical": {
+      "height_hands": 15.1,
+      "weight_class": "medium",
+      "bone_density_score": 82,
+      "balance_score": 80
+    },
+    "mental": {
+      "trainability": 80,
+      "reactivity": "low",
+      "consistency": 78
+    },
+    "performance": {
+      "discipline_strength": {
+        "teamRoping": 78,
+        "barrelRacing": 65,
+        "cowHorse": 35,
+        "ranchRiding": 55,
+        "reining": 25,
+        "cutting": 18
+      },
+      "earnings": 35000,
+      "offspring_earnings": 420000,
+      "discipline_earnings": {
+        "teamRoping": 310000,
+        "ranchRiding": 80000,
+        "barrelRacing": 30000
+      }
+    },
+    "health": {
+      "soundness_score": 84
+    },
+    "market": {
+      "stud_fee": 750,
+      "demand_index": 55
+    },
+    "_disciplines": [
+      "teamRoping",
+      "ranchRiding"
+    ],
+    "_sire_line_strength": "listed",
+    "_proven_crosses": [],
+    "_athleticism": 80,
+    "_cow_sense": 50,
+    "_speed": 80,
+    "_stamina": 86,
+    "_temperament": 84
+  },
+  {
+    "id": "s037",
+    "name": "Tanquery Gin",
+    "genetics": {
+      "sire": "Frenchmans Guy",
+      "dam": "Gin Lady",
+      "bloodline_cluster": "Frenchman",
+      "offspring_success_score": 68
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 80,
+      "balance_score": 80
+    },
+    "mental": {
+      "trainability": 78,
+      "reactivity": "moderate",
+      "consistency": 76
+    },
+    "performance": {
+      "discipline_strength": {
+        "teamRoping": 76,
+        "barrelRacing": 70,
+        "cowHorse": 32,
+        "ranchRiding": 52,
+        "reining": 22,
+        "cutting": 15
+      },
+      "earnings": 38000,
+      "offspring_earnings": 460000,
+      "discipline_earnings": {
+        "teamRoping": 310000,
+        "barrelRacing": 130000,
+        "ranchRiding": 20000
+      }
+    },
+    "health": {
+      "soundness_score": 82
+    },
+    "market": {
+      "stud_fee": 850,
+      "demand_index": 58
+    },
+    "_disciplines": [
+      "teamRoping",
+      "barrelRacing"
+    ],
+    "_sire_line_strength": "listed",
+    "_proven_crosses": [],
+    "_athleticism": 80,
+    "_cow_sense": 40,
+    "_speed": 82,
+    "_stamina": 82,
+    "_temperament": 78
+  },
+  {
+    "id": "s038",
+    "name": "Blazin Ivory James",
+    "genetics": {
+      "sire": "Ivory James",
+      "dam": "Blazin Lady",
+      "bloodline_cluster": "Dash",
+      "offspring_success_score": 70
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "light",
+      "bone_density_score": 78,
+      "balance_score": 82
+    },
+    "mental": {
+      "trainability": 76,
+      "reactivity": "high",
+      "consistency": 74
+    },
+    "performance": {
+      "discipline_strength": {
+        "teamRoping": 75,
+        "barrelRacing": 78,
+        "cowHorse": 30,
+        "ranchRiding": 50,
+        "reining": 20,
+        "cutting": 15
+      },
+      "earnings": 42000,
+      "offspring_earnings": 520000,
+      "discipline_earnings": {
+        "teamRoping": 260000,
+        "barrelRacing": 240000,
+        "ranchRiding": 20000
+      }
+    },
+    "health": {
+      "soundness_score": 80
+    },
+    "market": {
+      "stud_fee": 900,
+      "demand_index": 60
+    },
+    "_disciplines": [
+      "teamRoping",
+      "barrelRacing"
+    ],
+    "_sire_line_strength": "listed",
+    "_proven_crosses": [],
+    "_athleticism": 86,
+    "_cow_sense": 30,
+    "_speed": 88,
+    "_stamina": 80,
+    "_temperament": 70
+  },
+  {
+    "id": "s039",
+    "name": "Dash Ta Fame",
+    "genetics": {
+      "sire": "First Down Dash",
+      "dam": "Easy Jet Lady",
+      "bloodline_cluster": "Dash",
+      "offspring_success_score": 90
+    },
+    "physical": {
+      "height_hands": 14.3,
+      "weight_class": "light",
+      "bone_density_score": 78,
+      "balance_score": 88
+    },
+    "mental": {
+      "trainability": 72,
+      "reactivity": "high",
+      "consistency": 78
+    },
+    "performance": {
+      "discipline_strength": {
+        "barrelRacing": 96,
+        "teamRoping": 72,
+        "cowHorse": 40,
+        "ranchRiding": 55,
+        "reining": 30,
+        "cutting": 18
+      },
+      "earnings": 820000,
+      "offspring_earnings": 20000000,
+      "discipline_earnings": {
+        "barrelRacing": 17000000,
+        "teamRoping": 2000000,
+        "ranchRiding": 1000000
+      }
+    },
+    "health": {
+      "soundness_score": null
+    },
+    "market": {
+      "stud_fee": 5000,
+      "demand_index": 93
+    },
+    "_disciplines": [
+      "barrelRacing",
+      "teamRoping"
+    ],
+    "_sire_line_strength": "elite",
+    "_proven_crosses": [
+      "Frenchmans Guy",
+      "Corona Cartel",
+      "Takin On The Cash"
+    ],
+    "_athleticism": 97,
+    "_cow_sense": 25,
+    "_speed": 99,
+    "_stamina": 85,
+    "_temperament": 68
+  },
+  {
+    "id": "s040",
+    "name": "Frenchmans Guy",
+    "genetics": {
+      "sire": "Sun Frost",
+      "dam": "Frenchman Lady",
+      "bloodline_cluster": "Frenchman",
+      "offspring_success_score": 91
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 82,
+      "balance_score": 86
+    },
+    "mental": {
+      "trainability": 78,
+      "reactivity": "moderate",
+      "consistency": 80
+    },
+    "performance": {
+      "discipline_strength": {
+        "barrelRacing": 95,
+        "teamRoping": 68,
+        "cowHorse": 35,
+        "ranchRiding": 52,
+        "reining": 25,
+        "cutting": 15
+      },
+      "earnings": 560000,
+      "offspring_earnings": 16000000,
+      "discipline_earnings": {
+        "barrelRacing": 14400000,
+        "teamRoping": 1400000,
+        "ranchRiding": 200000
+      }
+    },
+    "health": {
+      "soundness_score": null
+    },
+    "market": {
+      "stud_fee": 4000,
+      "demand_index": 92
+    },
+    "_disciplines": [
+      "barrelRacing"
+    ],
+    "_sire_line_strength": "elite",
+    "_proven_crosses": [
+      "Dash Ta Fame",
+      "Corona Cartel",
+      "BF Frenchman"
+    ],
+    "_athleticism": 95,
+    "_cow_sense": 22,
+    "_speed": 98,
+    "_stamina": 88,
+    "_temperament": 72
+  },
+  {
+    "id": "s041",
+    "name": "Corona Cartel",
+    "genetics": {
+      "sire": "Ivory James",
+      "dam": "Frenchmans Guy Mare",
+      "bloodline_cluster": "Frenchman",
+      "offspring_success_score": 85
+    },
+    "physical": {
+      "height_hands": 15.1,
+      "weight_class": "medium",
+      "bone_density_score": 80,
+      "balance_score": 87
+    },
+    "mental": {
+      "trainability": 80,
+      "reactivity": "moderate",
+      "consistency": 80
+    },
+    "performance": {
+      "discipline_strength": {
+        "barrelRacing": 90,
+        "teamRoping": 75,
+        "cowHorse": 42,
+        "ranchRiding": 58,
+        "reining": 35,
+        "cutting": 20
+      },
+      "earnings": 285000,
+      "offspring_earnings": 5200000,
+      "discipline_earnings": {
+        "barrelRacing": 4200000,
+        "teamRoping": 800000,
+        "ranchRiding": 200000
+      }
+    },
+    "health": {
+      "soundness_score": 86
+    },
+    "market": {
+      "stud_fee": 2200,
+      "demand_index": 86
+    },
+    "_disciplines": [
+      "barrelRacing",
+      "teamRoping"
+    ],
+    "_sire_line_strength": "premier",
+    "_proven_crosses": [
+      "Frenchmans Guy",
+      "BF Frenchman",
+      "Dash Ta Fame"
+    ],
+    "_athleticism": 92,
+    "_cow_sense": 28,
+    "_speed": 94,
+    "_stamina": 88,
+    "_temperament": 78
+  },
+  {
+    "id": "s042",
+    "name": "PC Frenchman",
+    "genetics": {
+      "sire": "Frenchmans Guy",
+      "dam": "PC Lady",
+      "bloodline_cluster": "Frenchman",
+      "offspring_success_score": 75
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 80,
+      "balance_score": 84
+    },
+    "mental": {
+      "trainability": 78,
+      "reactivity": "moderate",
+      "consistency": 76
+    },
+    "performance": {
+      "discipline_strength": {
+        "barrelRacing": 88,
+        "teamRoping": 70,
+        "cowHorse": 35,
+        "ranchRiding": 52,
+        "reining": 28,
+        "cutting": 15
+      },
+      "earnings": 95000,
+      "offspring_earnings": 1200000,
+      "discipline_earnings": {
+        "barrelRacing": 1050000,
+        "teamRoping": 130000,
+        "ranchRiding": 20000
+      }
+    },
+    "health": {
+      "soundness_score": 84
+    },
+    "market": {
+      "stud_fee": 1400,
+      "demand_index": 68
+    },
+    "_disciplines": [
+      "barrelRacing",
+      "teamRoping"
+    ],
+    "_sire_line_strength": "listed",
+    "_proven_crosses": [
+      "Dash Ta Fame"
+    ],
+    "_athleticism": 88,
+    "_cow_sense": 25,
+    "_speed": 92,
+    "_stamina": 84,
+    "_temperament": 74
+  },
+  {
+    "id": "s043",
+    "name": "First Down Dash",
+    "genetics": {
+      "sire": "First Down",
+      "dam": "Dash Lady",
+      "bloodline_cluster": "Dash",
+      "offspring_success_score": 92
+    },
+    "physical": {
+      "height_hands": 14.3,
+      "weight_class": "light",
+      "bone_density_score": null,
+      "balance_score": 86
+    },
+    "mental": {
+      "trainability": 70,
+      "reactivity": "high",
+      "consistency": 76
+    },
+    "performance": {
+      "discipline_strength": {
+        "barrelRacing": 94,
+        "teamRoping": 70,
+        "cowHorse": 38,
+        "ranchRiding": 55,
+        "reining": 28,
+        "cutting": 18
+      },
+      "earnings": 680000,
+      "offspring_earnings": 22000000,
+      "discipline_earnings": {
+        "barrelRacing": 18700000,
+        "teamRoping": 2200000,
+        "ranchRiding": 1100000
+      }
+    },
+    "health": {
+      "soundness_score": null
+    },
+    "market": {
+      "stud_fee": null,
+      "demand_index": null
+    },
+    "_disciplines": [
+      "barrelRacing",
+      "teamRoping"
+    ],
+    "_sire_line_strength": "elite",
+    "_proven_crosses": [
+      "Dash Ta Fame",
+      "Frenchmans Guy"
+    ],
+    "_athleticism": 96,
+    "_cow_sense": 20,
+    "_speed": 98,
+    "_stamina": 84,
+    "_temperament": 66
+  },
+  {
+    "id": "s044",
+    "name": "Ivory James",
+    "genetics": {
+      "sire": "First Down Dash",
+      "dam": "James Lady",
+      "bloodline_cluster": "Dash",
+      "offspring_success_score": 82
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 80,
+      "balance_score": 84
+    },
+    "mental": {
+      "trainability": 76,
+      "reactivity": "high",
+      "consistency": 78
+    },
+    "performance": {
+      "discipline_strength": {
+        "barrelRacing": 88,
+        "teamRoping": 72,
+        "cowHorse": 40,
+        "ranchRiding": 55,
+        "reining": 30,
+        "cutting": 20
+      },
+      "earnings": 185000,
+      "offspring_earnings": 4200000,
+      "discipline_earnings": {
+        "barrelRacing": 3600000,
+        "teamRoping": 500000,
+        "ranchRiding": 100000
+      }
+    },
+    "health": {
+      "soundness_score": 84
+    },
+    "market": {
+      "stud_fee": 2500,
+      "demand_index": 80
+    },
+    "_disciplines": [
+      "barrelRacing",
+      "teamRoping"
+    ],
+    "_sire_line_strength": "premier",
+    "_proven_crosses": [
+      "Frenchmans Guy",
+      "Corona Cartel"
+    ],
+    "_athleticism": 90,
+    "_cow_sense": 25,
+    "_speed": 92,
+    "_stamina": 84,
+    "_temperament": 70
+  },
+  {
+    "id": "s045",
+    "name": "Streakin Boon Dox",
+    "genetics": {
+      "sire": "Streakin La Jolla",
+      "dam": "Boon Dox Lady",
+      "bloodline_cluster": "Other",
+      "offspring_success_score": 78
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 78,
+      "balance_score": 82
+    },
+    "mental": {
+      "trainability": 76,
+      "reactivity": "high",
+      "consistency": 76
+    },
+    "performance": {
+      "discipline_strength": {
+        "barrelRacing": 86,
+        "teamRoping": 68,
+        "cowHorse": 35,
+        "ranchRiding": 52,
+        "reining": 25,
+        "cutting": 15
+      },
+      "earnings": 120000,
+      "offspring_earnings": 1800000,
+      "discipline_earnings": {
+        "barrelRacing": 1620000,
+        "teamRoping": 160000,
+        "ranchRiding": 20000
+      }
+    },
+    "health": {
+      "soundness_score": 82
+    },
+    "market": {
+      "stud_fee": 1500,
+      "demand_index": 72
+    },
+    "_disciplines": [
+      "barrelRacing"
+    ],
+    "_sire_line_strength": "premier",
+    "_proven_crosses": [
+      "Frenchmans Guy"
+    ],
+    "_athleticism": 88,
+    "_cow_sense": 22,
+    "_speed": 92,
+    "_stamina": 82,
+    "_temperament": 70
+  },
+  {
+    "id": "s046",
+    "name": "FDD Dynasty",
+    "genetics": {
+      "sire": "First Down Dash",
+      "dam": "Dynasty Lady",
+      "bloodline_cluster": "Dash",
+      "offspring_success_score": 74
+    },
+    "physical": {
+      "height_hands": 14.3,
+      "weight_class": "light",
+      "bone_density_score": 76,
+      "balance_score": 80
+    },
+    "mental": {
+      "trainability": 74,
+      "reactivity": "high",
+      "consistency": 74
+    },
+    "performance": {
+      "discipline_strength": {
+        "barrelRacing": 84,
+        "teamRoping": 65,
+        "cowHorse": 32,
+        "ranchRiding": 50,
+        "reining": 22,
+        "cutting": 15
+      },
+      "earnings": 68000,
+      "offspring_earnings": 880000,
+      "discipline_earnings": {
+        "barrelRacing": 770000,
+        "teamRoping": 90000,
+        "ranchRiding": 20000
+      }
+    },
+    "health": {
+      "soundness_score": 80
+    },
+    "market": {
+      "stud_fee": 1100,
+      "demand_index": 62
+    },
+    "_disciplines": [
+      "barrelRacing",
+      "teamRoping"
+    ],
+    "_sire_line_strength": "listed",
+    "_proven_crosses": [],
+    "_athleticism": 86,
+    "_cow_sense": 20,
+    "_speed": 90,
+    "_stamina": 80,
+    "_temperament": 66
+  },
+  {
+    "id": "s047",
+    "name": "Blazin Jetolena",
+    "genetics": {
+      "sire": "PC Frenchman",
+      "dam": "Jetolena Lady",
+      "bloodline_cluster": "Frenchman",
+      "offspring_success_score": 72
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 78,
+      "balance_score": 80
+    },
+    "mental": {
+      "trainability": 76,
+      "reactivity": "moderate",
+      "consistency": 74
+    },
+    "performance": {
+      "discipline_strength": {
+        "barrelRacing": 82,
+        "teamRoping": 70,
+        "cowHorse": 38,
+        "ranchRiding": 52,
+        "reining": 25,
+        "cutting": 15
+      },
+      "earnings": 52000,
+      "offspring_earnings": 680000,
+      "discipline_earnings": {
+        "barrelRacing": 550000,
+        "teamRoping": 110000,
+        "ranchRiding": 20000
+      }
+    },
+    "health": {
+      "soundness_score": 82
+    },
+    "market": {
+      "stud_fee": 1000,
+      "demand_index": 60
+    },
+    "_disciplines": [
+      "barrelRacing",
+      "teamRoping"
+    ],
+    "_sire_line_strength": "listed",
+    "_proven_crosses": [],
+    "_athleticism": 84,
+    "_cow_sense": 22,
+    "_speed": 88,
+    "_stamina": 80,
+    "_temperament": 74
+  },
+  {
+    "id": "s048",
+    "name": "Eyesa Special",
+    "genetics": {
+      "sire": "Eyesa Mr Freckles",
+      "dam": "Special Lady",
+      "bloodline_cluster": "Other",
+      "offspring_success_score": 68
+    },
+    "physical": {
+      "height_hands": 14.3,
+      "weight_class": "light",
+      "bone_density_score": 76,
+      "balance_score": 78
+    },
+    "mental": {
+      "trainability": 74,
+      "reactivity": "high",
+      "consistency": 72
+    },
+    "performance": {
+      "discipline_strength": {
+        "barrelRacing": 80,
+        "teamRoping": 62,
+        "cowHorse": 30,
+        "ranchRiding": 48,
+        "reining": 20,
+        "cutting": 12
+      },
+      "earnings": 38000,
+      "offspring_earnings": 480000,
+      "discipline_earnings": {
+        "barrelRacing": 400000,
+        "teamRoping": 60000,
+        "ranchRiding": 20000
+      }
+    },
+    "health": {
+      "soundness_score": 78
+    },
+    "market": {
+      "stud_fee": 800,
+      "demand_index": 52
+    },
+    "_disciplines": [
+      "barrelRacing"
+    ],
+    "_sire_line_strength": "listed",
+    "_proven_crosses": [],
+    "_athleticism": 82,
+    "_cow_sense": 18,
+    "_speed": 86,
+    "_stamina": 78,
+    "_temperament": 65
+  },
+  {
+    "id": "s049",
+    "name": "Doc Bar",
+    "genetics": {
+      "sire": "Three Bars",
+      "dam": "Lightning Bar Mare",
+      "bloodline_cluster": "Bar",
+      "offspring_success_score": 85
+    },
+    "physical": {
+      "height_hands": 14.3,
+      "weight_class": "medium",
+      "bone_density_score": 90,
+      "balance_score": 88
+    },
+    "mental": {
+      "trainability": 90,
+      "reactivity": "low",
+      "consistency": 90
+    },
+    "performance": {
+      "discipline_strength": {
+        "ranchRiding": 85,
+        "cutting": 80,
+        "cowHorse": 78,
+        "reining": 68,
+        "teamRoping": 52,
+        "barrelRacing": 42
+      },
+      "earnings": 980000,
+      "offspring_earnings": 40000000,
+      "discipline_earnings": {
+        "cutting": 16000000,
+        "cowHorse": 10000000,
+        "reining": 8000000,
+        "ranchRiding": 6000000
+      }
+    },
+    "health": {
+      "soundness_score": null
+    },
+    "market": {
+      "stud_fee": null,
+      "demand_index": null
+    },
+    "_disciplines": [
+      "ranchRiding",
+      "cutting",
+      "cowHorse",
+      "reining"
+    ],
+    "_sire_line_strength": "elite",
+    "_proven_crosses": [
+      "King",
+      "Leo",
+      "Smart Little Lena"
+    ],
+    "_athleticism": 85,
+    "_cow_sense": 80,
+    "_speed": 68,
+    "_stamina": 88,
+    "_temperament": 95
+  },
+  {
+    "id": "s050",
+    "name": "King",
+    "genetics": {
+      "sire": "Zantanon",
+      "dam": "Jabalina",
+      "bloodline_cluster": "Other",
+      "offspring_success_score": 82
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": null,
+      "balance_score": 85
+    },
+    "mental": {
+      "trainability": 92,
+      "reactivity": "low",
+      "consistency": 90
+    },
+    "performance": {
+      "discipline_strength": {
+        "ranchRiding": 90,
+        "reining": 65,
+        "cowHorse": 68,
+        "cutting": 58,
+        "teamRoping": 70,
+        "barrelRacing": 45
+      },
+      "earnings": 640000,
+      "offspring_earnings": 28000000,
+      "discipline_earnings": {
+        "ranchRiding": 9800000,
+        "teamRoping": 7000000,
+        "reining": 5600000,
+        "cutting": 5600000
+      }
+    },
+    "health": {
+      "soundness_score": null
+    },
+    "market": {
+      "stud_fee": null,
+      "demand_index": null
+    },
+    "_disciplines": [
+      "ranchRiding",
+      "reining",
+      "teamRoping"
+    ],
+    "_sire_line_strength": "elite",
+    "_proven_crosses": [
+      "Doc Bar",
+      "Leo"
+    ],
+    "_athleticism": 82,
+    "_cow_sense": 65,
+    "_speed": 62,
+    "_stamina": 90,
+    "_temperament": 96
+  }
+]
