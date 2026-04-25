@@ -1,0 +1,11 @@
+name = "breeding-engine-api"
+main = "worker.js"
+compatibility_date = "2024-09-23"
+
+[vars]
+SUPABASE_URL = "https://spiqnrhajhvpgxxohgoe.supabase.co"
+
+# Secrets (set via: npx wrangler secret put SUPABASE_SERVICE_KEY)
+# SUPABASE_SERVICE_KEY  — set as secret, not here
+# BREEDING_API_KEY      — optional; omit to run open
+# ALLOWED_ORIGIN        — optional CORS origin lock
