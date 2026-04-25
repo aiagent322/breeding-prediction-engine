@@ -13,64 +13,108 @@ const app  = express();
 const PORT = process.env.PORT || 3000;
 
 // ============================================================
+// SUPABASE CONFIG
+// Set SUPABASE_URL and SUPABASE_SERVICE_KEY in your environment.
+// Falls back to local stallions.json if env vars are missing (dev mode).
+// ============================================================
+
+const SUPABASE_URL = process.env.SUPABASE_URL || '';
+const SUPABASE_KEY = process.env.SUPABASE_SERVICE_KEY || '';
+
+// ============================================================
 // LOGGING SETUP
-// Access logs: morgan → console (dev) + logs/access.log (combined)
-// Error logs:  logError() → console.error + logs/error.log
-//
-// CF Workers note: fs is unavailable in Workers. Use console.log
-// (Cloudflare captures these) and configure CF Logpush for
-// persistent storage. The file paths below are Node/Express only.
 // ============================================================
 
 const LOGS_DIR   = path.join(__dirname, 'logs');
 const ACCESS_LOG = path.join(LOGS_DIR, 'access.log');
 const ERROR_LOG  = path.join(LOGS_DIR, 'error.log');
 
-// Ensure logs/ exists at startup
 try {
   fs.mkdirSync(LOGS_DIR, { recursive: true });
 } catch (err) {
   console.error('[STARTUP] Could not create logs/ directory:', err.message);
 }
 
-// File stream for access log (append mode, survives restarts)
 const accessLogStream = fs.createWriteStream(ACCESS_LOG, { flags: 'a' });
 
-/**
- * Write a structured line to logs/error.log and console.error.
- * Never throws — logging failure must not crash the server.
- *
- * @param {'ERROR'|'WARN'|'INFO'} level
- * @param {string}  message
- * @param {Error|null} err   - include .stack when available
- */
 function logError(level, message, err = null) {
   const ts   = new Date().toISOString();
   const body = err ? `\n  ${err.stack ?? err.message ?? String(err)}` : '';
   const line = `[${ts}] [${level}] ${message}${body}`;
-
   console.error(line);
-
   try {
     fs.appendFileSync(ERROR_LOG, line + '\n');
   } catch (writeErr) {
-    // Last-resort: if file write fails, at least console has it
     console.error('[LOG_WRITE_FAIL]', writeErr.message);
   }
 }
 
 // ============================================================
-// LOAD STALLION DATABASE (once at startup)
+// LOAD STALLION DATABASE
+// Supabase is the source of truth. Local JSON is the fallback.
+// Normalises Supabase snake_case keys back to the camelCase shape
+// that pipeline.js expects (e.g. disc_earnings_cowhorse → cowHorse).
 // ============================================================
 
-let STALLIONS = [];
-try {
+// Remap Supabase snake_case → pipeline camelCase where needed
+function normaliseRow(row) {
+  return {
+    ...row,
+    // financials
+    earnings_total_usd:           row.lifetime_earnings_usd,
+    offspring_earnings_total_usd: row.offspring_earnings_total_usd,
+    // discipline earnings
+    disc_earnings_cowHorse:    row.disc_earnings_cowhorse,
+    disc_earnings_teamRoping:  row.disc_earnings_teamroping,
+    disc_earnings_barrelRacing: row.disc_earnings_barrelracing,
+    disc_earnings_ranchRiding:  row.disc_earnings_ranchriding,
+    // discipline strengths
+    disc_strength_cowHorse:    row.disc_strength_cowhorse,
+    disc_strength_teamRoping:  row.disc_strength_teamroping,
+    disc_strength_barrelRacing: row.disc_strength_barrelracing,
+    disc_strength_ranchRiding:  row.disc_strength_ranchriding,
+  };
+}
+
+async function loadFromSupabase() {
+  const url = `${SUPABASE_URL}/rest/v1/stallions?select=*&limit=500`;
+  const res  = await fetch(url, {
+    headers: {
+      'apikey':        SUPABASE_KEY,
+      'Authorization': `Bearer ${SUPABASE_KEY}`,
+    },
+  });
+  if (!res.ok) throw new Error(`Supabase HTTP ${res.status}: ${await res.text()}`);
+  const rows = await res.json();
+  return rows.map(normaliseRow);
+}
+
+function loadFromJson() {
   const raw = fs.readFileSync(path.join(__dirname, 'data', 'stallions.json'), 'utf8');
-  STALLIONS = JSON.parse(raw);
-  console.log(`[DB] Loaded ${STALLIONS.length} stallions`);
-} catch (err) {
-  logError('ERROR', 'Failed to load stallions.json — server cannot start', err);
-  process.exit(1);
+  return JSON.parse(raw);
+}
+
+let STALLIONS = [];
+
+async function initDB() {
+  if (SUPABASE_URL && SUPABASE_KEY) {
+    try {
+      STALLIONS = await loadFromSupabase();
+      console.log(`[DB] Loaded ${STALLIONS.length} stallions from Supabase`);
+      return;
+    } catch (err) {
+      logError('WARN', 'Supabase load failed — falling back to stallions.json', err);
+    }
+  } else {
+    console.log('[DB] No SUPABASE_URL/KEY set — using local stallions.json');
+  }
+  try {
+    STALLIONS = loadFromJson();
+    console.log(`[DB] Loaded ${STALLIONS.length} stallions from stallions.json`);
+  } catch (err) {
+    logError('ERROR', 'Failed to load stallions.json — server cannot start', err);
+    process.exit(1);
+  }
 }
 
 // ============================================================
@@ -92,78 +136,48 @@ app.use((req, res, next) => {
   next();
 });
 
-// ============================================================
-// MIDDLEWARE — ACCESS LOGGING (morgan)
-//
-// Two streams:
-//   console  → 'dev' format (colored, concise — good for tailing in terminal)
-//   file     → 'combined' format (Apache Combined Log Format — parseable by
-//               log aggregators: Datadog, Papertrail, Logtail, etc.)
-//
-// Health check excluded from file log (noisy, adds no diagnostic value).
-// ============================================================
-
-// Skip health check from file log — uptime monitors poll constantly
 const skipHealthCheck = (req) => req.path === '/api/health';
-
-app.use(morgan('dev'));   // console — always on
-app.use(morgan('combined', {
-  stream: accessLogStream,
-  skip:   skipHealthCheck,
-}));
-
-// ============================================================
-// MIDDLEWARE — BODY PARSER (64kb max)
-// ============================================================
+app.use(morgan('dev'));
+app.use(morgan('combined', { stream: accessLogStream, skip: skipHealthCheck }));
 
 app.use(express.json({ limit: '64kb' }));
 app.use(express.static(path.join(__dirname, 'public')));
 
 // ============================================================
-// MIDDLEWARE — RATE LIMITER
-// 10 req/min/IP on /api/analyze. CF Workers: use WAF rules instead.
+// MIDDLEWARE — RATE LIMITERS
 // ============================================================
 
 const analyzeLimiter = rateLimit({
-  windowMs:        60 * 1000,
-  max:             10,
-  standardHeaders: true,
-  legacyHeaders:   false,
-  keyGenerator:    ipKeyGenerator,
+  windowMs: 60 * 1000, max: 10,
+  standardHeaders: true, legacyHeaders: false,
+  keyGenerator: ipKeyGenerator,
   handler: (req, res) => {
     const ip = (req.headers['x-forwarded-for'] || req.ip || '').split(',')[0].trim();
     logError('WARN', `Rate limit exceeded — IP: ${ip} PATH: ${req.path}`);
     res.status(429).json({
-      error:               'RATE_LIMIT_EXCEEDED',
-      message:             'Maximum 10 requests per minute per IP.',
+      error: 'RATE_LIMIT_EXCEEDED',
+      message: 'Maximum 10 requests per minute per IP.',
       retry_after_seconds: 60,
     });
   },
 });
 
 const readLimiter = rateLimit({
-  windowMs:        60 * 1000,
-  max:             60,
-  standardHeaders: true,
-  legacyHeaders:   false,
-  keyGenerator:    ipKeyGenerator,
+  windowMs: 60 * 1000, max: 60,
+  standardHeaders: true, legacyHeaders: false,
+  keyGenerator: ipKeyGenerator,
 });
 
 // ============================================================
 // MIDDLEWARE — API KEY AUTH
-// BREEDING_API_KEY not set → open (dev mode).
-// BREEDING_API_KEY set     → X-Api-Key header required.
-// CF Workers: store key in CF Secret, use CF Access for UX auth.
 // ============================================================
 
 function requireApiKey(req, res, next) {
   const expected = process.env.BREEDING_API_KEY;
   if (!expected) return next();
-
   const provided = req.headers['x-api-key'];
-  if (!provided) {
+  if (!provided)
     return res.status(401).json({ error: 'UNAUTHORIZED', message: 'X-Api-Key header required.' });
-  }
   if (provided !== expected) {
     const ip = (req.headers['x-forwarded-for'] || req.ip || '').split(',')[0].trim();
     logError('WARN', `Auth failure — invalid API key from ${ip}`);
@@ -219,7 +233,7 @@ function validateMareInput(mare) {
     const val = mare?.[section]?.[field];
     if (val == null) continue;
     const n = Number(val);
-    if (isNaN(n))               errors.push(`${section}.${field}: must be a number, got "${val}"`);
+    if (isNaN(n))                errors.push(`${section}.${field}: must be a number, got "${val}"`);
     else if (n < min || n > max) errors.push(`${section}.${field}: ${n} out of range [${min}–${max}]`);
   }
   for (const [section, field, allowed] of ENUM_FIELDS) {
@@ -237,18 +251,14 @@ function validateMareInput(mare) {
 
 app.post('/api/analyze', requireApiKey, analyzeLimiter, (req, res) => {
   const errors = validateMareInput(req.body);
-  if (errors.length) {
+  if (errors.length)
     return res.status(400).json({ error: 'VALIDATION_ERROR', message: 'Input validation failed.', errors });
-  }
 
   const t0 = Date.now();
   try {
     const { output, diagnostics } = runPipeline(STALLIONS, req.body);
     const ms = Date.now() - t0;
-
-    // Log pipeline timing for performance monitoring
     console.log(`[PIPELINE] ${req.body?.performance?.discipline} ${diagnostics.afterHardFilter}→${diagnostics.tiersSelected} tiers in ${ms}ms`);
-
     if (!output.matches.length) {
       return res.status(200).json({
         matches: [], confidence: 0,
@@ -256,7 +266,6 @@ app.post('/api/analyze', requireApiKey, analyzeLimiter, (req, res) => {
       });
     }
     return res.status(200).json({ ...output, diagnostics });
-
   } catch (err) {
     logError('ERROR', `Pipeline failure for discipline "${req.body?.performance?.discipline}"`, err);
     return res.status(500).json({ error: 'PIPELINE_ERROR', message: 'Internal scoring error.' });
@@ -269,9 +278,14 @@ app.get('/api/stallions', requireApiKey, readLimiter, (req, res) => {
   res.json({ count: data.length, stallions: data });
 });
 
-// Health check: no auth, no rate limit, excluded from file access log
 app.get('/api/health', (req, res) => {
-  res.json({ status: 'ok', stallions: STALLIONS.length, uptime: Math.round(process.uptime()), version: '1.0.0' });
+  res.json({
+    status:    'ok',
+    stallions: STALLIONS.length,
+    source:    (SUPABASE_URL && SUPABASE_KEY) ? 'supabase' : 'local-json',
+    uptime:    Math.round(process.uptime()),
+    version:   '1.1.0',
+  });
 });
 
 // ============================================================
@@ -283,12 +297,6 @@ app.use((err, req, res, _next) => {
   res.status(500).json({ error: 'SERVER_ERROR', message: 'Unexpected server error.' });
 });
 
-// ============================================================
-// PROCESS-LEVEL ERROR CAPTURE
-// Catches unhandled promise rejections and uncaught exceptions.
-// Logs them before the process exits (or continues, for rejections).
-// ============================================================
-
 process.on('uncaughtException', (err) => {
   logError('ERROR', 'Uncaught exception — server will exit', err);
   process.exit(1);
@@ -296,18 +304,20 @@ process.on('uncaughtException', (err) => {
 
 process.on('unhandledRejection', (reason) => {
   logError('WARN', 'Unhandled promise rejection', reason instanceof Error ? reason : new Error(String(reason)));
-  // Do not exit — rejections are recoverable
 });
 
 // ============================================================
-// START
+// START — init DB then listen
 // ============================================================
 
-app.listen(PORT, () => {
+initDB().then(() => {
   const keyStatus = process.env.BREEDING_API_KEY ? 'API key required' : 'OPEN (no BREEDING_API_KEY set)';
-  console.log(`[Server] Breeding Engine → http://localhost:${PORT}`);
-  console.log(`[Auth]   ${keyStatus}`);
-  console.log(`[Rate]   10 req/min/IP on /api/analyze`);
-  console.log(`[Logs]   ${ACCESS_LOG}`);
-  console.log(`[Errors] ${ERROR_LOG}`);
+  app.listen(PORT, () => {
+    console.log(`[Server] Breeding Engine → http://localhost:${PORT}`);
+    console.log(`[Auth]   ${keyStatus}`);
+    console.log(`[DB]     ${(SUPABASE_URL && SUPABASE_KEY) ? 'Supabase: ' + SUPABASE_URL : 'Local stallions.json'}`);
+    console.log(`[Rate]   10 req/min/IP on /api/analyze`);
+    console.log(`[Logs]   ${ACCESS_LOG}`);
+    console.log(`[Errors] ${ERROR_LOG}`);
+  });
 });
