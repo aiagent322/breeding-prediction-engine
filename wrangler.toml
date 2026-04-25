@@ -1,6 +1,7 @@
 name = "breeding-engine-api"
 main = "worker.js"
 compatibility_date = "2024-09-23"
+pages_build_output_dir = "public"
 
 [vars]
 SUPABASE_URL = "https://spiqnrhajhvpgxxohgoe.supabase.co"
