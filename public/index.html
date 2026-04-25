@@ -165,6 +165,8 @@ body{background:var(--bg);color:var(--cream);font-family:var(--font-mono);min-he
 
 /* Explanation */
 .explanation{background:#f5f0e8;border-left:2px solid #2d6a3f;padding:.6rem .8rem;border-radius:0 3px 3px 0;font-size:.72rem;line-height:1.65;color:#3a3020}
+.profile-link{display:inline-block;margin-top:.7rem;font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;color:#2d6a3f;text-decoration:none;border-bottom:1px solid #8ab090;padding-bottom:1px;font-weight:500}
+.profile-link:hover{color:#1e4d2c;border-bottom-color:#2d6a3f}
 
 /* Error */
 .error-box{background:#1a0a08;border:1px solid var(--red);border-radius:5px;padding:1rem;margin-bottom:.8rem;font-size:.8rem;color:#c06050;line-height:1.6}
@@ -631,8 +633,14 @@ function renderCard(m, i) {
       <div class="div"></div>
       <div class="sub-label">Analysis</div>
       <div class="explanation">${m.explanation}</div>
+      <div class="div"></div>
+      <a class="profile-link" href="/stallions/${slugify(m.stallion_name)}.html" target="_blank">View Full Stallion Profile &rarr;</a>
     </div>`;
   return div;
+}
+
+function slugify(name) {
+  return name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 }
 
 function toggle(i) {
