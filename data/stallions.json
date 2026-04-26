@@ -9595,5 +9595,66 @@
     "_stamina": 84,
     "_temperament": 90,
     "_performance_summary": "Finals Bound \u2014 2020 AQHA Stallion. Bred and nominated by Arcese Quarter Horses LLC. Owned by FB Brazil Partners. Standing at Tom McCutcheon Reining Horses, Aubrey TX. Book Now Pay Later \u2014 no payments until 12/31/26. Stud fee: contact station. By Gunnatrashya (NRHA Hall of Fame; #1 Leading Reining Sire since 2021; $15M+ Sire; tied Gunner as only father-son duo both to surpass $15M; by Colonels Smoking Gun [Gunner] \u2014 NRHA Hall of Fame, $15M+ Sire) out of Wimpys Little Chic (Wimpys Little Step \u2014 NRHA Hall of Fame, $12M+ Sire; dam of performers earning $2.2M+, including THREE NRHA Open Futurity Champions; dam of Andiamoe $438,139 NRHA LTE, Shesouttayourleague $260K+ \u2014 2015 NRHA Open Futurity and Derby Champion). FULL BROTHER TO TWO NRHA OPEN FUTURITY CHAMPIONS. LTE $216,876. 2024 The American Performance Horseman: 3rd Individual Reining, 2nd Team Reining (Cade McCutcheon) \u2014 $58,333 combined. 2025 The American Performance Horseman: 5th Individual Reining (Cade McCutcheon) \u2014 $20,000. 6-Panel N/N (GBED, HERDA, HYPP, MH, MYHM, PSSM1). Enrolled: North American Reining Stakes, NRBC, NRHA Sire & Dam, NRCHA Cow Horse Incentive, Royal Crown Roping, 6666 Stallion Incentive. Tom McCutcheon Reining Horses, 3732 Shepard Rd, Aubrey TX 76227. (940) 453-0003. tmreining.com/stallions/finals-bound/"
+  },
+  {
+    "id": "tmc006",
+    "name": "Electric Code",
+    "station": "Tom McCutcheon Reining Horses",
+    "source_url": "https://tmreining.com/stallions/",
+    "genetics": {
+      "sire": "Jacs Electric Spark",
+      "dam": "Hot Coded Candy (The Hot Express)",
+      "bloodline_cluster": "Electric",
+      "offspring_success_score": 68
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 85,
+      "balance_score": 86
+    },
+    "mental": {
+      "trainability": 90,
+      "reactivity": "moderate",
+      "consistency": 85
+    },
+    "health": {
+      "soundness_score": 88
+    },
+    "performance": {
+      "earnings": 215402,
+      "offspring_earnings": 1000000,
+      "discipline_strength": {
+        "reining": 84,
+        "cowHorse": 38,
+        "ranchRiding": 55,
+        "cutting": 18,
+        "teamRoping": 22,
+        "barrelRacing": 18
+      },
+      "discipline_earnings": {
+        "reining": 215402
+      }
+    },
+    "market": {
+      "stud_fee": 1650,
+      "demand_index": 62
+    },
+    "_disciplines": [
+      "reining"
+    ],
+    "_sire_line_strength": "strong",
+    "_proven_crosses": [
+      "Shining Spark daughters",
+      "Smart Chic Olena daughters",
+      "Topsail Whiz daughters",
+      "Wimpys Little Step daughters"
+    ],
+    "_athleticism": 86,
+    "_cow_sense": 30,
+    "_speed": 84,
+    "_stamina": 82,
+    "_temperament": 90,
+    "_performance_summary": "Electric Code \u2014 2005 AQHA Sorrel Stallion. Nickname: Cody. Owned by Jared Leclair. Standing at Tom McCutcheon Reining Horses, Aubrey TX. Book Now Pay Later \u2014 no payments until 12/31/26. 2026 stud fee $1,650. By Jacs Electric Spark (NRHA $3M+ Sire; NRHA Hall of Fame \u2014 one of the industry's most significant Jac/Electric bloodlines; late sire still producing top competitors) out of Hot Coded Candy (The Hot Express \u2014 NRHA Non Pro Futurity finalist 1994, shown by NRHA HOF Mandy McCutcheon; LTE $15,347; produce record $333,725+ from 6 earners; bred to Hollywood Dun It, Smart Chic Olena, Whizkey N Diamonds, Wimpys Little Step, Jacs Electric Spark, Shining Spark, Smart Starbuck). LTE $215,402. NRHA Million Dollar Sire. 2008 NRHA Intermediate Open Futurity Champion. 2008 NRHA Open Futurity L4 \u2014 3rd place (highest scoring stallion at the 2008 NRHA Futurity). 2008 NRHA #1 Leading Money Earner \u2014 all ages, all divisions. 2008 SWRHA Open Futurity Champion. 2008 SWRHA Intermediate Open Futurity Champion. 2008 RMRHA Open Futurity Co-Champion. 2008 RMRHA Intermediate Open Futurity Co-Champion. 2008 RMRHA Summer Slide Stallion Stakes Open Co-Champion. 2009 Gordyville Open Derby Champion. 2010 All American Quarter Horse Congress Open Champion. 2010 NRHA Derby Finalist. Known for balanced conformation, incredible intelligence, and consistent competitive record across multiple venues and divisions in 3-year-old year. NRBC featured sponsor stallion (ball caps given to every NRBC Classic exhibitor). Tom McCutcheon Reining Horses, 3732 Shepard Rd, Aubrey TX 76227. (940) 453-0003. Booking fee $500."
   }
 ]
