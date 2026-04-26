@@ -10206,5 +10206,67 @@
     "_stamina": 84,
     "_temperament": 88,
     "_performance_summary": "Cat Man Do \u2014 2005 Gray Stallion. Bred and standing at W.T. Waggoner Ranch, Vernon TX (one of the largest ranches in the US \u2014 historic 520,000-acre estate, now owned by Stan Kroenke family). Stud fee: contact ranch (waggonerranch.com \u2014 website periodically unavailable). By High Brow Cat (AQHA/NCHA #1 All-Time Leading Sire; offspring earnings $97M+; 8 NCHA Open Futurity Champions; NRHA Hall of Fame; Equi-Stat All-Time Leading Sire since 2003) out of Some Kinda Playgirl (Freckles Playboy \u2014 NCHA LTE $80,109; 1986 NCHA Futurity 3YO Open & NP semifinalist; 1988 NCHA Summer Spectacular finalist; paternal sister to Some Kinda Memories \u2014 1997 NCHA Futurity Champion, $378,671). Personal LTE: $20,522 (NCHA; AQHA ROM; 2009 Augusta Futurity 4YO Open finalist; 2009 Abilene Spectacular 4YO Open finalist). #1 Riata Buckle Rope Horse Sire of 2023. 2023 AQHA Top Roping Sires: top-5 nationally with offspring earnings of $262,162. Offspring bred on the historic Waggoner Ranch and competing at the highest levels of heading, heeling, and ranch roping. Waggoner Ranch horse program produces working cattle horses \u2014 the Cat Man Do cross targets both team roping athletes and ranch/working horse buyers. A son bred on Cat Man Do (Peptos Little Catman) was described as resembling his maternal grandsire and stands at Cashe Ranch with 8 foal crops on the ground. Waggoner Ranch, Vernon TX | waggonerranch.com"
+  },
+  {
+    "id": "wls001",
+    "name": "Wimpys Little Step",
+    "station": "Silver Spurs Equine",
+    "source_url": "https://www.infoalpartners.com/portfolio-items/wimpys-little-step/",
+    "genetics": {
+      "sire": "Nu Chex To Cash",
+      "dam": "Leolita Step (Forty Seven)",
+      "bloodline_cluster": "NuChexToCash",
+      "offspring_success_score": 95
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 88,
+      "balance_score": 94
+    },
+    "mental": {
+      "trainability": 96,
+      "reactivity": "cool",
+      "consistency": 96
+    },
+    "health": {
+      "soundness_score": 75
+    },
+    "performance": {
+      "earnings": 185757,
+      "offspring_earnings": 13000000,
+      "discipline_strength": {
+        "reining": 96,
+        "ranchRiding": 62,
+        "cowHorse": 48,
+        "cutting": 28,
+        "teamRoping": 20,
+        "barrelRacing": 18
+      },
+      "discipline_earnings": {
+        "reining": 185757
+      }
+    },
+    "market": {
+      "stud_fee": 6000,
+      "demand_index": 85
+    },
+    "_disciplines": [
+      "reining"
+    ],
+    "_sire_line_strength": "premier",
+    "_proven_crosses": [
+      "Smart Chic Olena daughters",
+      "Gunner (Colonels Smoking Gun) daughters",
+      "Topsail Whiz daughters",
+      "Magnum Chic Dream daughters",
+      "Shining Spark daughters"
+    ],
+    "_athleticism": 92,
+    "_cow_sense": 30,
+    "_speed": 88,
+    "_stamina": 88,
+    "_temperament": 96,
+    "_performance_summary": "Wimpys Little Step \u2014 1999 Palomino AQHA Stallion. Senior sire. ICSI ONLY. Standing at Silver Spurs Equine LLC, Purcell, Oklahoma. Owned by Michael Miola. 2026 stud fee: $6,000 ICSI Only (early booking $5,500). Note: Waggoner Ranch bred mares to Wimpy \u2014 his offspring appeared in the 2024 Waggoner Ranch reduction sale, but Wimpy himself stands at Silver Spurs Equine. Bred by Monica Watson, Double Run Farm, Leland NC. By Nu Chex To Cash (NRHA Million Dollar Sire; NRHA LTE $65,654 and 380.5 AQHA points; NRHA Int. Open World Champion; NRHA Limited Open World Champion; Superior Reining; Superior Working Cow Horse; Leading Sire; sire of 305 RGP money-earners, $3,686,547) out of Leolita Step (Forty Seven). Personal LTE: $185,757. NRHA Hall of Fame. 2002 NRHA Open Futurity Champion \u2014 score of 233 with Shawn Flarida (only second horse ever to win both Congress and NRHA Open Futurities). 2002 AQHA Congress Open Reining Futurity Champion. Tradition Open Reining Futurity Reserve Champion. NRHA #1 Living Sire. $13,059,775+ offspring earnings (all disciplines). 1,988 Wimpy foals on the ground \u2014 50% are money earners with average earnings $11,000+. The ONLY stallion to produce a horse that won the NRHA Futurity, NRBC, AND NRHA Derby back-to-back: Wimpys Little Chic \u2014 NRHA all-time #1 money earner AND NRHA Million Dollar Dam (dam of Finals Bound, tmc005 in this database). RC Fancy Step: $300,000+ earner. Wimpysneedsacocktail: multiple champion. First foal crop saw 6 NRHA Futurity Open L4 finalists including the Futurity Champion. Temperament hallmark: 'when you dropped the reins he'd go to sleep like a 20-year-old gelding.' At 26 years of age (2025), finite frozen semen inventory \u2014 ICSI procedure creates additional cost above the base fee. Silver Spurs Equine LLC, Purcell, Oklahoma."
   }
 ]
