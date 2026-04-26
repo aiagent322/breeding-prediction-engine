@@ -9292,5 +9292,65 @@
     "_stamina": 75,
     "_temperament": 85,
     "_performance_summary": "Dun Walla Walla \u2014 2010 Dun QH Stallion, AQHA #5291221. Standing at UC Davis Department of Animal Science Horse Barn, Davis CA. First foal crop 2015. By Walla Walla Whiz (Topsail Whiz x Shiney Walla Wanda/Shining Spark \u2014 LTE $187,820; NRHA $5.8M+ Sire; #12 All-Time Leading Reining Sire; 2007 NRHA Open Derby Champion; NRHA Futurity Champion Sire; top offspring include Americasnexttopgun $425K+, Shesouttayourleague $260K+ \u2014 2015 NRHA Open Futurity and Derby Champion, Americas Supermodel $230K+, Isnt She Perfect $170K+) out of Miss Cutie Pine. Show record: Reserve Champion, 2014 WCRHA Star Spangled Slide Derby L1 Open Stakes. Breeding fee $500 (Live Foal Guarantee included). Shipped semen available. Collection days: Mon/Wed/Fri. Contact UC Davis Barn Manager Kelli Davis (530) 754-4156. Value-tier stallion with elite sire-line genetics at an accessible breeding fee. Walla Walla Whiz known for producing strong mares and consistent reining performers; Shawn Flarida: 'He was so good-minded...his mares are off-the-charts cool.' Dun Walla Walla offers breeders Walla Walla Whiz genetics at a university station price point."
+  },
+  {
+    "id": "tmc001",
+    "name": "All Nite Partier",
+    "station": "Tom McCutcheon Reining Horses",
+    "source_url": "https://tmreining.com/stallions/all-nite-partier/",
+    "genetics": {
+      "sire": "Gunners Special Nite",
+      "dam": "Topsail Survivor (Topsail Whiz)",
+      "bloodline_cluster": "SmokingGun",
+      "offspring_success_score": 52
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 85,
+      "balance_score": 88
+    },
+    "mental": {
+      "trainability": 90,
+      "reactivity": "moderate",
+      "consistency": 88
+    },
+    "health": {
+      "soundness_score": 92
+    },
+    "performance": {
+      "earnings": 373088,
+      "offspring_earnings": 0,
+      "discipline_strength": {
+        "reining": 92,
+        "cowHorse": 48,
+        "ranchRiding": 58,
+        "cutting": 18,
+        "teamRoping": 25,
+        "barrelRacing": 20
+      },
+      "discipline_earnings": {
+        "reining": 373088
+      }
+    },
+    "market": {
+      "stud_fee": 2500,
+      "demand_index": 72
+    },
+    "_disciplines": [
+      "reining"
+    ],
+    "_sire_line_strength": "premier",
+    "_proven_crosses": [
+      "Topsail Whiz daughters",
+      "Colonels Smoking Gun daughters",
+      "Gunner daughters"
+    ],
+    "_athleticism": 90,
+    "_cow_sense": 28,
+    "_speed": 88,
+    "_stamina": 85,
+    "_temperament": 90,
+    "_performance_summary": "All Nite Partier \u2014 2020 AQHA/APHA Sorrel Stallion. Owned by Sotol Investments, LLC. Standing at Tom McCutcheon Reining Horses, Aubrey TX. Book Now Pay Later \u2014 no payments until 12/31/26. By Gunners Special Nite (Colonels Smoking Gun x Mifs Doll/Mifillena \u2014 LTE $235,000; 2007 NRHA Futurity L4 Open Reserve Champion; 2018 NRHA #1 Leading Sire; PE $1.1M+; Colonels Smoking Gun: NRHA Hall of Fame, $16M+ All-Time Leading Sire) out of Topsail Survivor (Topsail Whiz \u2014 NRHA Hall of Fame; $12M+ Sire). LTE $373,088. 2024 NRHA L4 Open Derby Champion. 2023 NRHA L4 Open Futurity 3rd. 2023 Congress L4 Open Futurity Co-Reserve Champion. 2024 NRHA Derby 4-Year-Old L4 Open Stakes 3rd. 2024 Cowtown Classic 100X Reining 4-Year-Old L4 Open Stakes 5th. Nominated as #1 money earner by sire Gunners Special Nite in AQHA 2023 Top Reining Sires report. 6-Panel N/N (GBED, HERDA, HYPP, MH, PSSM1). Cooled and frozen semen available. Enrolled: NRHA Sire & Dam. Tom McCutcheon Reining Horses, 3732 Shepard Road, Aubrey TX 76227. Breeding office: (940) 453-0003. tmreining.com/stallions/all-nite-partier/"
   }
 ]
