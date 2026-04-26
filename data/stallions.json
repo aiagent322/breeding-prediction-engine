@@ -10454,5 +10454,67 @@
     "_stamina": 88,
     "_temperament": 90,
     "_performance_summary": "Hollywoodstinseltown \u2014 2004 Palomino Stallion. DECEASED (late stallion). Frozen semen only. Bred and owned by David Silva Sr., Long Grove, IL (Silva Reining Horses). Was managed at Tom McCutcheon Reining Horses, Aubrey TX. By NRHA Hall of Fame and Seven Million Dollar Sire Hollywood Dun It out of NRHA Hall of Fame mare Miss Tinseltown \u2014 the only stallion in Burns Ranch / reining history with BOTH parents NRHA Hall of Famers. Personal LTE: $185,886 (NRHA). 2007 NRHA Open Futurity finalist; Prime Time Open division winner. 2008 NRHA Open Derby finalist (11th). 2009 NRBC Intermediate Open Finals \u2014 scored 232 (Marco Ricotta up). 2010 NRBC L4 Open \u2014 4th place ($39,000). 2010 World Equestrian Games, Lexington KY \u2014 Team Gold Medal + 4th Individual (Tim McQuay up). 2009 Cowboy Capital Classic Intermediate Open Derby \u2014 split 5th. AQHA World Qualifier Senior Reining; Open ROM; 30 reining points. NRHA $4 Million Sire (milestone announced June 2025). 389 NRHA money-earning foals. Annual Hollywoodstinseltown Open Futurity at Tulsa Reining Classic named in his honor. Top offspring: Shining In Town (LTE $200,000+ \u2014 2019 NRHA Derby All-Level Non-Pro Champion; bred by Carol Rose QH); Flexing Guns In Town (LTE $115,000 \u2014 2024 NRHA European L4 Open Derby Champion; Arnaud Girinon up); Tinseltown Flash (LTE $134,920 \u2014 bred/nominated by McQuay Stables); Mr Royal Hollywood (LTE $134,034 \u2014 bred by Brian Bell; NRHA Futurity Top 10). 5-Panel Genetic Test N/N. Sire Hollywood Dun It = NRHA Hall of Fame, Seven Million Dollar Sire, $7.3M+ offspring; dam Miss Tinseltown = NRHA Hall of Fame; NRBC Open Champion; NRHA Leading Dam. Outcross potential: carries no Colonels Smoking Gun, Wimpys Little Step, Topsail Whiz, Gunnatrashya, or Magnum Chic Dream blood \u2014 nicks cleanly on all those mares. Contact: Silva Reining Horses / Tom McCutcheon Reining Horses (940) 453-0003 | mccutcheonbreeding@gmail.com | tmreining.com"
+  },
+  {
+    "id": "bur002",
+    "name": "Late Night Stopper",
+    "station": "Burns Ranch",
+    "source_url": "https://www.theburnsranch.com/stallions",
+    "genetics": {
+      "sire": "Jacs Electric Spark",
+      "dam": "Best Stop (Custom Crome)",
+      "bloodline_cluster": "CustomCrome",
+      "offspring_success_score": 48
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 86,
+      "balance_score": 87
+    },
+    "mental": {
+      "trainability": 88,
+      "reactivity": "cool",
+      "consistency": 88
+    },
+    "health": {
+      "soundness_score": 88
+    },
+    "performance": {
+      "earnings": 101621,
+      "offspring_earnings": 0,
+      "discipline_strength": {
+        "reining": 80,
+        "cowHorse": 58,
+        "ranchRiding": 44,
+        "cutting": 25,
+        "teamRoping": 20,
+        "barrelRacing": 16
+      },
+      "discipline_earnings": {
+        "reining": 101621
+      }
+    },
+    "market": {
+      "stud_fee": 0,
+      "demand_index": 62
+    },
+    "_disciplines": [
+      "reining"
+    ],
+    "_sire_line_strength": "strong",
+    "_proven_crosses": [
+      "Hollywood Dun It daughters",
+      "Shining Spark daughters",
+      "Magnum Chic Dream daughters",
+      "Wimpys Little Step daughters",
+      "Smart Spook daughters"
+    ],
+    "_athleticism": 88,
+    "_cow_sense": 50,
+    "_speed": 84,
+    "_stamina": 86,
+    "_temperament": 90,
+    "_performance_summary": "Late Night Stopper \u2014 2011 Smoky Black AQHA Stallion. Also spelled 'Late Nite Stopper'. Physical location: Oswood Stallion Station, Weatherford TX. Owned by Marc & Kathy Gordon, Elgin IL. latenightstopper.com. By Jacs Electric Spark (by Genuine Doc) out of Best Stop (LTE $43,208; PE $643,524+; 20 NRHA money-earners \u2014 NRHA All-Time Leading Dam; by Custom Crome \u00d7 Rest Stop). Rest Stop = NRHA Hall of Fame inductee; NRHA Open Futurity Reserve Champion. Custom Crome = NRHA Hall of Fame. Dam Best Stop is also dam of: Hey Joe ($135,867 \u2014 3rd NRHA Open Derby), Stop Like A Dream ($101,214 \u2014 NRBC Open Derby Co-Reserve Champion), Best Shine (by Shine Chic Shine \u2014 $682,562 \u2014 2023 Run for a Million Champion), Jacs Electric Stop ($21,444 \u2014 NRHA Open Futurity finalist). Personal LTE: $101,621 (NRHA). 2014 NRHA Open Futurity finalist. 2015 NRBC Open Derby finalist. 2015 High Roller Reining Classic Open Stakes \u2014 split 4th. 2015 Cactus Reining Classic Open Derby \u2014 4th. 2016 NRHA Intermediate Open Derby Co-Reserve Champion. 2016 NRHA Open Derby \u2014 top 10. 2016 NRBC Open Derby finalist. 2016 Reining by the Bay Intermediate Open Derby Reserve Champion. 2016 High Roller Reining Classic Intermediate Open Derby Reserve Champion. Shown by Franco Bertolani and Martin Muehlstaetter. 6-Panel Genetic Test N/N; EJSCA N/N. Best Stop is among the most influential dams in NRHA history \u2014 5 Hall of Fame inductees on the pedigree. Strong outcross value: carries no Colonels Smoking Gun, Gunnatrashya, Wimpys Little Step, or Topsail Whiz blood at close range."
   }
 ]
