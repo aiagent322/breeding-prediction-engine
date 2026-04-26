@@ -10328,5 +10328,69 @@
     "_stamina": 86,
     "_temperament": 90,
     "_performance_summary": "Greyt Whiz \u2014 2002 Stallion. Bred and standing at W.T. Waggoner Ranch, Vernon TX. Stud fee: contact ranch (website periodically unavailable; was offered in a sale circa 2016 during Kroenke ownership transition; current status \u2014 contact ranch directly). By Topsail Whiz (NRHA Hall of Fame; NRHA #1 All-Time Leading Sire; first NRHA $12 Million Sire; deceased 2009; sire of 7 NRHA Open Futurity Champions, 4 NRHA Open Derby Champions, 3 NRHA Million Dollar Sires, 2 NRHA Two Million Dollar Sires; daughters have foaled earners of $8.7M+) out of Easter Cabin (Easter Gentleman \u2014 Forest Cabin \u2014 Moon). AQHA World Champion Producer (per Waggoner Ranch). Ranch stallion bred and used primarily within the Waggoner working program. Key offspring and descendants: Greyt Socks (2007 gray gelding) \u2014 2013 AQHA Select World Champion Ranch Riding, 2015 Amateur Reserve World Champion Ranch Riding, AQHA LTE $67,637+. Greyt Little Steps (daughter) \u2014 dam of Always Do (2018 gray gelding by Cat Man Do) \u2014 2025 AQHA Select World Champion Ranch Riding AND 2025 AQHA Select All-Around Amateur (Dana and Bob Avila, Scottsdale AZ); bred by W.T. Waggoner Estate. Greyt Senorita, Greyt Blue, Greyt Rio \u2014 other confirmed offspring. Greyt Whiz \u00d7 Wimpys Senorita cross also represented in Waggoner herd. Primary value: ranch horse broodmare sire \u2014 daughters crossed on Cat Man Do and other performance stallions produce elite AQHA ranch/reining competitors. The Topsail Whiz \u00d7 Easter Gentleman cross produces correct, mentally solid horses with strong reining foundations and outstanding ranch versatility. Waggoner Ranch is an AQHA Ranching Heritage Breeder and 100-Year AQHA Breeder. waggonerranch.com | Vernon TX | Trace Cribbs, Horse Division Manager | (940) 552-2521"
+  },
+  {
+    "id": "wag003",
+    "name": "Pocket Fulla Pepto",
+    "station": "W.T. Waggoner Ranch (bred; sold at reduction sale)",
+    "source_url": "https://waggonerranch.com/",
+    "genetics": {
+      "sire": "Peptoboonsmal",
+      "dam": "Studio Playgirl",
+      "bloodline_cluster": "Peptoboonsmal",
+      "offspring_success_score": 45
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 86,
+      "balance_score": 86
+    },
+    "mental": {
+      "trainability": 88,
+      "reactivity": "moderate",
+      "consistency": 84
+    },
+    "health": {
+      "soundness_score": 86
+    },
+    "performance": {
+      "earnings": 6476,
+      "offspring_earnings": 0,
+      "discipline_strength": {
+        "cutting": 75,
+        "ranchRiding": 70,
+        "cowHorse": 68,
+        "teamRoping": 45,
+        "reining": 30,
+        "barrelRacing": 20
+      },
+      "discipline_earnings": {
+        "cutting": 6476
+      }
+    },
+    "market": {
+      "stud_fee": 0,
+      "demand_index": 52
+    },
+    "_disciplines": [
+      "cutting",
+      "cowHorse",
+      "ranchRiding"
+    ],
+    "_sire_line_strength": "elite",
+    "_proven_crosses": [
+      "High Brow Cat daughters",
+      "Dual Rey daughters",
+      "Smart Little Lena daughters",
+      "Metallic Cat daughters",
+      "Topsail Whiz daughters"
+    ],
+    "_athleticism": 84,
+    "_cow_sense": 88,
+    "_speed": 68,
+    "_stamina": 82,
+    "_temperament": 88,
+    "_performance_summary": "Pocket Fulla Pepto \u2014 2010 Red Roan Stallion. Also called 'Fulla Pepto' on the ranch. Bred by W.T. Waggoner Ranch, Vernon TX. Sold at the Waggoner Ranch Total Reduction Sale (circa 2015-2016). Last known standing at Loan Oak Quarter Horses, Sebeka MN. Current location: contact Waggoner Ranch or verify with AQHA records. By Peptoboonsmal (NCHA Futurity Champion; LTE $180,487; NCHA Hall of Fame; $28M+ offspring earnings; Equi-Stat #1 Sire; sire of Little Pepto Gal $520,065, Copaspepto $444,072, Sweet Lil Pepto $228,340, Freckles Lena Boon $235,994) out of Studio Playgirl (LTE $89,424). Personal LTE: $6,476 (NCHA). Abilene Spectacular Open Derby finalist. 3rd Memphis Cutting 4-Year-Old Open Futurity. 2020 RGP Top 25 Sire of Ranch Horse Money-Earners. Key offspring: Wanna Be A Pepto ($7,506 and 5 AQHA points \u2014 Southwest RCHA Spring Snaffle Bit 5 & Under Open class winner). Sires a high percentage of roan offspring. Offspring compete across reined cow horse, cutting, sorting, versatility ranch horse, and roping. Peptoboonsmal sire line brings elite cow sense, trainability, and a strong nick with High Brow Cat and Dual Rey mares. Waggoner Ranch was a top user of the Little Peppy / Peptoboonsmal line in their working horse breeding program."
   }
 ]
