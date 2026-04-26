@@ -9896,5 +9896,66 @@
     "_stamina": 85,
     "_temperament": 88,
     "_performance_summary": "KR Fantallicka \u2014 2013 AQHA/APHA Red Roan Stallion. Nickname: Cadillac. Owned and standing at 70 Ranch Performance Horses, Gainesville TX. Phone: (940) 291-2030. 2025 stud fee $2,000 (chute and first shipment included). Booked FULL for 2021, 2022, and 2023 \u2014 one of the highest demand signals in the 70 Ranch program. By Metallic Cat (High Brow Cat x Chers Shadow/Peptoboonsmal \u2014 NCHA Hall of Fame; LTE $637,711; 2008 NCHA Futurity Open Champion; 2009 NCHA Open Horse of the Year; $19M+ NCHA offspring earnings; $45M+ total cross-discipline offspring earnings; NRCHA #1 All-Time Leading Sire) out of Fancy Zack (Zack T Wood). 197 AQHA Points in Heading, Heeling, Tie Down Roping, and Cowhorse events. AQHA Superior in Heading. AQHA Superior in Heeling. 2019 Superhorse Contender. NRCHA Money Earner. All Around Saddle Winner \u2014 Nebraska Rope Horse Association. Money Earner in Barrel Racing. Dual-registered AQHA and APHA. Metallic Cat x Zack T Wood cross produces exceptional multi-discipline athletes \u2014 Metallic Cat's elite cow sense and trainability combined with Zack T Wood's roping athleticism creates offspring competitive across cutting, cow horse, heading, heeling, and barrel racing. 70rph.com | (940) 291-2030"
+  },
+  {
+    "id": "s70r003",
+    "name": "Metallic Malice",
+    "station": "70 Ranch Performance Horses",
+    "source_url": "https://www.70rph.com/metallic-malice",
+    "genetics": {
+      "sire": "Metallic Cat",
+      "dam": "High Boon (Mecom Blue)",
+      "bloodline_cluster": "MetallicCat",
+      "offspring_success_score": 62
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 90,
+      "balance_score": 90
+    },
+    "mental": {
+      "trainability": 90,
+      "reactivity": "moderate",
+      "consistency": 88
+    },
+    "health": {
+      "soundness_score": 90
+    },
+    "performance": {
+      "earnings": 0,
+      "offspring_earnings": 0,
+      "discipline_strength": {
+        "cowHorse": 88,
+        "cutting": 82,
+        "teamRoping": 68,
+        "ranchRiding": 65,
+        "barrelRacing": 50,
+        "reining": 38
+      },
+      "discipline_earnings": {}
+    },
+    "market": {
+      "stud_fee": 3000,
+      "demand_index": 88
+    },
+    "_disciplines": [
+      "cowHorse",
+      "cutting",
+      "teamRoping"
+    ],
+    "_sire_line_strength": "elite",
+    "_proven_crosses": [
+      "Mecom Blue daughters",
+      "Dual Rey daughters",
+      "Peptoboonsmal daughters",
+      "High Brow Cat daughters"
+    ],
+    "_athleticism": 88,
+    "_cow_sense": 90,
+    "_speed": 68,
+    "_stamina": 84,
+    "_temperament": 90,
+    "_performance_summary": "Metallic Malice \u2014 2013 AQHA/APHA Bay Roan Stallion. Homozygous roan \u2014 throws roan foal 100%. 15H, size 1 shoe. Owned and standing at 70 Ranch Performance Horses, Gainesville TX. Contact: Jamie Stout \u2014 jamiestout@70rph.com \u2014 (940) 291-2030. 2025 stud fee $3,000 (chute and first shipment included). Booked FULL 2018 through 2024 \u2014 7 consecutive sellout years. By Metallic Cat (High Brow Cat x Chers Shadow/Peptoboonsmal \u2014 NCHA Hall of Fame; LTE $637,711; 2008 NCHA Open Futurity Champion; 2009 NCHA Horse of the Year; NRCHA #1 All-Time Leading Sire; $45M+ offspring earnings) out of High Boon (Mecom Blue \u2014 $100,000+ producing daughter). Full pedigree: High Brow Cat \u2192 Metallic Cat / Mecom Blue (Royal Blue Moon/Doc Quixote/Even Odds) \u2192 High Boon. 114.5 AQHA Points (Heading, Heeling, Tie Down, Cowhorse events). 2018 NRCHA Hackamore Classic Novice Horse Open Champion (all three phases: Fence Work AND Herd Work Novice Horse Open Champion). Finalist NRCHA Open Hackamore Classic. Finalist AQHA World Junior Cutting. AQHA High Point Junior Performance Halter Stallion Leader. AQHA High Point Working Cow Horse Stallion Leader. AQHA World Junior Heading qualifier. AQHA World Junior Heeling qualifier. AQHA World Junior Working Cow Horse qualifier. Transitioned from cutting to cow horse under Brad Lund \u2014 NRCHA money earner. 5-Panel N/N. Incentives: Pink Buckle, Ruby Buckle, Future Fortunes, Breeders Challenge, Colorado Classic, Triple Crown 100, Royal Crown, NRCHA Stallion Stakes, Riata, Gold Buckle Futurities, Tomorrow's Legends, Legends of the South, Select Stallion Stakes. 70rph.com"
   }
 ]
