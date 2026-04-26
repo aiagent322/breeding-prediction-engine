@@ -20,14 +20,6 @@
       "consistency": 94
     },
     "performance": {
-      "discipline_strength": {
-        "reining": 92,
-        "cutting": 15,
-        "cowHorse": 30,
-        "teamRoping": 12,
-        "barrelRacing": 8,
-        "ranchRiding": 50
-      },
       "earnings": 346715,
       "offspring_earnings": 14000000,
       "discipline_earnings": {
@@ -45,10 +37,6 @@
       "reining"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Shining Spark daughters",
-      "Gunner daughters"
-    ],
     "_athleticism": 92,
     "_cow_sense": 40,
     "_speed": 85,
@@ -79,14 +67,6 @@
       "consistency": 92
     },
     "performance": {
-      "discipline_strength": {
-        "reining": 95,
-        "cowHorse": 62,
-        "ranchRiding": 55,
-        "cutting": 35,
-        "teamRoping": 25,
-        "barrelRacing": 20
-      },
       "earnings": 380000,
       "offspring_earnings": 6200000,
       "discipline_earnings": {
@@ -106,11 +86,6 @@
       "reining"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Shining Spark",
-      "Topsail Whiz",
-      "Spooks Gotta Whiz"
-    ],
     "_athleticism": 90,
     "_cow_sense": 40,
     "_speed": 68,
@@ -139,14 +114,6 @@
       "consistency": 94
     },
     "performance": {
-      "discipline_strength": {
-        "reining": 90,
-        "cowHorse": 65,
-        "ranchRiding": 68,
-        "cutting": 42,
-        "teamRoping": 28,
-        "barrelRacing": 22
-      },
       "earnings": 220000,
       "offspring_earnings": 4100000,
       "discipline_earnings": {
@@ -167,10 +134,6 @@
       "ranchRiding"
     ],
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Gunner",
-      "Spooks Gotta Whiz"
-    ],
     "_athleticism": 88,
     "_cow_sense": 52,
     "_speed": 65,
@@ -198,14 +161,6 @@
       "consistency": 85
     },
     "performance": {
-      "discipline_strength": {
-        "reining": 88,
-        "cowHorse": 78,
-        "ranchRiding": 65,
-        "cutting": 55,
-        "teamRoping": 30,
-        "barrelRacing": 25
-      },
       "earnings": 180000,
       "offspring_earnings": 2800000,
       "discipline_earnings": {
@@ -226,11 +181,6 @@
       "cowHorse"
     ],
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Dual Rey",
-      "High Brow Cat",
-      "Spooks Gotta Whiz"
-    ],
     "_athleticism": 92,
     "_cow_sense": 82,
     "_speed": 72,
@@ -258,14 +208,6 @@
       "consistency": 90
     },
     "performance": {
-      "discipline_strength": {
-        "reining": 88,
-        "cowHorse": 62,
-        "ranchRiding": 60,
-        "cutting": 38,
-        "teamRoping": 24,
-        "barrelRacing": 20
-      },
       "earnings": 160000,
       "offspring_earnings": 15000000,
       "discipline_earnings": {
@@ -287,11 +229,6 @@
       "ranchRiding"
     ],
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Gunner",
-      "Shining Spark",
-      "Spooks Gotta Whiz"
-    ],
     "_athleticism": 88,
     "_cow_sense": 58,
     "_speed": 65,
@@ -322,14 +259,6 @@
       "consistency": 86
     },
     "performance": {
-      "discipline_strength": {
-        "reining": 92,
-        "cowHorse": 58,
-        "ranchRiding": 55,
-        "cutting": 35,
-        "teamRoping": 20,
-        "barrelRacing": 18
-      },
       "earnings": 520000,
       "offspring_earnings": 12000000,
       "discipline_earnings": {
@@ -349,10 +278,6 @@
       "reining"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Spooks Gotta Whiz",
-      "Smart Little Lena"
-    ],
     "_athleticism": 92,
     "_cow_sense": 40,
     "_speed": 65,
@@ -380,14 +305,6 @@
       "consistency": 82
     },
     "performance": {
-      "discipline_strength": {
-        "reining": 84,
-        "cowHorse": 55,
-        "ranchRiding": 52,
-        "cutting": 32,
-        "teamRoping": 22,
-        "barrelRacing": 18
-      },
       "earnings": 95000,
       "offspring_earnings": 1200000,
       "discipline_earnings": {
@@ -407,10 +324,6 @@
       "reining"
     ],
     "_sire_line_strength": "listed",
-    "_proven_crosses": [
-      "Gunner",
-      "Shining Spark"
-    ],
     "_athleticism": 84,
     "_cow_sense": 38,
     "_speed": 62,
@@ -438,14 +351,6 @@
       "consistency": 84
     },
     "performance": {
-      "discipline_strength": {
-        "reining": 86,
-        "cowHorse": 60,
-        "ranchRiding": 58,
-        "cutting": 38,
-        "teamRoping": 25,
-        "barrelRacing": 20
-      },
       "earnings": 110000,
       "offspring_earnings": 1800000,
       "discipline_earnings": {
@@ -465,9 +370,6 @@
       "reining"
     ],
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Spooks Gotta Whiz"
-    ],
     "_athleticism": 86,
     "_cow_sense": 42,
     "_speed": 64,
@@ -495,14 +397,6 @@
       "consistency": 96
     },
     "performance": {
-      "discipline_strength": {
-        "reining": 96,
-        "cutting": 15,
-        "cowHorse": 25,
-        "teamRoping": 12,
-        "barrelRacing": 8,
-        "ranchRiding": 60
-      },
       "earnings": 185757,
       "offspring_earnings": 15165000,
       "discipline_earnings": {
@@ -520,10 +414,6 @@
       "reining"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Smart Chic Olena daughters",
-      "Hollywood Dun It daughters"
-    ],
     "_athleticism": 94,
     "_cow_sense": 45,
     "_speed": 88,
@@ -554,14 +444,6 @@
       "consistency": 84
     },
     "performance": {
-      "discipline_strength": {
-        "reining": 80,
-        "cowHorse": 55,
-        "ranchRiding": 62,
-        "cutting": 32,
-        "teamRoping": 22,
-        "barrelRacing": 20
-      },
       "earnings": 55000,
       "offspring_earnings": 620000,
       "discipline_earnings": {
@@ -582,9 +464,6 @@
       "ranchRiding"
     ],
     "_sire_line_strength": "listed",
-    "_proven_crosses": [
-      "Gunner"
-    ],
     "_athleticism": 82,
     "_cow_sense": 40,
     "_speed": 60,
@@ -612,14 +491,6 @@
       "consistency": 80
     },
     "performance": {
-      "discipline_strength": {
-        "reining": 78,
-        "cowHorse": 52,
-        "ranchRiding": 55,
-        "cutting": 28,
-        "teamRoping": 20,
-        "barrelRacing": 15
-      },
       "earnings": 42000,
       "offspring_earnings": 480000,
       "discipline_earnings": {
@@ -639,7 +510,6 @@
       "reining"
     ],
     "_sire_line_strength": "listed",
-    "_proven_crosses": [],
     "_athleticism": 80,
     "_cow_sense": 35,
     "_speed": 60,
@@ -667,14 +537,6 @@
       "consistency": 84
     },
     "performance": {
-      "discipline_strength": {
-        "reining": 72,
-        "cowHorse": 65,
-        "ranchRiding": 75,
-        "cutting": 58,
-        "teamRoping": 42,
-        "barrelRacing": 32
-      },
       "earnings": 35000,
       "offspring_earnings": 380000,
       "discipline_earnings": {
@@ -696,10 +558,6 @@
       "cowHorse"
     ],
     "_sire_line_strength": "listed",
-    "_proven_crosses": [
-      "King",
-      "Leo"
-    ],
     "_athleticism": 78,
     "_cow_sense": 62,
     "_speed": 58,
@@ -727,14 +585,6 @@
       "consistency": 92
     },
     "performance": {
-      "discipline_strength": {
-        "reining": 90,
-        "cutting": 15,
-        "cowHorse": 25,
-        "teamRoping": 12,
-        "barrelRacing": 8,
-        "ranchRiding": 52
-      },
       "earnings": 279268,
       "offspring_earnings": 4000000,
       "discipline_earnings": {
@@ -752,10 +602,6 @@
       "reining"
     ],
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Shining Spark daughters",
-      "Gunnatrashya daughters"
-    ],
     "_athleticism": 92,
     "_cow_sense": 42,
     "_speed": 85,
@@ -786,14 +632,6 @@
       "consistency": 82
     },
     "performance": {
-      "discipline_strength": {
-        "reining": 76,
-        "cowHorse": 52,
-        "ranchRiding": 55,
-        "cutting": 30,
-        "teamRoping": 22,
-        "barrelRacing": 18
-      },
       "earnings": 48000,
       "offspring_earnings": 520000,
       "discipline_earnings": {
@@ -813,9 +651,6 @@
       "reining"
     ],
     "_sire_line_strength": "listed",
-    "_proven_crosses": [
-      "Gunner"
-    ],
     "_athleticism": 82,
     "_cow_sense": 38,
     "_speed": 62,
@@ -843,14 +678,6 @@
       "consistency": 99
     },
     "performance": {
-      "discipline_strength": {
-        "reining": 75,
-        "cutting": 99,
-        "cowHorse": 98,
-        "teamRoping": 72,
-        "barrelRacing": 55,
-        "ranchRiding": 70
-      },
       "earnings": 637711,
       "offspring_earnings": 57000000,
       "discipline_earnings": {
@@ -869,11 +696,6 @@
       "cowHorse"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "Peptoboonsmal daughters",
-      "Smart Little Lena daughters"
-    ],
     "_athleticism": 99,
     "_cow_sense": 99,
     "_speed": 88,
@@ -904,14 +726,6 @@
       "consistency": 95
     },
     "performance": {
-      "discipline_strength": {
-        "reining": 55,
-        "cutting": 97,
-        "cowHorse": 82,
-        "teamRoping": 65,
-        "barrelRacing": 35,
-        "ranchRiding": 50
-      },
       "earnings": 105038,
       "offspring_earnings": 57893606,
       "discipline_earnings": {
@@ -930,11 +744,6 @@
       "cowHorse"
     ],
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Metallic Cat daughters",
-      "High Brow Cat daughters",
-      "Peptoboonsmal daughters"
-    ],
     "_athleticism": 92,
     "_cow_sense": 95,
     "_speed": 72,
@@ -965,14 +774,6 @@
       "consistency": 92
     },
     "performance": {
-      "discipline_strength": {
-        "reining": 65,
-        "cutting": 99,
-        "cowHorse": 92,
-        "teamRoping": 75,
-        "barrelRacing": 50,
-        "ranchRiding": 65
-      },
       "earnings": 110784,
       "offspring_earnings": 97000000,
       "discipline_earnings": {
@@ -991,11 +792,6 @@
       "cowHorse"
     ],
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Peptoboonsmal daughters",
-      "Smart Little Lena daughters",
-      "Dual Pep daughters"
-    ],
     "_athleticism": 99,
     "_cow_sense": 99,
     "_speed": 88,
@@ -1026,14 +822,6 @@
       "consistency": 80
     },
     "performance": {
-      "discipline_strength": {
-        "cutting": 94,
-        "cowHorse": 78,
-        "reining": 45,
-        "ranchRiding": 58,
-        "teamRoping": 28,
-        "barrelRacing": 18
-      },
       "earnings": 540000,
       "offspring_earnings": 14000000,
       "discipline_earnings": {
@@ -1053,10 +841,6 @@
       "cutting"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "High Brow Cat",
-      "Smart Little Lena"
-    ],
     "_athleticism": 93,
     "_cow_sense": 98,
     "_speed": 76,
@@ -1084,14 +868,6 @@
       "consistency": 78
     },
     "performance": {
-      "discipline_strength": {
-        "cutting": 95,
-        "cowHorse": 82,
-        "reining": 48,
-        "ranchRiding": 60,
-        "teamRoping": 30,
-        "barrelRacing": 20
-      },
       "earnings": 680000,
       "offspring_earnings": 25000000,
       "discipline_earnings": {
@@ -1112,10 +888,6 @@
       "cowHorse"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Smart Little Lena",
-      "Metallic Cat"
-    ],
     "_athleticism": 96,
     "_cow_sense": 98,
     "_speed": 78,
@@ -1143,14 +915,6 @@
       "consistency": 85
     },
     "performance": {
-      "discipline_strength": {
-        "cutting": 96,
-        "cowHorse": 80,
-        "reining": 52,
-        "ranchRiding": 65,
-        "teamRoping": 32,
-        "barrelRacing": 22
-      },
       "earnings": 740000,
       "offspring_earnings": 35000000,
       "discipline_earnings": {
@@ -1173,13 +937,6 @@
       "reining"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Dual Rey",
-      "High Brow Cat",
-      "Metallic Cat",
-      "Peptoboonsmal",
-      "Spooks Gotta Whiz"
-    ],
     "_athleticism": 95,
     "_cow_sense": 99,
     "_speed": 78,
@@ -1207,14 +964,6 @@
       "consistency": 80
     },
     "performance": {
-      "discipline_strength": {
-        "cutting": 90,
-        "cowHorse": 75,
-        "reining": 45,
-        "ranchRiding": 58,
-        "teamRoping": 28,
-        "barrelRacing": 18
-      },
       "earnings": 140000,
       "offspring_earnings": 2200000,
       "discipline_earnings": {
@@ -1234,10 +983,6 @@
       "cutting"
     ],
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "High Brow Cat",
-      "Smart Little Lena"
-    ],
     "_athleticism": 90,
     "_cow_sense": 95,
     "_speed": 75,
@@ -1267,14 +1012,6 @@
     "performance": {
       "earnings": 351062,
       "offspring_earnings": 15300000,
-      "discipline_strength": {
-        "cutting": 90,
-        "cowHorse": 85,
-        "ranchRiding": 92,
-        "teamRoping": 78,
-        "reining": 65,
-        "barrelRacing": 25
-      },
       "discipline_earnings": {
         "cutting": 351062
       }
@@ -1293,13 +1030,6 @@
       "teamRoping"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "High Brow Cat daughters",
-      "Metallic Cat daughters",
-      "Peptoboonsmal daughters",
-      "Dual Rey daughters",
-      "Smart Little Lena daughters"
-    ],
     "_athleticism": 94,
     "_cow_sense": 90,
     "_speed": 86,
@@ -1330,14 +1060,6 @@
       "consistency": 76
     },
     "performance": {
-      "discipline_strength": {
-        "cutting": 85,
-        "cowHorse": 70,
-        "reining": 40,
-        "ranchRiding": 55,
-        "teamRoping": 25,
-        "barrelRacing": 18
-      },
       "earnings": 62000,
       "offspring_earnings": 820000,
       "discipline_earnings": {
@@ -1357,7 +1079,6 @@
       "cutting"
     ],
     "_sire_line_strength": "listed",
-    "_proven_crosses": [],
     "_athleticism": 88,
     "_cow_sense": 94,
     "_speed": 72,
@@ -1385,14 +1106,6 @@
       "consistency": 74
     },
     "performance": {
-      "discipline_strength": {
-        "cutting": 83,
-        "cowHorse": 68,
-        "reining": 38,
-        "ranchRiding": 52,
-        "teamRoping": 22,
-        "barrelRacing": 15
-      },
       "earnings": 45000,
       "offspring_earnings": 580000,
       "discipline_earnings": {
@@ -1412,7 +1125,6 @@
       "cutting"
     ],
     "_sire_line_strength": "listed",
-    "_proven_crosses": [],
     "_athleticism": 86,
     "_cow_sense": 93,
     "_speed": 70,
@@ -1440,14 +1152,6 @@
       "consistency": 90
     },
     "performance": {
-      "discipline_strength": {
-        "reining": 40,
-        "cutting": 92,
-        "cowHorse": 82,
-        "teamRoping": 55,
-        "barrelRacing": 25,
-        "ranchRiding": 40
-      },
       "earnings": 330436,
       "offspring_earnings": 16000000,
       "discipline_earnings": {
@@ -1466,10 +1170,6 @@
       "cowHorse"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Metallic Cat daughters",
-      "High Brow Cat daughters"
-    ],
     "_athleticism": 90,
     "_cow_sense": 91,
     "_speed": 72,
@@ -1500,14 +1200,6 @@
       "consistency": 82
     },
     "performance": {
-      "discipline_strength": {
-        "cutting": 78,
-        "cowHorse": 65,
-        "reining": 45,
-        "ranchRiding": 62,
-        "teamRoping": 35,
-        "barrelRacing": 25
-      },
       "earnings": 38000,
       "offspring_earnings": 420000,
       "discipline_earnings": {
@@ -1528,9 +1220,6 @@
       "ranchRiding"
     ],
     "_sire_line_strength": "listed",
-    "_proven_crosses": [
-      "King"
-    ],
     "_athleticism": 82,
     "_cow_sense": 82,
     "_speed": 62,
@@ -1558,14 +1247,6 @@
       "consistency": 86
     },
     "performance": {
-      "discipline_strength": {
-        "cowHorse": 92,
-        "cutting": 75,
-        "reining": 78,
-        "ranchRiding": 72,
-        "teamRoping": 35,
-        "barrelRacing": 25
-      },
       "earnings": 195000,
       "offspring_earnings": 3500000,
       "discipline_earnings": {
@@ -1586,11 +1267,6 @@
       "reining"
     ],
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Dual Rey",
-      "High Brow Cat",
-      "Smart Spook"
-    ],
     "_athleticism": 92,
     "_cow_sense": 85,
     "_speed": 72,
@@ -1618,14 +1294,6 @@
       "consistency": 84
     },
     "performance": {
-      "discipline_strength": {
-        "cowHorse": 90,
-        "cutting": 72,
-        "reining": 76,
-        "ranchRiding": 70,
-        "teamRoping": 32,
-        "barrelRacing": 22
-      },
       "earnings": 165000,
       "offspring_earnings": 2800000,
       "discipline_earnings": {
@@ -1646,10 +1314,6 @@
       "reining"
     ],
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Nu Cash",
-      "Smart Spook"
-    ],
     "_athleticism": 90,
     "_cow_sense": 82,
     "_speed": 70,
@@ -1677,14 +1341,6 @@
       "consistency": 80
     },
     "performance": {
-      "discipline_strength": {
-        "cowHorse": 82,
-        "cutting": 65,
-        "reining": 60,
-        "ranchRiding": 65,
-        "teamRoping": 30,
-        "barrelRacing": 22
-      },
       "earnings": 88000,
       "offspring_earnings": 980000,
       "discipline_earnings": {
@@ -1705,9 +1361,6 @@
       "cutting"
     ],
     "_sire_line_strength": "listed",
-    "_proven_crosses": [
-      "Dual Rey"
-    ],
     "_athleticism": 86,
     "_cow_sense": 80,
     "_speed": 68,
@@ -1735,14 +1388,6 @@
       "consistency": 80
     },
     "performance": {
-      "discipline_strength": {
-        "cowHorse": 78,
-        "cutting": 62,
-        "reining": 58,
-        "ranchRiding": 65,
-        "teamRoping": 35,
-        "barrelRacing": 28
-      },
       "earnings": 52000,
       "offspring_earnings": 620000,
       "discipline_earnings": {
@@ -1763,7 +1408,6 @@
       "ranchRiding"
     ],
     "_sire_line_strength": "listed",
-    "_proven_crosses": [],
     "_athleticism": 82,
     "_cow_sense": 75,
     "_speed": 66,
@@ -1791,14 +1435,6 @@
       "consistency": 82
     },
     "performance": {
-      "discipline_strength": {
-        "cowHorse": 75,
-        "cutting": 60,
-        "reining": 55,
-        "ranchRiding": 68,
-        "teamRoping": 38,
-        "barrelRacing": 30
-      },
       "earnings": 42000,
       "offspring_earnings": 480000,
       "discipline_earnings": {
@@ -1819,7 +1455,6 @@
       "ranchRiding"
     ],
     "_sire_line_strength": "listed",
-    "_proven_crosses": [],
     "_athleticism": 80,
     "_cow_sense": 72,
     "_speed": 62,
@@ -1847,14 +1482,6 @@
       "consistency": 88
     },
     "performance": {
-      "discipline_strength": {
-        "teamRoping": 90,
-        "barrelRacing": 75,
-        "cowHorse": 45,
-        "ranchRiding": 62,
-        "reining": 32,
-        "cutting": 22
-      },
       "earnings": 145000,
       "offspring_earnings": 1800000,
       "discipline_earnings": {
@@ -1875,11 +1502,6 @@
       "barrelRacing"
     ],
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "BF Frenchman",
-      "Corona Cartel",
-      "Frenchmans Guy"
-    ],
     "_athleticism": 88,
     "_cow_sense": 62,
     "_speed": 85,
@@ -1907,14 +1529,6 @@
       "consistency": 80
     },
     "performance": {
-      "discipline_strength": {
-        "teamRoping": 85,
-        "barrelRacing": 82,
-        "cowHorse": 38,
-        "ranchRiding": 55,
-        "reining": 28,
-        "cutting": 18
-      },
       "earnings": 118000,
       "offspring_earnings": 1400000,
       "discipline_earnings": {
@@ -1935,10 +1549,6 @@
       "barrelRacing"
     ],
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Takin On The Cash",
-      "Dash Ta Fame"
-    ],
     "_athleticism": 88,
     "_cow_sense": 55,
     "_speed": 90,
@@ -1966,14 +1576,6 @@
       "consistency": 78
     },
     "performance": {
-      "discipline_strength": {
-        "teamRoping": 82,
-        "barrelRacing": 72,
-        "cowHorse": 35,
-        "ranchRiding": 52,
-        "reining": 25,
-        "cutting": 18
-      },
       "earnings": 72000,
       "offspring_earnings": 920000,
       "discipline_earnings": {
@@ -1994,9 +1596,6 @@
       "barrelRacing"
     ],
     "_sire_line_strength": "listed",
-    "_proven_crosses": [
-      "BF Frenchman"
-    ],
     "_athleticism": 84,
     "_cow_sense": 48,
     "_speed": 86,
@@ -2024,14 +1623,6 @@
       "consistency": 76
     },
     "performance": {
-      "discipline_strength": {
-        "teamRoping": 80,
-        "barrelRacing": 68,
-        "cowHorse": 32,
-        "ranchRiding": 52,
-        "reining": 22,
-        "cutting": 15
-      },
       "earnings": 48000,
       "offspring_earnings": 580000,
       "discipline_earnings": {
@@ -2051,7 +1642,6 @@
       "teamRoping"
     ],
     "_sire_line_strength": "listed",
-    "_proven_crosses": [],
     "_athleticism": 82,
     "_cow_sense": 45,
     "_speed": 82,
@@ -2079,14 +1669,6 @@
       "consistency": 78
     },
     "performance": {
-      "discipline_strength": {
-        "teamRoping": 78,
-        "barrelRacing": 65,
-        "cowHorse": 35,
-        "ranchRiding": 55,
-        "reining": 25,
-        "cutting": 18
-      },
       "earnings": 35000,
       "offspring_earnings": 420000,
       "discipline_earnings": {
@@ -2107,7 +1689,6 @@
       "ranchRiding"
     ],
     "_sire_line_strength": "listed",
-    "_proven_crosses": [],
     "_athleticism": 80,
     "_cow_sense": 50,
     "_speed": 80,
@@ -2135,14 +1716,6 @@
       "consistency": 76
     },
     "performance": {
-      "discipline_strength": {
-        "teamRoping": 76,
-        "barrelRacing": 70,
-        "cowHorse": 32,
-        "ranchRiding": 52,
-        "reining": 22,
-        "cutting": 15
-      },
       "earnings": 38000,
       "offspring_earnings": 460000,
       "discipline_earnings": {
@@ -2163,7 +1736,6 @@
       "barrelRacing"
     ],
     "_sire_line_strength": "listed",
-    "_proven_crosses": [],
     "_athleticism": 80,
     "_cow_sense": 40,
     "_speed": 82,
@@ -2191,14 +1763,6 @@
       "consistency": 74
     },
     "performance": {
-      "discipline_strength": {
-        "teamRoping": 75,
-        "barrelRacing": 78,
-        "cowHorse": 30,
-        "ranchRiding": 50,
-        "reining": 20,
-        "cutting": 15
-      },
       "earnings": 42000,
       "offspring_earnings": 520000,
       "discipline_earnings": {
@@ -2219,7 +1783,6 @@
       "barrelRacing"
     ],
     "_sire_line_strength": "listed",
-    "_proven_crosses": [],
     "_athleticism": 86,
     "_cow_sense": 30,
     "_speed": 88,
@@ -2249,14 +1812,6 @@
     "performance": {
       "earnings": 290812,
       "offspring_earnings": 37317797,
-      "discipline_strength": {
-        "barrelRacing": 99,
-        "teamRoping": 72,
-        "ranchRiding": 55,
-        "cutting": 22,
-        "cowHorse": 18,
-        "reining": 15
-      },
       "discipline_earnings": {
         "barrelRacing": 32000000,
         "teamRoping": 5317797
@@ -2275,13 +1830,6 @@
       "ranchRiding"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Frenchmans Guy daughters",
-      "Streakin Six daughters",
-      "Tres Seis daughters",
-      "Corona Cartel daughters",
-      "A Streak Of Fling daughters"
-    ],
     "_athleticism": 98,
     "_cow_sense": 40,
     "_speed": 100,
@@ -2314,14 +1862,6 @@
     "performance": {
       "earnings": 0,
       "offspring_earnings": 20000000,
-      "discipline_strength": {
-        "barrelRacing": 99,
-        "teamRoping": 72,
-        "ranchRiding": 60,
-        "cutting": 30,
-        "cowHorse": 28,
-        "reining": 22
-      },
       "discipline_earnings": {
         "barrelRacing": 20000000
       }
@@ -2339,13 +1879,6 @@
       "ranchRiding"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Dash Ta Fame daughters",
-      "Tres Seis daughters",
-      "Streakin Six daughters",
-      "First Down Dash daughters",
-      "Streak Of Fling daughters"
-    ],
     "_athleticism": 96,
     "_cow_sense": 52,
     "_speed": 99,
@@ -2378,14 +1911,6 @@
     "performance": {
       "earnings": 557142,
       "offspring_earnings": 68219239,
-      "discipline_strength": {
-        "barrelRacing": 88,
-        "teamRoping": 80,
-        "ranchRiding": 62,
-        "cutting": 25,
-        "cowHorse": 22,
-        "reining": 18
-      },
       "discipline_earnings": {
         "barrelRacing": 68219239
       }
@@ -2403,13 +1928,6 @@
       "ranchRiding"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Mr Jess Perry daughters",
-      "Dash Ta Fame daughters",
-      "Tres Seis daughters",
-      "Frenchmans Guy daughters",
-      "Apollitical Jess daughters"
-    ],
     "_athleticism": 96,
     "_cow_sense": 40,
     "_speed": 98,
@@ -2440,14 +1958,6 @@
       "consistency": 76
     },
     "performance": {
-      "discipline_strength": {
-        "barrelRacing": 88,
-        "teamRoping": 70,
-        "cowHorse": 35,
-        "ranchRiding": 52,
-        "reining": 28,
-        "cutting": 15
-      },
       "earnings": 95000,
       "offspring_earnings": 1200000,
       "discipline_earnings": {
@@ -2468,9 +1978,6 @@
       "teamRoping"
     ],
     "_sire_line_strength": "listed",
-    "_proven_crosses": [
-      "Dash Ta Fame"
-    ],
     "_athleticism": 88,
     "_cow_sense": 25,
     "_speed": 92,
@@ -2498,14 +2005,6 @@
       "consistency": 76
     },
     "performance": {
-      "discipline_strength": {
-        "barrelRacing": 94,
-        "teamRoping": 70,
-        "cowHorse": 38,
-        "ranchRiding": 55,
-        "reining": 28,
-        "cutting": 18
-      },
       "earnings": 680000,
       "offspring_earnings": 22000000,
       "discipline_earnings": {
@@ -2526,10 +2025,6 @@
       "teamRoping"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Dash Ta Fame",
-      "Frenchmans Guy"
-    ],
     "_athleticism": 96,
     "_cow_sense": 20,
     "_speed": 98,
@@ -2557,14 +2052,6 @@
       "consistency": 78
     },
     "performance": {
-      "discipline_strength": {
-        "barrelRacing": 88,
-        "teamRoping": 72,
-        "cowHorse": 40,
-        "ranchRiding": 55,
-        "reining": 30,
-        "cutting": 20
-      },
       "earnings": 185000,
       "offspring_earnings": 4200000,
       "discipline_earnings": {
@@ -2585,10 +2072,6 @@
       "teamRoping"
     ],
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Frenchmans Guy",
-      "Corona Cartel"
-    ],
     "_athleticism": 90,
     "_cow_sense": 25,
     "_speed": 92,
@@ -2616,14 +2099,6 @@
       "consistency": 76
     },
     "performance": {
-      "discipline_strength": {
-        "barrelRacing": 86,
-        "teamRoping": 68,
-        "cowHorse": 35,
-        "ranchRiding": 52,
-        "reining": 25,
-        "cutting": 15
-      },
       "earnings": 120000,
       "offspring_earnings": 1800000,
       "discipline_earnings": {
@@ -2643,9 +2118,6 @@
       "barrelRacing"
     ],
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Frenchmans Guy"
-    ],
     "_athleticism": 88,
     "_cow_sense": 22,
     "_speed": 92,
@@ -2673,14 +2145,6 @@
       "consistency": 74
     },
     "performance": {
-      "discipline_strength": {
-        "barrelRacing": 84,
-        "teamRoping": 65,
-        "cowHorse": 32,
-        "ranchRiding": 50,
-        "reining": 22,
-        "cutting": 15
-      },
       "earnings": 68000,
       "offspring_earnings": 880000,
       "discipline_earnings": {
@@ -2701,7 +2165,6 @@
       "teamRoping"
     ],
     "_sire_line_strength": "listed",
-    "_proven_crosses": [],
     "_athleticism": 86,
     "_cow_sense": 20,
     "_speed": 90,
@@ -2729,14 +2192,6 @@
       "consistency": 88
     },
     "performance": {
-      "discipline_strength": {
-        "reining": 25,
-        "cutting": 15,
-        "cowHorse": 20,
-        "teamRoping": 40,
-        "barrelRacing": 97,
-        "ranchRiding": 45
-      },
       "earnings": 95201,
       "offspring_earnings": 10415538,
       "discipline_earnings": {
@@ -2754,10 +2209,6 @@
       "barrelRacing"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Corona Cartel daughters",
-      "Dash Ta Fame daughters"
-    ],
     "_athleticism": 90,
     "_cow_sense": 55,
     "_speed": 94,
@@ -2788,14 +2239,6 @@
       "consistency": 72
     },
     "performance": {
-      "discipline_strength": {
-        "barrelRacing": 80,
-        "teamRoping": 62,
-        "cowHorse": 30,
-        "ranchRiding": 48,
-        "reining": 20,
-        "cutting": 12
-      },
       "earnings": 38000,
       "offspring_earnings": 480000,
       "discipline_earnings": {
@@ -2815,7 +2258,6 @@
       "barrelRacing"
     ],
     "_sire_line_strength": "listed",
-    "_proven_crosses": [],
     "_athleticism": 82,
     "_cow_sense": 18,
     "_speed": 86,
@@ -2843,14 +2285,6 @@
       "consistency": 90
     },
     "performance": {
-      "discipline_strength": {
-        "ranchRiding": 85,
-        "cutting": 80,
-        "cowHorse": 78,
-        "reining": 68,
-        "teamRoping": 52,
-        "barrelRacing": 42
-      },
       "earnings": 980000,
       "offspring_earnings": 40000000,
       "discipline_earnings": {
@@ -2874,11 +2308,6 @@
       "reining"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "King",
-      "Leo",
-      "Smart Little Lena"
-    ],
     "_athleticism": 85,
     "_cow_sense": 80,
     "_speed": 68,
@@ -2906,14 +2335,6 @@
       "consistency": 90
     },
     "performance": {
-      "discipline_strength": {
-        "ranchRiding": 90,
-        "reining": 65,
-        "cowHorse": 68,
-        "cutting": 58,
-        "teamRoping": 70,
-        "barrelRacing": 45
-      },
       "earnings": 640000,
       "offspring_earnings": 28000000,
       "discipline_earnings": {
@@ -2936,10 +2357,6 @@
       "teamRoping"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Doc Bar",
-      "Leo"
-    ],
     "_athleticism": 82,
     "_cow_sense": 65,
     "_speed": 62,
@@ -2973,14 +2390,6 @@
     "performance": {
       "earnings": 272151,
       "offspring_earnings": 10380261,
-      "discipline_strength": {
-        "reining": 28,
-        "cutting": 95,
-        "cowHorse": 85,
-        "teamRoping": 38,
-        "barrelRacing": 18,
-        "ranchRiding": 48
-      },
       "discipline_earnings": {
         "cutting": 272151
       }
@@ -2990,10 +2399,6 @@
       "demand_index": 88
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Shining Spark daughters",
-      "Smart Little Lena daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -3030,14 +2435,6 @@
     "performance": {
       "earnings": 420559,
       "offspring_earnings": 20000000,
-      "discipline_strength": {
-        "reining": 48,
-        "cutting": 97,
-        "cowHorse": 92,
-        "teamRoping": 58,
-        "barrelRacing": 32,
-        "ranchRiding": 45
-      },
       "discipline_earnings": {
         "cutting": 420559
       }
@@ -3047,10 +2444,6 @@
       "demand_index": 98
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "High Brow Cat daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -3066,7 +2459,7 @@
     "id": "add004",
     "name": "Hashtags",
     "station": "Valley Equine",
-    "source_url": "https://6666stallions.com/stallion/hashtags/",
+    "source_url": "https://valleyequinerepro.com/stallions/hashtags/",
     "genetics": {
       "sire": "Metallic Cat",
       "dam": "Dual Rey Tag",
@@ -3087,26 +2480,15 @@
     "performance": {
       "earnings": 485293,
       "offspring_earnings": 5327661,
-      "discipline_strength": {
-        "reining": 35,
-        "cutting": 95,
-        "cowHorse": 72,
-        "teamRoping": 68,
-        "barrelRacing": 40,
-        "ranchRiding": 40
-      },
       "discipline_earnings": {
         "cutting": 485293
       }
     },
     "market": {
-      "demand_index": 92
+      "demand_index": 92,
+      "stud_fee": 5800
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "Peptoboonsmal daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -3116,7 +2498,7 @@
     "_speed": 78,
     "_stamina": 80,
     "_temperament": 90,
-    "_performance_summary": "Hashtags 'Tag' -- 2013 Blue Roan Stallion. By Metallic Cat (QData/NCHA #2 All-Time Leading Cutting Sire, NRCHA #1 All-Time Leading Sire, PE $83.6M+, 2008 NCHA Futurity Champion, 2009 NCHA HoY, NCHA HoF -- full profile separate entry) out of Dual Rey Tag (Dual Rey x Playin Tag/Playgun -- LTE $57,251; 2009 NCHA Futurity 3YO Open semifinalist; 2010 NCHA Summer Spectacular 4YO Open semifinalist; dam produce confirmed $1.1M+ across 9 earners including Hashtags $485K, Tagging $268,992 NCHA Open Futurity Reserve Champion, Stag $121,891 2023 PCCHA Amateur Classic/Challenge Gelding Champion, Taggline $65,013 NCHA Open Futurity finalist and 2023 AQHA World L2 Senior WCH Champion, Pound Sign $56,694 AQHA World Champion Junior Cutting Horse, Tagging It $44,474 top 10 NRCHA Open Futurity). Playin Tag (Dual Rey Tag's dam): by Playgun (Freckles Playboy x Gay Jay/Rey Jay x Peponita dam line) -- the pedigree carries documented Super Stakes affinity traced through this lineage. Dual Rey (dam's sire): LTE $105,038, AQHA Hall of Fame, PE $51M+, NCHA #3 All-Time Leading Cutting Sire, top 25 All-Time Leading Maternal Grandsire -- daughters have produced earners of more than $10 million in the arena including Super Stakes Champions Reys Desire, TR Dual Rey, Dual Smart Rey, and SVL Reyl Smart. QHN 'In the Blood' analysis confirms the pedigree carries a collateral linebreeding to Peptoboonsmal and Dual Pep -- confirmed three-quarter brothers in blood through Metallic Cat's dam line and Dual Rey's sire Dual Pep. Bred by Jim Haworth, Southwest City, Missouri. Owned by Hashtag Ventures LP, Bluff Dale TX. Shown throughout career by Tatum Rice. Genetic panel: 4-Panel N/N, HERDA N/N, GBED N/G (one-copy carrier -- mare owners should test). Standing at Valley Equine, Stephenville TX. LTE $485,293. Described as 'a Navy SEAL in the cutting pen for the way he won everything regardless of footing.' Confirmed full show record: 2016 NCHA Futurity 3YO Open finalist; 2017 NCHA Super Stakes 4YO Open Champion (scored 220, $74,095); 2017 West Texas Futurity 4YO Open Champion; 2017 Idaho Futurity Derby 4YO Open Champion; 2017 NCHA Summer Spectacular 3rd (tie) 4YO Open; 2017 Breeders Invitational 4th 4YO Open; 2017 PCCHA Derby, The Ike, and Cattlemens Derby 4YO Open finalist; 2018 Bonanza Cutting 5/6YO Open Champion; 2018 Idaho Futurity 5/6YO Open Champion; 2018 Augusta Futurity 5/6YO Open Reserve Champion; 2018 Breeders Invitational 5/6YO Open Champion; 2018 El Rancho Futurity 5/6YO Open Champion; 2018 NCHA World Championship Finals Open Reserve Champion; 2018 NCHA Open World Champion. NCHA Hall of Fame. PE $5,327,661 (EquiStat Stallion Register). 2022 NCHA Leading Freshman Sire. 2024 NCHA #7 Leading Cutting Sire. 2025 QData Top 15 Leading Cutting Sire. Top confirmed offspring: Too Hot To Tagg (x Too Hot/Hottish, LTE $721,000+, 2025 NCHA Open Reserve Horse of the Year, 2024 NCHA Open Futurity Champion, 2024 NCHA Open Derby Champion, 2024 PCCHA Open Derby Co-Champion, 2026 NCHA Super Stakes 5/6YO Open Reserve Champion scored 223 with Kenny Platt for JH Nail Ranch); Jazlyn (x MK Cats Kitty/Spots Hot, 2024 NCHA Open Horse of the Year, 2024 NCHA Super Stakes 4YO Open Champion scored 228 with James Payne for Kathleen Moore, 2025 NCHA Reserve Horse of the Year -- bred by Slate River Ranch); FS Fine Lil Hashtag (2026 NCHA Super Stakes 4YO Amateur Derby Champion, scored 225 with Sawyer McWilliams for Brittinee McWilliams, $8,416); Price Tagg (2026 NCHA Super Stakes Amateur Reserve Champion, scored 219, $5,414, Reagan Glenn); Ms Milania (x Little Miss One Time/One Time Pepto, LTE $191,609); Purposely Tagged (2025 ARHFA Sun Circuit heading winner with Joseph Harrison for $11,473 -- 'winningest futurity heeler in America'). Three-time PRCA World Champion Junior Nogueira (bred his $750K+ ProRodeo mare Apache R Hali to Hashtags): 'She's absolutely beautiful, and she moves so effortlessly. Everything has been easy for her, and she's been gentle and kind since day one.' Wes Ashlock on Ms Milania: 'This has been the best cross so far. She's extremely smart. I've had several Hashtags I've sold through the 2-year-old sales, and I've had a great experience with them. I wish I had more.' NRCHA trainer Corey Cushing: 'The few I have rode have been trainable, willing and talented. He offers a lot that way.'"
+    "_performance_summary": "Hashtags \"Tag\" — 2013 Blue Roan Stallion. By Metallic Cat × Dual Rey Tag (by Dual Rey). LTE $485,293. PE $5,327,661 (Stallion Register). 2018 NCHA Open World Champion. NCHA Super Stakes Open Champion. West Texas Derby Open Champion. NCHA Hall of Fame. 2022 NCHA Leading Freshman Sire. Owned by Hashtag Ventures LP. Standing at Valley Equine, 21351 N. US Hwy 377, Stephenville, TX 76401. 2026 Breeding Fee: $5,800. (254) 485-8280. office@valleyequinerepro.com.\n\nSHOW CAREER: LTE $485,293 NCHA. 2018 NCHA Open World Champion. NCHA Super Stakes Open Champion. West Texas Derby Open Champion. NCHA Hall of Fame. Described as \"a Navy SEAL in the cutting pen for the way he won everything regardless of footing\" (Team Roping Journal).\n\nPEDIGREE: By Metallic Cat (LTE $637,711; 2008 NCHA Open Futurity Champion; NCHA Hall of Fame; PE $83M+; #2 All-Time NCHA Leading Sire; #1 All-Time NRCHA Leading Sire) out of Dual Rey Tag (by Dual Rey — LTE $105,038; AQHA Hall of Fame; PE $51M+; NCHA #3 All-Time Leading Cutting Sire).\n\nSIRE RECORD: PE $5,327,661. NCHA $5 Million Sire. 2022 NCHA Leading Freshman Sire. Sired the 2024 NCHA Open Horse of the Year. Sired the 2025 NCHA Reserve Horse of the Year. Sired the 2024 NCHA Open Futurity Champion. Top offspring confirmed at 2026 NCHA Super Stakes: Too Hot To Tagg — 2026 NCHA Super Stakes 5/6YO Open Reserve Champion, scored 223 with Kenny Platt for JH Nail Ranch, earning $28,670; FS Fine Lil Hashtag — 2026 NCHA Super Stakes 4YO Amateur Derby Champion, scored 225 with Sawyer McWilliams for Brittinee McWilliams, earning $8,416; Price Tagg — 2026 NCHA Super Stakes Amateur Reserve Champion, scored 219, earning $5,414 for Reagan Glenn. Purposely Tagged described as \"winningest futurity heeler in America\" — won $11,473 in Scottsdale for Joseph Harrison (Team Roping Journal).\n\nFOAL ELIGIBILITIES: Valley Equine Super Stallion Incentive, Breeders Invitational, NCHA Super Stakes, PCCHA, NRCHA Stallion Stakes, Riata Buckle, Royal Crown Roping, Gold Buckle Futurities."
   },
   {
     "id": "add005",
@@ -3143,14 +2525,6 @@
     "performance": {
       "earnings": 452687,
       "offspring_earnings": 2517756,
-      "discipline_strength": {
-        "reining": 30,
-        "cutting": 90,
-        "cowHorse": 65,
-        "teamRoping": 42,
-        "barrelRacing": 25,
-        "ranchRiding": 35
-      },
       "discipline_earnings": {
         "cutting": 452687
       }
@@ -3160,10 +2534,6 @@
       "demand_index": 78
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "High Brow Cat daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -3201,14 +2571,6 @@
     },
     "performance": {
       "earnings": 69963,
-      "discipline_strength": {
-        "reining": 25,
-        "cutting": 75,
-        "cowHorse": 55,
-        "teamRoping": 22,
-        "barrelRacing": 15,
-        "ranchRiding": 40
-      },
       "discipline_earnings": {
         "cutting": 69963
       }
@@ -3217,10 +2579,6 @@
       "demand_index": 42
     },
     "_sire_line_strength": "strong",
-    "_proven_crosses": [
-      "CD Olena daughters",
-      "Dual Pep daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -3257,14 +2615,6 @@
     "performance": {
       "earnings": 167472,
       "offspring_earnings": 15449532,
-      "discipline_strength": {
-        "reining": 88,
-        "cutting": 88,
-        "cowHorse": 82,
-        "teamRoping": 65,
-        "barrelRacing": 35,
-        "ranchRiding": 72
-      },
       "discipline_earnings": {
         "cutting": 167472
       }
@@ -3274,10 +2624,6 @@
       "demand_index": 85
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "High Brow Cat daughters",
-      "Peptoboonsmal daughters"
-    ],
     "_disciplines": [
       "cutting",
       "reining",
@@ -3315,14 +2661,6 @@
     "performance": {
       "earnings": 438315,
       "offspring_earnings": 16638605,
-      "discipline_strength": {
-        "reining": 40,
-        "cutting": 95,
-        "cowHorse": 75,
-        "teamRoping": 55,
-        "barrelRacing": 30,
-        "ranchRiding": 35
-      },
       "discipline_earnings": {
         "cutting": 438315
       }
@@ -3332,10 +2670,6 @@
       "demand_index": 92
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "Smart Little Lena daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -3372,14 +2706,6 @@
     "performance": {
       "earnings": 301843,
       "offspring_earnings": 23842560,
-      "discipline_strength": {
-        "reining": 40,
-        "cutting": 93,
-        "cowHorse": 72,
-        "teamRoping": 55,
-        "barrelRacing": 25,
-        "ranchRiding": 40
-      },
       "discipline_earnings": {
         "cutting": 301843
       }
@@ -3388,10 +2714,6 @@
       "demand_index": 90
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "High Brow Cat daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -3428,14 +2750,6 @@
     "performance": {
       "earnings": 354032,
       "offspring_earnings": 4979851,
-      "discipline_strength": {
-        "reining": 30,
-        "cutting": 90,
-        "cowHorse": 60,
-        "teamRoping": 55,
-        "barrelRacing": 20,
-        "ranchRiding": 35
-      },
       "discipline_earnings": {
         "cutting": 354032
       }
@@ -3445,10 +2759,6 @@
       "demand_index": 88
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Metallic Cat daughters",
-      "Hottish daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -3487,14 +2797,6 @@
     "performance": {
       "earnings": 435069,
       "offspring_earnings": 526820,
-      "discipline_strength": {
-        "reining": 30,
-        "cutting": 92,
-        "cowHorse": 68,
-        "teamRoping": 50,
-        "barrelRacing": 20,
-        "ranchRiding": 35
-      },
       "discipline_earnings": {
         "cutting": 435069
       }
@@ -3504,10 +2806,6 @@
       "demand_index": 80
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "High Brow Cat daughters"
-    ],
     "_disciplines": [
       "cutting"
     ],
@@ -3543,14 +2841,6 @@
     "performance": {
       "earnings": 527682,
       "offspring_earnings": 9419211,
-      "discipline_strength": {
-        "reining": 35,
-        "cutting": 93,
-        "cowHorse": 60,
-        "teamRoping": 50,
-        "barrelRacing": 22,
-        "ranchRiding": 38
-      },
       "discipline_earnings": {
         "cutting": 527682
       }
@@ -3559,10 +2849,6 @@
       "demand_index": 82
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "High Brow Cat daughters",
-      "Metallic Cat daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -3601,14 +2887,6 @@
     "performance": {
       "earnings": 287381,
       "offspring_earnings": 11000000,
-      "discipline_strength": {
-        "reining": 35,
-        "cutting": 88,
-        "cowHorse": 65,
-        "teamRoping": 55,
-        "barrelRacing": 30,
-        "ranchRiding": 40
-      },
       "discipline_earnings": {
         "cutting": 287381
       }
@@ -3617,10 +2895,6 @@
       "demand_index": 82
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Metallic Cat daughters",
-      "High Brow Cat daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -3657,14 +2931,6 @@
     "performance": {
       "earnings": 463962,
       "offspring_earnings": 5941502,
-      "discipline_strength": {
-        "reining": 35,
-        "cutting": 90,
-        "cowHorse": 65,
-        "teamRoping": 50,
-        "barrelRacing": 22,
-        "ranchRiding": 38
-      },
       "discipline_earnings": {
         "cutting": 463962
       }
@@ -3674,10 +2940,6 @@
       "demand_index": 82
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Metallic Cat daughters",
-      "High Brow Cat daughters"
-    ],
     "_disciplines": [
       "cutting"
     ],
@@ -3713,14 +2975,6 @@
     "performance": {
       "earnings": 230918,
       "offspring_earnings": 2205165,
-      "discipline_strength": {
-        "reining": 30,
-        "cutting": 85,
-        "cowHorse": 60,
-        "teamRoping": 55,
-        "barrelRacing": 22,
-        "ranchRiding": 38
-      },
       "discipline_earnings": {
         "cutting": 230918
       }
@@ -3730,10 +2984,6 @@
       "demand_index": 72
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "Peptoboonsmal daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -3770,14 +3020,6 @@
     "performance": {
       "earnings": 302756,
       "offspring_earnings": 2224713,
-      "discipline_strength": {
-        "reining": 30,
-        "cutting": 90,
-        "cowHorse": 65,
-        "teamRoping": 50,
-        "barrelRacing": 20,
-        "ranchRiding": 35
-      },
       "discipline_earnings": {
         "cutting": 302756
       }
@@ -3787,10 +3029,6 @@
       "demand_index": 75
     },
     "_sire_line_strength": "strong",
-    "_proven_crosses": [
-      "Metallic Cat daughters",
-      "Smart Little Lena daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -3829,14 +3067,6 @@
     "performance": {
       "earnings": 367101,
       "offspring_earnings": 3811012,
-      "discipline_strength": {
-        "reining": 35,
-        "cutting": 90,
-        "cowHorse": 65,
-        "teamRoping": 48,
-        "barrelRacing": 22,
-        "ranchRiding": 38
-      },
       "discipline_earnings": {
         "cutting": 367101
       }
@@ -3846,10 +3076,6 @@
       "demand_index": 90
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "Metallic Cat daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -3886,14 +3112,6 @@
     "performance": {
       "earnings": 497370,
       "offspring_earnings": 526820,
-      "discipline_strength": {
-        "reining": 30,
-        "cutting": 93,
-        "cowHorse": 65,
-        "teamRoping": 50,
-        "barrelRacing": 20,
-        "ranchRiding": 35
-      },
       "discipline_earnings": {
         "cutting": 497370
       }
@@ -3903,10 +3121,6 @@
       "demand_index": 85
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "High Brow Cat daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -3942,14 +3156,6 @@
     },
     "performance": {
       "earnings": 160250,
-      "discipline_strength": {
-        "reining": 35,
-        "cutting": 82,
-        "cowHorse": 62,
-        "teamRoping": 45,
-        "barrelRacing": 20,
-        "ranchRiding": 35
-      },
       "discipline_earnings": {
         "cutting": 160250
       }
@@ -3959,10 +3165,6 @@
       "demand_index": 65
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "High Brow Cat daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -3998,14 +3200,6 @@
     },
     "performance": {
       "earnings": 379775,
-      "discipline_strength": {
-        "reining": 35,
-        "cutting": 85,
-        "cowHorse": 65,
-        "teamRoping": 48,
-        "barrelRacing": 22,
-        "ranchRiding": 35
-      },
       "discipline_earnings": {
         "cutting": 379775
       }
@@ -4015,10 +3209,6 @@
       "demand_index": 70
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "High Brow Cat daughters",
-      "Peptoboonsmal daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -4054,14 +3244,6 @@
     },
     "performance": {
       "earnings": 441762,
-      "discipline_strength": {
-        "reining": 30,
-        "cutting": 90,
-        "cowHorse": 62,
-        "teamRoping": 45,
-        "barrelRacing": 18,
-        "ranchRiding": 32
-      },
       "discipline_earnings": {
         "cutting": 441762
       }
@@ -4071,10 +3253,6 @@
       "demand_index": 72
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "Peptoboonsmal daughters"
-    ],
     "_disciplines": [
       "cutting"
     ],
@@ -4109,14 +3287,6 @@
     },
     "performance": {
       "earnings": 436150,
-      "discipline_strength": {
-        "reining": 35,
-        "cutting": 90,
-        "cowHorse": 65,
-        "teamRoping": 48,
-        "barrelRacing": 20,
-        "ranchRiding": 35
-      },
       "discipline_earnings": {
         "cutting": 436150
       }
@@ -4126,10 +3296,6 @@
       "demand_index": 78
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Metallic Cat daughters",
-      "Peptoboonsmal daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -4167,14 +3333,6 @@
     },
     "performance": {
       "earnings": 449312,
-      "discipline_strength": {
-        "reining": 32,
-        "cutting": 82,
-        "cowHorse": 68,
-        "teamRoping": 48,
-        "barrelRacing": 20,
-        "ranchRiding": 35
-      },
       "discipline_earnings": {
         "cutting": 449312
       }
@@ -4184,10 +3342,6 @@
       "demand_index": 72
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "Smart Little Lena daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -4223,14 +3377,6 @@
     },
     "performance": {
       "earnings": 296780,
-      "discipline_strength": {
-        "reining": 30,
-        "cutting": 88,
-        "cowHorse": 60,
-        "teamRoping": 52,
-        "barrelRacing": 22,
-        "ranchRiding": 35
-      },
       "discipline_earnings": {
         "cutting": 296780
       }
@@ -4240,10 +3386,6 @@
       "demand_index": 78
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "Peptoboonsmal daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -4280,14 +3422,6 @@
     "performance": {
       "earnings": 313192,
       "offspring_earnings": 26186416,
-      "discipline_strength": {
-        "reining": 30,
-        "cutting": 98,
-        "cowHorse": 65,
-        "teamRoping": 50,
-        "barrelRacing": 25,
-        "ranchRiding": 35
-      },
       "discipline_earnings": {
         "cutting": 302054
       }
@@ -4297,10 +3431,6 @@
       "demand_index": 88
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Metallic Cat daughters",
-      "High Brow Cat daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -4334,14 +3464,6 @@
     },
     "performance": {
       "earnings": 84347,
-      "discipline_strength": {
-        "reining": 25,
-        "cutting": 78,
-        "cowHorse": 55,
-        "teamRoping": 45,
-        "barrelRacing": 22,
-        "ranchRiding": 35
-      },
       "discipline_earnings": {
         "cutting": 84347
       }
@@ -4351,10 +3473,6 @@
       "demand_index": 70
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "High Brow Cat daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -4390,14 +3508,6 @@
     },
     "performance": {
       "earnings": 182221,
-      "discipline_strength": {
-        "reining": 25,
-        "cutting": 83,
-        "cowHorse": 55,
-        "teamRoping": 48,
-        "barrelRacing": 20,
-        "ranchRiding": 35
-      },
       "discipline_earnings": {
         "cutting": 182221
       }
@@ -4407,10 +3517,6 @@
       "demand_index": 60
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Metallic Cat daughters",
-      "High Brow Cat daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -4446,14 +3552,6 @@
     },
     "performance": {
       "earnings": 668310,
-      "discipline_strength": {
-        "reining": 30,
-        "cutting": 97,
-        "cowHorse": 60,
-        "teamRoping": 50,
-        "barrelRacing": 22,
-        "ranchRiding": 35
-      },
       "discipline_earnings": {
         "cutting": 668310
       }
@@ -4463,10 +3561,6 @@
       "demand_index": 85
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Peptoboonsmal daughters",
-      "Smart Little Lena daughters"
-    ],
     "_disciplines": [
       "cutting"
     ],
@@ -4500,14 +3594,6 @@
     "performance": {
       "earnings": 173771,
       "offspring_earnings": 212000,
-      "discipline_strength": {
-        "reining": 75,
-        "cutting": 35,
-        "cowHorse": 90,
-        "teamRoping": 52,
-        "barrelRacing": 20,
-        "ranchRiding": 45
-      },
       "discipline_earnings": {
         "cowHorse": 173771
       }
@@ -4516,10 +3602,6 @@
       "demand_index": 65
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "High Brow Cat daughters"
-    ],
     "_disciplines": [
       "cowHorse",
       "cutting",
@@ -4557,14 +3639,6 @@
     "performance": {
       "earnings": 437016,
       "offspring_earnings": 3262972,
-      "discipline_strength": {
-        "reining": 30,
-        "cutting": 90,
-        "cowHorse": 60,
-        "teamRoping": 55,
-        "barrelRacing": 30,
-        "ranchRiding": 35
-      },
       "discipline_earnings": {
         "cutting": 437016
       }
@@ -4574,10 +3648,6 @@
       "demand_index": 72
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "Peptoboonsmal daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -4614,14 +3684,6 @@
     "performance": {
       "earnings": 205224,
       "offspring_earnings": 1173000,
-      "discipline_strength": {
-        "reining": 35,
-        "cutting": 95,
-        "cowHorse": 60,
-        "teamRoping": 52,
-        "barrelRacing": 25,
-        "ranchRiding": 38
-      },
       "discipline_earnings": {
         "cutting": 205224
       }
@@ -4631,10 +3693,6 @@
       "demand_index": 90
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Peptoboonsmal daughters",
-      "Smart Little Lena daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -4670,14 +3728,6 @@
     },
     "performance": {
       "earnings": 422270,
-      "discipline_strength": {
-        "reining": 30,
-        "cutting": 87,
-        "cowHorse": 65,
-        "teamRoping": 50,
-        "barrelRacing": 20,
-        "ranchRiding": 35
-      },
       "discipline_earnings": {
         "cutting": 422270
       }
@@ -4687,10 +3737,6 @@
       "demand_index": 70
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "Peptoboonsmal daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -4728,14 +3774,6 @@
     },
     "performance": {
       "earnings": 254011,
-      "discipline_strength": {
-        "reining": 30,
-        "cutting": 85,
-        "cowHorse": 62,
-        "teamRoping": 50,
-        "barrelRacing": 20,
-        "ranchRiding": 35
-      },
       "discipline_earnings": {
         "cutting": 254011
       }
@@ -4745,10 +3783,6 @@
       "demand_index": 65
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "High Brow Cat daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -4785,14 +3819,6 @@
     "performance": {
       "earnings": 135187,
       "offspring_earnings": 792879,
-      "discipline_strength": {
-        "reining": 65,
-        "cutting": 40,
-        "cowHorse": 90,
-        "teamRoping": 85,
-        "barrelRacing": 25,
-        "ranchRiding": 70
-      },
       "discipline_earnings": {
         "cowHorse": 135187
       }
@@ -4801,10 +3827,6 @@
       "demand_index": 75
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "Metallic Cat daughters"
-    ],
     "_disciplines": [
       "cowHorse",
       "teamRoping"
@@ -4840,14 +3862,6 @@
     },
     "performance": {
       "earnings": 575979,
-      "discipline_strength": {
-        "reining": 30,
-        "cutting": 96,
-        "cowHorse": 60,
-        "teamRoping": 50,
-        "barrelRacing": 22,
-        "ranchRiding": 38
-      },
       "discipline_earnings": {
         "cutting": 575979
       }
@@ -4857,10 +3871,6 @@
       "demand_index": 85
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Metallic Cat daughters",
-      "High Brow Cat daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -4896,14 +3906,6 @@
     },
     "performance": {
       "earnings": 148089,
-      "discipline_strength": {
-        "reining": 40,
-        "cutting": 78,
-        "cowHorse": 65,
-        "teamRoping": 60,
-        "barrelRacing": 35,
-        "ranchRiding": 45
-      },
       "discipline_earnings": {
         "cutting": 148089
       }
@@ -4913,10 +3915,6 @@
       "demand_index": 58
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "Peptoboonsmal daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -4952,14 +3950,6 @@
     },
     "performance": {
       "earnings": 234971,
-      "discipline_strength": {
-        "reining": 25,
-        "cutting": 82,
-        "cowHorse": 55,
-        "teamRoping": 48,
-        "barrelRacing": 20,
-        "ranchRiding": 35
-      },
       "discipline_earnings": {
         "cutting": 234971
       }
@@ -4969,10 +3959,6 @@
       "demand_index": 65
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "High Brow Cat daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -5009,14 +3995,6 @@
     "performance": {
       "earnings": 305284,
       "offspring_earnings": 9390419,
-      "discipline_strength": {
-        "reining": 40,
-        "cutting": 92,
-        "cowHorse": 70,
-        "teamRoping": 58,
-        "barrelRacing": 35,
-        "ranchRiding": 48
-      },
       "discipline_earnings": {
         "cutting": 305284
       }
@@ -5025,10 +4003,6 @@
       "demand_index": 82
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "Peptoboonsmal daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -5062,14 +4036,6 @@
     },
     "performance": {
       "earnings": 216536,
-      "discipline_strength": {
-        "reining": 25,
-        "cutting": 85,
-        "cowHorse": 60,
-        "teamRoping": 50,
-        "barrelRacing": 20,
-        "ranchRiding": 35
-      },
       "discipline_earnings": {
         "cutting": 216536
       }
@@ -5079,10 +4045,6 @@
       "demand_index": 65
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "Metallic Cat daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -5118,14 +4080,6 @@
     },
     "performance": {
       "earnings": 383249,
-      "discipline_strength": {
-        "reining": 30,
-        "cutting": 94,
-        "cowHorse": 62,
-        "teamRoping": 50,
-        "barrelRacing": 22,
-        "ranchRiding": 38
-      },
       "discipline_earnings": {
         "cutting": 383249
       }
@@ -5135,10 +4089,6 @@
       "demand_index": 88
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "Peptoboonsmal daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -5174,14 +4124,6 @@
     },
     "performance": {
       "earnings": 463279,
-      "discipline_strength": {
-        "reining": 30,
-        "cutting": 90,
-        "cowHorse": 65,
-        "teamRoping": 55,
-        "barrelRacing": 22,
-        "ranchRiding": 38
-      },
       "discipline_earnings": {
         "cutting": 463279
       }
@@ -5191,10 +4133,6 @@
       "demand_index": 75
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Peptoboonsmal daughters",
-      "Smart Little Lena daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -5230,14 +4168,6 @@
     },
     "performance": {
       "earnings": 353399,
-      "discipline_strength": {
-        "reining": 35,
-        "cutting": 87,
-        "cowHorse": 68,
-        "teamRoping": 50,
-        "barrelRacing": 22,
-        "ranchRiding": 38
-      },
       "discipline_earnings": {
         "cutting": 353399
       }
@@ -5247,10 +4177,6 @@
       "demand_index": 70
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Peptoboonsmal daughters",
-      "High Brow Cat daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -5286,14 +4212,6 @@
     },
     "performance": {
       "earnings": 59888,
-      "discipline_strength": {
-        "reining": 25,
-        "cutting": 78,
-        "cowHorse": 58,
-        "teamRoping": 45,
-        "barrelRacing": 20,
-        "ranchRiding": 35
-      },
       "discipline_earnings": {
         "cutting": 59888
       }
@@ -5303,10 +4221,6 @@
       "demand_index": 60
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "Peptoboonsmal daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -5342,14 +4256,6 @@
     },
     "performance": {
       "earnings": 194514,
-      "discipline_strength": {
-        "reining": 30,
-        "cutting": 83,
-        "cowHorse": 62,
-        "teamRoping": 50,
-        "barrelRacing": 20,
-        "ranchRiding": 35
-      },
       "discipline_earnings": {
         "cutting": 194514
       }
@@ -5359,10 +4265,6 @@
       "demand_index": 62
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "Metallic Cat daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -5394,25 +4296,12 @@
     "health": {
       "soundness_score": 88
     },
-    "performance": {
-      "discipline_strength": {
-        "reining": 40,
-        "cutting": 20,
-        "cowHorse": 70,
-        "teamRoping": 90,
-        "barrelRacing": 25,
-        "ranchRiding": 80
-      }
-    },
+    "performance": {},
     "market": {
       "stud_fee": 1500,
       "demand_index": 55
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "High Brow Cat daughters",
-      "Shining Spark daughters"
-    ],
     "_disciplines": [
       "teamRoping",
       "cowHorse",
@@ -5447,14 +4336,6 @@
     },
     "performance": {
       "earnings": 205788,
-      "discipline_strength": {
-        "reining": 5,
-        "cutting": 5,
-        "cowHorse": 5,
-        "teamRoping": 15,
-        "barrelRacing": 90,
-        "ranchRiding": 30
-      },
       "discipline_earnings": {
         "barrelRacing": 205788
       }
@@ -5464,10 +4345,6 @@
       "demand_index": 72
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Corona Cartel daughters",
-      "Dash Ta Fame daughters"
-    ],
     "_disciplines": [
       "barrelRacing"
     ],
@@ -5503,14 +4380,6 @@
     "performance": {
       "earnings": 200016,
       "offspring_earnings": 9940964,
-      "discipline_strength": {
-        "reining": 5,
-        "cutting": 5,
-        "cowHorse": 10,
-        "teamRoping": 20,
-        "barrelRacing": 95,
-        "ranchRiding": 20
-      },
       "discipline_earnings": {
         "barrelRacing": 200016
       }
@@ -5520,10 +4389,6 @@
       "demand_index": 78
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Corona Cartel daughters",
-      "A Streak Of Fling daughters"
-    ],
     "_disciplines": [
       "barrelRacing",
       "teamRoping"
@@ -5558,14 +4423,6 @@
     "performance": {
       "earnings": 14315,
       "offspring_earnings": 769696,
-      "discipline_strength": {
-        "reining": 5,
-        "cutting": 5,
-        "cowHorse": 5,
-        "teamRoping": 15,
-        "barrelRacing": 80,
-        "ranchRiding": 25
-      },
       "discipline_earnings": {
         "barrelRacing": 14315
       }
@@ -5575,10 +4432,6 @@
       "demand_index": 48
     },
     "_sire_line_strength": "listed",
-    "_proven_crosses": [
-      "Corona Cartel daughters",
-      "Dash Ta Fame daughters"
-    ],
     "_disciplines": [
       "barrelRacing"
     ],
@@ -5611,14 +4464,6 @@
     },
     "performance": {
       "earnings": 144834,
-      "discipline_strength": {
-        "reining": 30,
-        "cutting": 10,
-        "cowHorse": 65,
-        "teamRoping": 88,
-        "barrelRacing": 20,
-        "ranchRiding": 75
-      },
       "discipline_earnings": {
         "teamRoping": 144834
       }
@@ -5628,10 +4473,6 @@
       "demand_index": 52
     },
     "_sire_line_strength": "listed",
-    "_proven_crosses": [
-      "Shining Spark daughters",
-      "High Brow Cat daughters"
-    ],
     "_disciplines": [
       "teamRoping",
       "ranchRiding"
@@ -5665,14 +4506,6 @@
     },
     "performance": {
       "earnings": 12605,
-      "discipline_strength": {
-        "reining": 5,
-        "cutting": 5,
-        "cowHorse": 5,
-        "teamRoping": 10,
-        "barrelRacing": 70,
-        "ranchRiding": 15
-      },
       "discipline_earnings": {
         "barrelRacing": 12605
       }
@@ -5682,10 +4515,6 @@
       "demand_index": 45
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Corona Cartel daughters",
-      "A Streak Of Fling daughters"
-    ],
     "_disciplines": [
       "barrelRacing",
       "teamRoping"
@@ -5717,24 +4546,11 @@
     "health": {
       "soundness_score": 93
     },
-    "performance": {
-      "discipline_strength": {
-        "reining": 5,
-        "cutting": 5,
-        "cowHorse": 5,
-        "teamRoping": 15,
-        "barrelRacing": 88,
-        "ranchRiding": 10
-      }
-    },
+    "performance": {},
     "market": {
       "demand_index": 72
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "A Streak Of Fling daughters",
-      "Dash Ta Fame daughters"
-    ],
     "_disciplines": [
       "barrelRacing",
       "teamRoping"
@@ -5772,25 +4588,13 @@
       "soundness_score": 90
     },
     "performance": {
-      "earnings": 41760,
-      "discipline_strength": {
-        "reining": 30,
-        "cutting": 55,
-        "cowHorse": 50,
-        "teamRoping": 45,
-        "barrelRacing": 25,
-        "ranchRiding": 50
-      }
+      "earnings": 41760
     },
     "market": {
       "stud_fee": 1800,
       "demand_index": 40
     },
     "_sire_line_strength": "listed",
-    "_proven_crosses": [
-      "Dual Pep daughters",
-      "Peptoboonsmal daughters"
-    ],
     "_disciplines": [
       "Cutting / Amateur Cow Horse"
     ],
@@ -5828,14 +4632,6 @@
     },
     "performance": {
       "earnings": 39940,
-      "discipline_strength": {
-        "reining": 65,
-        "cutting": 45,
-        "cowHorse": 82,
-        "teamRoping": 35,
-        "barrelRacing": 0,
-        "ranchRiding": 30
-      },
       "discipline_earnings": {
         "cowHorse": 39940
       },
@@ -5845,9 +4641,6 @@
       "demand_index": 52
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Once In A Blu Boon x Shining Spark daughters"
-    ],
     "_disciplines": [
       "cowHorse",
       "cutting"
@@ -5885,14 +4678,6 @@
     },
     "performance": {
       "earnings": 97910,
-      "discipline_strength": {
-        "reining": 55,
-        "cutting": 70,
-        "cowHorse": 78,
-        "teamRoping": 55,
-        "barrelRacing": 25,
-        "ranchRiding": 55
-      },
       "discipline_earnings": {
         "cowHorse": 97910
       }
@@ -5901,10 +4686,6 @@
       "demand_index": 62
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Metallic Cat daughters",
-      "Hottish daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse",
@@ -5943,14 +4724,6 @@
     },
     "performance": {
       "earnings": 352857,
-      "discipline_strength": {
-        "reining": 55,
-        "cutting": 35,
-        "cowHorse": 68,
-        "teamRoping": 45,
-        "barrelRacing": 20,
-        "ranchRiding": 85
-      },
       "discipline_earnings": {
         "ranchRiding": 352857
       }
@@ -5960,10 +4733,6 @@
       "demand_index": 45
     },
     "_sire_line_strength": "listed",
-    "_proven_crosses": [
-      "Shining Spark daughters",
-      "Dual Rey daughters"
-    ],
     "_disciplines": [
       "ranchRiding",
       "reining"
@@ -6001,14 +4770,6 @@
     },
     "performance": {
       "earnings": 9457,
-      "discipline_strength": {
-        "reining": 30,
-        "cutting": 55,
-        "cowHorse": 55,
-        "teamRoping": 40,
-        "barrelRacing": 20,
-        "ranchRiding": 38
-      },
       "discipline_earnings": {
         "cowHorse": 9457
       }
@@ -6018,10 +4779,6 @@
       "demand_index": 48
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "High Brow Cat daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -6059,14 +4816,6 @@
     },
     "performance": {
       "earnings": 203508,
-      "discipline_strength": {
-        "reining": 35,
-        "cutting": 82,
-        "cowHorse": 65,
-        "teamRoping": 50,
-        "barrelRacing": 22,
-        "ranchRiding": 38
-      },
       "discipline_earnings": {
         "cutting": 203508
       }
@@ -6076,10 +4825,6 @@
       "demand_index": 70
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "Peptoboonsmal daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -6117,14 +4862,6 @@
     },
     "performance": {
       "earnings": 352857,
-      "discipline_strength": {
-        "reining": 30,
-        "cutting": 30,
-        "cowHorse": 45,
-        "teamRoping": 55,
-        "barrelRacing": 70,
-        "ranchRiding": 55
-      },
       "discipline_earnings": {
         "barrelRacing": 352857
       }
@@ -6134,10 +4871,6 @@
       "demand_index": 48
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Corona Cartel daughters",
-      "Dash Ta Fame daughters"
-    ],
     "_disciplines": [
       "barrelRacing",
       "teamRoping"
@@ -6175,14 +4908,6 @@
     },
     "performance": {
       "earnings": 201953,
-      "discipline_strength": {
-        "reining": 70,
-        "cutting": 62,
-        "cowHorse": 92,
-        "teamRoping": 45,
-        "barrelRacing": 20,
-        "ranchRiding": 45
-      },
       "discipline_earnings": {
         "cowHorse": 201953
       }
@@ -6191,10 +4916,6 @@
       "demand_index": 68
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Metallic Cat daughters",
-      "High Brow Cat daughters"
-    ],
     "_disciplines": [
       "cowHorse",
       "reining"
@@ -6232,14 +4953,6 @@
     },
     "performance": {
       "earnings": 352857,
-      "discipline_strength": {
-        "reining": 20,
-        "cutting": 20,
-        "cowHorse": 20,
-        "teamRoping": 45,
-        "barrelRacing": 88,
-        "ranchRiding": 30
-      },
       "discipline_earnings": {
         "barrelRacing": 352857
       }
@@ -6248,10 +4961,6 @@
       "demand_index": 55
     },
     "_sire_line_strength": "listed",
-    "_proven_crosses": [
-      "Dash Ta Fame daughters",
-      "Corona Cartel daughters"
-    ],
     "_disciplines": [
       "barrelRacing"
     ],
@@ -6288,14 +4997,6 @@
     },
     "performance": {
       "earnings": 73749,
-      "discipline_strength": {
-        "reining": 60,
-        "cutting": 55,
-        "cowHorse": 85,
-        "teamRoping": 40,
-        "barrelRacing": 22,
-        "ranchRiding": 78
-      },
       "discipline_earnings": {
         "cowHorse": 73749
       }
@@ -6304,10 +5005,6 @@
       "demand_index": 62
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "Peptoboonsmal daughters"
-    ],
     "_disciplines": [
       "cowHorse",
       "cutting"
@@ -6345,14 +5042,6 @@
     },
     "performance": {
       "earnings": 229951,
-      "discipline_strength": {
-        "reining": 25,
-        "cutting": 80,
-        "cowHorse": 50,
-        "teamRoping": 40,
-        "barrelRacing": 18,
-        "ranchRiding": 35
-      },
       "discipline_earnings": {
         "cutting": 229951
       }
@@ -6362,10 +5051,6 @@
       "demand_index": 62
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "Peptoboonsmal daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -6403,14 +5088,6 @@
     },
     "performance": {
       "earnings": 512000,
-      "discipline_strength": {
-        "reining": 35,
-        "cutting": 92,
-        "cowHorse": 55,
-        "teamRoping": 40,
-        "barrelRacing": 22,
-        "ranchRiding": 40
-      },
       "discipline_earnings": {
         "cutting": 512000
       }
@@ -6419,10 +5096,6 @@
       "demand_index": 88
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "High Brow Cat daughters"
-    ],
     "_disciplines": [
       "cutting"
     ],
@@ -6459,14 +5132,6 @@
     },
     "performance": {
       "earnings": 281000,
-      "discipline_strength": {
-        "reining": 30,
-        "cutting": 88,
-        "cowHorse": 55,
-        "teamRoping": 40,
-        "barrelRacing": 20,
-        "ranchRiding": 38
-      },
       "discipline_earnings": {
         "cutting": 281000
       }
@@ -6475,10 +5140,6 @@
       "demand_index": 72
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "Peptoboonsmal daughters"
-    ],
     "_disciplines": [
       "cutting"
     ],
@@ -6514,14 +5175,6 @@
     "performance": {
       "earnings": 236457,
       "offspring_earnings": 18000000,
-      "discipline_strength": {
-        "reining": 88,
-        "cutting": 20,
-        "cowHorse": 35,
-        "teamRoping": 15,
-        "barrelRacing": 10,
-        "ranchRiding": 55
-      },
       "discipline_earnings": {
         "reining": 236457
       }
@@ -6531,10 +5184,6 @@
       "demand_index": 85
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Shining Spark daughters",
-      "Dual Rey daughters"
-    ],
     "_disciplines": [
       "reining"
     ],
@@ -6570,14 +5219,6 @@
     "performance": {
       "earnings": 187820,
       "offspring_earnings": 5000000,
-      "discipline_strength": {
-        "reining": 90,
-        "cutting": 15,
-        "cowHorse": 30,
-        "teamRoping": 12,
-        "barrelRacing": 8,
-        "ranchRiding": 55
-      },
       "discipline_earnings": {
         "reining": 187820
       }
@@ -6587,10 +5228,6 @@
       "demand_index": 88
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Colonels Smoking Gun daughters",
-      "Gunnatrashya daughters"
-    ],
     "_disciplines": [
       "reining"
     ],
@@ -6626,14 +5263,6 @@
     "performance": {
       "earnings": 425893,
       "offspring_earnings": 718000,
-      "discipline_strength": {
-        "reining": 85,
-        "cutting": 15,
-        "cowHorse": 30,
-        "teamRoping": 12,
-        "barrelRacing": 8,
-        "ranchRiding": 52
-      },
       "discipline_earnings": {
         "reining": 425893
       }
@@ -6643,10 +5272,6 @@
       "demand_index": 65
     },
     "_sire_line_strength": "listed",
-    "_proven_crosses": [
-      "Shining Spark daughters",
-      "Dual Rey daughters"
-    ],
     "_disciplines": [
       "reining"
     ],
@@ -6681,14 +5306,6 @@
     },
     "performance": {
       "earnings": 115000,
-      "discipline_strength": {
-        "reining": 55,
-        "cutting": 70,
-        "cowHorse": 95,
-        "teamRoping": 30,
-        "barrelRacing": 15,
-        "ranchRiding": 45
-      },
       "discipline_earnings": {
         "cowHorse": 115000
       }
@@ -6698,10 +5315,6 @@
       "demand_index": 90
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "High Brow Cat daughters"
-    ],
     "_disciplines": [
       "cowHorse"
     ],
@@ -6736,14 +5349,6 @@
     },
     "performance": {
       "earnings": 308539,
-      "discipline_strength": {
-        "reining": 30,
-        "cutting": 82,
-        "cowHorse": 75,
-        "teamRoping": 40,
-        "barrelRacing": 18,
-        "ranchRiding": 45
-      },
       "discipline_earnings": {
         "cutting": 308539
       }
@@ -6752,10 +5357,6 @@
       "demand_index": 70
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "Peptoboonsmal daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -6791,14 +5392,6 @@
     },
     "performance": {
       "earnings": 72025,
-      "discipline_strength": {
-        "reining": 28,
-        "cutting": 80,
-        "cowHorse": 72,
-        "teamRoping": 38,
-        "barrelRacing": 15,
-        "ranchRiding": 42
-      },
       "discipline_earnings": {
         "cutting": 72025
       }
@@ -6808,10 +5401,6 @@
       "demand_index": 52
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "Peptoboonsmal daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -6848,14 +5437,6 @@
     "performance": {
       "earnings": 155457,
       "offspring_earnings": 408908,
-      "discipline_strength": {
-        "reining": 55,
-        "cutting": 45,
-        "cowHorse": 82,
-        "teamRoping": 40,
-        "barrelRacing": 18,
-        "ranchRiding": 50
-      },
       "discipline_earnings": {
         "cowHorse": 155457
       }
@@ -6865,10 +5446,6 @@
       "demand_index": 58
     },
     "_sire_line_strength": "moderate",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "Smart Little Lena daughters"
-    ],
     "_disciplines": [
       "cowHorse"
     ],
@@ -6901,14 +5478,6 @@
     },
     "performance": {
       "earnings": 249726,
-      "discipline_strength": {
-        "reining": 80,
-        "cutting": 15,
-        "cowHorse": 30,
-        "teamRoping": 12,
-        "barrelRacing": 8,
-        "ranchRiding": 50
-      },
       "discipline_earnings": {
         "reining": 249726
       }
@@ -6918,10 +5487,6 @@
       "demand_index": 55
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Shining Spark daughters",
-      "Dual Rey daughters"
-    ],
     "_disciplines": [
       "reining"
     ],
@@ -6956,14 +5521,6 @@
     },
     "performance": {
       "earnings": 215000,
-      "discipline_strength": {
-        "reining": 90,
-        "cutting": 15,
-        "cowHorse": 25,
-        "teamRoping": 10,
-        "barrelRacing": 8,
-        "ranchRiding": 50
-      },
       "discipline_earnings": {
         "reining": 215000
       }
@@ -6973,10 +5530,6 @@
       "demand_index": 88
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Gunnatrashya daughters",
-      "Walla Walla Whiz daughters"
-    ],
     "_disciplines": [
       "reining"
     ],
@@ -7011,14 +5564,6 @@
     },
     "performance": {
       "earnings": 482591,
-      "discipline_strength": {
-        "reining": 88,
-        "cutting": 15,
-        "cowHorse": 30,
-        "teamRoping": 12,
-        "barrelRacing": 8,
-        "ranchRiding": 52
-      },
       "discipline_earnings": {
         "reining": 482591
       }
@@ -7028,10 +5573,6 @@
       "demand_index": 75
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Shining Spark daughters",
-      "Dual Rey daughters"
-    ],
     "_disciplines": [
       "reining"
     ],
@@ -7067,14 +5608,6 @@
     "performance": {
       "earnings": 122000,
       "offspring_earnings": 660000,
-      "discipline_strength": {
-        "reining": 82,
-        "cutting": 15,
-        "cowHorse": 25,
-        "teamRoping": 12,
-        "barrelRacing": 8,
-        "ranchRiding": 78
-      },
       "discipline_earnings": {
         "reining": 122000
       }
@@ -7084,10 +5617,6 @@
       "demand_index": 68
     },
     "_sire_line_strength": "moderate",
-    "_proven_crosses": [
-      "Gunnatrashya daughters",
-      "Shining Spark daughters"
-    ],
     "_disciplines": [
       "reining",
       "ranchRiding"
@@ -7123,14 +5652,6 @@
     },
     "performance": {
       "earnings": 1000000,
-      "discipline_strength": {
-        "reining": 98,
-        "cutting": 15,
-        "cowHorse": 25,
-        "teamRoping": 10,
-        "barrelRacing": 8,
-        "ranchRiding": 52
-      },
       "discipline_earnings": {
         "reining": 1000000
       }
@@ -7140,10 +5661,6 @@
       "demand_index": 98
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Shining Spark daughters",
-      "Wimpys Little Step daughters"
-    ],
     "_disciplines": [
       "reining"
     ],
@@ -7179,14 +5696,6 @@
     "performance": {
       "earnings": 109050,
       "offspring_earnings": 426556,
-      "discipline_strength": {
-        "reining": 75,
-        "cutting": 15,
-        "cowHorse": 28,
-        "teamRoping": 12,
-        "barrelRacing": 8,
-        "ranchRiding": 48
-      },
       "discipline_earnings": {
         "reining": 109050
       }
@@ -7196,10 +5705,6 @@
       "demand_index": 52
     },
     "_sire_line_strength": "moderate",
-    "_proven_crosses": [
-      "Shining Spark daughters",
-      "Gunner daughters"
-    ],
     "_disciplines": [
       "reining"
     ],
@@ -7235,14 +5740,6 @@
     "performance": {
       "earnings": 331097,
       "offspring_earnings": 24000000,
-      "discipline_strength": {
-        "reining": 45,
-        "cutting": 95,
-        "cowHorse": 65,
-        "teamRoping": 35,
-        "barrelRacing": 20,
-        "ranchRiding": 60
-      },
       "discipline_earnings": {
         "cutting": 331097
       }
@@ -7252,10 +5749,6 @@
       "stud_fee": 4250
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "High Brow Cat daughters",
-      "Metallic Cat daughters"
-    ],
     "_disciplines": [
       "cutting"
     ],
@@ -7290,14 +5783,6 @@
     },
     "performance": {
       "earnings": 283898,
-      "discipline_strength": {
-        "reining": 85,
-        "cutting": 15,
-        "cowHorse": 30,
-        "teamRoping": 12,
-        "barrelRacing": 8,
-        "ranchRiding": 52
-      },
       "discipline_earnings": {
         "reining": 283898
       }
@@ -7307,10 +5792,6 @@
       "demand_index": 72
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Shining Spark daughters",
-      "Dual Rey daughters"
-    ],
     "_disciplines": [
       "reining"
     ],
@@ -7345,14 +5826,6 @@
     },
     "performance": {
       "earnings": 326900,
-      "discipline_strength": {
-        "reining": 72,
-        "cutting": 60,
-        "cowHorse": 85,
-        "teamRoping": 40,
-        "barrelRacing": 20,
-        "ranchRiding": 82
-      },
       "discipline_earnings": {
         "cowHorse": 326900
       }
@@ -7361,10 +5834,6 @@
       "demand_index": 70
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "Peptoboonsmal daughters"
-    ],
     "_disciplines": [
       "cowHorse",
       "ranchRiding"
@@ -7397,25 +5866,13 @@
       "soundness_score": 25
     },
     "performance": {
-      "offspring_earnings": 21000000,
-      "discipline_strength": {
-        "reining": 45,
-        "cutting": 82,
-        "cowHorse": 95,
-        "teamRoping": 35,
-        "barrelRacing": 20,
-        "ranchRiding": 65
-      }
+      "offspring_earnings": 21000000
     },
     "market": {
       "stud_fee": 5000,
       "demand_index": 85
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Peptoboonsmal daughters",
-      "Smart Little Lena daughters"
-    ],
     "_disciplines": [
       "cowHorse"
     ],
@@ -7451,14 +5908,6 @@
     "performance": {
       "earnings": 231025,
       "offspring_earnings": 4000000,
-      "discipline_strength": {
-        "reining": 65,
-        "cutting": 75,
-        "cowHorse": 95,
-        "teamRoping": 60,
-        "barrelRacing": 15,
-        "ranchRiding": 70
-      },
       "discipline_earnings": {
         "cowHorse": 231025
       }
@@ -7468,10 +5917,6 @@
       "demand_index": 88
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "Metallic Cat daughters"
-    ],
     "_disciplines": [
       "cowHorse",
       "cutting"
@@ -7505,14 +5950,6 @@
     },
     "performance": {
       "earnings": 614720,
-      "discipline_strength": {
-        "reining": 95,
-        "cutting": 15,
-        "cowHorse": 20,
-        "teamRoping": 10,
-        "barrelRacing": 8,
-        "ranchRiding": 48
-      },
       "discipline_earnings": {
         "reining": 614720
       }
@@ -7522,10 +5959,6 @@
       "demand_index": 95
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Gunnatrashya daughters",
-      "Colonels Smoking Gun daughters"
-    ],
     "_disciplines": [
       "reining"
     ],
@@ -7561,14 +5994,6 @@
     "performance": {
       "earnings": 98483,
       "offspring_earnings": 171820,
-      "discipline_strength": {
-        "reining": 85,
-        "cutting": 15,
-        "cowHorse": 20,
-        "teamRoping": 12,
-        "barrelRacing": 8,
-        "ranchRiding": 50
-      },
       "discipline_earnings": {
         "reining": 98483
       }
@@ -7578,10 +6003,6 @@
       "demand_index": 68
     },
     "_sire_line_strength": "listed",
-    "_proven_crosses": [
-      "Gunnatrashya daughters",
-      "Shining Spark daughters"
-    ],
     "_disciplines": [
       "reining"
     ],
@@ -7615,14 +6036,6 @@
     "performance": {
       "earnings": 85907,
       "offspring_earnings": 10300000,
-      "discipline_strength": {
-        "reining": 85,
-        "cutting": 18,
-        "cowHorse": 30,
-        "teamRoping": 12,
-        "barrelRacing": 8,
-        "ranchRiding": 55
-      },
       "discipline_earnings": {
         "reining": 85907
       }
@@ -7632,10 +6045,6 @@
       "demand_index": 85
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Colonels Smoking Gun daughters",
-      "Gunnatrashya daughters"
-    ],
     "_disciplines": [
       "reining"
     ],
@@ -7671,14 +6080,6 @@
     "performance": {
       "earnings": 101687,
       "offspring_earnings": 481525,
-      "discipline_strength": {
-        "reining": 82,
-        "cutting": 15,
-        "cowHorse": 22,
-        "teamRoping": 12,
-        "barrelRacing": 8,
-        "ranchRiding": 52
-      },
       "discipline_earnings": {
         "reining": 101687
       }
@@ -7688,10 +6089,6 @@
       "demand_index": 62
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Gunnatrashya daughters",
-      "Walla Walla Whiz daughters"
-    ],
     "_disciplines": [
       "reining"
     ],
@@ -7726,14 +6123,6 @@
     },
     "performance": {
       "earnings": 9579,
-      "discipline_strength": {
-        "reining": 65,
-        "cutting": 45,
-        "cowHorse": 55,
-        "teamRoping": 30,
-        "barrelRacing": 15,
-        "ranchRiding": 50
-      },
       "discipline_earnings": {
         "reining": 9579
       }
@@ -7742,10 +6131,6 @@
       "demand_index": 48
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Peptoboonsmal daughters",
-      "Dual Rey daughters"
-    ],
     "_disciplines": [
       "reining"
     ],
@@ -7780,14 +6165,6 @@
     },
     "performance": {
       "earnings": 238871,
-      "discipline_strength": {
-        "reining": 30,
-        "cutting": 90,
-        "cowHorse": 70,
-        "teamRoping": 35,
-        "barrelRacing": 18,
-        "ranchRiding": 45
-      },
       "discipline_earnings": {
         "cutting": 238871
       }
@@ -7797,10 +6174,6 @@
       "demand_index": 72
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Metallic Cat daughters",
-      "Dual Rey daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -7836,14 +6209,6 @@
     },
     "performance": {
       "earnings": 210398,
-      "discipline_strength": {
-        "reining": 25,
-        "cutting": 85,
-        "cowHorse": 80,
-        "teamRoping": 30,
-        "barrelRacing": 18,
-        "ranchRiding": 45
-      },
       "discipline_earnings": {
         "cutting": 210398
       }
@@ -7853,10 +6218,6 @@
       "demand_index": 75
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "Peptoboonsmal daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -7892,14 +6253,6 @@
     },
     "performance": {
       "earnings": 275697,
-      "discipline_strength": {
-        "reining": 50,
-        "cutting": 80,
-        "cowHorse": 95,
-        "teamRoping": 35,
-        "barrelRacing": 15,
-        "ranchRiding": 50
-      },
       "discipline_earnings": {
         "cowHorse": 275697
       }
@@ -7909,10 +6262,6 @@
       "demand_index": 72
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Dual Rey daughters",
-      "Peptoboonsmal daughters"
-    ],
     "_disciplines": [
       "cutting",
       "cowHorse"
@@ -7947,14 +6296,6 @@
     "performance": {
       "earnings": 96906,
       "offspring_earnings": 1492493,
-      "discipline_strength": {
-        "reining": 82,
-        "cutting": 15,
-        "cowHorse": 20,
-        "teamRoping": 12,
-        "barrelRacing": 8,
-        "ranchRiding": 52
-      },
       "discipline_earnings": {
         "reining": 96906
       }
@@ -7964,10 +6305,6 @@
       "demand_index": 65
     },
     "_sire_line_strength": "listed",
-    "_proven_crosses": [
-      "Shining Spark daughters",
-      "Topsail Whiz daughters"
-    ],
     "_disciplines": [
       "reining"
     ],
@@ -8000,14 +6337,6 @@
     },
     "performance": {
       "earnings": 75354,
-      "discipline_strength": {
-        "reining": 78,
-        "cutting": 15,
-        "cowHorse": 28,
-        "teamRoping": 12,
-        "barrelRacing": 8,
-        "ranchRiding": 52
-      },
       "discipline_earnings": {
         "reining": 75354
       }
@@ -8017,10 +6346,6 @@
       "demand_index": 58
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Gunnatrashya daughters",
-      "Walla Walla Whiz daughters"
-    ],
     "_disciplines": [
       "reining"
     ],
@@ -8055,14 +6380,6 @@
     },
     "performance": {
       "earnings": 128962,
-      "discipline_strength": {
-        "reining": 83,
-        "cutting": 15,
-        "cowHorse": 22,
-        "teamRoping": 12,
-        "barrelRacing": 8,
-        "ranchRiding": 52
-      },
       "discipline_earnings": {
         "reining": 128962
       }
@@ -8071,10 +6388,6 @@
       "demand_index": 60
     },
     "_sire_line_strength": "listed",
-    "_proven_crosses": [
-      "Gunnatrashya daughters",
-      "Walla Walla Whiz daughters"
-    ],
     "_disciplines": [
       "reining"
     ],
@@ -8110,14 +6423,6 @@
     "performance": {
       "earnings": 150458,
       "offspring_earnings": 326000,
-      "discipline_strength": {
-        "reining": 85,
-        "cutting": 15,
-        "cowHorse": 22,
-        "teamRoping": 12,
-        "barrelRacing": 8,
-        "ranchRiding": 55
-      },
       "discipline_earnings": {
         "reining": 150458
       }
@@ -8127,10 +6432,6 @@
       "demand_index": 80
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Gunnatrashya daughters",
-      "Colonels Smoking Gun daughters"
-    ],
     "_disciplines": [
       "reining"
     ],
@@ -8165,14 +6466,6 @@
     },
     "performance": {
       "earnings": 420195,
-      "discipline_strength": {
-        "reining": 92,
-        "cutting": 15,
-        "cowHorse": 25,
-        "teamRoping": 12,
-        "barrelRacing": 8,
-        "ranchRiding": 55
-      },
       "discipline_earnings": {
         "reining": 420195
       }
@@ -8182,10 +6475,6 @@
       "demand_index": 88
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Shining Spark daughters",
-      "Colonels Smoking Gun daughters"
-    ],
     "_disciplines": [
       "reining"
     ],
@@ -8220,14 +6509,6 @@
     },
     "performance": {
       "earnings": 133837,
-      "discipline_strength": {
-        "reining": 40,
-        "cutting": 78,
-        "cowHorse": 88,
-        "teamRoping": 35,
-        "barrelRacing": 15,
-        "ranchRiding": 50
-      },
       "discipline_earnings": {
         "cowHorse": 133837
       }
@@ -8237,10 +6518,6 @@
       "demand_index": 72
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Metallic Cat daughters",
-      "Dual Rey daughters"
-    ],
     "_disciplines": [
       "cowHorse",
       "cutting"
@@ -8276,14 +6553,6 @@
     },
     "performance": {
       "earnings": 432285,
-      "discipline_strength": {
-        "reining": 95,
-        "cutting": 15,
-        "cowHorse": 25,
-        "teamRoping": 10,
-        "barrelRacing": 8,
-        "ranchRiding": 55
-      },
       "discipline_earnings": {
         "reining": 432285
       }
@@ -8293,10 +6562,6 @@
       "demand_index": 92
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Shining Spark daughters",
-      "Gunnatrashya daughters"
-    ],
     "_disciplines": [
       "reining"
     ],
@@ -8329,14 +6594,6 @@
     },
     "performance": {
       "earnings": 4500,
-      "discipline_strength": {
-        "reining": 45,
-        "cutting": 10,
-        "cowHorse": 15,
-        "teamRoping": 10,
-        "barrelRacing": 8,
-        "ranchRiding": 40
-      },
       "discipline_earnings": {
         "reining": 4500
       }
@@ -8346,10 +6603,6 @@
       "demand_index": 42
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Gunnatrashya daughters",
-      "Topsail Whiz daughters"
-    ],
     "_disciplines": [
       "reining"
     ],
@@ -8385,14 +6638,6 @@
     "performance": {
       "earnings": 222619,
       "offspring_earnings": 3600000,
-      "discipline_strength": {
-        "reining": 90,
-        "cutting": 15,
-        "cowHorse": 28,
-        "teamRoping": 12,
-        "barrelRacing": 8,
-        "ranchRiding": 58
-      },
       "discipline_earnings": {
         "reining": 222619
       }
@@ -8402,10 +6647,6 @@
       "demand_index": 80
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Gunnatrashya daughters",
-      "Colonels Smoking Gun daughters"
-    ],
     "_disciplines": [
       "reining"
     ],
@@ -8441,14 +6682,6 @@
     "performance": {
       "earnings": 54516,
       "offspring_earnings": 4654000,
-      "discipline_strength": {
-        "reining": 90,
-        "cutting": 15,
-        "cowHorse": 35,
-        "teamRoping": 12,
-        "barrelRacing": 8,
-        "ranchRiding": 58
-      },
       "discipline_earnings": {
         "reining": 82516
       }
@@ -8458,10 +6691,6 @@
       "demand_index": 88
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Topsail Whiz daughters",
-      "Wimpys Little Step daughters"
-    ],
     "_disciplines": [
       "reining",
       "cowHorse"
@@ -8498,14 +6727,6 @@
     "performance": {
       "earnings": 220826,
       "offspring_earnings": 1370000,
-      "discipline_strength": {
-        "reining": 85,
-        "cutting": 15,
-        "cowHorse": 25,
-        "teamRoping": 12,
-        "barrelRacing": 8,
-        "ranchRiding": 55
-      },
       "discipline_earnings": {
         "reining": 220826
       }
@@ -8515,10 +6736,6 @@
       "demand_index": 78
     },
     "_sire_line_strength": "listed",
-    "_proven_crosses": [
-      "Wimpys Little Step daughters",
-      "Gunnatrashya daughters"
-    ],
     "_disciplines": [
       "reining"
     ],
@@ -8554,14 +6771,6 @@
     "performance": {
       "earnings": 113328,
       "offspring_earnings": 2000000,
-      "discipline_strength": {
-        "reining": 82,
-        "cutting": 18,
-        "cowHorse": 35,
-        "teamRoping": 15,
-        "barrelRacing": 10,
-        "ranchRiding": 55
-      },
       "discipline_earnings": {
         "reining": 113328
       }
@@ -8571,10 +6780,6 @@
       "demand_index": 78
     },
     "_sire_line_strength": "listed",
-    "_proven_crosses": [
-      "Wimpys Little Step daughters",
-      "Shining Spark daughters"
-    ],
     "_disciplines": [
       "reining",
       "cowHorse"
@@ -8611,14 +6816,6 @@
     "performance": {
       "earnings": 100000,
       "offspring_earnings": 2772000,
-      "discipline_strength": {
-        "reining": 88,
-        "cutting": 15,
-        "cowHorse": 25,
-        "teamRoping": 12,
-        "barrelRacing": 8,
-        "ranchRiding": 52
-      },
       "discipline_earnings": {
         "reining": 100000
       }
@@ -8628,10 +6825,6 @@
       "demand_index": 88
     },
     "_sire_line_strength": "listed",
-    "_proven_crosses": [
-      "Wimpys Little Step daughters",
-      "Shining Spark daughters"
-    ],
     "_disciplines": [
       "reining"
     ],
@@ -8667,14 +6860,6 @@
     "performance": {
       "earnings": 81637,
       "offspring_earnings": 4101569,
-      "discipline_strength": {
-        "reining": 88,
-        "cutting": 18,
-        "cowHorse": 30,
-        "teamRoping": 15,
-        "barrelRacing": 12,
-        "ranchRiding": 92
-      },
       "discipline_earnings": {
         "reining": 81637
       }
@@ -8684,10 +6869,6 @@
       "demand_index": 88
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Wimpys Little Step daughters",
-      "Shining Spark daughters"
-    ],
     "_disciplines": [
       "reining",
       "ranchRiding"
@@ -8724,14 +6905,6 @@
     "performance": {
       "earnings": 138599,
       "offspring_earnings": 256000,
-      "discipline_strength": {
-        "reining": 82,
-        "cutting": 20,
-        "cowHorse": 35,
-        "teamRoping": 15,
-        "barrelRacing": 10,
-        "ranchRiding": 55
-      },
       "discipline_earnings": {
         "reining": 138599
       }
@@ -8741,10 +6914,6 @@
       "demand_index": 88
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Gunner daughters",
-      "Wimpys Little Step daughters"
-    ],
     "_disciplines": [
       "reining"
     ],
@@ -8780,14 +6949,6 @@
     "performance": {
       "earnings": 123626,
       "offspring_earnings": 1717000,
-      "discipline_strength": {
-        "reining": 90,
-        "cutting": 15,
-        "cowHorse": 25,
-        "teamRoping": 12,
-        "barrelRacing": 8,
-        "ranchRiding": 55
-      },
       "discipline_earnings": {
         "reining": 123626
       }
@@ -8797,10 +6958,6 @@
       "demand_index": 60
     },
     "_sire_line_strength": "listed",
-    "_proven_crosses": [
-      "Wimpys Little Step daughters",
-      "Smart Chic Olena daughters"
-    ],
     "_disciplines": [
       "reining"
     ],
@@ -8836,14 +6993,6 @@
     "performance": {
       "earnings": 87098,
       "offspring_earnings": 8065000,
-      "discipline_strength": {
-        "reining": 88,
-        "cutting": 35,
-        "cowHorse": 78,
-        "teamRoping": 30,
-        "barrelRacing": 15,
-        "ranchRiding": 82
-      },
       "discipline_earnings": {
         "reining": 87098
       }
@@ -8853,10 +7002,6 @@
       "demand_index": 90
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Wimpys Little Step daughters",
-      "Smart Chic Olena daughters"
-    ],
     "_disciplines": [
       "reining",
       "cowHorse"
@@ -8893,14 +7038,6 @@
     "performance": {
       "earnings": 346366,
       "offspring_earnings": 1521000,
-      "discipline_strength": {
-        "reining": 90,
-        "cutting": 15,
-        "cowHorse": 28,
-        "teamRoping": 12,
-        "barrelRacing": 8,
-        "ranchRiding": 58
-      },
       "discipline_earnings": {
         "reining": 346366
       }
@@ -8910,10 +7047,6 @@
       "demand_index": 72
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Wimpys Little Step daughters",
-      "Shining Spark daughters"
-    ],
     "_disciplines": [
       "reining"
     ],
@@ -8949,14 +7082,6 @@
     "performance": {
       "earnings": 285508,
       "offspring_earnings": 280000,
-      "discipline_strength": {
-        "reining": 90,
-        "cutting": 15,
-        "cowHorse": 22,
-        "teamRoping": 12,
-        "barrelRacing": 8,
-        "ranchRiding": 58
-      },
       "discipline_earnings": {
         "reining": 285508
       }
@@ -8966,10 +7091,6 @@
       "demand_index": 82
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Smart Chic Olena daughters",
-      "Hollywood Dun It daughters"
-    ],
     "_disciplines": [
       "reining"
     ],
@@ -9005,14 +7126,6 @@
     "performance": {
       "earnings": 390828,
       "offspring_earnings": 1158000,
-      "discipline_strength": {
-        "reining": 90,
-        "cutting": 15,
-        "cowHorse": 22,
-        "teamRoping": 12,
-        "barrelRacing": 8,
-        "ranchRiding": 55
-      },
       "discipline_earnings": {
         "reining": 390828
       }
@@ -9022,10 +7135,6 @@
       "demand_index": 82
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Wimpys Little Step daughters",
-      "Shining Spark daughters"
-    ],
     "_disciplines": [
       "reining"
     ],
@@ -9060,14 +7169,6 @@
     },
     "performance": {
       "earnings": 109894,
-      "discipline_strength": {
-        "reining": 82,
-        "cutting": 25,
-        "cowHorse": 55,
-        "teamRoping": 45,
-        "barrelRacing": 12,
-        "ranchRiding": 65
-      },
       "discipline_earnings": {
         "reining": 109894
       }
@@ -9077,10 +7178,6 @@
       "demand_index": 70
     },
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Wimpys Little Step daughters",
-      "Shining Spark daughters"
-    ],
     "_disciplines": [
       "reining"
     ],
@@ -9115,14 +7212,6 @@
     },
     "performance": {
       "earnings": 118578,
-      "discipline_strength": {
-        "reining": 88,
-        "cutting": 15,
-        "cowHorse": 25,
-        "teamRoping": 12,
-        "barrelRacing": 8,
-        "ranchRiding": 55
-      },
       "discipline_earnings": {
         "reining": 118636
       }
@@ -9132,10 +7221,6 @@
       "demand_index": 72
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Wimpys Little Step daughters",
-      "Shining Spark daughters"
-    ],
     "_disciplines": [
       "reining",
       "cowHorse"
@@ -9171,14 +7256,6 @@
     },
     "performance": {
       "earnings": 228608,
-      "discipline_strength": {
-        "reining": 88,
-        "cutting": 15,
-        "cowHorse": 22,
-        "teamRoping": 12,
-        "barrelRacing": 8,
-        "ranchRiding": 60
-      },
       "discipline_earnings": {
         "reining": 228608
       }
@@ -9188,10 +7265,6 @@
       "demand_index": 68
     },
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Wimpys Little Step daughters",
-      "Shining Spark daughters"
-    ],
     "_disciplines": [
       "reining"
     ],
@@ -9230,14 +7303,6 @@
     "performance": {
       "earnings": 240903,
       "offspring_earnings": 14000000,
-      "discipline_strength": {
-        "cutting": 96,
-        "cowHorse": 90,
-        "teamRoping": 72,
-        "ranchRiding": 68,
-        "reining": 30,
-        "barrelRacing": 35
-      },
       "discipline_earnings": {
         "cutting": 240903
       }
@@ -9252,12 +7317,6 @@
       "teamRoping"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Smart Lil Ricochet daughters",
-      "Peppy San Badger daughters",
-      "Doc Bar mares",
-      "Smart Little Lena daughters"
-    ],
     "_athleticism": 95,
     "_cow_sense": 98,
     "_speed": 80,
@@ -9293,14 +7352,6 @@
     "performance": {
       "earnings": 0,
       "offspring_earnings": 0,
-      "discipline_strength": {
-        "reining": 62,
-        "cowHorse": 38,
-        "ranchRiding": 55,
-        "cutting": 20,
-        "teamRoping": 28,
-        "barrelRacing": 30
-      },
       "discipline_earnings": {}
     },
     "market": {
@@ -9312,7 +7363,6 @@
       "ranchRiding"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [],
     "_athleticism": 72,
     "_cow_sense": 35,
     "_speed": 72,
@@ -9348,14 +7398,6 @@
     "performance": {
       "earnings": 373088,
       "offspring_earnings": 0,
-      "discipline_strength": {
-        "reining": 92,
-        "cowHorse": 48,
-        "ranchRiding": 58,
-        "cutting": 18,
-        "teamRoping": 25,
-        "barrelRacing": 20
-      },
       "discipline_earnings": {
         "reining": 373088
       }
@@ -9368,11 +7410,6 @@
       "reining"
     ],
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Topsail Whiz daughters",
-      "Colonels Smoking Gun daughters",
-      "Gunner daughters"
-    ],
     "_athleticism": 90,
     "_cow_sense": 28,
     "_speed": 88,
@@ -9408,14 +7445,6 @@
     "performance": {
       "earnings": 338800,
       "offspring_earnings": 0,
-      "discipline_strength": {
-        "reining": 90,
-        "cowHorse": 45,
-        "ranchRiding": 60,
-        "cutting": 20,
-        "teamRoping": 25,
-        "barrelRacing": 18
-      },
       "discipline_earnings": {
         "reining": 338800
       }
@@ -9428,12 +7457,6 @@
       "reining"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Smart Chic Olena daughters",
-      "Colonels Smoking Gun daughters",
-      "Gunner daughters",
-      "Topsail Whiz daughters"
-    ],
     "_athleticism": 90,
     "_cow_sense": 32,
     "_speed": 88,
@@ -9469,14 +7492,6 @@
     "performance": {
       "earnings": 307000,
       "offspring_earnings": 1000000,
-      "discipline_strength": {
-        "reining": 90,
-        "cowHorse": 42,
-        "ranchRiding": 62,
-        "cutting": 18,
-        "teamRoping": 25,
-        "barrelRacing": 20
-      },
       "discipline_earnings": {
         "reining": 307000
       }
@@ -9489,12 +7504,6 @@
       "reining"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Topsail Whiz daughters",
-      "Shining Spark daughters",
-      "Wimpys Little Step daughters",
-      "Smart Chic Olena daughters"
-    ],
     "_athleticism": 90,
     "_cow_sense": 32,
     "_speed": 88,
@@ -9530,14 +7539,6 @@
     "performance": {
       "earnings": 168344,
       "offspring_earnings": 0,
-      "discipline_strength": {
-        "reining": 78,
-        "cowHorse": 35,
-        "ranchRiding": 50,
-        "cutting": 18,
-        "teamRoping": 20,
-        "barrelRacing": 18
-      },
       "discipline_earnings": {
         "reining": 168344
       }
@@ -9550,11 +7551,6 @@
       "reining"
     ],
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Gunnatrashya daughters",
-      "Topsail Whiz daughters",
-      "Shining Spark daughters"
-    ],
     "_athleticism": 84,
     "_cow_sense": 25,
     "_speed": 85,
@@ -9590,14 +7586,6 @@
     "performance": {
       "earnings": 216876,
       "offspring_earnings": 0,
-      "discipline_strength": {
-        "reining": 88,
-        "cowHorse": 42,
-        "ranchRiding": 55,
-        "cutting": 22,
-        "teamRoping": 22,
-        "barrelRacing": 20
-      },
       "discipline_earnings": {
         "reining": 216876
       }
@@ -9610,12 +7598,6 @@
       "reining"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Wimpys Little Step daughters",
-      "Walla Walla Whiz daughters",
-      "Topsail Whiz daughters",
-      "Smart Chic Olena daughters"
-    ],
     "_athleticism": 88,
     "_cow_sense": 28,
     "_speed": 86,
@@ -9651,14 +7633,6 @@
     "performance": {
       "earnings": 215402,
       "offspring_earnings": 1000000,
-      "discipline_strength": {
-        "reining": 84,
-        "cowHorse": 38,
-        "ranchRiding": 55,
-        "cutting": 18,
-        "teamRoping": 22,
-        "barrelRacing": 18
-      },
       "discipline_earnings": {
         "reining": 215402
       }
@@ -9671,12 +7645,6 @@
       "reining"
     ],
     "_sire_line_strength": "strong",
-    "_proven_crosses": [
-      "Shining Spark daughters",
-      "Smart Chic Olena daughters",
-      "Topsail Whiz daughters",
-      "Wimpys Little Step daughters"
-    ],
     "_athleticism": 86,
     "_cow_sense": 30,
     "_speed": 84,
@@ -9712,14 +7680,6 @@
     "performance": {
       "earnings": 101300,
       "offspring_earnings": 0,
-      "discipline_strength": {
-        "reining": 82,
-        "cowHorse": 35,
-        "ranchRiding": 50,
-        "cutting": 18,
-        "teamRoping": 20,
-        "barrelRacing": 18
-      },
       "discipline_earnings": {
         "reining": 101300
       }
@@ -9732,7 +7692,6 @@
       "reining"
     ],
     "_sire_line_strength": "listed",
-    "_proven_crosses": [],
     "_athleticism": 88,
     "_cow_sense": 28,
     "_speed": 86,
@@ -9768,14 +7727,6 @@
     "performance": {
       "earnings": 124600,
       "offspring_earnings": 0,
-      "discipline_strength": {
-        "reining": 80,
-        "cowHorse": 38,
-        "ranchRiding": 52,
-        "cutting": 18,
-        "teamRoping": 22,
-        "barrelRacing": 20
-      },
       "discipline_earnings": {
         "reining": 124600
       }
@@ -9788,12 +7739,6 @@
       "reining"
     ],
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Paddys Irish Whisky daughters",
-      "Shining Spark daughters",
-      "Smart Chic Olena daughters",
-      "Topsail Whiz daughters"
-    ],
     "_athleticism": 84,
     "_cow_sense": 28,
     "_speed": 82,
@@ -9829,14 +7774,6 @@
     "performance": {
       "earnings": 138000,
       "offspring_earnings": 1000000,
-      "discipline_strength": {
-        "barrelRacing": 90,
-        "teamRoping": 65,
-        "ranchRiding": 50,
-        "reining": 20,
-        "cowHorse": 15,
-        "cutting": 12
-      },
       "discipline_earnings": {
         "barrelRacing": 138000
       }
@@ -9850,12 +7787,6 @@
       "teamRoping"
     ],
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "First Down Dash daughters",
-      "PC Frenchmans Hayday daughters",
-      "Frenchmans Guy daughters",
-      "Dash For Cash daughters"
-    ],
     "_athleticism": 90,
     "_cow_sense": 20,
     "_speed": 96,
@@ -9891,14 +7822,6 @@
     "performance": {
       "earnings": 0,
       "offspring_earnings": 0,
-      "discipline_strength": {
-        "teamRoping": 88,
-        "cowHorse": 78,
-        "cutting": 72,
-        "ranchRiding": 70,
-        "barrelRacing": 55,
-        "reining": 45
-      },
       "discipline_earnings": {}
     },
     "market": {
@@ -9911,12 +7834,6 @@
       "cutting"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Zack T Wood daughters",
-      "Peptoboonsmal daughters",
-      "Dual Rey daughters",
-      "High Brow Cat daughters"
-    ],
     "_athleticism": 90,
     "_cow_sense": 88,
     "_speed": 72,
@@ -9952,14 +7869,6 @@
     "performance": {
       "earnings": 0,
       "offspring_earnings": 0,
-      "discipline_strength": {
-        "cowHorse": 88,
-        "cutting": 82,
-        "teamRoping": 68,
-        "ranchRiding": 65,
-        "barrelRacing": 50,
-        "reining": 38
-      },
       "discipline_earnings": {}
     },
     "market": {
@@ -9972,12 +7881,6 @@
       "teamRoping"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Mecom Blue daughters",
-      "Dual Rey daughters",
-      "Peptoboonsmal daughters",
-      "High Brow Cat daughters"
-    ],
     "_athleticism": 88,
     "_cow_sense": 90,
     "_speed": 68,
@@ -10013,14 +7916,6 @@
     "performance": {
       "earnings": 40000,
       "offspring_earnings": 0,
-      "discipline_strength": {
-        "barrelRacing": 80,
-        "teamRoping": 55,
-        "ranchRiding": 45,
-        "reining": 20,
-        "cowHorse": 20,
-        "cutting": 15
-      },
       "discipline_earnings": {
         "barrelRacing": 40000
       }
@@ -10034,12 +7929,6 @@
       "teamRoping"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Wild Shawne Lace bloodline mares",
-      "Dash Ta Fame daughters",
-      "Frenchmans Guy daughters",
-      "First Down Dash daughters"
-    ],
     "_athleticism": 84,
     "_cow_sense": 25,
     "_speed": 88,
@@ -10075,14 +7964,6 @@
     "performance": {
       "earnings": 390000,
       "offspring_earnings": 0,
-      "discipline_strength": {
-        "barrelRacing": 92,
-        "teamRoping": 55,
-        "ranchRiding": 48,
-        "reining": 18,
-        "cowHorse": 18,
-        "cutting": 12
-      },
       "discipline_earnings": {
         "barrelRacing": 390000
       }
@@ -10095,13 +7976,6 @@
       "barrelRacing"
     ],
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Marthas Six Moons daughters",
-      "Dash Ta Fame daughters",
-      "Frenchmans Guy daughters",
-      "First Down Dash daughters",
-      "Fire Water Flit daughters"
-    ],
     "_athleticism": 92,
     "_cow_sense": 22,
     "_speed": 96,
@@ -10137,14 +8011,6 @@
     "performance": {
       "earnings": 0,
       "offspring_earnings": 2200000,
-      "discipline_strength": {
-        "barrelRacing": 82,
-        "teamRoping": 72,
-        "ranchRiding": 58,
-        "reining": 25,
-        "cowHorse": 25,
-        "cutting": 18
-      },
       "discipline_earnings": {}
     },
     "market": {
@@ -10156,13 +8022,6 @@
       "teamRoping"
     ],
     "_sire_line_strength": "strong",
-    "_proven_crosses": [
-      "Dash Ta Fame daughters",
-      "Frenchmans Guy daughters",
-      "Fire Water Flit daughters",
-      "First Down Dash daughters",
-      "Bully Bullion daughters"
-    ],
     "_athleticism": 80,
     "_cow_sense": 30,
     "_speed": 82,
@@ -10198,14 +8057,6 @@
     "performance": {
       "earnings": 20522,
       "offspring_earnings": 0,
-      "discipline_strength": {
-        "teamRoping": 88,
-        "cutting": 70,
-        "cowHorse": 65,
-        "ranchRiding": 68,
-        "barrelRacing": 45,
-        "reining": 30
-      },
       "discipline_earnings": {
         "teamRoping": 262162,
         "cutting": 20522
@@ -10221,12 +8072,6 @@
       "ranchRiding"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Peptoboonsmal daughters",
-      "Dual Rey daughters",
-      "Freckles Playboy daughters",
-      "Smart Little Lena daughters"
-    ],
     "_athleticism": 86,
     "_cow_sense": 80,
     "_speed": 72,
@@ -10262,14 +8107,6 @@
     "performance": {
       "earnings": 185757,
       "offspring_earnings": 13000000,
-      "discipline_strength": {
-        "reining": 96,
-        "ranchRiding": 62,
-        "cowHorse": 48,
-        "cutting": 28,
-        "teamRoping": 20,
-        "barrelRacing": 18
-      },
       "discipline_earnings": {
         "reining": 185757
       }
@@ -10282,13 +8119,6 @@
       "reining"
     ],
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Smart Chic Olena daughters",
-      "Gunner (Colonels Smoking Gun) daughters",
-      "Topsail Whiz daughters",
-      "Magnum Chic Dream daughters",
-      "Shining Spark daughters"
-    ],
     "_athleticism": 92,
     "_cow_sense": 30,
     "_speed": 88,
@@ -10324,14 +8154,6 @@
     "performance": {
       "earnings": 0,
       "offspring_earnings": 0,
-      "discipline_strength": {
-        "ranchRiding": 85,
-        "reining": 68,
-        "cowHorse": 55,
-        "teamRoping": 50,
-        "cutting": 35,
-        "barrelRacing": 28
-      },
       "discipline_earnings": {}
     },
     "market": {
@@ -10343,12 +8165,6 @@
       "reining"
     ],
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Cat Man Do-bred mares",
-      "Wimpys Little Step daughters",
-      "Mecom Blue daughters",
-      "Mr Sorrel Bo daughters"
-    ],
     "_athleticism": 86,
     "_cow_sense": 58,
     "_speed": 78,
@@ -10384,14 +8200,6 @@
     "performance": {
       "earnings": 6476,
       "offspring_earnings": 0,
-      "discipline_strength": {
-        "cutting": 75,
-        "ranchRiding": 70,
-        "cowHorse": 68,
-        "teamRoping": 45,
-        "reining": 30,
-        "barrelRacing": 20
-      },
       "discipline_earnings": {
         "cutting": 6476
       }
@@ -10406,13 +8214,6 @@
       "ranchRiding"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "High Brow Cat daughters",
-      "Dual Rey daughters",
-      "Smart Little Lena daughters",
-      "Metallic Cat daughters",
-      "Topsail Whiz daughters"
-    ],
     "_athleticism": 84,
     "_cow_sense": 88,
     "_speed": 68,
@@ -10448,14 +8249,6 @@
     "performance": {
       "earnings": 185886,
       "offspring_earnings": 4000000,
-      "discipline_strength": {
-        "reining": 88,
-        "cowHorse": 62,
-        "ranchRiding": 48,
-        "cutting": 28,
-        "teamRoping": 22,
-        "barrelRacing": 18
-      },
       "discipline_earnings": {
         "reining": 185886
       }
@@ -10468,13 +8261,6 @@
       "reining"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Shining Spark daughters",
-      "Smart Spook daughters",
-      "Colonels Smoking Gun daughters",
-      "Wimpys Little Step daughters",
-      "Topsail Whiz daughters"
-    ],
     "_athleticism": 90,
     "_cow_sense": 55,
     "_speed": 85,
@@ -10510,14 +8296,6 @@
     "performance": {
       "earnings": 101621,
       "offspring_earnings": 0,
-      "discipline_strength": {
-        "reining": 80,
-        "cowHorse": 58,
-        "ranchRiding": 44,
-        "cutting": 25,
-        "teamRoping": 20,
-        "barrelRacing": 16
-      },
       "discipline_earnings": {
         "reining": 101621
       }
@@ -10530,13 +8308,6 @@
       "reining"
     ],
     "_sire_line_strength": "strong",
-    "_proven_crosses": [
-      "Hollywood Dun It daughters",
-      "Shining Spark daughters",
-      "Magnum Chic Dream daughters",
-      "Wimpys Little Step daughters",
-      "Smart Spook daughters"
-    ],
     "_athleticism": 88,
     "_cow_sense": 50,
     "_speed": 84,
@@ -10572,14 +8343,6 @@
     "performance": {
       "earnings": 353174,
       "offspring_earnings": 0,
-      "discipline_strength": {
-        "cutting": 86,
-        "cowHorse": 80,
-        "reining": 65,
-        "ranchRiding": 52,
-        "teamRoping": 38,
-        "barrelRacing": 22
-      },
       "discipline_earnings": {
         "cutting": 353174
       }
@@ -10594,13 +8357,6 @@
       "reining"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "High Brow Cat daughters",
-      "Metallic Cat daughters",
-      "Peptoboonsmal daughters",
-      "Smart Little Lena daughters",
-      "Freckles Playboy daughters"
-    ],
     "_athleticism": 92,
     "_cow_sense": 95,
     "_speed": 86,
@@ -10636,14 +8392,6 @@
     "performance": {
       "earnings": 148714,
       "offspring_earnings": 2000000,
-      "discipline_strength": {
-        "reining": 90,
-        "cowHorse": 68,
-        "ranchRiding": 50,
-        "cutting": 35,
-        "teamRoping": 22,
-        "barrelRacing": 18
-      },
       "discipline_earnings": {
         "reining": 148714
       }
@@ -10656,13 +8404,6 @@
       "reining"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Colonels Smoking Gun daughters",
-      "Magnum Chic Dream daughters",
-      "Wimpys Little Step daughters",
-      "Topsail Whiz daughters",
-      "Custom Crome daughters"
-    ],
     "_athleticism": 92,
     "_cow_sense": 62,
     "_speed": 88,
@@ -10698,14 +8439,6 @@
     "performance": {
       "earnings": 113985,
       "offspring_earnings": 15123113,
-      "discipline_strength": {
-        "reining": 88,
-        "cowHorse": 65,
-        "ranchRiding": 50,
-        "cutting": 30,
-        "teamRoping": 25,
-        "barrelRacing": 20
-      },
       "discipline_earnings": {
         "reining": 113985
       }
@@ -10718,13 +8451,6 @@
       "reining"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Magnum Chic Dream daughters",
-      "Smart Chic Olena daughters",
-      "Wimpys Little Step daughters",
-      "Topsail Whiz daughters",
-      "Shining Spark daughters"
-    ],
     "_athleticism": 92,
     "_cow_sense": 68,
     "_speed": 88,
@@ -10760,14 +8486,6 @@
     "performance": {
       "earnings": 239655,
       "offspring_earnings": 0,
-      "discipline_strength": {
-        "reining": 87,
-        "cowHorse": 62,
-        "ranchRiding": 46,
-        "cutting": 30,
-        "teamRoping": 22,
-        "barrelRacing": 18
-      },
       "discipline_earnings": {
         "reining": 239655
       }
@@ -10780,13 +8498,6 @@
       "reining"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Colonels Smoking Gun daughters",
-      "Magnum Chic Dream daughters",
-      "Wimpys Little Step daughters",
-      "Gunnatrashya daughters",
-      "Topsail Whiz daughters"
-    ],
     "_athleticism": 92,
     "_cow_sense": 60,
     "_speed": 90,
@@ -10822,14 +8533,6 @@
     "performance": {
       "earnings": 44553,
       "offspring_earnings": 14500000,
-      "discipline_strength": {
-        "reining": 95,
-        "cowHorse": 72,
-        "ranchRiding": 56,
-        "cutting": 40,
-        "teamRoping": 25,
-        "barrelRacing": 20
-      },
       "discipline_earnings": {
         "reining": 44553
       }
@@ -10842,13 +8545,6 @@
       "reining"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Colonels Smoking Gun daughters",
-      "Wimpys Little Step daughters",
-      "Hollywood Dun It daughters",
-      "Shining Spark daughters",
-      "Gunnatrashya daughters"
-    ],
     "_athleticism": 92,
     "_cow_sense": 68,
     "_speed": 90,
@@ -10884,14 +8580,6 @@
     "performance": {
       "earnings": 236457,
       "offspring_earnings": 16000000,
-      "discipline_strength": {
-        "reining": 96,
-        "cowHorse": 78,
-        "ranchRiding": 60,
-        "cutting": 42,
-        "teamRoping": 28,
-        "barrelRacing": 22
-      },
       "discipline_earnings": {
         "reining": 236457
       }
@@ -10904,13 +8592,6 @@
       "reining"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Wimpys Little Step daughters",
-      "Smart Chic Olena daughters",
-      "Magnum Chic Dream daughters",
-      "Topsail Whiz daughters",
-      "Shining Spark daughters"
-    ],
     "_athleticism": 96,
     "_cow_sense": 80,
     "_speed": 92,
@@ -10946,14 +8627,6 @@
     "performance": {
       "earnings": 0,
       "offspring_earnings": 0,
-      "discipline_strength": {
-        "cutting": 90,
-        "cowHorse": 80,
-        "ranchRiding": 60,
-        "teamRoping": 45,
-        "reining": 35,
-        "barrelRacing": 20
-      },
       "discipline_earnings": {}
     },
     "market": {
@@ -10965,13 +8638,6 @@
       "cowHorse"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "High Brow Cat daughters",
-      "Metallic Cat daughters",
-      "Dual Rey daughters",
-      "Peptoboonsmal daughters",
-      "Smart Little Lena daughters"
-    ],
     "_athleticism": 96,
     "_cow_sense": 96,
     "_speed": 85,
@@ -11007,14 +8673,6 @@
     "performance": {
       "earnings": 110800,
       "offspring_earnings": 97000000,
-      "discipline_strength": {
-        "cutting": 99,
-        "cowHorse": 92,
-        "ranchRiding": 72,
-        "teamRoping": 65,
-        "reining": 58,
-        "barrelRacing": 30
-      },
       "discipline_earnings": {
         "cutting": 110800
       }
@@ -11030,13 +8688,6 @@
       "ranchRiding"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Peptoboonsmal daughters",
-      "Dual Rey daughters",
-      "Smart Little Lena daughters",
-      "One Time Pepto daughters",
-      "Dual Smart Rey daughters"
-    ],
     "_athleticism": 96,
     "_cow_sense": 99,
     "_speed": 88,
@@ -11072,14 +8723,6 @@
     "performance": {
       "earnings": 180487,
       "offspring_earnings": 28000000,
-      "discipline_strength": {
-        "cutting": 98,
-        "cowHorse": 88,
-        "ranchRiding": 68,
-        "teamRoping": 58,
-        "reining": 45,
-        "barrelRacing": 25
-      },
       "discipline_earnings": {
         "cutting": 180487
       }
@@ -11095,13 +8738,6 @@
       "ranchRiding"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "High Brow Cat daughters",
-      "Metallic Cat daughters",
-      "Dual Rey daughters",
-      "Smart Little Lena daughters",
-      "Freckles Playboy daughters"
-    ],
     "_athleticism": 94,
     "_cow_sense": 98,
     "_speed": 86,
@@ -11137,14 +8773,6 @@
     "performance": {
       "earnings": 743275,
       "offspring_earnings": 42300000,
-      "discipline_strength": {
-        "cutting": 99,
-        "cowHorse": 90,
-        "ranchRiding": 70,
-        "teamRoping": 55,
-        "reining": 60,
-        "barrelRacing": 25
-      },
       "discipline_earnings": {
         "cutting": 743275
       }
@@ -11159,13 +8787,6 @@
       "reining"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Peppy San Badger daughters",
-      "Doc Bar daughters",
-      "High Brow Cat daughters",
-      "Peptoboonsmal daughters",
-      "Dual Rey daughters"
-    ],
     "_athleticism": 96,
     "_cow_sense": 99,
     "_speed": 88,
@@ -11201,14 +8822,6 @@
     "performance": {
       "earnings": 27035,
       "offspring_earnings": 0,
-      "discipline_strength": {
-        "cutting": 78,
-        "cowHorse": 72,
-        "teamRoping": 65,
-        "ranchRiding": 58,
-        "reining": 45,
-        "barrelRacing": 28
-      },
       "discipline_earnings": {
         "cutting": 27035
       }
@@ -11224,13 +8837,6 @@
       "ranchRiding"
     ],
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "High Brow Cat daughters",
-      "Peptoboonsmal daughters",
-      "Dual Rey daughters",
-      "Metallic Cat daughters",
-      "Smart Little Lena daughters"
-    ],
     "_athleticism": 88,
     "_cow_sense": 88,
     "_speed": 80,
@@ -11266,14 +8872,6 @@
     "performance": {
       "earnings": 185312,
       "offspring_earnings": 0,
-      "discipline_strength": {
-        "reining": 84,
-        "cowHorse": 62,
-        "ranchRiding": 48,
-        "cutting": 28,
-        "teamRoping": 22,
-        "barrelRacing": 18
-      },
       "discipline_earnings": {
         "reining": 185312
       }
@@ -11286,13 +8884,6 @@
       "reining"
     ],
     "_sire_line_strength": "premier",
-    "_proven_crosses": [
-      "Wimpys Little Step daughters",
-      "Magnum Chic Dream daughters",
-      "Topsail Whiz daughters",
-      "Smart Chic Olena daughters",
-      "Gunnatrashya daughters"
-    ],
     "_athleticism": 90,
     "_cow_sense": 55,
     "_speed": 88,
@@ -11328,14 +8919,6 @@
     "performance": {
       "earnings": 234341,
       "offspring_earnings": 0,
-      "discipline_strength": {
-        "reining": 85,
-        "cowHorse": 62,
-        "ranchRiding": 50,
-        "cutting": 28,
-        "teamRoping": 22,
-        "barrelRacing": 18
-      },
       "discipline_earnings": {
         "reining": 234341
       }
@@ -11348,13 +8931,6 @@
       "reining"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Colonels Smoking Gun daughters",
-      "Magnum Chic Dream daughters",
-      "Wimpys Little Step daughters",
-      "Topsail Whiz daughters",
-      "Hollywood Dun It daughters"
-    ],
     "_athleticism": 92,
     "_cow_sense": 58,
     "_speed": 90,
@@ -11390,14 +8966,6 @@
     "performance": {
       "earnings": 875255,
       "offspring_earnings": 0,
-      "discipline_strength": {
-        "reining": 94,
-        "cowHorse": 70,
-        "ranchRiding": 54,
-        "cutting": 32,
-        "teamRoping": 25,
-        "barrelRacing": 20
-      },
       "discipline_earnings": {
         "reining": 875255
       }
@@ -11410,13 +8978,6 @@
       "reining"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Wimpys Little Step daughters",
-      "Topsail Whiz daughters",
-      "Smart Chic Olena daughters",
-      "Magnum Chic Dream daughters",
-      "Shining Spark daughters"
-    ],
     "_athleticism": 96,
     "_cow_sense": 75,
     "_speed": 94,
@@ -11452,14 +9013,6 @@
     "performance": {
       "earnings": 351514,
       "offspring_earnings": 0,
-      "discipline_strength": {
-        "cowHorse": 92,
-        "cutting": 78,
-        "reining": 75,
-        "ranchRiding": 58,
-        "teamRoping": 48,
-        "barrelRacing": 20
-      },
       "discipline_earnings": {
         "cowHorse": 351514
       }
@@ -11474,13 +9027,6 @@
       "reining"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Peptoboonsmal daughters",
-      "Dual Rey daughters",
-      "Smart Little Lena daughters",
-      "Colonels Smoking Gun daughters",
-      "Metallic Cat daughters"
-    ],
     "_athleticism": 94,
     "_cow_sense": 94,
     "_speed": 88,
@@ -11516,14 +9062,6 @@
     "performance": {
       "earnings": 188526,
       "offspring_earnings": 1000000,
-      "discipline_strength": {
-        "reining": 86,
-        "cowHorse": 62,
-        "ranchRiding": 52,
-        "cutting": 30,
-        "teamRoping": 22,
-        "barrelRacing": 18
-      },
       "discipline_earnings": {
         "reining": 188526
       }
@@ -11536,13 +9074,6 @@
       "reining"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Colonels Smoking Gun daughters",
-      "Magnum Chic Dream daughters",
-      "Wimpys Little Step daughters",
-      "Shining Spark daughters",
-      "Hollywood Dun It daughters"
-    ],
     "_athleticism": 90,
     "_cow_sense": 58,
     "_speed": 90,
@@ -11578,14 +9109,6 @@
     "performance": {
       "earnings": 0,
       "offspring_earnings": 0,
-      "discipline_strength": {
-        "cutting": 72,
-        "cowHorse": 68,
-        "ranchRiding": 70,
-        "teamRoping": 62,
-        "reining": 40,
-        "barrelRacing": 22
-      },
       "discipline_earnings": {}
     },
     "market": {
@@ -11599,13 +9122,6 @@
       "teamRoping"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "High Brow Cat daughters",
-      "Peptoboonsmal daughters",
-      "Metallic Cat daughters",
-      "Dual Rey daughters",
-      "Colonels Smoking Gun daughters"
-    ],
     "_athleticism": 88,
     "_cow_sense": 90,
     "_speed": 82,
@@ -11641,14 +9157,6 @@
     "performance": {
       "earnings": 140342,
       "offspring_earnings": 0,
-      "discipline_strength": {
-        "reining": 82,
-        "cowHorse": 60,
-        "ranchRiding": 52,
-        "cutting": 30,
-        "teamRoping": 22,
-        "barrelRacing": 18
-      },
       "discipline_earnings": {
         "reining": 140342
       }
@@ -11661,13 +9169,6 @@
       "reining"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Colonels Smoking Gun daughters",
-      "Topsail Whiz daughters",
-      "Wimpys Little Step daughters",
-      "Hollywood Dun It daughters",
-      "Shining Spark daughters"
-    ],
     "_athleticism": 90,
     "_cow_sense": 58,
     "_speed": 88,
@@ -11703,14 +9204,6 @@
     "performance": {
       "earnings": 294439,
       "offspring_earnings": 0,
-      "discipline_strength": {
-        "cowHorse": 90,
-        "cutting": 82,
-        "reining": 72,
-        "ranchRiding": 60,
-        "teamRoping": 52,
-        "barrelRacing": 20
-      },
       "discipline_earnings": {
         "cowHorse": 294439
       }
@@ -11725,13 +9218,6 @@
       "reining"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "High Brow Cat daughters",
-      "Metallic Cat daughters",
-      "Dual Rey daughters",
-      "Smart Little Lena daughters",
-      "Colonels Smoking Gun daughters"
-    ],
     "_athleticism": 92,
     "_cow_sense": 96,
     "_speed": 86,
@@ -11767,14 +9253,6 @@
     "performance": {
       "earnings": 100000,
       "offspring_earnings": 0,
-      "discipline_strength": {
-        "reining": 82,
-        "cowHorse": 55,
-        "ranchRiding": 48,
-        "cutting": 28,
-        "teamRoping": 22,
-        "barrelRacing": 18
-      },
       "discipline_earnings": {
         "reining": 100000
       }
@@ -11787,13 +9265,6 @@
       "reining"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Colonels Smoking Gun daughters",
-      "Wimpys Little Step daughters",
-      "Magnum Chic Dream daughters",
-      "Hollywood Dun It daughters",
-      "Topsail Whiz daughters"
-    ],
     "_athleticism": 90,
     "_cow_sense": 55,
     "_speed": 90,
@@ -11829,14 +9300,6 @@
     "performance": {
       "earnings": 127274,
       "offspring_earnings": 0,
-      "discipline_strength": {
-        "reining": 82,
-        "cowHorse": 55,
-        "ranchRiding": 50,
-        "cutting": 30,
-        "teamRoping": 22,
-        "barrelRacing": 18
-      },
       "discipline_earnings": {
         "reining": 127274
       }
@@ -11849,13 +9312,6 @@
       "reining"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Colonels Smoking Gun daughters",
-      "Magnum Chic Dream daughters",
-      "Wimpys Little Step daughters",
-      "Spooks Gotta Whiz daughters",
-      "Hollywood Dun It daughters"
-    ],
     "_athleticism": 90,
     "_cow_sense": 52,
     "_speed": 90,
@@ -11891,14 +9347,6 @@
     "performance": {
       "earnings": 153320,
       "offspring_earnings": 1000000,
-      "discipline_strength": {
-        "cowHorse": 94,
-        "cutting": 82,
-        "reining": 75,
-        "teamRoping": 65,
-        "ranchRiding": 58,
-        "barrelRacing": 22
-      },
       "discipline_earnings": {
         "cowHorse": 153320
       }
@@ -11913,13 +9361,6 @@
       "teamRoping"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "High Brow Cat daughters",
-      "Peptoboonsmal daughters",
-      "Dual Rey daughters",
-      "Metallic Cat daughters",
-      "Colonels Smoking Gun daughters"
-    ],
     "_athleticism": 95,
     "_cow_sense": 97,
     "_speed": 88,
@@ -11955,14 +9396,6 @@
     "performance": {
       "earnings": 179883,
       "offspring_earnings": 270000,
-      "discipline_strength": {
-        "cowHorse": 94,
-        "cutting": 84,
-        "reining": 74,
-        "teamRoping": 68,
-        "ranchRiding": 58,
-        "barrelRacing": 22
-      },
       "discipline_earnings": {
         "cowHorse": 179883
       }
@@ -11977,13 +9410,6 @@
       "teamRoping"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Peptoboonsmal daughters",
-      "Dual Rey daughters",
-      "Metallic Cat daughters",
-      "Smart Little Lena daughters",
-      "Colonels Smoking Gun daughters"
-    ],
     "_athleticism": 95,
     "_cow_sense": 97,
     "_speed": 88,
@@ -12019,14 +9445,6 @@
     "performance": {
       "earnings": 203712,
       "offspring_earnings": 0,
-      "discipline_strength": {
-        "cowHorse": 92,
-        "cutting": 85,
-        "reining": 72,
-        "teamRoping": 65,
-        "ranchRiding": 58,
-        "barrelRacing": 22
-      },
       "discipline_earnings": {
         "cowHorse": 203712
       }
@@ -12041,13 +9459,6 @@
       "teamRoping"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "High Brow Cat daughters",
-      "Peptoboonsmal daughters",
-      "Dual Rey daughters",
-      "Metallic Cat daughters",
-      "CD Diamond daughters"
-    ],
     "_athleticism": 96,
     "_cow_sense": 96,
     "_speed": 90,
@@ -12083,14 +9494,6 @@
     "performance": {
       "earnings": 240800,
       "offspring_earnings": 4300000,
-      "discipline_strength": {
-        "cutting": 90,
-        "cowHorse": 75,
-        "teamRoping": 68,
-        "ranchRiding": 60,
-        "reining": 45,
-        "barrelRacing": 25
-      },
       "discipline_earnings": {
         "cutting": 240800
       }
@@ -12106,13 +9509,6 @@
       "ranchRiding"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Peptoboonsmal daughters",
-      "Dual Rey daughters",
-      "Metallic Cat daughters",
-      "Smart Little Lena daughters",
-      "One Time Pepto daughters"
-    ],
     "_athleticism": 92,
     "_cow_sense": 96,
     "_speed": 84,
@@ -12148,14 +9544,6 @@
     "performance": {
       "earnings": 856901,
       "offspring_earnings": 37500000,
-      "discipline_strength": {
-        "barrelRacing": 94,
-        "teamRoping": 74,
-        "ranchRiding": 60,
-        "cutting": 20,
-        "cowHorse": 15,
-        "reining": 12
-      },
       "discipline_earnings": {
         "barrelRacing": 7500000,
         "teamRoping": 0
@@ -12171,13 +9559,6 @@
       "ranchRiding"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Dash Ta Fame daughters",
-      "Frenchmans Guy daughters",
-      "Firewater Flit daughters",
-      "First Down Dash daughters",
-      "Corona Cartel daughters"
-    ],
     "_athleticism": 97,
     "_cow_sense": 38,
     "_speed": 98,
@@ -12213,14 +9594,6 @@
     "performance": {
       "earnings": 27645,
       "offspring_earnings": 13000000,
-      "discipline_strength": {
-        "barrelRacing": 97,
-        "teamRoping": 82,
-        "ranchRiding": 62,
-        "cutting": 22,
-        "cowHorse": 18,
-        "reining": 15
-      },
       "discipline_earnings": {
         "barrelRacing": 10600000,
         "teamRoping": 1700000
@@ -12236,13 +9609,6 @@
       "ranchRiding"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Dash Ta Fame daughters",
-      "Frenchmans Guy daughters",
-      "Firewater Flit daughters",
-      "Corona Cartel daughters",
-      "First Down Dash daughters"
-    ],
     "_athleticism": 96,
     "_cow_sense": 42,
     "_speed": 98,
@@ -12278,14 +9644,6 @@
     "performance": {
       "earnings": 0,
       "offspring_earnings": 5000000,
-      "discipline_strength": {
-        "barrelRacing": 98,
-        "teamRoping": 76,
-        "ranchRiding": 62,
-        "cutting": 20,
-        "cowHorse": 16,
-        "reining": 14
-      },
       "discipline_earnings": {
         "barrelRacing": 5000000
       }
@@ -12300,13 +9658,6 @@
       "ranchRiding"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Dash Ta Fame daughters",
-      "Frenchmans Guy daughters",
-      "Tres Seis daughters",
-      "Firewater Flit daughters",
-      "Corona Cartel daughters"
-    ],
     "_athleticism": 96,
     "_cow_sense": 38,
     "_speed": 98,
@@ -12342,14 +9693,6 @@
     "performance": {
       "earnings": 208087,
       "offspring_earnings": 10615206,
-      "discipline_strength": {
-        "barrelRacing": 96,
-        "teamRoping": 74,
-        "ranchRiding": 60,
-        "cutting": 18,
-        "cowHorse": 14,
-        "reining": 12
-      },
       "discipline_earnings": {
         "barrelRacing": 10615206
       }
@@ -12364,13 +9707,6 @@
       "ranchRiding"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Frenchmans Guy daughters",
-      "Tres Seis daughters",
-      "Firewater Flit daughters",
-      "Corona Cartel daughters",
-      "A Streak Of Fling daughters"
-    ],
     "_athleticism": 96,
     "_cow_sense": 36,
     "_speed": 98,
@@ -12406,14 +9742,6 @@
     "performance": {
       "earnings": 170000,
       "offspring_earnings": 7000000,
-      "discipline_strength": {
-        "barrelRacing": 97,
-        "teamRoping": 76,
-        "ranchRiding": 64,
-        "cutting": 22,
-        "cowHorse": 18,
-        "reining": 14
-      },
       "discipline_earnings": {
         "barrelRacing": 7000000
       }
@@ -12428,13 +9756,6 @@
       "ranchRiding"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Dash Ta Fame daughters",
-      "Frenchmans Guy daughters",
-      "Tres Seis daughters",
-      "The Goodbye Lane daughters",
-      "Corona Cartel daughters"
-    ],
     "_athleticism": 97,
     "_cow_sense": 40,
     "_speed": 98,
@@ -12470,14 +9791,6 @@
     "performance": {
       "earnings": 0,
       "offspring_earnings": 3800000,
-      "discipline_strength": {
-        "teamRoping": 90,
-        "barrelRacing": 82,
-        "ranchRiding": 70,
-        "cutting": 28,
-        "cowHorse": 22,
-        "reining": 18
-      },
       "discipline_earnings": {
         "teamRoping": 2000000,
         "barrelRacing": 1800000
@@ -12493,13 +9806,6 @@
       "ranchRiding"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Dash Ta Fame daughters",
-      "Tres Seis daughters",
-      "Firewater Flit daughters",
-      "Corona Cartel daughters",
-      "Streakin Six daughters"
-    ],
     "_athleticism": 94,
     "_cow_sense": 52,
     "_speed": 96,
@@ -12535,14 +9841,6 @@
     "performance": {
       "earnings": 1399831,
       "offspring_earnings": 81212783,
-      "discipline_strength": {
-        "barrelRacing": 90,
-        "teamRoping": 78,
-        "ranchRiding": 55,
-        "cutting": 18,
-        "cowHorse": 15,
-        "reining": 12
-      },
       "discipline_earnings": {
         "barrelRacing": 81212783
       }
@@ -12557,13 +9855,6 @@
       "ranchRiding"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Tres Seis daughters",
-      "First Down Dash daughters",
-      "Dash Ta Fame daughters",
-      "Corona Cartel daughters",
-      "Frenchmans Guy daughters"
-    ],
     "_athleticism": 99,
     "_cow_sense": 35,
     "_speed": 100,
@@ -12599,14 +9890,6 @@
     "performance": {
       "earnings": 678798,
       "offspring_earnings": 1200000,
-      "discipline_strength": {
-        "cowHorse": 98,
-        "cutting": 82,
-        "reining": 76,
-        "teamRoping": 70,
-        "ranchRiding": 60,
-        "barrelRacing": 20
-      },
       "discipline_earnings": {
         "cowHorse": 678798
       }
@@ -12622,13 +9905,6 @@
       "ranchRiding"
     ],
     "_sire_line_strength": "elite",
-    "_proven_crosses": [
-      "Peptoboonsmal daughters",
-      "Dual Rey daughters",
-      "Smart Little Lena daughters",
-      "CD Diamond daughters",
-      "Metallic Cat daughters"
-    ],
     "_athleticism": 98,
     "_cow_sense": 98,
     "_speed": 88,
