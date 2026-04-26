@@ -9474,5 +9474,65 @@
     "_stamina": 85,
     "_temperament": 92,
     "_performance_summary": "Gunners Tinseltown \u2014 2009 AQHA/APHA Sorrel Stallion, 15.1H. Nickname: Gunny. Bred, owned, and nominated by David Silva Sr. (Silva Reining Horses). Standing at Tom McCutcheon Reining Horses, Aubrey TX. Book Now Pay Later \u2014 no payments until 12/31/26. By Colonels Smoking Gun (Gunner \u2014 NRHA Hall of Fame; NRHA $15M+ All-Time Leading Sire; nearly 1,000 NRHA money-earning offspring; 24 offspring over $100K LTE; sire of Gunnatrashya, Gunners Special Nite, Tinker With Guns, Down Right Amazing) out of Miss Tinseltown (Great Red Pine \u2014 NRHA Hall of Fame; first mare in NRHA history to score above 230; 1999 NRBC Champion, score 233.5; NRHA All-Time Leading Dam; 11 foals earning $741,156 total, avg $67,377 each). BOTH PARENTS NRHA HALL OF FAMERS. LTE $307,000. NRHA Million Dollar Sire (November 2024). 99 offspring with NRHA LTE. NRHA All-Time Leading Money Earners \u2014 10th. 2012 NRHA Open Futurity Reserve Champion (Tim McQuay, $143,473 check). NRBC L4 Open Derby 3rd. NRBC L3 Open Derby Reserve Champion. NRHA Derby L3 Open Reserve Champion and Top 5 L4. Cactus Reining Classic L3 Open Derby Champion and L4 Top 5. High Roller Reining Classic L3 Open 4-Year-Old Stakes Reserve Champion and Top 5 L4. Offspring in NRHA Derby L4 Open Finals (QHN 2022). 5-Panel N/N (GBED, HERDA, HYPP, MH, PSSM1). Cooled and frozen semen available. International: Serequine (Europe), Frozen Partners (Germany). Enrolled: NRBC, All Star Reining Stakes, NRHA Sire & Dam. 2026 stud fee $2,500. Booking fee $500. Book Now Pay Later until 12/31/26. Tom McCutcheon Reining Horses, 3732 Shepard Rd, Aubrey TX 76227. (940) 453-0003. tmreining.com/stallions/gunners-tinseltown/"
+  },
+  {
+    "id": "tmc004",
+    "name": "Gangsta Sixtysix",
+    "station": "Tom McCutcheon Reining Horses",
+    "source_url": "https://tmreining.com/stallions/",
+    "genetics": {
+      "sire": "Inferno Sixty Six",
+      "dam": "Rush N Cat (Little Rush)",
+      "bloodline_cluster": "SmokingGun",
+      "offspring_success_score": 30
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 82,
+      "balance_score": 85
+    },
+    "mental": {
+      "trainability": 85,
+      "reactivity": "moderate",
+      "consistency": 80
+    },
+    "health": {
+      "soundness_score": 88
+    },
+    "performance": {
+      "earnings": 168344,
+      "offspring_earnings": 0,
+      "discipline_strength": {
+        "reining": 78,
+        "cowHorse": 35,
+        "ranchRiding": 50,
+        "cutting": 18,
+        "teamRoping": 20,
+        "barrelRacing": 18
+      },
+      "discipline_earnings": {
+        "reining": 168344
+      }
+    },
+    "market": {
+      "stud_fee": 0,
+      "demand_index": 58
+    },
+    "_disciplines": [
+      "reining"
+    ],
+    "_sire_line_strength": "premier",
+    "_proven_crosses": [
+      "Gunnatrashya daughters",
+      "Topsail Whiz daughters",
+      "Shining Spark daughters"
+    ],
+    "_athleticism": 84,
+    "_cow_sense": 25,
+    "_speed": 85,
+    "_stamina": 80,
+    "_temperament": 86,
+    "_performance_summary": "Gangsta Sixtysix \u2014 2017 AQHA Stallion. Bred by Lorenzo Lotti. Owned by Julio Mora Hernandez. Nominated by Slide or Die LLC. Standing at Tom McCutcheon Reining Horses, Aubrey TX. Book Now Pay Later \u2014 no payments until 12/31/26. Stud fee: contact station. By Inferno Sixty Six (Gunnatrashya x Snip O Gun x One Gun \u2014 LTE $216,165+; 2015 NRHA Futurity L4 Open Reserve Champion; NRHA $5M+ Sire; youngest multimillion dollar sire in NRHA history; 212 offspring with NRHA LTE; NRHA Top 10 Leading Sires 2021-2023; by Gunnatrashya \u2014 NRHA Hall of Fame, $15M+ Sire; by Colonels Smoking Gun [Gunner] \u2014 NRHA Hall of Fame, $15M+ All-Time Leading Sire) out of Rush N Cat (by Little Rush). Three generations of elite NRHA sires on the top line. LTE $168,344. 2020 SWRHA Billingsley Ford Open Futurity L4 Champion with Franco Bertolani, score 222.5 (Inferno Sixty Six's first L4 Open futurity champion; original owner Helga Smith Quarter Horses). Shown at Tulsa (17.5) and Las Vegas (16.5) leading up to SWRHA win. Entered 2020 NRHA Futurity Open as freshman. Tom McCutcheon Reining Horses, 3732 Shepard Rd, Aubrey TX 76227. (940) 453-0003. tmreining.com"
   }
 ]
