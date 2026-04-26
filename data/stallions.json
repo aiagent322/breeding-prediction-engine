@@ -2227,60 +2227,65 @@
     "name": "Dash Ta Fame",
     "genetics": {
       "sire": "First Down Dash",
-      "dam": "Easy Jet Lady",
-      "bloodline_cluster": "Dash",
-      "offspring_success_score": 90
+      "dam": "Sudden Fame (Tinys Gay)",
+      "bloodline_cluster": "FirstDownDash",
+      "offspring_success_score": 97
     },
     "physical": {
-      "height_hands": 14.3,
-      "weight_class": "light",
-      "bone_density_score": 78,
-      "balance_score": 88
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 88,
+      "balance_score": 90
     },
     "mental": {
-      "trainability": 72,
-      "reactivity": "high",
-      "consistency": 78
+      "trainability": 92,
+      "reactivity": "moderate",
+      "consistency": 96
     },
     "performance": {
+      "earnings": 290812,
+      "offspring_earnings": 37317797,
       "discipline_strength": {
-        "barrelRacing": 96,
+        "barrelRacing": 99,
         "teamRoping": 72,
-        "cowHorse": 40,
         "ranchRiding": 55,
-        "reining": 30,
-        "cutting": 18
+        "cutting": 22,
+        "cowHorse": 18,
+        "reining": 15
       },
-      "earnings": 820000,
-      "offspring_earnings": 20000000,
       "discipline_earnings": {
-        "barrelRacing": 17000000,
-        "teamRoping": 2000000,
-        "ranchRiding": 1000000
+        "barrelRacing": 32000000,
+        "teamRoping": 5317797
       }
     },
     "health": {
-      "soundness_score": null
+      "soundness_score": 88
     },
     "market": {
       "stud_fee": 5000,
-      "demand_index": 93
+      "demand_index": 94
     },
     "_disciplines": [
       "barrelRacing",
-      "teamRoping"
+      "teamRoping",
+      "ranchRiding"
     ],
     "_sire_line_strength": "elite",
     "_proven_crosses": [
-      "Frenchmans Guy",
-      "Corona Cartel",
-      "Takin On The Cash"
+      "Frenchmans Guy daughters",
+      "Streakin Six daughters",
+      "Tres Seis daughters",
+      "Corona Cartel daughters",
+      "A Streak Of Fling daughters"
     ],
-    "_athleticism": 97,
-    "_cow_sense": 25,
-    "_speed": 99,
-    "_stamina": 85,
-    "_temperament": 68
+    "_athleticism": 98,
+    "_cow_sense": 40,
+    "_speed": 100,
+    "_stamina": 92,
+    "_temperament": 90,
+    "station": "Bob & Darian Burt",
+    "source_url": "https://dashtafame.com/",
+    "_performance_summary": "Dash Ta Fame \u2014 1989 Chestnut Stallion. The Nation's #1 All-Time Leading Barrel Racing Sire. Owned and standing at Bob & Darian Burt. Website: dashtafame.com | Contact: bobburteggmares@gmail.com. 2026 Breeding Fee: $5,000. Active as of 2026 \u2014 GBF Elite Stallion \u2014 37 years old. 5-Panel N/N: HYPP, HERDA, GBED, PSSM1, MH. Nominated: Royal Crown, Breeders Challenge, Tomorrows Legends, Top Shelf Breeders, Legends of the South, VGBRA, BBI, Select Stallion Stakes, PESI, BIF, Colorado Classic, JJ Classic, SW Desert Classic, Triple Crown 100, Cowboy State, Gridiron, Cornhusker, MN Futurity, Legends Stallion Auction, Gold Buckle Futurities. \n\nPEDIGREE: By First Down Dash (AQHA Hall of Fame; one of the all-time great racing sires; his speed and stride length are the foundation of modern barrel racing bloodlines; SI 106; LTE $188,970; 2nd, All American Futurity G1 \u2014 the richest horse race in the world; sire of multiple leading barrel sires including Dash Ta Fame, First Prize Dash, and others; an AQHA #1 All-Time Leading Sire across multiple disciplines) out of Sudden Fame (by Tinys Gay; a daughter of the Casady Casanova / Top Moon line; the Sudden Fame female family blends First Down Dash's elite racing speed with the ground-covering, turnaround-efficient mechanics that translate from the racing lane to the barrel pen). Dash Ta Fame's First Down Dash \u00d7 Tinys Gay pedigree is the archetypal speed-on-speed cross that produces the combination of raw velocity and athletic agility needed to win at every level of barrel racing. \n\nRACE CAREER: AQHA Race SI-113. AAAT. ROM. Superior. Stakes Winner. Career record: 13 wins, 7 seconds, 1 third, 3 fourths. Race LTE: $290,812. Won: Golden Gate Futurity-G1 (the most prestigious 2-year-old QH race in California); El Primero Del Ano Derby-G1; Vandys Flash Handicap-G3. 2nd: Dash for Cash Futurity-G1 \u2014 losing only to another future leading sire. 3rd: QHBC Championship Classic-G1. Finalist: Governors Cup Derby-G1; California Derby. His SI-113 speed index places him in the top fraction of all Quarter Horses for sheer genetic speed. \n\nSIRE RECORD: The undisputed #1 All-Time Leading Barrel Racing Sire in North American Quarter Horse history. Total offspring earnings: $37,317,797+ across all events. Barrel offspring earnings: over $32 Million. 71 barrel offspring each earning over $100,000 individually. Race offspring earnings: over $19 Million. #1 Leading Broodmare Sire in barrel racing \u2014 his daughters produce barrel racing champions as reliably as he does. #3 Leading Barrel Sire in Brazil \u2014 international market confirmed. Leading Barrel Racing Sire for 13 consecutive years through 2016. Sire of RR Double Down Dash (GBF Junior Stallion) \u2014 confirming active sire-of-sires legacy. Notable offspring: Mistys Dash Ta Fame (million-dollar barrel producer), Miss Fortunes Fool ($63,307; AQHA High Point Junior Barrel Racing 3rd), Silver Creek Dash (BFA Reserve World Champion; dam of A Dash Ta Streak). \n\nHISTORICAL NOTE: At 37 years old in 2026, Dash Ta Fame is one of the oldest commercially active Quarter Horse stallions in history. His continued inclusion in the Gold Buckle Futurities Elite Stallion program with a $5,000 stud fee confirms active commercial availability. His frozen semen inventory and/or continued natural production represent access to genetics that are irreplaceable \u2014 no living stallion has matched his all-time barrel racing sire record. Contact Bob & Darian Burt at dashtafame.com for 2026 breeding availability."
   },
   {
     "id": "s040",
