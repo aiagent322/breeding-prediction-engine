@@ -9352,5 +9352,66 @@
     "_stamina": 85,
     "_temperament": 90,
     "_performance_summary": "All Nite Partier \u2014 2020 AQHA/APHA Sorrel Stallion. Owned by Sotol Investments, LLC. Standing at Tom McCutcheon Reining Horses, Aubrey TX. Book Now Pay Later \u2014 no payments until 12/31/26. By Gunners Special Nite (Colonels Smoking Gun x Mifs Doll/Mifillena \u2014 LTE $235,000; 2007 NRHA Futurity L4 Open Reserve Champion; 2018 NRHA #1 Leading Sire; PE $1.1M+; Colonels Smoking Gun: NRHA Hall of Fame, $16M+ All-Time Leading Sire) out of Topsail Survivor (Topsail Whiz \u2014 NRHA Hall of Fame; $12M+ Sire). LTE $373,088. 2024 NRHA L4 Open Derby Champion. 2023 NRHA L4 Open Futurity 3rd. 2023 Congress L4 Open Futurity Co-Reserve Champion. 2024 NRHA Derby 4-Year-Old L4 Open Stakes 3rd. 2024 Cowtown Classic 100X Reining 4-Year-Old L4 Open Stakes 5th. Nominated as #1 money earner by sire Gunners Special Nite in AQHA 2023 Top Reining Sires report. 6-Panel N/N (GBED, HERDA, HYPP, MH, PSSM1). Cooled and frozen semen available. Enrolled: NRHA Sire & Dam. Tom McCutcheon Reining Horses, 3732 Shepard Road, Aubrey TX 76227. Breeding office: (940) 453-0003. tmreining.com/stallions/all-nite-partier/"
+  },
+  {
+    "id": "tmc002",
+    "name": "Super Marioo",
+    "station": "Tom McCutcheon Reining Horses",
+    "source_url": "https://tmreining.com/stallions/super-marioo/",
+    "genetics": {
+      "sire": "Gunnatrashya",
+      "dam": "HA Chic A Tune (Smart Chic Olena)",
+      "bloodline_cluster": "SmokingGun",
+      "offspring_success_score": 45
+    },
+    "physical": {
+      "height_hands": 14.3,
+      "weight_class": "medium",
+      "bone_density_score": 85,
+      "balance_score": 90
+    },
+    "mental": {
+      "trainability": 92,
+      "reactivity": "moderate",
+      "consistency": 88
+    },
+    "health": {
+      "soundness_score": 90
+    },
+    "performance": {
+      "earnings": 338800,
+      "offspring_earnings": 0,
+      "discipline_strength": {
+        "reining": 90,
+        "cowHorse": 45,
+        "ranchRiding": 60,
+        "cutting": 20,
+        "teamRoping": 25,
+        "barrelRacing": 18
+      },
+      "discipline_earnings": {
+        "reining": 338800
+      }
+    },
+    "market": {
+      "stud_fee": 2500,
+      "demand_index": 75
+    },
+    "_disciplines": [
+      "reining"
+    ],
+    "_sire_line_strength": "elite",
+    "_proven_crosses": [
+      "Smart Chic Olena daughters",
+      "Colonels Smoking Gun daughters",
+      "Gunner daughters",
+      "Topsail Whiz daughters"
+    ],
+    "_athleticism": 90,
+    "_cow_sense": 32,
+    "_speed": 88,
+    "_stamina": 85,
+    "_temperament": 92,
+    "_performance_summary": "Super Marioo \u2014 2016 AQHA Sorrel Stallion, 14.3H, 1,120 lbs. Owned by Story Book Stables, Scottsdale AZ. Standing at Tom McCutcheon Reining Horses, Aubrey TX. Book Now Pay Later \u2014 no payments until 12/31/26. By Gunnatrashya (Colonels Smoking Gun x Natrasha/Trashadeous \u2014 LTE $218,046; 2009 NRHA Open Futurity Champion; 2009 All American Congress Futurity Open Champion; 2010 NRHA Open Derby Champion; $3.6M+ Sire; multiple NRHA Futurity Champion sire; Colonels Smoking Gun: NRHA Hall of Fame, $16M+ All-Time Leading Sire) out of HA Chic A Tune (Smart Chic Olena \u2014 NRHA Hall of Fame; $7M+ Sire; full sister to 2001 NRHA Futurity Int. Non-Pro Champion Da Chics Tune). LTE $338,800+. 2019 NRHA Open Futurity L4 Champion (ridden by Cade McCutcheon \u2014 his first year as a professional, making him the youngest NRHA Open Futurity Champion and youngest NRHA Million Dollar Rider). 2019 NRHA Open Futurity L3 Champion. 2019 NRHA Open Futurity L2 Champion. NRHA Open L4 Derby Co-Reserve Champion. Cactus Reining Classic L4 Co-Champion, score 227. NRBC Open Finalist. NRHA Open Derby Finalist. Represented internationally by Serequine (Europe). 6-Panel N/N (GBED, HERDA, HYPP, MH, PSSM1, IMM). Cooled semen available. Enrolled: NRBC, RMRHA, NRHA Sire & Dam, NARS, Northeast Breeders Trust, All Star Reining Stakes, IRHA, SWRHA. 2026 stud fee $2,500. Booking fee $500. Balance due on confirmed pregnancy. Mare care $500-$600/month. Shipped semen $350. Tom McCutcheon Reining Horses, 3732 Shepard Rd, Aubrey TX 76227. Breeding office: (940) 453-0003. tmreining.com/stallions/super-marioo/"
   }
 ]
