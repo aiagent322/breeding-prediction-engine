@@ -10392,5 +10392,67 @@
     "_stamina": 82,
     "_temperament": 88,
     "_performance_summary": "Pocket Fulla Pepto \u2014 2010 Red Roan Stallion. Also called 'Fulla Pepto' on the ranch. Bred by W.T. Waggoner Ranch, Vernon TX. Sold at the Waggoner Ranch Total Reduction Sale (circa 2015-2016). Last known standing at Loan Oak Quarter Horses, Sebeka MN. Current location: contact Waggoner Ranch or verify with AQHA records. By Peptoboonsmal (NCHA Futurity Champion; LTE $180,487; NCHA Hall of Fame; $28M+ offspring earnings; Equi-Stat #1 Sire; sire of Little Pepto Gal $520,065, Copaspepto $444,072, Sweet Lil Pepto $228,340, Freckles Lena Boon $235,994) out of Studio Playgirl (LTE $89,424). Personal LTE: $6,476 (NCHA). Abilene Spectacular Open Derby finalist. 3rd Memphis Cutting 4-Year-Old Open Futurity. 2020 RGP Top 25 Sire of Ranch Horse Money-Earners. Key offspring: Wanna Be A Pepto ($7,506 and 5 AQHA points \u2014 Southwest RCHA Spring Snaffle Bit 5 & Under Open class winner). Sires a high percentage of roan offspring. Offspring compete across reined cow horse, cutting, sorting, versatility ranch horse, and roping. Peptoboonsmal sire line brings elite cow sense, trainability, and a strong nick with High Brow Cat and Dual Rey mares. Waggoner Ranch was a top user of the Little Peppy / Peptoboonsmal line in their working horse breeding program."
+  },
+  {
+    "id": "bur001",
+    "name": "Hollywoodstinseltown",
+    "station": "Burns Ranch",
+    "source_url": "https://www.theburnsranch.com/stallions",
+    "genetics": {
+      "sire": "Hollywood Dun It",
+      "dam": "Miss Tinseltown (Great Red Pine)",
+      "bloodline_cluster": "HollywoodDunIt",
+      "offspring_success_score": 78
+    },
+    "physical": {
+      "height_hands": 15.1,
+      "weight_class": "medium",
+      "bone_density_score": 88,
+      "balance_score": 90
+    },
+    "mental": {
+      "trainability": 90,
+      "reactivity": "cool",
+      "consistency": 90
+    },
+    "health": {
+      "soundness_score": 88
+    },
+    "performance": {
+      "earnings": 185886,
+      "offspring_earnings": 4000000,
+      "discipline_strength": {
+        "reining": 88,
+        "cowHorse": 62,
+        "ranchRiding": 48,
+        "cutting": 28,
+        "teamRoping": 22,
+        "barrelRacing": 18
+      },
+      "discipline_earnings": {
+        "reining": 185886
+      }
+    },
+    "market": {
+      "stud_fee": 0,
+      "demand_index": 72
+    },
+    "_disciplines": [
+      "reining"
+    ],
+    "_sire_line_strength": "elite",
+    "_proven_crosses": [
+      "Shining Spark daughters",
+      "Smart Spook daughters",
+      "Colonels Smoking Gun daughters",
+      "Wimpys Little Step daughters",
+      "Topsail Whiz daughters"
+    ],
+    "_athleticism": 90,
+    "_cow_sense": 55,
+    "_speed": 85,
+    "_stamina": 88,
+    "_temperament": 90,
+    "_performance_summary": "Hollywoodstinseltown \u2014 2004 Palomino Stallion. DECEASED (late stallion). Frozen semen only. Bred and owned by David Silva Sr., Long Grove, IL (Silva Reining Horses). Was managed at Tom McCutcheon Reining Horses, Aubrey TX. By NRHA Hall of Fame and Seven Million Dollar Sire Hollywood Dun It out of NRHA Hall of Fame mare Miss Tinseltown \u2014 the only stallion in Burns Ranch / reining history with BOTH parents NRHA Hall of Famers. Personal LTE: $185,886 (NRHA). 2007 NRHA Open Futurity finalist; Prime Time Open division winner. 2008 NRHA Open Derby finalist (11th). 2009 NRBC Intermediate Open Finals \u2014 scored 232 (Marco Ricotta up). 2010 NRBC L4 Open \u2014 4th place ($39,000). 2010 World Equestrian Games, Lexington KY \u2014 Team Gold Medal + 4th Individual (Tim McQuay up). 2009 Cowboy Capital Classic Intermediate Open Derby \u2014 split 5th. AQHA World Qualifier Senior Reining; Open ROM; 30 reining points. NRHA $4 Million Sire (milestone announced June 2025). 389 NRHA money-earning foals. Annual Hollywoodstinseltown Open Futurity at Tulsa Reining Classic named in his honor. Top offspring: Shining In Town (LTE $200,000+ \u2014 2019 NRHA Derby All-Level Non-Pro Champion; bred by Carol Rose QH); Flexing Guns In Town (LTE $115,000 \u2014 2024 NRHA European L4 Open Derby Champion; Arnaud Girinon up); Tinseltown Flash (LTE $134,920 \u2014 bred/nominated by McQuay Stables); Mr Royal Hollywood (LTE $134,034 \u2014 bred by Brian Bell; NRHA Futurity Top 10). 5-Panel Genetic Test N/N. Sire Hollywood Dun It = NRHA Hall of Fame, Seven Million Dollar Sire, $7.3M+ offspring; dam Miss Tinseltown = NRHA Hall of Fame; NRBC Open Champion; NRHA Leading Dam. Outcross potential: carries no Colonels Smoking Gun, Wimpys Little Step, Topsail Whiz, Gunnatrashya, or Magnum Chic Dream blood \u2014 nicks cleanly on all those mares. Contact: Silva Reining Horses / Tom McCutcheon Reining Horses (940) 453-0003 | mccutcheonbreeding@gmail.com | tmreining.com"
   }
 ]
