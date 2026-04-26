@@ -2279,59 +2279,64 @@
     "name": "Frenchmans Guy",
     "genetics": {
       "sire": "Sun Frost",
-      "dam": "Frenchman Lady",
-      "bloodline_cluster": "Frenchman",
-      "offspring_success_score": 91
+      "dam": "Frenchmans Lady (Laughing Boy)",
+      "bloodline_cluster": "SunFrost",
+      "offspring_success_score": 96
     },
     "physical": {
-      "height_hands": 15.0,
+      "height_hands": 14.3,
       "weight_class": "medium",
-      "bone_density_score": 82,
-      "balance_score": 86
+      "bone_density_score": 90,
+      "balance_score": 92
     },
     "mental": {
-      "trainability": 78,
+      "trainability": 94,
       "reactivity": "moderate",
-      "consistency": 80
+      "consistency": 96
     },
     "performance": {
+      "earnings": 0,
+      "offspring_earnings": 20000000,
       "discipline_strength": {
-        "barrelRacing": 95,
-        "teamRoping": 68,
-        "cowHorse": 35,
-        "ranchRiding": 52,
-        "reining": 25,
-        "cutting": 15
+        "barrelRacing": 99,
+        "teamRoping": 72,
+        "ranchRiding": 60,
+        "cutting": 30,
+        "cowHorse": 28,
+        "reining": 22
       },
-      "earnings": 560000,
-      "offspring_earnings": 16000000,
       "discipline_earnings": {
-        "barrelRacing": 14400000,
-        "teamRoping": 1400000,
-        "ranchRiding": 200000
+        "barrelRacing": 20000000
       }
     },
     "health": {
-      "soundness_score": null
+      "soundness_score": 90
     },
     "market": {
-      "stud_fee": 4000,
-      "demand_index": 92
+      "stud_fee": 6000,
+      "demand_index": 96
     },
     "_disciplines": [
-      "barrelRacing"
+      "barrelRacing",
+      "teamRoping",
+      "ranchRiding"
     ],
     "_sire_line_strength": "elite",
     "_proven_crosses": [
-      "Dash Ta Fame",
-      "Corona Cartel",
-      "BF Frenchman"
+      "Dash Ta Fame daughters",
+      "Tres Seis daughters",
+      "Streakin Six daughters",
+      "First Down Dash daughters",
+      "Streak Of Fling daughters"
     ],
-    "_athleticism": 95,
-    "_cow_sense": 22,
-    "_speed": 98,
-    "_stamina": 88,
-    "_temperament": 72
+    "_athleticism": 96,
+    "_cow_sense": 52,
+    "_speed": 99,
+    "_stamina": 94,
+    "_temperament": 92,
+    "station": "Royal Vista Ranches",
+    "source_url": "https://www.futurefortunesinc.com/stallions/frenchmans-guy/",
+    "_performance_summary": "Frenchmans Guy \u2014 1987 AQHA Palomino Stallion. AQHA Hall of Fame. Owned by Bill and Debbie Myers. Standing at Royal Vista Ranches, Wayne, Oklahoma. Contact: (605) 641-4282 | (605) 642-9789. frenchmansguy.com | facebook.com/FrenchmansGuy. 2026 Breeding Fee: $6,000 ICSI Only + $300 chute fee. ICSI available at multiple approved facilities \u2014 contact Royal Vista Ranches for current approved locations. Semen NOT shipped \u2014 ICSI at approved facility required. 5-Panel N/N: GBED, HERDA, HYPP, MH, PSSM1. Nominated: Future Fortunes, Riata Stallion Incentive, and multiple barrel racing incentive programs. \n\nPEDIGREE: By Sun Frost (premier barrel racing and all-around performance sire; by Doc's Jack Frost \u00d7 Prissy Lady by Lightning Bar; Sun Frost offspring are renowned for speed, quickness, and the natural athletic efficiency that wins barrel races) out of Frenchmans Lady (by Laughing Boy; out of the Casey's Ladylove mare family \u2014 the Nation's #1 Leading Barrel Racing Mare family historically; Frenchmans Guy is triple-bred to Lightning Bar through his pedigree, concentrating the foundational speed genetics that have defined the barrel racing breed for five decades). His pedigree is the archetypal barrel racing blueprint: Sun Frost speed on top, Casey's Ladylove / Laughing Boy speed on the bottom, with Lightning Bar influence throughout. \n\nSHOW CAREER: Frenchmans Guy was a highly competitive arena athlete on the barrel futurity, derby, and PRCA/amateur rodeo circuits before entering the breeding shed. \n\nSIRE RECORD: The most decorated active barrel racing sire in North America. Offspring earnings exceed $20 Million across barrel racing, breakaway roping, tie-down roping, heeling, and heading. 10-Time Future Fortunes Leading Barrel Racing Sire \u2014 unprecedented in the history of the award. AQHA Hall of Fame inductee. In 2019 he was the ONLY sire to have four sons simultaneously in the nation's Top 25 Barrel Racing Sires \u2014 a generational sire-of-sires achievement confirming genetic transfer reliability across multiple generations. Top offspring: PC Frenchmans Hayday (LTE $400,000+; PE $4.3M+; 7 NFR qualifiers; $600,000+ PRCA earnings), Frenchmans Fabulous (Leading Equi-Stat Sire in all divisions; PE $5M+), and dozens of six-figure earners competing from youth to PRCA world level. \n\nCROSS NOTES: Frenchmans Guy crosses exceptionally on mares carrying Dash Ta Fame, Tres Seis, Streakin Six, First Down Dash, and Streak Of Fling blood. His Sun Frost pedigree provides a genuine outcross on mares from the dominant Dash Ta Fame / First Down Dash racing lines. At 38 years old and still producing via ICSI at approved facilities, he is one of the most remarkable active sires in Quarter Horse history. His frozen semen inventory is finite and irreplaceable \u2014 book early. Contact Royal Vista Ranches at (605) 641-4282 for 2026 ICSI facility list and availability."
   },
   {
     "id": "s041",
