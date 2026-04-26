@@ -9237,5 +9237,60 @@
     "_stamina": 88,
     "_temperament": 92,
     "_performance_summary": "Kit Kat Sugar \u2014 2008 Sorrel Stallion, AQHA. Nickname: Skeet. Owned by XIT Ranch, LLC. Standing at Four Sixes Ranch, Granbury TX. By High Brow Cat (NCHA #1 All-Time Leading Sire, $95M+ offspring) out of Sugar N Dulce (Smart Lil Ricochet \u2014 Smart Little Lena; dam of NCHA Open Classic Challenge finalist; second dam Little Badger Dulce $668,461: NCHA Horse of the Year, NCHA Open Super Stakes Champion, NCHA Non-Pro World Champion). LTE $240,903. $14M+ offspring earnings. 2012 NCHA Open Horse of the Year. NCHA Super Stakes Reserve Champion. 6 major event champion wins at 4 years old: Bonanza Open Derby Champion, Brazos Bash Open Derby Champion, Cattlemens Cutting Open Derby Champion, El Rancho Open Derby Champion, Wrangler Open Derby Champion, Idaho CHA Open Derby Reserve Champion. NRHA Futurity finalist. Retired sound. 2021: NCHA #7 Leading Cutting Sire, Top 15 NRCHA Leading Sire. 2023: QData/NCHA Top 10 Leading Cutting Sire, QData #6 Leading Reined Cow Horse Sire, #1 Tie-Down Roping Sire. NRCHA Million Dollar Sire (2023). Top offspring: Scooter Kat $340,375+ (NRCHA all-time leading money earner, NRCHA Open SBF Reserve Champion), Sugarspiznevrthingniz $295,393 (NCHA Open World Champion), Sweet Toothe $167,374 (NCHA Amateur Horse of the Year). 7-Panel N/N. 2026 stud fee $7,500. $350,000 Kit Kat Sugar Bonus program. Eligible: NCHA Super Stakes, NRCHA Cow Horse Incentive, Breeders Invitational, PCCHA Stakes, Augusta Futurity, Southern Futurity, Gold Buckle Futurities, Royal Crown Roping, Riata Buckle. Contact: XIT Ranch (806) 316-5024 / Four Sixes Ranch (806) 596-4424."
+  },
+  {
+    "id": "ucd001",
+    "name": "Dun Walla Walla",
+    "station": "UC Davis Department of Animal Science",
+    "source_url": "https://animalscience.ucdavis.edu/facilities/horsebarn/stallions/dun-walla-walla",
+    "genetics": {
+      "sire": "Walla Walla Whiz",
+      "dam": "Miss Cutie Pine",
+      "bloodline_cluster": "Whiz",
+      "offspring_success_score": 38
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 78,
+      "balance_score": 78
+    },
+    "mental": {
+      "trainability": 82,
+      "reactivity": "moderate",
+      "consistency": 78
+    },
+    "health": {
+      "soundness_score": 85
+    },
+    "performance": {
+      "earnings": 0,
+      "offspring_earnings": 0,
+      "discipline_strength": {
+        "reining": 62,
+        "cowHorse": 38,
+        "ranchRiding": 55,
+        "cutting": 20,
+        "teamRoping": 28,
+        "barrelRacing": 30
+      },
+      "discipline_earnings": {}
+    },
+    "market": {
+      "stud_fee": 500,
+      "demand_index": 28
+    },
+    "_disciplines": [
+      "reining",
+      "ranchRiding"
+    ],
+    "_sire_line_strength": "elite",
+    "_proven_crosses": [],
+    "_athleticism": 72,
+    "_cow_sense": 35,
+    "_speed": 72,
+    "_stamina": 75,
+    "_temperament": 85,
+    "_performance_summary": "Dun Walla Walla \u2014 2010 Dun QH Stallion, AQHA #5291221. Standing at UC Davis Department of Animal Science Horse Barn, Davis CA. First foal crop 2015. By Walla Walla Whiz (Topsail Whiz x Shiney Walla Wanda/Shining Spark \u2014 LTE $187,820; NRHA $5.8M+ Sire; #12 All-Time Leading Reining Sire; 2007 NRHA Open Derby Champion; NRHA Futurity Champion Sire; top offspring include Americasnexttopgun $425K+, Shesouttayourleague $260K+ \u2014 2015 NRHA Open Futurity and Derby Champion, Americas Supermodel $230K+, Isnt She Perfect $170K+) out of Miss Cutie Pine. Show record: Reserve Champion, 2014 WCRHA Star Spangled Slide Derby L1 Open Stakes. Breeding fee $500 (Live Foal Guarantee included). Shipped semen available. Collection days: Mon/Wed/Fri. Contact UC Davis Barn Manager Kelli Davis (530) 754-4156. Value-tier stallion with elite sire-line genetics at an accessible breeding fee. Walla Walla Whiz known for producing strong mares and consistent reining performers; Shawn Flarida: 'He was so good-minded...his mares are off-the-charts cool.' Dun Walla Walla offers breeders Walla Walla Whiz genetics at a university station price point."
   }
 ]
