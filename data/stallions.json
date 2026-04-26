@@ -10704,5 +10704,67 @@
     "_stamina": 92,
     "_temperament": 92,
     "_performance_summary": "Gunner Dun It Again \u2014 2011 Buckskin AQHA/APHA Stallion. 5-Panel Genetic Test N/N; MYHM N/My. Standing at Burns Ranch. Physical station history includes Tripol Ranch, Cardinal Reining Horses (Aubrey, TX), Toyon Ranch (Pilot Point, TX \u2014 no longer), and Turnabout Farm per RMRHA enrollment. 2025-2026 NRHA Sire & Dam stud fee: $2,050 + $650 chute fee; transported cooled semen $375. Donated to NRHA charity auction by Tripol Ranch. Nominated: NRBC, The Invitational, NRHA Sire and Dam Program, 100X Reining, NRHA Germany, Italy, and Belgium. Nominated 2026 Xibition Stallion Program \u2014 foals eligible for XRS Reining & Rope Horse incentives. \n\nPEDIGREE: By Colonels Smoking Gun \u2014 known throughout the industry simply as 'Gunner' (NRHA Hall of Fame; NRHA Open Futurity Reserve Champion 1996; NRHA Eleven Million Dollar Sire; APHA World Champion Junior Reining Horse; USET Reining Championship 2001; sired 902 NRHA money-earners totaling $15.1M+ in offspring earnings; sired Gunnatrashya \u2014 2009 NRHA Futurity Champion, NRHA $16M sire; Gunners Special Nite \u2014 2010 WEG Individual and Team Gold Medalist, NRHA Million Dollar Sire; Gunners Tinseltown $302,000+; Americasnextgunmodel $223,900 \u2014 2012 NRHA Futurity Champion; HF Mobster \u2014 2013 NRHA Derby Champion; Tinker With Guns $336,200 \u2014 2011 NRHA Derby Champion; Gunnatrashya stands as the all-time defining sire-of-sires cross from the Gunner line) out of Dun Its Deja Vu (by Hollywood Dun It; LTE $26,288; dam of offspring with earnings exceeding $299,000 and granddam of performers with $498,000+). Gunner Dun It Again stacks two of reining's most dominant bloodlines \u2014 Colonels Smoking Gun on top and Hollywood Dun It through the dam \u2014 creating a pedigree that crosses cleanly on virtually any modern NRHA mare. \n\nSHOW CAREER: Personal NRHA LTE $113,985. An accomplished international competitor who represented Brazil on the world stage. 2014 Brazil ANCR Super Open Reining Stakes Champion. 2015 NRBC Intermediate Open Derby Champion. 2015 NRBC Limited Open Derby Champion \u2014 back-to-back NRBC Derby titles in the same year. 2015 NRHA Derby Ancillary Reserve Champion. 2015 NRHA Open Ancillary Reserve Champion. 2016 NRBC Top 5, scoring an impressive 228. 2017 NRBC Open Finalist. 2018 WEG Brazilian Team Qualifier and Individual Finalist \u2014 4th at the FEI World Equestrian Games Open Reining; 5th FEI WEG Team Brazil Open \u2014 representing Brazil at the highest level of international reining competition. 2019 NRHA Open Derby Class Reserve Winner. His career spanned competitive years across North America and South America, demonstrating both physical soundness and consistent competitive output over multiple seasons. \n\nSIRE RECORD: NRHA Million Dollar Sire. As of late 2025, his offspring have earned $15,123,113 in combined NRHA and discipline earnings \u2014 placing him among the elite active sires in the industry. 902 NRHA money-earning offspring with an average earnings per money-earner of $15,266 \u2014 one of the highest average-earnings figures of any currently active reining stallion. 8,725 AQHA performance points earned by his get. Top offspring: No Smoking Required ($564,599 \u2014 Run for a Million Reining Invitational Open Co-Champion; one of the highest-earning sons of Gunner through the Gunner Dun It Again line); Down Right Amazing ($533,243 \u2014 2023 NRHA Level 4 Open Derby Champion; 2023 NRBC Level 4 Open Derby Champion; 2022 Run for a Million Open Shootout Champion; split 3rd 2020 NRHA Level 4 Open Futurity); Custom Made Gun ($420,690 and 14.5 AQHA points \u2014 Run for a Million Reining Invitational Open Co-Champion). 565 AQHA-registered foals with 78 money-earners as of December 2025. \n\nCROSS NOTES: Gunner Dun It Again's Colonels Smoking Gun \u00d7 Hollywood Dun It pedigree crosses exceptionally on mares carrying Magnum Chic Dream, Smart Chic Olena, Wimpys Little Step, Topsail Whiz, and Shining Spark blood. His 'flawless individual' conformation \u2014 as described by multiple breeding publications \u2014 passes reliably to offspring with refined heads, great substance, bone, and outstanding disposition. The average $15,266 earnings per money-earner reflects not just quantity of earners but genuine quality \u2014 his offspring win, not merely participate. With Down Right Amazing and No Smoking Required both as Run for a Million-caliber competitors, Gunner Dun It Again has proven he can produce horses capable of winning at the sport's most prestigious and highest-paying single event. Contact Burns Ranch or Tripol Ranch for current availability and breeding contracts."
+  },
+  {
+    "id": "bur006",
+    "name": "PS Mega Shine Chic",
+    "station": "Burns Ranch",
+    "source_url": "https://www.theburnsranch.com/stallions",
+    "genetics": {
+      "sire": "Shine Chic Shine",
+      "dam": "Megas Sugar Baby",
+      "bloodline_cluster": "SmartChicOlena",
+      "offspring_success_score": 72
+    },
+    "physical": {
+      "height_hands": 15.1,
+      "weight_class": "medium",
+      "bone_density_score": 88,
+      "balance_score": 90
+    },
+    "mental": {
+      "trainability": 90,
+      "reactivity": "cool",
+      "consistency": 90
+    },
+    "health": {
+      "soundness_score": 90
+    },
+    "performance": {
+      "earnings": 239655,
+      "offspring_earnings": 0,
+      "discipline_strength": {
+        "reining": 87,
+        "cowHorse": 62,
+        "ranchRiding": 46,
+        "cutting": 30,
+        "teamRoping": 22,
+        "barrelRacing": 18
+      },
+      "discipline_earnings": {
+        "reining": 239655
+      }
+    },
+    "market": {
+      "stud_fee": 0,
+      "demand_index": 78
+    },
+    "_disciplines": [
+      "reining"
+    ],
+    "_sire_line_strength": "elite",
+    "_proven_crosses": [
+      "Colonels Smoking Gun daughters",
+      "Magnum Chic Dream daughters",
+      "Wimpys Little Step daughters",
+      "Gunnatrashya daughters",
+      "Topsail Whiz daughters"
+    ],
+    "_athleticism": 92,
+    "_cow_sense": 60,
+    "_speed": 90,
+    "_stamina": 90,
+    "_temperament": 92,
+    "_performance_summary": "PS Mega Shine Chic \u2014 2013 Stallion. Nickname 'Crush.' Standing at Burns Ranch. Physical station: Tom McCutcheon Reining Horses, 3732 Shepard Road, Aubrey, Texas 76227. Breeding office: (940) 453-0003 | mccutcheonbreeding@gmail.com | tmreining.com. Tom McCutcheon Reining Horses is enrolled in the 'Book Now, Pay Later' program \u2014 no payments due until December 31, 2026 on any reining stallion standing at the facility. European frozen partners: Isabeau Rohde, info@frozen-partners.de | +49 173 700 5000. Australian partners: Samantha Smith, Cowgirl Performance Horses, smithfamily_1@outlook.com | +61 417 427 387. \n\nPEDIGREE: By Shine Chic Shine (bur004 in this database \u2014 NRHA Two Million Dollar Sire; 2011 NRBC L4 Open Champion score 231; 2011 NRHA Derby L4 Open Co-Reserve Champion; shown by Shawn Flarida; owned by Fabio De Iulio; bred by Manntana LLC; by Smart Chic Olena NRHA HOF \u00d7 Ebony Shines NRHA HOF) out of Megas Sugar Baby. PS Mega Shine Chic is therefore a grandson of two NRHA Hall of Fame stallions \u2014 Smart Chic Olena and the influence of Ebony Shines' sire Shining Spark \u2014 while his dam Megas Sugar Baby contributes an additional layer of proven performance genetics that complements the Shine Chic Shine top line. His pedigree concentrates some of the deepest blue-blood reining genetics available in a 2013 stallion: Smart Chic Olena, Ebony Shines, Shining Spark, and the entire Shine Chic Shine sire complex sit close up on his papers. \n\nSHOW CAREER: Personal NRHA LTE $239,655 \u2014 one of the highest earnings totals for any Shine Chic Shine son currently standing at stud, placing him in the elite tier of his sire's offspring. NRBC Open Derby Co-Reserve Champion \u2014 the National Reining Breeders Classic is among the most competitive NRHA events outside of the Futurity itself, and finishing Co-Reserve in the Open Derby demonstrates ability to compete and win against the deepest fields in professional reining. Run For A Million Reining Shoot-Out Open Champion \u2014 the Run for a Million in Las Vegas is reining's highest-paying single event, and winning the Shoot-Out Open division is a career-defining achievement that confirms elite level performance under maximum pressure and visibility. NRBC Level 3 Open Derby Champion \u2014 twice. Winning the NRBC Level 3 Open Derby on two separate occasions demonstrates sustained competitive ability across multiple competitive seasons, not a one-time peak performance. Two NRBC Level 3 titles plus an Open Derby Co-Reserve Championship makes PS Mega Shine Chic one of the most decorated NRBC competitors of his era and a proven winner at reining's second-most prestigious event. \n\nRELATIONSHIP TO SHINE CHIC SHINE: PS Mega Shine Chic is currently standing at Tom McCutcheon Reining Horses, the same facility that managed Hollywoodstinseltown (bur001) during that stallion's active breeding career. His presence in the TMC stallion barn alongside other elite reining stallions places him at one of the industry's premier breeding facilities, with access to TMC's world-class reproductive services and international shipping capabilities. He is a direct son of Shine Chic Shine (bur004), meaning breeders using the engine can match mares to both sire and son for different pedigree saturation strategies \u2014 PS Mega Shine Chic adds one generation of distance from Smart Chic Olena compared to his sire, making him appropriate for mares that already carry a closer cross of Shine Chic Shine or Smart Chic Olena on the dam side. \n\nSIRE RECORD: Early foal crops are now entering competition. Multiple sources including ReinersWorld and ProFit Equine sales catalogs document PS Mega Shine Chic offspring in training and competition, with breeders noting the characteristic Shine Chic Shine athleticism, movement quality, and trainability in his foals. His foals are nominated to NRBC, NRHA Sire & Dam, NARS, The Invitational, and 100X Stakes per TMC nomination program. \n\nCROSS NOTES: PS Mega Shine Chic crosses exceptionally on mares carrying Colonels Smoking Gun, Magnum Chic Dream, Wimpys Little Step, Gunnatrashya, and Topsail Whiz blood. His Smart Chic Olena / Ebony Shines heritage through Shine Chic Shine provides no Gunner, no Wimpys, no Magnum, and no Topsail Whiz blood at close range \u2014 making him an outstanding outcross on mares from any of those dominant sire lines. Breeders who want to access the Shine Chic Shine / Smart Chic Olena / Ebony Shines genetic complex in a horse that personally earned $239,655 at the highest levels of professional reining \u2014 including a Run for a Million Shoot-Out Championship and two NRBC L3 Open Derby titles \u2014 will find PS Mega Shine Chic among the most compelling options in the Burns Ranch breeding portfolio. Contact Tom McCutcheon Reining Horses at (940) 453-0003 for current stud fee, availability, and breeding contracts."
   }
 ]
