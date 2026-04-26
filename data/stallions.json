@@ -10828,5 +10828,67 @@
     "_stamina": 92,
     "_temperament": 94,
     "_performance_summary": "Magnum Chic Dream \u2014 1996 Sorrel Stallion. NRHA Hall of Fame inductee. Via frozen semen / legacy influence. Standing at Burns Ranch. Contact: Casey and Kathy Hinton. hintonqh@verizon.net | caseyhinton.com. Also managed at Cedar Ridge Stallion Station. magnumchicdream.com. 5-Panel Genetic Test N/N. Frozen semen only \u2014 reference stud fee $4,500 (2022); contact station for current pricing. At age 29 (2025), Magnum Chic Dream is a legacy stallion whose frozen semen inventory represents one of the most commercially valuable genetic resources in reining history. \n\nPEDIGREE: By Smart Chic Olena (NRHA Hall of Fame; PE $7.6M+ NRHA; AQHA World Champion Cutting and Reining; Equi-Stat 2nd All-Time Leading Reined Cow Horse Sire and 3rd All-Time Leading Reining Sire; sired offspring with earnings exceeding $13M; by Smart Little Lena \u00d7 Gay Sugar Chic) out of Sailin Barbee (by Topsail Cody, NRHA Hall of Fame and Million Dollar Sire; dam of offspring with earnings exceeding $63,000). Magnum Chic Dream and Shine Chic Shine (bur004) share the same sire \u2014 Smart Chic Olena \u2014 making them sire-brothers from different dams, a pedigree relationship with significant implications for cross-matching: a mare bred to Magnum Chic Dream should generally not carry close Smart Chic Olena or Magnum Chic Dream blood herself. The Topsail Cody dam line adds a critical foundation of proven reining genetics that complements the Smart Chic Olena top line. \n\nSHOW CAREER: Personal NRHA LTE $44,553. Shown by Patti Brownshadel and Casey Hinton. 1999 NRHA Open Futurity Level 2 and Level 3 Reserve Champion. 1999 NRHA Open Futurity Level 4 finalist. 1999 Southwest Reining Futurity \u2014 3rd, 3-Year-Old Intermediate Open. 2000 NRHA Derby Level 3 Co-Reserve Champion. 2004 AQHA World Championship Show Senior Reining Champion \u2014 ridden by Casey Hinton, giving him his highest-profile individual win in the final chapter of his show career. \n\nSIRE RECORD: NRHA Hall of Fame and $14.5+ Million Dollar Sire (QStallions, 2025). #4 All-Time Leading Sire on the NRHA All-Time Leading Sires list. His offspring earnings breakdown from the magnumchicdream.com official website: Reining: $12,826,197 | Ranch: $204,045 | Reined Cow Horse: $95,198 | AQHA Incentive Fund: $29,629 | Roping: $18,699 | Other: $6,290 | Barrel: $3,200. His NRHA offspring have won across every level of competition from local affiliate futurities through the sport's most prestigious events. \n\nTOP OFFSPRING: Mr Farenheit (LTE $465,800+ \u2014 2021 NRBC L4 Open Co-Reserve Champion with Andrea Fappani; 2024 NRHA Futurity L3 Open Co-Champion with Ruben Vandorp; currently standing at Tom McCutcheon Reining Horses, Aubrey TX \u2014 bur006's facility); Chic Dreamin (LTE $216,000+ \u2014 2017 NRBC L4 Open Champion with Andrea Fappani; bred by Casey and Kathy Hinton; owned by Silver Spurs Equine LLC, Purcell, OK; 5-Panel N/N; also a $1 Million+ sire in his own right); Chicsdreamofdiamonds (2016 NRHA Futurity L4 Open Champion \u2014 Jack Meadows up); Mega Maggie Mae (2015 NRHA Futurity L4 Reserve Champion; 2015 L3 L2 L1 Champion; 2016 L4 Champion \u2014 Bill Rhoads up); Let Err Rip (2023 NRHA Futurity L4 L2 Reserve Co-Champion; 2023 L3 Co-Champion \u2014 Kelsey L Price up); Custom Dreams (2024 NRHA Futurity L4 Open Reserve Champion \u2014 Casey Deary up); Magnums Custom Dream (2022 NRHA Derby L3 Open Champion \u2014 Casey Hinton up); Dream On Whiz ($129,803 \u2014 2023 NRHA Derby L3 L2 Open Champion \u2014 Luca Fappani up); Magnum Starlights (2016 NRHA Derby L4 Open Champion \u2014 Casey Deary up); Chicsdundreamin ($72,618+ \u2014 2012 Futurity Primetime Champion \u2014 Sam Smith up); Lil Magnum Jessie (2009 NRHA Futurity L4 L3 Reserve Champion \u2014 Casey Hinton up); Mr Magnum Dun It \u2014 sold at the 2013 NRHA Futurity Sale for $300,000, setting the sale record at the time. \n\nCROSS NOTES: Magnum Chic Dream's Smart Chic Olena \u00d7 Topsail Cody pedigree crosses exceptionally on mares carrying Colonels Smoking Gun, Wimpys Little Step, Hollywood Dun It, Shining Spark, and Gunnatrashya blood. His Chic Dreamin son crossed on Skeets Red Dunit (Skeets Peppy) produced a 2017 NRBC Champion \u2014 the Smart Chic Olena / Skeets Peppy cross being one of the most documented magic crosses in modern reining. As a frozen-semen-only legacy stallion at age 29, breedings are finite in supply. Breeders who want access to the most proven reining sire genetics currently available \u2014 with $14.5M+ in documented offspring earnings and the #4 all-time NRHA sire ranking \u2014 should contact Casey and Kathy Hinton or Cedar Ridge Stallion Station immediately to verify current frozen semen inventory before it is exhausted."
+  },
+  {
+    "id": "bur008",
+    "name": "Gunnatrashya",
+    "station": "Burns Ranch",
+    "source_url": "https://www.theburnsranch.com/stallions",
+    "genetics": {
+      "sire": "Colonels Smoking Gun",
+      "dam": "Natrasha (Trashadeous)",
+      "bloodline_cluster": "ColonelsSmokinGun",
+      "offspring_success_score": 96
+    },
+    "physical": {
+      "height_hands": 15.1,
+      "weight_class": "medium",
+      "bone_density_score": 90,
+      "balance_score": 92
+    },
+    "mental": {
+      "trainability": 94,
+      "reactivity": "cool",
+      "consistency": 94
+    },
+    "health": {
+      "soundness_score": 90
+    },
+    "performance": {
+      "earnings": 236457,
+      "offspring_earnings": 16000000,
+      "discipline_strength": {
+        "reining": 96,
+        "cowHorse": 78,
+        "ranchRiding": 60,
+        "cutting": 42,
+        "teamRoping": 28,
+        "barrelRacing": 22
+      },
+      "discipline_earnings": {
+        "reining": 236457
+      }
+    },
+    "market": {
+      "stud_fee": 7175,
+      "demand_index": 96
+    },
+    "_disciplines": [
+      "reining"
+    ],
+    "_sire_line_strength": "elite",
+    "_proven_crosses": [
+      "Wimpys Little Step daughters",
+      "Smart Chic Olena daughters",
+      "Magnum Chic Dream daughters",
+      "Topsail Whiz daughters",
+      "Shining Spark daughters"
+    ],
+    "_athleticism": 96,
+    "_cow_sense": 80,
+    "_speed": 92,
+    "_stamina": 94,
+    "_temperament": 94,
+    "_performance_summary": "Gunnatrashya \u2014 2006 Sorrel Stallion. AQHA and APHA registered. NRHA $16 Million Dollar Sire \u2014 the first stallion in NRHA history to reach the $16M milestone. Bred by Katarina Dorminy, Williamston, South Carolina. Owned by Arcese Quarter Horses USA, Weatherford, Texas. Historically stood at Oswood Stallion Station, Weatherford, Texas. arcesequarterhorses.com. 2026 stud fee: $7,175 + $675 chute fee (cooled semen); ICSI: $5,000 + $675 chute fee. Contact Arcese Quarter Horses USA or Burns Ranch for current breeding availability. \n\nPEDIGREE: By Colonels Smoking Gun \u2014 'Gunner' (NRHA Hall of Fame; NRHA Open Futurity Reserve Champion 1996; NRHA Eleven Million Dollar Sire; APHA World Champion Junior Reining Horse; USET Reining Championship 2001; sired 902+ NRHA money-earners totaling $15.1M+; sire of Gunnatrashya, Gunners Special Nite \u2014 2010 WEG Individual and Team Gold Medalist, Americasnextgunmodel \u2014 2012 NRHA Futurity Champion, HF Mobster \u2014 2013 NRHA Derby Champion, Gunners Tinseltown $302,000+, Tinker With Guns $336,200; deceased) out of Natrasha (by Trashadeous; out of My Royal Enterprise by Be Aech Enterprise). Natrasha's lineage traces through NRHA Hall of Famer Trashadeous, whose athleticism and cow-working instinct contributed to Gunnatrashya's remarkable natural ability in the reining pen. Eleuterio and Leonardo Arcese of Arcese Quarter Horses USA acquired Gunnatrashya on the advice of NRHA Hall of Famer Bill Horn and trainer Shawn Flarida, who both identified him as an exceptional prospect before his career began \u2014 a judgment that proved prophetic. \n\nSHOW CAREER: Personal NRHA LTE $236,457. Shown by NRHA Hall of Fame trainer Shawn Flarida. 2009 NRHA Open Futurity Level 4 Open Champion \u2014 one of reining's most coveted titles, Gunnatrashya won with authority and style, establishing himself immediately as one of the finest reining horses of his generation. 2009 All American Quarter Horse Congress Futurity Open Champion \u2014 the Congress Futurity is one of the most attended equine competitions in the world, and winning it in the same year as the NRHA Futurity placed Gunnatrashya in elite company. 2009 Dorminy Plantation Open Futurity Champion. NRHA Open Futurity Sire Award Winner. Top 10, High Roller Open Futurity. 2010 NRHA Derby Level 4 Open Champion \u2014 winning the Derby the year following his Futurity Championship made Gunnatrashya one of only a handful of horses in history to claim both titles in consecutive years, a mark of sustained elite competitive ability almost unmatched in the sport. Split 4th, 2012 NRHA Open Futurity Shootout. 2012 NRHA Open Futurity finalist. His Equi-Stat record of more than $218,000 in personal NRHA earnings confirmed what the industry already knew \u2014 Gunnatrashya was not only a great sire but one of the most complete individual reining horses of his era. \n\nSIRE RECORD: NRHA $16 Million Dollar Sire \u2014 the highest milestone ever reached by a single NRHA reining stallion at the time of its announcement, and a figure that reflects sustained, high-volume offspring production across more than a decade of breeding seasons. One of only eight stallions in NRHA history to sire at least $5 million in winners \u2014 alongside Hollywood Dun It, Topsail Whiz, Smart Chic Olena, Gunner, Wimpys Little Step, Magnum Chic Dream, and Smart Spook. His offspring earnings span not only NRHA competition but also NRCHA cow horse, cutting, and ranch horse events \u2014 a true multi-discipline sire. 383+ NRHA money-earning offspring as of 2023 AQHA data. \n\nTOP OFFSPRING: ARC Gunnabeabigstar ($298,999 \u2014 2014 NRHA Futurity Level 4 Open Co-Champion with Shawn Flarida; out of Wimpys Little Chic by Wimpys Little Step \u2014 NRHA all-time leading earning mare and NRHA Futurity Champion herself; both sire and dam are NRHA Futurity Champions, making ARC Gunnabeabigstar among the most royally bred horses in NRHA history; bred by Arcese Quarter Horses USA); Gunnabebigtime ($865,255 LTE \u2014 2017 Chestnut Stallion out of Big Time Jazzy; Run for a Million competitor; at Cedar Ridge Stallion Station, owned by Tami Nelson, Whitesboro, TX); Super Marioo ($285,348 \u2014 out of HA Chic A Tune by Smart Chic Olena; currently at Tom McCutcheon Reining Horses, Aubrey TX); Inferno Sixty Six ($205,690 \u2014 2015 NRHA Open Futurity Reserve Champion; out of Snip O Gun, NRHA Hall of Fame and Million Dollar Dam; by Franco Bertolani; owned by Domenico Lomuto/Slide or Die LLC; at Cardinal Reining Horses, a $5M+ sire in his own right); Gunna Stop ($172,762 \u2014 out of Stop Little Sister by Magnum Chic Dream; 2021 Run for a Million Open Shootout Champion; at Toyon Ranch, Pilot Point TX); ARC Gunna Mark Ya ($163,877 \u2014 2017 NRBC Level 2 Open winner; out of Shiney Miss Marker; ridden by Abby Lengel); ARC Gunna Sparkya ($119,605 \u2014 2015 NRBC Open Reserve Champion; out of Sailing Spark; owned by Vittorio Rabboni, Italy; ridden by Casey Deary). \n\nDOCUMENTED MAGIC CROSS: Gunnatrashya \u00d7 Wimpys Little Chic daughters is the most celebrated breeding cross in recent NRHA history. ARC Gunnabeabigstar \u2014 by Gunnatrashya out of Wimpys Little Chic \u2014 is the living proof of concept, having co-won the 2014 NRHA Futurity Open. 20 performers from this cross have earned $509,000 as of 2020 documentation. The cross combines two NRHA Futurity Champion bloodlines directly, creating the conditions for the hybrid vigor that produces generational talent. \n\nCROSS NOTES: Gunnatrashya crosses exceptionally on mares carrying Wimpys Little Step, Smart Chic Olena, Magnum Chic Dream, Topsail Whiz, and Shining Spark blood. His Colonels Smoking Gun top line provides no Wimpys, no Magnum, no Topsail Whiz, and no Smart Chic Olena at close range, creating significant outcross potential on mares from all those dominant sire lines. His offspring are known for exceptional athleticism, powerful stops, quick spins, correct leads, and the competitive fire that defines the Gunner line. At $7,175 stud fee with $16M+ in offspring earnings, the first-ever $16M NRHA sire, and a personal record that includes back-to-back NRHA Futurity and Derby Championships, Gunnatrashya stands as one of the three or four most important reining stallions in the history of the sport. Contact Arcese Quarter Horses USA or Burns Ranch directly for breeding contracts."
   }
 ]
