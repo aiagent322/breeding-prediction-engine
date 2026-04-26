@@ -9957,5 +9957,67 @@
     "_stamina": 84,
     "_temperament": 90,
     "_performance_summary": "Metallic Malice \u2014 2013 AQHA/APHA Bay Roan Stallion. Homozygous roan \u2014 throws roan foal 100%. 15H, size 1 shoe. Owned and standing at 70 Ranch Performance Horses, Gainesville TX. Contact: Jamie Stout \u2014 jamiestout@70rph.com \u2014 (940) 291-2030. 2025 stud fee $3,000 (chute and first shipment included). Booked FULL 2018 through 2024 \u2014 7 consecutive sellout years. By Metallic Cat (High Brow Cat x Chers Shadow/Peptoboonsmal \u2014 NCHA Hall of Fame; LTE $637,711; 2008 NCHA Open Futurity Champion; 2009 NCHA Horse of the Year; NRCHA #1 All-Time Leading Sire; $45M+ offspring earnings) out of High Boon (Mecom Blue \u2014 $100,000+ producing daughter). Full pedigree: High Brow Cat \u2192 Metallic Cat / Mecom Blue (Royal Blue Moon/Doc Quixote/Even Odds) \u2192 High Boon. 114.5 AQHA Points (Heading, Heeling, Tie Down, Cowhorse events). 2018 NRCHA Hackamore Classic Novice Horse Open Champion (all three phases: Fence Work AND Herd Work Novice Horse Open Champion). Finalist NRCHA Open Hackamore Classic. Finalist AQHA World Junior Cutting. AQHA High Point Junior Performance Halter Stallion Leader. AQHA High Point Working Cow Horse Stallion Leader. AQHA World Junior Heading qualifier. AQHA World Junior Heeling qualifier. AQHA World Junior Working Cow Horse qualifier. Transitioned from cutting to cow horse under Brad Lund \u2014 NRCHA money earner. 5-Panel N/N. Incentives: Pink Buckle, Ruby Buckle, Future Fortunes, Breeders Challenge, Colorado Classic, Triple Crown 100, Royal Crown, NRCHA Stallion Stakes, Riata, Gold Buckle Futurities, Tomorrow's Legends, Legends of the South, Select Stallion Stakes. 70rph.com"
+  },
+  {
+    "id": "s70r004",
+    "name": "Menage A Tres",
+    "station": "70 Ranch Performance Horses",
+    "source_url": "https://www.70rph.com/menage-a-tres",
+    "genetics": {
+      "sire": "A Streak Of Fling",
+      "dam": "Wild Shawne Lace",
+      "bloodline_cluster": "AStreakOfFling",
+      "offspring_success_score": 20
+    },
+    "physical": {
+      "height_hands": 15.1,
+      "weight_class": "medium",
+      "bone_density_score": 84,
+      "balance_score": 85
+    },
+    "mental": {
+      "trainability": 84,
+      "reactivity": "hot",
+      "consistency": 80
+    },
+    "health": {
+      "soundness_score": 70
+    },
+    "performance": {
+      "earnings": 40000,
+      "offspring_earnings": 0,
+      "discipline_strength": {
+        "barrelRacing": 80,
+        "teamRoping": 55,
+        "ranchRiding": 45,
+        "reining": 20,
+        "cowHorse": 20,
+        "cutting": 15
+      },
+      "discipline_earnings": {
+        "barrelRacing": 40000
+      }
+    },
+    "market": {
+      "stud_fee": 3000,
+      "demand_index": 62
+    },
+    "_disciplines": [
+      "barrelRacing",
+      "teamRoping"
+    ],
+    "_sire_line_strength": "elite",
+    "_proven_crosses": [
+      "Wild Shawne Lace bloodline mares",
+      "Dash Ta Fame daughters",
+      "Frenchmans Guy daughters",
+      "First Down Dash daughters"
+    ],
+    "_athleticism": 84,
+    "_cow_sense": 25,
+    "_speed": 88,
+    "_stamina": 78,
+    "_temperament": 80,
+    "_performance_summary": "Menage A Tres \u2014 2020 Bay Roan Stallion. IN LOVING MEMORY \u2014 deceased. AQHA Reg#5691040. Standing at 70 Ranch Performance Horses, Gainesville TX \u2014 FROZEN SEMEN ONLY. 2025 Stud Fee: $3,000 ICSI ONLY to Approved Mares. Contact: Jamie Stout \u2014 jamiestout@70rph.com \u2014 (940) 291-2030. By A Streak Of Fling (Streakin Six x Moon Fling/Fast Fling \u2014 SI 98; $10.5M+ offspring earnings; #7 All-Time Leading Barrel Horse Sire; QData #4 All-Time Money Earning Barrel Racing Sire; leading living barrel sire at time of death; deceased September 5, 2024 at age 25; top offspring: Fame Fling N Bling $779,964 \u2014 3x NFR Qualifier; A Streak Of Rita $454,497; Streakin Easy April $297,021; also sired roping champions \u2014 Streakin Sun Dew 2016 BFI Header Champion/WNFR Qualifier) out of Wild Shawne Lace (dam pedigree not confirmed in public sources). LTE $40,000. Recent 1D barrel racing champion per QStallions. Enrolled: Triple Crown 100 (Year Enrolled 2024). Future Fortunes Junior Stallion listing (fee $1,500 at time). Stallion passed away before reaching full sire potential \u2014 frozen semen inventory is finite; ICSI only to approved mares limits access. A Streak Of Fling x Wild Shawne Lace cross positions Menage A Tres as a speed/barrel prospect with potential roping crossover per sire line. 70rph.com"
   }
 ]
