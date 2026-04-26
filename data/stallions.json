@@ -11016,5 +11016,70 @@
     "_stamina": 90,
     "_temperament": 96,
     "_performance_summary": "High Brow Cat \u2014 1988 Chestnut Rabicano AQHA Stallion. 14.3 hands. ICSI ONLY \u2014 active through ICSI exclusively; 100+ pregnancies per season achieved in each of the past 9+ seasons using ICSI. HERDA N/H \u2014 Herda Guarantee available with proof of Herda results from the mare. N/N for GBED, HYPP, MH, PSSM1, and IMM/MYHM. Owned by BDB Breeders (Darren Blanton, owner). Station: Brazos Valley Stallion Station, Stephenville, TX. Also listed at Valley Equine, 21351 N. US Hwy 377, Stephenville, TX 76401, (254) 485-8280. Source and breeding info: highbrowcat.com. Eligible foals: ALL NCHA Events, PCCHA Stakes, Breeders Invitational, NRCHA Cow Stakes, Gold Buckle Futurities, Legendary Stakes, Riata Buckle, Royal Crown Roping, Valley Equine Super Stallion Incentive. \n\nPEDIGREE: By High Brow Hickory (LTE $222,959; PE $5M+; NCHA Open Futurity finalist; leading sire of cutting and cow horse performers) out of Smart Little Kitty (by Smart Peppy; LTE $29,133; NCHA Open Derby Champion; NCHA Open Futurity Reserve Champion; dam of multiple money-earners including Pretty Little Kitty $82,077). High Brow Cat's pedigree combines the athleticism and cow sense of High Brow Hickory with the elite maternal bloodlines of Smart Little Kitty \u2014 a nick that produced arguably the most influential individual cutting horse sire in the history of the American Quarter Horse. \n\nSHOW CAREER: Personal LTE $110,800 (NCHA and reined cow horse combined). Augusta Open Classic Champion. Chisholm Trail Open Classic Champion. Abilene Spectacular Open Classic/Challenge winner. Split 3rd, Chisholm Trail Open Classic. Split 5th, NCHA Open Super Stakes. Finalist, PCCHA Open Derby. 4th, Super Stakes 5/6-Year-Old Open Classic. His individual show record, while exceptional, is almost incidental given the unmatched legacy he built in the breeding shed. \n\nSIRE RECORD: The most decorated sire in the history of western performance horse breeding. AQHA/NCHA #1 All-Time Leading Sire (2011-2022). AQHA/NCHA #1 Leading Sire annually 2009-2022. Equi-Stat #1 All-Time Leading Cutting Sire (2009-2022). Equi-Stat #1 Leading Cutting Sire annually 2003-2022. NRCHA All-Time Leading Sire. AQHA All-Time Leading Sire of Open and Amateur ROM, Class Winners and Point-Earners. Offspring earnings in excess of $97 Million (2026 Stallion Register Directory). Sire of a record 8 NCHA Open Futurity Champions \u2014 no other stallion in history has produced this many NCHA Futurity Open Champions. 56 AQHA Champions across five disciplines. The only stallion to produce a champion in every division of the NCHA Futurity. #2 stallion in the NRCHA roping industry rankings. \n\nRECORD 8 NCHA OPEN FUTURITY CHAMPIONS: Highbrow Supercat (2005, Tommy Marvin up); Oh Cay Felix (2006, Craig Thompson up); High Brow CD (2007, Austin Shepard up \u2014 LTE $224,005); Metallic Cat (2008, Beau Galyean up \u2014 LTE $637,711; now NCHA #1 leading sire and $57M+ offspring sire himself; by High Brow Cat \u00d7 Chers Shadow by Peptoboonsmal); Oh Miss Caroline (2011, Craig Thompson up); He Bea Cat (2012, Tarin Rice up \u2014 Open Futurity Co-Champion); Classy CD Cat (2014, Phil Hanson up). This record of 8 NCHA Open Futurity Championships by a single sire is the most dominant achievement in cutting horse breeding history and stands as the defining benchmark of the High Brow Cat legacy. \n\nHERDA NOTE: High Brow Cat is a carrier of HERDA (N/H). The program at highbrowcat.com offers a Herda Guarantee when proof of N/N Herda test results from the mare are provided. Breeders should confirm their mare's HERDA status before booking. All other 5-panel tests: N/N. \n\nCROSS NOTES: High Brow Cat crosses exceptionally on mares carrying Peptoboonsmal, Dual Rey, Smart Little Lena, One Time Pepto, and Dual Smart Rey blood. The High Brow Cat \u00d7 Peptoboonsmal cross produced Metallic Cat \u2014 proof that this nick operates at the highest possible level. His daughters and granddaughters are among the most valuable broodmares in the industry, producing earners across cutting, cow horse, reining, roping, and versatility ranch horse disciplines. At 37 years old and actively producing 100+ ICSI pregnancies per season, High Brow Cat represents one of the most remarkable active breeding stallions in the history of the Quarter Horse. Contact Brazos Valley Stallion Station or visit highbrowcat.com for current stud fee, ICSI program details, and availability."
+  },
+  {
+    "id": "pit003",
+    "name": "Peptoboonsmal",
+    "station": "Aaron Ranch",
+    "source_url": "https://aaronranch.com/peptoboonsmal/",
+    "genetics": {
+      "sire": "Peppy San Badger",
+      "dam": "Royal Blue Boon (Boon Bar)",
+      "bloodline_cluster": "Peptoboonsmal",
+      "offspring_success_score": 98
+    },
+    "physical": {
+      "height_hands": 15.1,
+      "weight_class": "medium",
+      "bone_density_score": 88,
+      "balance_score": 90
+    },
+    "mental": {
+      "trainability": 96,
+      "reactivity": "cool",
+      "consistency": 96
+    },
+    "health": {
+      "soundness_score": 90
+    },
+    "performance": {
+      "earnings": 180487,
+      "offspring_earnings": 28000000,
+      "discipline_strength": {
+        "cutting": 98,
+        "cowHorse": 88,
+        "ranchRiding": 68,
+        "teamRoping": 58,
+        "reining": 45,
+        "barrelRacing": 25
+      },
+      "discipline_earnings": {
+        "cutting": 180487
+      }
+    },
+    "market": {
+      "stud_fee": 5500,
+      "demand_index": 98
+    },
+    "_disciplines": [
+      "cutting",
+      "cowHorse",
+      "teamRoping",
+      "ranchRiding"
+    ],
+    "_sire_line_strength": "elite",
+    "_proven_crosses": [
+      "High Brow Cat daughters",
+      "Metallic Cat daughters",
+      "Dual Rey daughters",
+      "Smart Little Lena daughters",
+      "Freckles Playboy daughters"
+    ],
+    "_athleticism": 94,
+    "_cow_sense": 98,
+    "_speed": 86,
+    "_stamina": 92,
+    "_temperament": 98,
+    "_performance_summary": "Peptoboonsmal \u2014 1992 Red Roan AQHA Stallion. NCHA Hall of Fame. DECEASED October 22, 2024, at age 32 \u2014 passed from age-related complications at Aaron Ranch in Commerce, Texas, with Cresha Aaron by his side. Buried on the Aaron Ranch; the family plans to erect a memorial. FROZEN SEMEN AVAILABLE \u2014 ICSI only. Station: Aaron Ranch, Commerce, Texas. Contact: (972) 977-6581. aaronranch.com. 2024 breeding fee: $5,500 ICSI only. 5-Panel Genetic Test N/N. EJSCA N/N. Eligible: NCHA Stallion Stakes, NRBC. Fresh semen was collected from Peptoboonsmal well into his 20s, a remarkable testament to his health and vitality. The Aarons then transitioned to frozen semen only out of respect for the aging stallion, limiting collections to preserve inventory \u2014 frozen semen remains available post-death. \n\nPEDIGREE: By Peppy San Badger \u2014 'Little Peppy' (1977 NCHA Futurity Open Champion with Buster Welch; 1978 NCHA Summer Spectacular Derby Open Champion; NCHA Hall of Fame; PE $25M+; sire of Little Tenina, 1991 NCHA Futurity Open Champion; Delta Flyer, 1986 NCHA Super Stakes Open Champion; and Peptoboonsmal, 1995 NCHA Futurity Open Champion) out of Royal Blue Boon (LTE $381,764; Boon Bar \u00d7 Royal Tincie by Royal King; All-Time Leading Western Performance Horse Dam with offspring earnings of $2,614,455+; dam of Red White and Boon $922,063 \u2014 all-time leading money-earning cutting horse; Bet Yer Blue Boons $350,615 \u2014 NCHA World Champion; Autumn Boon $259,685 \u2014 NCHA Super Stakes Open Derby Champion; Duals Blue Boon $197,448; and Peptoboonsmal). Royal Blue Boon reigned as the NCHA All-Time Leading Broodmare for decades, making Peptoboonsmal the product of two absolute pinnacles of cutting horse breeding \u2014 Peppy San Badger on top and Royal Blue Boon on the bottom. 'He was so quirky, funny, he had the best personality. He knew he was Pepto and he demanded attention,' said Cresha Aaron. \n\nSHOW CAREER: Personal NCHA LTE $180,487 \u2014 1995 NCHA Open Futurity Champion. Shown by Gary Bellenfant, Peptoboonsmal dominated the 1995 NCHA Futurity from wire to wire: 219.5 in the first go-round, 216 in the second, then topped the semi-finals with a 225 and matched that score to win the finals, claiming the title worth $100,000. 1996 NCHA Super Stakes Derby Open Finals competitor. South Point Winter Championship Derby Open Champion. Bonanza Cutting Derby Open Champion. His Futurity campaign remains one of the most dominant debut performances in NCHA Futurity history. \n\nSIRE RECORD: NCHA $28 Million Dollar Sire. NCHA Hall of Fame. Equi-Stat #8 All-Time Leading Cutting Sire. 2010 NCHA #4 Leading Sire; NRCHA Top 15 All-Time Leading Sire. His daughters have produced offspring with earnings exceeding $85 Million \u2014 the deepest broodmare-producing sire record in cutting horse history. 'His record sort of speaks for itself,' said Aaron. 'His babies are still competing and winning. They're still in the top. They just stand the test of time.' Top offspring: Little Pepto Gal ($520,065 \u2014 NCHA Horse of the Year; out of Freckles O Lena by Doc O'Lena); Copaspepto ($444,072 \u2014 NCHA Horse of the Year; NCHA Super Stakes Open Co-Champion; Memphis 4-Year-Old Open Futurity Champion; out of Miss Martini Play by Freckles Playboy); One Time Pepto ($331,097 \u2014 NCHA Open Super Stakes Champion; 2006 Augusta Open Classic Champion; by One Time Soon by Smart Little Lena); Freckles Lena Boon ($235,994 \u2014 NCHA Non-Pro Super Stakes Champion; top 10 NCHA Open Futurity; by Freckles Quick Girl); Sweet Lil Pepto ($228,340 \u2014 4th NCHA Open Futurity; Breeders Invitational Open Derby Champion; by Sweet Lil Lena by Smart Little Lena). \n\nDAUGHTERS AS PRODUCERS: The Peptoboonsmal sire line's greatest legacy may be through his daughters. Chers Shadow (by Peptoboonsmal \u2014 dam of Metallic Cat $637,711, NCHA Futurity Champion and $57M+ sire) demonstrates that a single Peptoboonsmal daughter can produce the industry's most dominant sire. His daughters have collectively produced offspring earning $85M+ \u2014 a broodmare producing record unmatched in cutting horse history. \n\nCROSS NOTES: Peptoboonsmal crosses exceptionally on mares carrying High Brow Cat, Metallic Cat, Dual Rey, Smart Little Lena, and Freckles Playboy blood. High Brow Cat \u00d7 Chers Shadow (Peptoboonsmal daughter) = Metallic Cat \u2014 proof that this cross operates at the absolute highest level. His frozen semen inventory at Aaron Ranch is finite; breeders should contact the ranch immediately to confirm availability and schedule ICSI procedures before inventory is exhausted. Contact Aaron Ranch at (972) 977-6581 or aaronranch.com."
   }
 ]
