@@ -10951,5 +10951,70 @@
     "_stamina": 92,
     "_temperament": 96,
     "_performance_summary": "PG Heavily Armed \u2014 Bay Stallion. Nickname 'Bay.' Standing at Creek Plantation. Contact: Brenda Armstrong (580) 221-4865 | Mike Armstrong (580) 812-1237. creekplantation.com. ICSI contracts available \u2014 $2,000. No stallion fee required until heartbeat pregnancy check. First year at stud: 2019. Nominated: NCHA Super Stakes, NRCHA Stallion Stakes, Breeders Invitational, PCCHA Stallion Stakes, Royal Crown Roping, 6666 Ranch Incentive, Augusta Futurity, Southern Cutting Futurity, Abilene Spectacular. \n\nPEDIGREE: By Playgun (all-time leading cutting sire with offspring earnings exceeding $10,000,000; renowned for producing horses with exceptional athleticism, cow sense, and competitive fire; Playgun sons and daughters have won across NCHA, NRCHA, and versatility ranch horse events; Playgun daughters are particularly prized as producers) out of Not Quite An Acre (LTE $156,656 \u2014 NCHA Open Classic/Challenge Champion; 3rd, NCHA Open Finals; 4th, El Cid Open Classic; top 10 Bonanza Open Classic; NCHA Gold Award; NCHA Horse of the Year; dam of 15 foals, 8 performers earning $488,197; by Bob Acre Doc \u2014 LTE $426,136, 2-time NCHA World Champion, NCHA Hall of Fame, Equi-Stat Leading Cutting Sire). PG Heavily Armed's pedigree is one of the most elite dual-parent performance records in the cutting horse industry \u2014 his sire Playgun is the all-time leading cutting sire by offspring earnings, and his dam Not Quite An Acre is an NCHA Horse of the Year and Open Classic/Challenge Champion. The combination creates what Quarter Horse News has described as royally bred, making PG Heavily Armed a major outcross option in a breeding world dominated by High Brow Cat, Dual Rey, and Peptoboonsmal. \n\nSHOW CAREER: PG Heavily Armed is a documented elite-level competitor. NRHA Hall of Fame Trainer James Payne, who showed him, offered this assessment: 'You look at him and you're in love with him just because he looks so strong and physical. Once I started him I pretty much knew real quick that he IS so strong and physical! I like his physicality, I like cow horse and grit \u2014 and that's him!' In the second round of the Mercuria/NCHA Open World Finals, Payne and PG Heavily Armed marked an astounding 232 \u2014 a score that ranks among the highest ever recorded in a World Finals go-round and represents the pinnacle of individual cutting performance. A 232 in the NCHA Open World Finals second round against the deepest field in professional cutting is not a fluke \u2014 it is a statement of elite ability under maximum competitive pressure. His physical maintenance is described as 'nearly zero,' reflecting exceptional natural correctness, soundness, and athletic efficiency. \n\nSIRE RECORD: First year at stud was 2019, making his oldest foals born 2020 \u2014 now 5-6 years old and entering competition. Armed N Lookin (2020 stallion out of Look The Look by High Brow Cat) was catalogued at the 2022 NCHA Futurity Sale with a high bid of $55,000, reflecting strong market confidence in PG Heavily Armed as a sire even from his very first foal crop. Full sister to Stylabob (by Docs Stylish Oak \u2014 $87,644; NSHA Ranch Cutting Horse Open Futurity Champion; top 10 NRCHA Open Futurity; NRCHA Intermediate Open Futurity Reserve Champion) demonstrates the exceptional produce record of his dam Not Quite An Acre, adding broodmare-side pedigree credibility to the cross. \n\nCROSS NOTES: PG Heavily Armed's Playgun \u00d7 Bob Acre Doc pedigree carries no High Brow Cat, no Dual Rey, no Peptoboonsmal, and no Smart Little Lena at close range \u2014 making him a true outcross on mares from any of those dominant lines. In a breeding landscape where those four bloodlines dominate, a stallion who provides genuine hybrid vigor potential against all of them simultaneously is rare and commercially valuable. His proven 232 World Finals second-round score confirms elite-level cow sense and athletic ability that should pass to offspring with consistency. The Playgun sire line's daughters are renowned as exceptional producers, adding long-term broodmare value to any PG Heavily Armed filly. At $2,000 ICSI with no stallion fee until confirmed heartbeat pregnancy, he represents exceptional value for breeders seeking a blue-blood outcross to the industry's dominant sire lines. Contact Creek Plantation directly for current breeding availability and contracts."
+  },
+  {
+    "id": "pit002",
+    "name": "High Brow Cat",
+    "station": "Brazos Valley Stallion Station",
+    "source_url": "https://highbrowcat.com/high-brow-cat/",
+    "genetics": {
+      "sire": "High Brow Hickory",
+      "dam": "Smart Little Kitty (Smart Peppy)",
+      "bloodline_cluster": "HighBrowCat",
+      "offspring_success_score": 99
+    },
+    "physical": {
+      "height_hands": 14.3,
+      "weight_class": "medium",
+      "bone_density_score": 88,
+      "balance_score": 92
+    },
+    "mental": {
+      "trainability": 96,
+      "reactivity": "cool",
+      "consistency": 96
+    },
+    "health": {
+      "soundness_score": 88
+    },
+    "performance": {
+      "earnings": 110800,
+      "offspring_earnings": 97000000,
+      "discipline_strength": {
+        "cutting": 99,
+        "cowHorse": 92,
+        "ranchRiding": 72,
+        "teamRoping": 65,
+        "reining": 58,
+        "barrelRacing": 30
+      },
+      "discipline_earnings": {
+        "cutting": 110800
+      }
+    },
+    "market": {
+      "stud_fee": 0,
+      "demand_index": 99
+    },
+    "_disciplines": [
+      "cutting",
+      "cowHorse",
+      "teamRoping",
+      "ranchRiding"
+    ],
+    "_sire_line_strength": "elite",
+    "_proven_crosses": [
+      "Peptoboonsmal daughters",
+      "Dual Rey daughters",
+      "Smart Little Lena daughters",
+      "One Time Pepto daughters",
+      "Dual Smart Rey daughters"
+    ],
+    "_athleticism": 96,
+    "_cow_sense": 99,
+    "_speed": 88,
+    "_stamina": 90,
+    "_temperament": 96,
+    "_performance_summary": "High Brow Cat \u2014 1988 Chestnut Rabicano AQHA Stallion. 14.3 hands. ICSI ONLY \u2014 active through ICSI exclusively; 100+ pregnancies per season achieved in each of the past 9+ seasons using ICSI. HERDA N/H \u2014 Herda Guarantee available with proof of Herda results from the mare. N/N for GBED, HYPP, MH, PSSM1, and IMM/MYHM. Owned by BDB Breeders (Darren Blanton, owner). Station: Brazos Valley Stallion Station, Stephenville, TX. Also listed at Valley Equine, 21351 N. US Hwy 377, Stephenville, TX 76401, (254) 485-8280. Source and breeding info: highbrowcat.com. Eligible foals: ALL NCHA Events, PCCHA Stakes, Breeders Invitational, NRCHA Cow Stakes, Gold Buckle Futurities, Legendary Stakes, Riata Buckle, Royal Crown Roping, Valley Equine Super Stallion Incentive. \n\nPEDIGREE: By High Brow Hickory (LTE $222,959; PE $5M+; NCHA Open Futurity finalist; leading sire of cutting and cow horse performers) out of Smart Little Kitty (by Smart Peppy; LTE $29,133; NCHA Open Derby Champion; NCHA Open Futurity Reserve Champion; dam of multiple money-earners including Pretty Little Kitty $82,077). High Brow Cat's pedigree combines the athleticism and cow sense of High Brow Hickory with the elite maternal bloodlines of Smart Little Kitty \u2014 a nick that produced arguably the most influential individual cutting horse sire in the history of the American Quarter Horse. \n\nSHOW CAREER: Personal LTE $110,800 (NCHA and reined cow horse combined). Augusta Open Classic Champion. Chisholm Trail Open Classic Champion. Abilene Spectacular Open Classic/Challenge winner. Split 3rd, Chisholm Trail Open Classic. Split 5th, NCHA Open Super Stakes. Finalist, PCCHA Open Derby. 4th, Super Stakes 5/6-Year-Old Open Classic. His individual show record, while exceptional, is almost incidental given the unmatched legacy he built in the breeding shed. \n\nSIRE RECORD: The most decorated sire in the history of western performance horse breeding. AQHA/NCHA #1 All-Time Leading Sire (2011-2022). AQHA/NCHA #1 Leading Sire annually 2009-2022. Equi-Stat #1 All-Time Leading Cutting Sire (2009-2022). Equi-Stat #1 Leading Cutting Sire annually 2003-2022. NRCHA All-Time Leading Sire. AQHA All-Time Leading Sire of Open and Amateur ROM, Class Winners and Point-Earners. Offspring earnings in excess of $97 Million (2026 Stallion Register Directory). Sire of a record 8 NCHA Open Futurity Champions \u2014 no other stallion in history has produced this many NCHA Futurity Open Champions. 56 AQHA Champions across five disciplines. The only stallion to produce a champion in every division of the NCHA Futurity. #2 stallion in the NRCHA roping industry rankings. \n\nRECORD 8 NCHA OPEN FUTURITY CHAMPIONS: Highbrow Supercat (2005, Tommy Marvin up); Oh Cay Felix (2006, Craig Thompson up); High Brow CD (2007, Austin Shepard up \u2014 LTE $224,005); Metallic Cat (2008, Beau Galyean up \u2014 LTE $637,711; now NCHA #1 leading sire and $57M+ offspring sire himself; by High Brow Cat \u00d7 Chers Shadow by Peptoboonsmal); Oh Miss Caroline (2011, Craig Thompson up); He Bea Cat (2012, Tarin Rice up \u2014 Open Futurity Co-Champion); Classy CD Cat (2014, Phil Hanson up). This record of 8 NCHA Open Futurity Championships by a single sire is the most dominant achievement in cutting horse breeding history and stands as the defining benchmark of the High Brow Cat legacy. \n\nHERDA NOTE: High Brow Cat is a carrier of HERDA (N/H). The program at highbrowcat.com offers a Herda Guarantee when proof of N/N Herda test results from the mare are provided. Breeders should confirm their mare's HERDA status before booking. All other 5-panel tests: N/N. \n\nCROSS NOTES: High Brow Cat crosses exceptionally on mares carrying Peptoboonsmal, Dual Rey, Smart Little Lena, One Time Pepto, and Dual Smart Rey blood. The High Brow Cat \u00d7 Peptoboonsmal cross produced Metallic Cat \u2014 proof that this nick operates at the highest possible level. His daughters and granddaughters are among the most valuable broodmares in the industry, producing earners across cutting, cow horse, reining, roping, and versatility ranch horse disciplines. At 37 years old and actively producing 100+ ICSI pregnancies per season, High Brow Cat represents one of the most remarkable active breeding stallions in the history of the Quarter Horse. Contact Brazos Valley Stallion Station or visit highbrowcat.com for current stud fee, ICSI program details, and availability."
   }
 ]
