@@ -10019,5 +10019,67 @@
     "_stamina": 78,
     "_temperament": 80,
     "_performance_summary": "Menage A Tres \u2014 2020 Bay Roan Stallion. IN LOVING MEMORY \u2014 deceased. AQHA Reg#5691040. Standing at 70 Ranch Performance Horses, Gainesville TX \u2014 FROZEN SEMEN ONLY. 2025 Stud Fee: $3,000 ICSI ONLY to Approved Mares. Contact: Jamie Stout \u2014 jamiestout@70rph.com \u2014 (940) 291-2030. By A Streak Of Fling (Streakin Six x Moon Fling/Fast Fling \u2014 SI 98; $10.5M+ offspring earnings; #7 All-Time Leading Barrel Horse Sire; QData #4 All-Time Money Earning Barrel Racing Sire; leading living barrel sire at time of death; deceased September 5, 2024 at age 25; top offspring: Fame Fling N Bling $779,964 \u2014 3x NFR Qualifier; A Streak Of Rita $454,497; Streakin Easy April $297,021; also sired roping champions \u2014 Streakin Sun Dew 2016 BFI Header Champion/WNFR Qualifier) out of Wild Shawne Lace (dam pedigree not confirmed in public sources). LTE $40,000. Recent 1D barrel racing champion per QStallions. Enrolled: Triple Crown 100 (Year Enrolled 2024). Future Fortunes Junior Stallion listing (fee $1,500 at time). Stallion passed away before reaching full sire potential \u2014 frozen semen inventory is finite; ICSI only to approved mares limits access. A Streak Of Fling x Wild Shawne Lace cross positions Menage A Tres as a speed/barrel prospect with potential roping crossover per sire line. 70rph.com"
+  },
+  {
+    "id": "s70r005",
+    "name": "SR Industry Titan",
+    "station": "70 Ranch Performance Horses",
+    "source_url": "https://www.70rph.com/sr-industry-titan",
+    "genetics": {
+      "sire": "Firewaterontherocks",
+      "dam": "Mulberry Canyon Moon (Marthas Six Moons)",
+      "bloodline_cluster": "FirewaterFlit",
+      "offspring_success_score": 55
+    },
+    "physical": {
+      "height_hands": 15.1,
+      "weight_class": "medium",
+      "bone_density_score": 88,
+      "balance_score": 90
+    },
+    "mental": {
+      "trainability": 88,
+      "reactivity": "hot",
+      "consistency": 90
+    },
+    "health": {
+      "soundness_score": 90
+    },
+    "performance": {
+      "earnings": 390000,
+      "offspring_earnings": 0,
+      "discipline_strength": {
+        "barrelRacing": 92,
+        "teamRoping": 55,
+        "ranchRiding": 48,
+        "reining": 18,
+        "cowHorse": 18,
+        "cutting": 12
+      },
+      "discipline_earnings": {
+        "barrelRacing": 390000
+      }
+    },
+    "market": {
+      "stud_fee": 3500,
+      "demand_index": 82
+    },
+    "_disciplines": [
+      "barrelRacing"
+    ],
+    "_sire_line_strength": "premier",
+    "_proven_crosses": [
+      "Marthas Six Moons daughters",
+      "Dash Ta Fame daughters",
+      "Frenchmans Guy daughters",
+      "First Down Dash daughters",
+      "Fire Water Flit daughters"
+    ],
+    "_athleticism": 92,
+    "_cow_sense": 22,
+    "_speed": 96,
+    "_stamina": 88,
+    "_temperament": 88,
+    "_performance_summary": "SR Industry Titan \u2014 2013 Sorrel Stallion. Owned and standing at 70 Ranch Performance Horses, Gainesville TX. Acquired by 70 Ranch September 29, 2023. Contact: Jamie Stout \u2014 jamiestout@70rph.com \u2014 (940) 291-2030. 2025 stud fee $3,500 (chute and first shipment included). By Firewaterontherocks (Fire Water Flit line \u2014 major barrel racing sire) out of Mulberry Canyon Moon (Marthas Six Moons \u2014 described as 'the great NFR mare'). LTE $390,000+. NFR Qualifier. Multiple Arena Record Holder with numerous riders. First foal crop arrived 2020 \u2014 offspring now 5-6 years old and competing. Won $70,000 during the 2023 summer run alone. September 29, 2023: Brittany Tonozzi rode SR Industry Titan to break the WPRA regular-season earnings record in Sioux Falls, South Dakota (Cinch Governor's Cup); clocked 13.95 \u2014 split the Round 1 win, earning $8,750 on the day that put Tonozzi's 2023 season earnings at $258,313. Arena records set at Ellensburg WA and Stephenville TX. 70 Ranch Incentive Program: $100,000 bonus to offspring at the Pink Buckle average ($70,000 to fastest time, $30,000 to second fastest). Enrolled: Pink Buckle and 70 Ranch Incentive Program. 70rph.com"
   }
 ]
