@@ -5778,23 +5778,23 @@
   {
     "id": "f6r002",
     "name": "Cowboys Code",
-    "station": "6666 Ranch",
+    "station": "XIT Ranch / 6666 Ranch",
     "source_url": "https://6666stallions.com/stallion/cowboys-code/",
     "genetics": {
       "sire": "Once In A Blu Boon",
       "dam": "Shiners Diamond Lady",
       "bloodline_cluster": "Peptoboonsmal / Shining Spark",
-      "offspring_success_score": 58
+      "offspring_success_score": 62
     },
     "physical": {
       "height_hands": 15.0,
-      "weight_class": "1050 lbs",
+      "weight_class": "medium",
       "bone_density_score": 80,
       "balance_score": 80
     },
     "mental": {
       "trainability": 83,
-      "reactivity": "75",
+      "reactivity": "moderate",
       "consistency": 82
     },
     "health": {
@@ -5812,7 +5812,8 @@
       },
       "discipline_earnings": {
         "cowHorse": 39940
-      }
+      },
+      "offspring_earnings": 33085
     },
     "market": {
       "demand_index": 52
@@ -5822,14 +5823,15 @@
       "Once In A Blu Boon x Shining Spark daughters"
     ],
     "_disciplines": [
-      "Reined Cow Horse"
+      "cowHorse",
+      "cutting"
     ],
     "_athleticism": 85,
     "_cow_sense": 82,
     "_speed": 60,
     "_stamina": 78,
     "_temperament": 83,
-    "_performance_summary": "Cowboys Code -- 2020 Brown Stallion. 15H, 1050 lbs. AQHA 6028352. By Once In A Blu Boon (Peptoboonsmal x Autumn Boon/Dual Pep/Royal Blue Boon -- PE $3,811,012 confirmed Valley Equine Badboonarising bvss014 profile; leading NRCHA sire; Peptoboonsmal sire line is one of the all-time leading cutting and cow horse sire lines; Autumn Boon's dam Royal Blue Boon was the #1 All-Time Leading Cutting Producer 1995-2023 with $2.6M+ in offspring including Peptoboonsmal, Bet Yer Blue Boons, Autumn Boon, Im Countin Checks, and Once In A Blu Boon himself -- one of the deepest female families in performance horse history; Dual Pep bvss022 in this database appears in the Once In A Blu Boon pedigree through Autumn Boon creating a direct lineage connection between Cowboys Code and the QData #7 All-Time Leading Cutting Sire) out of Shiners Diamond Lady (Shining Spark x Diamonds Sparkle/Zans Diamond Jackie/Zans Diamond Sun/Jacks Miss Scarlet -- Shining Spark is a leading NRHA and NRCHA sire with PE $25M+; Diamonds Sparkle is a proven NRHA-producing dam; dam produce record for Shiners Diamond Lady not further confirmed in available sources). Owned by XIT Ranch LLC. 6666 Ranch, Guthrie TX. Transported cooled semen available. Stud fee not confirmed in available sources -- contact 6666 Ranch at (806) 386-1911. NRCHA eligible foal crops 2024-2028 confirmed NRCHA.com. Source: https://6666stallions.com/stallion/cowboys-code/ LTE $39,940+ confirmed 6666stallions.com. Confirmed show record from 6666stallions.com career highlights: 1st NRCHA Hackamore Classic Fence Work Open; 2nd/3rd NRCHA Hackamore Classic Herd Work Open Classic; 1st Colorado RCHA Drought Buster Derby Open; 1st Colorado RCHA Mid-America Futurity Rein Work Open. Primary discipline: reined cow horse (NRCHA). Cowboys Code is a young horse (2020) whose futurity and early derby credits in the NRCHA discipline show consistent competitiveness across multiple components of reined cow horse competition. The NRCHA Hackamore Classic is one of the premier annual NRCHA events, bringing together the top cow horse prospects to compete across all three phases of the NRCHA test -- fence work, herd work, and rein work. Cowboys Code placed 1st in the Fence Work Open and 2nd/3rd in the Herd Work Open Classic at this single event, demonstrating the multi-phase ability required to be a complete reined cow horse competitor rather than a specialist in one phase. A horse that finishes at or near the top of the fence work and herd work at the NRCHA Hackamore Classic is demonstrating genuine NRCHA futurity-caliber talent, since these events test all three disciplines simultaneously against the best hackamore horses in the country. His 1st place finish in the Colorado RCHA Drought Buster Derby Open and 1st in the Colorado RCHA Mid-America Futurity Rein Work Open add regional open-level championship titles that confirm his consistency across different competitive environments and judges. The rein work component specifically places him in direct competition with horses from reining backgrounds, confirming that his athleticism and training translate beyond purely cow-work phases. The Once In A Blu Boon x Shining Spark cross is a proven combination in the reined cow horse world. Once In A Blu Boon's Peptoboonsmal-line cow sense combined with Shining Spark's NRHA athleticism and collection creates offspring with the natural instinct on cattle and the technical precision in the rein work that the NRCHA demands. No offspring show data yet -- Cowboys Code is a 2020 stallion with first foals still young. His early NRCHA credentials at both futurity and derby level across multiple phases of competition establish him as a legitimate breeding prospect backed by one of the most proven NRCHA sire line crosses available at the 6666 Ranch."
+    "_performance_summary": "Cowboys Code -- 2020 Brown Stallion. 15H, 1050 lbs. AQHA 6028352. By Once In A Blu Boon (Peptoboonsmal x Autumn Boon/Dual Pep/Royal Blue Boon -- PE $3,811,012 confirmed Valley Equine Badboonarising bvss014 profile; leading NRCHA sire; Peptoboonsmal sire line is one of the all-time leading cutting and cow horse sire lines; Autumn Boon's dam Royal Blue Boon was the #1 All-Time Leading Cutting Producer 1995-2023 with $2.6M+ in offspring including Peptoboonsmal, Bet Yer Blue Boons, Autumn Boon, Im Countin Checks, and Once In A Blu Boon himself -- one of the deepest female families in performance horse history; Dual Pep bvss022 in this database appears in the Once In A Blu Boon pedigree through Autumn Boon creating a direct lineage connection between Cowboys Code and the QData #7 All-Time Leading Cutting Sire) out of Shiners Diamond Lady (Shining Spark x Diamonds Sparkle/Zans Diamond Jackie/Zans Diamond Sun/Jacks Miss Scarlet -- Shining Spark is a leading NRHA and NRCHA sire with PE $25M+; Diamonds Sparkle is a proven NRHA-producing dam; dam produce record for Shiners Diamond Lady not further confirmed in available sources). Owned by XIT Ranch LLC. 6666 Ranch, Guthrie TX. Transported cooled semen available. Stud fee not confirmed in available sources -- contact 6666 Ranch at (806) 386-1911. NRCHA eligible foal crops 2024-2028 confirmed NRCHA.com. Source: https://6666stallions.com/stallion/cowboys-code/ LTE $39,940+ confirmed 6666stallions.com. Confirmed show record from 6666stallions.com career highlights: 1st NRCHA Hackamore Classic Fence Work Open; 2nd/3rd NRCHA Hackamore Classic Herd Work Open Classic; 1st Colorado RCHA Drought Buster Derby Open; 1st Colorado RCHA Mid-America Futurity Rein Work Open. Primary discipline: reined cow horse (NRCHA). Cowboys Code is a young horse (2020) whose futurity and early derby credits in the NRCHA discipline show consistent competitiveness across multiple components of reined cow horse competition. The NRCHA Hackamore Classic is one of the premier annual NRCHA events, bringing together the top cow horse prospects to compete across all three phases of the NRCHA test -- fence work, herd work, and rein work. Cowboys Code placed 1st in the Fence Work Open and 2nd/3rd in the Herd Work Open Classic at this single event, demonstrating the multi-phase ability required to be a complete reined cow horse competitor rather than a specialist in one phase. A horse that finishes at or near the top of the fence work and herd work at the NRCHA Hackamore Classic is demonstrating genuine NRCHA futurity-caliber talent, since these events test all three disciplines simultaneously against the best hackamore horses in the country. His 1st place finish in the Colorado RCHA Drought Buster Derby Open and 1st in the Colorado RCHA Mid-America Futurity Rein Work Open add regional open-level championship titles that confirm his consistency across different competitive environments and judges. The rein work component specifically places him in direct competition with horses from reining backgrounds, confirming that his athleticism and training translate beyond purely cow-work phases. The Once In A Blu Boon x Shining Spark cross is a proven combination in the reined cow horse world. Once In A Blu Boon's Peptoboonsmal-line cow sense combined with Shining Spark's NRHA athleticism and collection creates offspring with the natural instinct on cattle and the technical precision in the rein work that the NRCHA demands. No offspring show data yet -- Cowboys Code is a 2020 stallion with first foals still young. His early NRCHA credentials at both futurity and derby level across multiple phases of competition establish him as a legitimate breeding prospect backed by one of the most proven NRCHA sire line crosses available at the 6666 Ranch 4th place, 2025 NRCHA Open Stallion Stakes."
   },
   {
     "id": "f6r003",
