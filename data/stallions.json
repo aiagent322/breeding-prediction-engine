@@ -10268,5 +10268,65 @@
     "_stamina": 88,
     "_temperament": 96,
     "_performance_summary": "Wimpys Little Step \u2014 1999 Palomino AQHA Stallion. Senior sire. ICSI ONLY. Standing at Silver Spurs Equine LLC, Purcell, Oklahoma. Owned by Michael Miola. 2026 stud fee: $6,000 ICSI Only (early booking $5,500). Note: Waggoner Ranch bred mares to Wimpy \u2014 his offspring appeared in the 2024 Waggoner Ranch reduction sale, but Wimpy himself stands at Silver Spurs Equine. Bred by Monica Watson, Double Run Farm, Leland NC. By Nu Chex To Cash (NRHA Million Dollar Sire; NRHA LTE $65,654 and 380.5 AQHA points; NRHA Int. Open World Champion; NRHA Limited Open World Champion; Superior Reining; Superior Working Cow Horse; Leading Sire; sire of 305 RGP money-earners, $3,686,547) out of Leolita Step (Forty Seven). Personal LTE: $185,757. NRHA Hall of Fame. 2002 NRHA Open Futurity Champion \u2014 score of 233 with Shawn Flarida (only second horse ever to win both Congress and NRHA Open Futurities). 2002 AQHA Congress Open Reining Futurity Champion. Tradition Open Reining Futurity Reserve Champion. NRHA #1 Living Sire. $13,059,775+ offspring earnings (all disciplines). 1,988 Wimpy foals on the ground \u2014 50% are money earners with average earnings $11,000+. The ONLY stallion to produce a horse that won the NRHA Futurity, NRBC, AND NRHA Derby back-to-back: Wimpys Little Chic \u2014 NRHA all-time #1 money earner AND NRHA Million Dollar Dam (dam of Finals Bound, tmc005 in this database). RC Fancy Step: $300,000+ earner. Wimpysneedsacocktail: multiple champion. First foal crop saw 6 NRHA Futurity Open L4 finalists including the Futurity Champion. Temperament hallmark: 'when you dropped the reins he'd go to sleep like a 20-year-old gelding.' At 26 years of age (2025), finite frozen semen inventory \u2014 ICSI procedure creates additional cost above the base fee. Silver Spurs Equine LLC, Purcell, Oklahoma."
+  },
+  {
+    "id": "wag002",
+    "name": "Greyt Whiz",
+    "station": "W.T. Waggoner Ranch",
+    "source_url": "https://waggonerranch.com/",
+    "genetics": {
+      "sire": "Topsail Whiz",
+      "dam": "Easter Cabin (Easter Gentleman)",
+      "bloodline_cluster": "TopsailWhiz",
+      "offspring_success_score": 52
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 86,
+      "balance_score": 86
+    },
+    "mental": {
+      "trainability": 88,
+      "reactivity": "cool",
+      "consistency": 88
+    },
+    "health": {
+      "soundness_score": 85
+    },
+    "performance": {
+      "earnings": 0,
+      "offspring_earnings": 0,
+      "discipline_strength": {
+        "ranchRiding": 85,
+        "reining": 68,
+        "cowHorse": 55,
+        "teamRoping": 50,
+        "cutting": 35,
+        "barrelRacing": 28
+      },
+      "discipline_earnings": {}
+    },
+    "market": {
+      "stud_fee": 0,
+      "demand_index": 55
+    },
+    "_disciplines": [
+      "ranchRiding",
+      "reining"
+    ],
+    "_sire_line_strength": "premier",
+    "_proven_crosses": [
+      "Cat Man Do-bred mares",
+      "Wimpys Little Step daughters",
+      "Mecom Blue daughters",
+      "Mr Sorrel Bo daughters"
+    ],
+    "_athleticism": 86,
+    "_cow_sense": 58,
+    "_speed": 78,
+    "_stamina": 86,
+    "_temperament": 90,
+    "_performance_summary": "Greyt Whiz \u2014 2002 Stallion. Bred and standing at W.T. Waggoner Ranch, Vernon TX. Stud fee: contact ranch (website periodically unavailable; was offered in a sale circa 2016 during Kroenke ownership transition; current status \u2014 contact ranch directly). By Topsail Whiz (NRHA Hall of Fame; NRHA #1 All-Time Leading Sire; first NRHA $12 Million Sire; deceased 2009; sire of 7 NRHA Open Futurity Champions, 4 NRHA Open Derby Champions, 3 NRHA Million Dollar Sires, 2 NRHA Two Million Dollar Sires; daughters have foaled earners of $8.7M+) out of Easter Cabin (Easter Gentleman \u2014 Forest Cabin \u2014 Moon). AQHA World Champion Producer (per Waggoner Ranch). Ranch stallion bred and used primarily within the Waggoner working program. Key offspring and descendants: Greyt Socks (2007 gray gelding) \u2014 2013 AQHA Select World Champion Ranch Riding, 2015 Amateur Reserve World Champion Ranch Riding, AQHA LTE $67,637+. Greyt Little Steps (daughter) \u2014 dam of Always Do (2018 gray gelding by Cat Man Do) \u2014 2025 AQHA Select World Champion Ranch Riding AND 2025 AQHA Select All-Around Amateur (Dana and Bob Avila, Scottsdale AZ); bred by W.T. Waggoner Estate. Greyt Senorita, Greyt Blue, Greyt Rio \u2014 other confirmed offspring. Greyt Whiz \u00d7 Wimpys Senorita cross also represented in Waggoner herd. Primary value: ranch horse broodmare sire \u2014 daughters crossed on Cat Man Do and other performance stallions produce elite AQHA ranch/reining competitors. The Topsail Whiz \u00d7 Easter Gentleman cross produces correct, mentally solid horses with strong reining foundations and outstanding ranch versatility. Waggoner Ranch is an AQHA Ranching Heritage Breeder and 100-Year AQHA Breeder. waggonerranch.com | Vernon TX | Trace Cribbs, Horse Division Manager | (940) 552-2521"
   }
 ]
