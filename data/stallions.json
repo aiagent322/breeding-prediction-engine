@@ -9534,5 +9534,66 @@
     "_stamina": 80,
     "_temperament": 86,
     "_performance_summary": "Gangsta Sixtysix \u2014 2017 AQHA Stallion. Bred by Lorenzo Lotti. Owned by Julio Mora Hernandez. Nominated by Slide or Die LLC. Standing at Tom McCutcheon Reining Horses, Aubrey TX. Book Now Pay Later \u2014 no payments until 12/31/26. Stud fee: contact station. By Inferno Sixty Six (Gunnatrashya x Snip O Gun x One Gun \u2014 LTE $216,165+; 2015 NRHA Futurity L4 Open Reserve Champion; NRHA $5M+ Sire; youngest multimillion dollar sire in NRHA history; 212 offspring with NRHA LTE; NRHA Top 10 Leading Sires 2021-2023; by Gunnatrashya \u2014 NRHA Hall of Fame, $15M+ Sire; by Colonels Smoking Gun [Gunner] \u2014 NRHA Hall of Fame, $15M+ All-Time Leading Sire) out of Rush N Cat (by Little Rush). Three generations of elite NRHA sires on the top line. LTE $168,344. 2020 SWRHA Billingsley Ford Open Futurity L4 Champion with Franco Bertolani, score 222.5 (Inferno Sixty Six's first L4 Open futurity champion; original owner Helga Smith Quarter Horses). Shown at Tulsa (17.5) and Las Vegas (16.5) leading up to SWRHA win. Entered 2020 NRHA Futurity Open as freshman. Tom McCutcheon Reining Horses, 3732 Shepard Rd, Aubrey TX 76227. (940) 453-0003. tmreining.com"
+  },
+  {
+    "id": "tmc005",
+    "name": "Finals Bound",
+    "station": "Tom McCutcheon Reining Horses",
+    "source_url": "https://tmreining.com/stallions/finals-bound/",
+    "genetics": {
+      "sire": "Gunnatrashya",
+      "dam": "Wimpys Little Chic (Wimpys Little Step)",
+      "bloodline_cluster": "SmokingGun",
+      "offspring_success_score": 35
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 85,
+      "balance_score": 88
+    },
+    "mental": {
+      "trainability": 90,
+      "reactivity": "moderate",
+      "consistency": 86
+    },
+    "health": {
+      "soundness_score": 90
+    },
+    "performance": {
+      "earnings": 216876,
+      "offspring_earnings": 0,
+      "discipline_strength": {
+        "reining": 88,
+        "cowHorse": 42,
+        "ranchRiding": 55,
+        "cutting": 22,
+        "teamRoping": 22,
+        "barrelRacing": 20
+      },
+      "discipline_earnings": {
+        "reining": 216876
+      }
+    },
+    "market": {
+      "stud_fee": 0,
+      "demand_index": 75
+    },
+    "_disciplines": [
+      "reining"
+    ],
+    "_sire_line_strength": "elite",
+    "_proven_crosses": [
+      "Wimpys Little Step daughters",
+      "Walla Walla Whiz daughters",
+      "Topsail Whiz daughters",
+      "Smart Chic Olena daughters"
+    ],
+    "_athleticism": 88,
+    "_cow_sense": 28,
+    "_speed": 86,
+    "_stamina": 84,
+    "_temperament": 90,
+    "_performance_summary": "Finals Bound \u2014 2020 AQHA Stallion. Bred and nominated by Arcese Quarter Horses LLC. Owned by FB Brazil Partners. Standing at Tom McCutcheon Reining Horses, Aubrey TX. Book Now Pay Later \u2014 no payments until 12/31/26. Stud fee: contact station. By Gunnatrashya (NRHA Hall of Fame; #1 Leading Reining Sire since 2021; $15M+ Sire; tied Gunner as only father-son duo both to surpass $15M; by Colonels Smoking Gun [Gunner] \u2014 NRHA Hall of Fame, $15M+ Sire) out of Wimpys Little Chic (Wimpys Little Step \u2014 NRHA Hall of Fame, $12M+ Sire; dam of performers earning $2.2M+, including THREE NRHA Open Futurity Champions; dam of Andiamoe $438,139 NRHA LTE, Shesouttayourleague $260K+ \u2014 2015 NRHA Open Futurity and Derby Champion). FULL BROTHER TO TWO NRHA OPEN FUTURITY CHAMPIONS. LTE $216,876. 2024 The American Performance Horseman: 3rd Individual Reining, 2nd Team Reining (Cade McCutcheon) \u2014 $58,333 combined. 2025 The American Performance Horseman: 5th Individual Reining (Cade McCutcheon) \u2014 $20,000. 6-Panel N/N (GBED, HERDA, HYPP, MH, MYHM, PSSM1). Enrolled: North American Reining Stakes, NRBC, NRHA Sire & Dam, NRCHA Cow Horse Incentive, Royal Crown Roping, 6666 Stallion Incentive. Tom McCutcheon Reining Horses, 3732 Shepard Rd, Aubrey TX 76227. (940) 453-0003. tmreining.com/stallions/finals-bound/"
   }
 ]
