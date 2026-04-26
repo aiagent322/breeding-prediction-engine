@@ -12040,5 +12040,70 @@
     "_stamina": 92,
     "_temperament": 96,
     "_performance_summary": "SJR Talkin Diamonds \u2014 2017 Palomino Stallion. 2024 The American Performance Horseman Open Working Cow Horse Champion. Bred, raised, and owned by San Juan Ranch, an NRCHA Million Dollar Breeder. San Juan Ranch: 613 W FM 1885, Weatherford, TX 76088. (940) 682-2205 | horses@sanjuanranch.com | sanjuanranch.com. NEW TO STUD \u2014 2026 is his first breeding season. Contact San Juan Ranch directly for 2026 stud fee and breeding availability. Nominated: NRCHA Cow Horse Incentive, San Juan Ranch NRCHA Futurity Incentive. Half-brother to CD Diamond (sjr001) \u2014 both out of Shiners Diamond Girl. \n\nPEDIGREE: By Smooth Talkin Style (NCHA Horse of the Year; personal LTE $305,284; by Smooth As A Cat \u2014 NCHA/QData #5 All-Time Leading Cutting Sire \u2014 out of Stylish Play Lena \u2014 NCHA/QData #4 All-Time Leading Cutting Dam; this cross of the #5 all-time sire \u00d7 #4 all-time dam produced one of the most elite individual pedigrees in modern cutting history; Smooth Talkin Style's progeny earnings: $9.3M and climbing; #6 QData Leading Cow Horse Sire; Top 10 Leading Cutting Sire; Leading Freshman Sire of 2020; top offspring: Storyteler $383,249 \u2014 2024 TAPH Open Cutting Champion; Gingersnaps $219,416 \u2014 NCHA Open Derby Champion, Breeders Invitational Open Derby Champion, PCCHA Open Derby Champion; Talkin Reycy $211,337 \u2014 2024 NCHA $5,000 Novice Horse Non-Pro World Champion; SJR Talkin Diamonds $203,712 \u2014 2024 TAPH Open Cow Horse Champion) out of Shiners Diamond Girl (by Shining Spark NRHA Hall of Fame \u00d7 Zans Diamond Jackie \u00d7 Zans Diamond Sun; personal LTE $67,765 \u2014 NRCHA Supreme Reined Cow Horse; 5th, World's Greatest Horseman; split 4th, NRCHA Open Bridle Spectacular; NRCHA Stakes Open Bridle Reserve Champion; NRCHA $750,000 Dam Award Recipient \u2014 her foals have earned over $750,000 in NRCHA competition; dam of CD Diamond $153,320 \u2014 2012 NRCHA Futurity Champion, SJR Talkin Diamonds $203,712 \u2014 2024 TAPH Open Cow Horse Champion, SJR Royal Diamond $119,190 \u2014 2021 NRCHA Futurity 3rd; the most decorated broodmare in San Juan Ranch history). \n\nSJR Talkin Diamonds and CD Diamond are half-brothers out of Shiners Diamond Girl, but represent dramatically different sire-line approaches: CD Diamond brings the CD Olena / Smart Chic Olena NRCHA cutting sire tradition, while SJR Talkin Diamonds brings Smooth Talkin Style's dominant modern cutting genetics through the Smooth As A Cat \u00d7 Stylish Play Lena nick \u2014 arguably the most elite individual sire pedigree combination in modern cutting. Having both half-brothers at stud at San Juan Ranch gives breeders access to Shiners Diamond Girl's proven genetics through two completely different and highly complementary sire-line approaches. \n\nSHOW CAREER: Personal LTE $203,712. 2022 NRCHA Derby Reserve Champion \u2014 a top-2 finish at the NRCHA's premier aged event as a 5-year-old signals elite ability across all three phases of reined cow horse. 2024 The American Performance Horseman Open Working Cow Horse Champion \u2014 Globe Life Field, Arlington, Texas. Ridden by Equi-Stat Elite $4 Million Rider Corey Cushing, SJR Talkin Diamonds posted a combined reining and fence work score of 439, winning the $100,000 Open Cow Horse title by just half a point over Scooter Kat with Justin Wright \u2014 the highest money-earning reined cow horse in NRCHA history at that time. Cushing: 'I believe in that horse ever since I started taking him down the fence as a 3-year-old. We've been the bridesmaid quite a few times but never the bride, and tonight was his night.' Winning by half a point over the sport's all-time leading money-earner at the most prestigious event in performance horse competition is the defining proof of elite individual athletic ability. \n\nCROSS NOTES: SJR Talkin Diamonds' Smooth Talkin Style \u00d7 Shining Spark pedigree carries no High Brow Cat, no CD Olena, no Peptoboonsmal, and no Dual Rey at close range \u2014 making him a genuine outcross on mares from all those bloodlines. His Smooth As A Cat / Stylish Play Lena sire combination crosses powerfully on High Brow Cat mares, Peptoboonsmal mares, Dual Rey mares, Metallic Cat mares, and CD Diamond daughters. As a first-year sire in 2026, breeders booking now are entering at ground level on a TAPH Open Cow Horse Champion with elite maternal production credentials from both the sire (Smooth Talkin Style $9.3M progeny sire) and dam (Shiners Diamond Girl $750K NRCHA Dam Award). Contact San Juan Ranch at (940) 682-2205 for 2026 stud fee and contract information."
+  },
+  {
+    "id": "disc002",
+    "name": "Catty Hawk",
+    "station": "Cowan Ranch / Weatherford Equine",
+    "source_url": "https://cattyhawk.com/catty-hawk/",
+    "genetics": {
+      "sire": "High Brow Cat",
+      "dam": "Scarlet Dance (Peppy San Badger)",
+      "bloodline_cluster": "HighBrowCat",
+      "offspring_success_score": 82
+    },
+    "physical": {
+      "height_hands": 14.3,
+      "weight_class": "medium",
+      "bone_density_score": 88,
+      "balance_score": 90
+    },
+    "mental": {
+      "trainability": 92,
+      "reactivity": "cool",
+      "consistency": 92
+    },
+    "health": {
+      "soundness_score": 90
+    },
+    "performance": {
+      "earnings": 240800,
+      "offspring_earnings": 4300000,
+      "discipline_strength": {
+        "cutting": 90,
+        "cowHorse": 75,
+        "teamRoping": 68,
+        "ranchRiding": 60,
+        "reining": 45,
+        "barrelRacing": 25
+      },
+      "discipline_earnings": {
+        "cutting": 240800
+      }
+    },
+    "market": {
+      "stud_fee": 2150,
+      "demand_index": 80
+    },
+    "_disciplines": [
+      "cutting",
+      "cowHorse",
+      "teamRoping",
+      "ranchRiding"
+    ],
+    "_sire_line_strength": "elite",
+    "_proven_crosses": [
+      "Peptoboonsmal daughters",
+      "Dual Rey daughters",
+      "Metallic Cat daughters",
+      "Smart Little Lena daughters",
+      "One Time Pepto daughters"
+    ],
+    "_athleticism": 92,
+    "_cow_sense": 96,
+    "_speed": 84,
+    "_stamina": 90,
+    "_temperament": 94,
+    "_performance_summary": "Catty Hawk \u2014 2005 Sorrel Stallion. 14.3 hands. NCHA $2 Million Dollar Sire. Double registered AQHA/APHA. Owned by William (Bill) and Michelle Cowan. Cowan Ranch Inc., Oklahoma. Home: Cowan Ranch Inc. | cattyhawk.com. Standing at: Weatherford Equine, Weatherford, TX. (817) 594-9181 | weatherfordequine.com/catty-hawk. 2026 Breeding Fee: $2,150 total ($1,500 stallion fee + $650 chute fee). Transported semen and international shipping available. Multiple mare discounts available \u2014 contact Cowan Ranch. 4-Panel N/N. HERDA N/H \u2014 HERDA Guarantee provided with proof of N/N HERDA from mare. HERDA NOTE: As a High Brow Cat son, Catty Hawk carries one HERDA copy (N/H). Mares must be confirmed N/N for HERDA before breeding. AQHA Leading Freshman Sire of 2014 (recognized at 2015 NCHA Convention). Nominated: Abilene Spectacular Stallion Incentive, Augusta Stallion Stakes, Breeders Invitational, Gold Buckle Futurity, NRCHA Stallion Stakes, PCCHA Stallion Auction, NCHA Super Stakes, Southern Cutting Futurity Stallion Incentive, Royal Crown Roping Incentive, Riata Buckle, ARHFA Top Gun. \n\nPEDIGREE: By High Brow Cat (pit002 in this database; 1988 Chestnut Stallion; NCHA #1 All-Time Leading Sire; PE $97M+; record 8 NCHA Open Futurity Champions; NRCHA All-Time Leading Sire; HERDA N/H carrier \u2014 source of Catty Hawk's HERDA status) out of Scarlet Dance (by Peppy San Badger \u2014 'Little Peppy'; 1977 NCHA Futurity Champion; NCHA and AQHA Hall of Fame; PE $25M+; sired Peptoboonsmal, Dual Pep, and dozens of $100K+ earners). Catty Hawk combines High Brow Cat's elite NCHA cutting genetics on top with Peppy San Badger's legendary foundation bloodline through Scarlet Dance \u2014 a pedigree that packs two NCHA Hall of Fame stallions within two generations. \n\nSHOW CAREER: Personal NCHA LTE $240,800+. 'A significant force in the sport of cutting \u2014 a finalist at almost every aged event he was shown at.' 2008 NCHA Futurity 3-Year-Old Limited Non-Pro Champion and Non-Pro Finalist \u2014 dominant futurity debut. 2009 Abilene Cutting Spectacular 4-Year-Old Open Reserve Champion. 2009 Brazos Bash 3rd (tie), 4-Year-Old Open. 2009 West Texas Futurity 4th, 4-Year-Old Open. 2009 multiple derby and futurity open finalists: Augusta, South Point, NCHA Summer Spectacular, Breeders Invitational. 2010 PK Cutters Events 5&6-Year-Old Open Reserve Champion. 2010 Arbuckle Mountain Futurity 3rd (tie), 5&6-Year-Old Open. 2010 Abilene Spectacular 4th, 5&6-Year-Old Open. 2011 multiple finalists: Tunica, Cattlemen's Derby, NCHA Super Stakes Non-Pro, Arbuckle. AQHA ROM. His sustained competitive record across futurity and multiple derby years confirms exceptional soundness and competitive consistency. \n\nSIRE RECORD: NCHA $2 Million Dollar Sire. Total offspring earnings exceed $4.3 Million across cutting, reined cow horse, roping, and ranch horse events. As of December 2024: 459 AQHA foals; 172 money-earners ($3.87M+); average earnings per money-earner of $22,492 \u2014 a strong per-foal production metric. 566 AQHA points earned; 32 AQHA point-earners; 3 AQHA Superior Awards; 11 AQHA ROM Awards; 1 AQHA Reserve World Champion. He reached $1 Million in offspring earnings from fewer than 36 performers \u2014 a per-performer efficiency rate that compares favorably to any stallion in cutting. Notable offspring: Lil Bay Hawk (NRCHA Derby Open Champion), Billies Catty (multiple aged-event champion owned by Bill Cowan), Catty Bluz $58,647, Catty Minx $38,329. \n\nCROSS NOTES: Catty Hawk's High Brow Cat \u00d7 Peppy San Badger pedigree crosses exceptionally on mares carrying Peptoboonsmal, Dual Rey, Metallic Cat, Smart Little Lena, and One Time Pepto blood. At $2,150 total with multiple mare discounts available and transported/international semen shipping, Catty Hawk is one of the most accessible $2 Million Sire options in cutting. Confirm HERDA N/N status on your mare before booking. Contact Cowan Ranch via cattyhawk.com or Weatherford Equine at (817) 594-9181 for 2026 contracts."
   }
 ]
