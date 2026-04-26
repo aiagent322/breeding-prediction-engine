@@ -10516,5 +10516,69 @@
     "_stamina": 86,
     "_temperament": 90,
     "_performance_summary": "Late Night Stopper \u2014 2011 Smoky Black AQHA Stallion. Also spelled 'Late Nite Stopper'. Physical location: Oswood Stallion Station, Weatherford TX. Owned by Marc & Kathy Gordon, Elgin IL. latenightstopper.com. By Jacs Electric Spark (by Genuine Doc) out of Best Stop (LTE $43,208; PE $643,524+; 20 NRHA money-earners \u2014 NRHA All-Time Leading Dam; by Custom Crome \u00d7 Rest Stop). Rest Stop = NRHA Hall of Fame inductee; NRHA Open Futurity Reserve Champion. Custom Crome = NRHA Hall of Fame. Dam Best Stop is also dam of: Hey Joe ($135,867 \u2014 3rd NRHA Open Derby), Stop Like A Dream ($101,214 \u2014 NRBC Open Derby Co-Reserve Champion), Best Shine (by Shine Chic Shine \u2014 $682,562 \u2014 2023 Run for a Million Champion), Jacs Electric Stop ($21,444 \u2014 NRHA Open Futurity finalist). Personal LTE: $101,621 (NRHA). 2014 NRHA Open Futurity finalist. 2015 NRBC Open Derby finalist. 2015 High Roller Reining Classic Open Stakes \u2014 split 4th. 2015 Cactus Reining Classic Open Derby \u2014 4th. 2016 NRHA Intermediate Open Derby Co-Reserve Champion. 2016 NRHA Open Derby \u2014 top 10. 2016 NRBC Open Derby finalist. 2016 Reining by the Bay Intermediate Open Derby Reserve Champion. 2016 High Roller Reining Classic Intermediate Open Derby Reserve Champion. Shown by Franco Bertolani and Martin Muehlstaetter. 6-Panel Genetic Test N/N; EJSCA N/N. Best Stop is among the most influential dams in NRHA history \u2014 5 Hall of Fame inductees on the pedigree. Strong outcross value: carries no Colonels Smoking Gun, Gunnatrashya, Wimpys Little Step, or Topsail Whiz blood at close range."
+  },
+  {
+    "id": "bur003",
+    "name": "TR Dual Rey",
+    "station": "Burns Ranch",
+    "source_url": "https://www.theburnsranch.com/stallions",
+    "genetics": {
+      "sire": "Dual Rey",
+      "dam": "Peppys Misty Oaks",
+      "bloodline_cluster": "DualRey",
+      "offspring_success_score": 68
+    },
+    "physical": {
+      "height_hands": 14.3,
+      "weight_class": "medium",
+      "bone_density_score": 88,
+      "balance_score": 90
+    },
+    "mental": {
+      "trainability": 92,
+      "reactivity": "cool",
+      "consistency": 90
+    },
+    "health": {
+      "soundness_score": 92
+    },
+    "performance": {
+      "earnings": 353174,
+      "offspring_earnings": 0,
+      "discipline_strength": {
+        "cutting": 86,
+        "cowHorse": 80,
+        "reining": 65,
+        "ranchRiding": 52,
+        "teamRoping": 38,
+        "barrelRacing": 22
+      },
+      "discipline_earnings": {
+        "cutting": 353174
+      }
+    },
+    "market": {
+      "stud_fee": 0,
+      "demand_index": 70
+    },
+    "_disciplines": [
+      "cutting",
+      "cowHorse",
+      "reining"
+    ],
+    "_sire_line_strength": "elite",
+    "_proven_crosses": [
+      "High Brow Cat daughters",
+      "Metallic Cat daughters",
+      "Peptoboonsmal daughters",
+      "Smart Little Lena daughters",
+      "Freckles Playboy daughters"
+    ],
+    "_athleticism": 92,
+    "_cow_sense": 95,
+    "_speed": 86,
+    "_stamina": 88,
+    "_temperament": 92,
+    "_performance_summary": "TR Dual Rey \u2014 1999 Sorrel Stallion. 14.3 hands. By Dual Rey (NCHA Hall of Fame; LTE $105,038; PE $40M+ combined AQHA/NCHA/NRCHA/NRHA; No. 2 all-time leading cutting sire; deceased May 2018; by Dual Pep \u00d7 Nurse Rey, bred by Linda Holmes, Longmont CO; stood at Oswood Stallion Station, Weatherford TX; sired 16 AQHA World Champions and 18 Reserve World Champions) out of Peppys Misty Oaks. Double cross of Peppy San Badger \u2014 Peppy San Badger is grandsire of both Dual Rey and dam. Personal LTE: $353,174 (NCHA) \u2014 #1 performing son of Dual Rey. NCHA Super Stakes Open Reserve Champion. NCHA Summer Cutting Spectacular Derby Open Reserve Champion. NCHA Derby Open Reserve Champion. Breeders Invitational Derby Open Finalist. Augusta Derby Open Finalist, 5th. Memphis Derby Open Reserve Champion. Suncoast Winter Derby Open Champion. NCHA Super Stakes Stallion Incentive Champion. PCCHA Derby Open Reserve Champion. Great American Open Champion. Western Horseman Cup Open Reserve Champion \u2014 7 time Champion or Reserve Champion total. US NCHA Leading Money Earner. Shown by NCHA Hall of Fame Trainer Lloyd Cox: 'TR is absolutely one of the best horses I have ever ridden. His ability to stop and his unbelievable quickness \u2014 combined with his ability to draw a cow to him really shows off his brilliance.' 2008 NCHA Freshman Sire of the Year. First foal crop \u2014 5 NCHA Futurity Finalists (2 in the Open). #7 leading sire over past 10 years across cutting, reining, and cow horse (QHN, May 2020). Champions in NCHA, NRCHA, and NRHA. Retired to stud February of his 5-year-old year, sound and on top. Nominated: NRCHA Stallion Stakes, NCHA Super Stakes, Breeders Invitational, NCHA Bonanza, PCCHA Stallion Stakes, ACCHA/Augusta Futurity. AQHA Reg # 3795517."
   }
 ]
