@@ -9656,5 +9656,122 @@
     "_stamina": 82,
     "_temperament": 90,
     "_performance_summary": "Electric Code \u2014 2005 AQHA Sorrel Stallion. Nickname: Cody. Owned by Jared Leclair. Standing at Tom McCutcheon Reining Horses, Aubrey TX. Book Now Pay Later \u2014 no payments until 12/31/26. 2026 stud fee $1,650. By Jacs Electric Spark (NRHA $3M+ Sire; NRHA Hall of Fame \u2014 one of the industry's most significant Jac/Electric bloodlines; late sire still producing top competitors) out of Hot Coded Candy (The Hot Express \u2014 NRHA Non Pro Futurity finalist 1994, shown by NRHA HOF Mandy McCutcheon; LTE $15,347; produce record $333,725+ from 6 earners; bred to Hollywood Dun It, Smart Chic Olena, Whizkey N Diamonds, Wimpys Little Step, Jacs Electric Spark, Shining Spark, Smart Starbuck). LTE $215,402. NRHA Million Dollar Sire. 2008 NRHA Intermediate Open Futurity Champion. 2008 NRHA Open Futurity L4 \u2014 3rd place (highest scoring stallion at the 2008 NRHA Futurity). 2008 NRHA #1 Leading Money Earner \u2014 all ages, all divisions. 2008 SWRHA Open Futurity Champion. 2008 SWRHA Intermediate Open Futurity Champion. 2008 RMRHA Open Futurity Co-Champion. 2008 RMRHA Intermediate Open Futurity Co-Champion. 2008 RMRHA Summer Slide Stallion Stakes Open Co-Champion. 2009 Gordyville Open Derby Champion. 2010 All American Quarter Horse Congress Open Champion. 2010 NRHA Derby Finalist. Known for balanced conformation, incredible intelligence, and consistent competitive record across multiple venues and divisions in 3-year-old year. NRBC featured sponsor stallion (ball caps given to every NRBC Classic exhibitor). Tom McCutcheon Reining Horses, 3732 Shepard Rd, Aubrey TX 76227. (940) 453-0003. Booking fee $500."
+  },
+  {
+    "id": "tmc007",
+    "name": "Blo Gun",
+    "station": "Tom McCutcheon Reining Horses",
+    "source_url": "https://tmreining.com/stallions/blo-gun/",
+    "genetics": {
+      "sire": "Unknown",
+      "dam": "Unknown",
+      "bloodline_cluster": "Unknown",
+      "offspring_success_score": 25
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 84,
+      "balance_score": 88
+    },
+    "mental": {
+      "trainability": 88,
+      "reactivity": "moderate",
+      "consistency": 86
+    },
+    "health": {
+      "soundness_score": 90
+    },
+    "performance": {
+      "earnings": 101300,
+      "offspring_earnings": 0,
+      "discipline_strength": {
+        "reining": 82,
+        "cowHorse": 35,
+        "ranchRiding": 50,
+        "cutting": 18,
+        "teamRoping": 20,
+        "barrelRacing": 18
+      },
+      "discipline_earnings": {
+        "reining": 101300
+      }
+    },
+    "market": {
+      "stud_fee": 0,
+      "demand_index": 55
+    },
+    "_disciplines": [
+      "reining"
+    ],
+    "_sire_line_strength": "listed",
+    "_proven_crosses": [],
+    "_athleticism": 88,
+    "_cow_sense": 28,
+    "_speed": 86,
+    "_stamina": 84,
+    "_temperament": 88,
+    "_performance_summary": "Blo Gun \u2014 2010 AQHA Sorrel Stallion. Pedigree not confirmed in public sources. Owned by Michael Garnett. Standing at Tom McCutcheon Reining Horses, Aubrey TX. Book Now Pay Later \u2014 no payments until 12/31/26. Stud fee: contact station. LTE $101,300. 5-Panel N/N (GBED, HERDA, HYPP, MH, PSSM1). 2018 FEI World Equestrian Games Tryon \u2014 Team Austria; qualified for Individual Reining Final with score 223 (top score of the day), ridden by Austrian Martin M\u00fchlst\u00e4tter. 2x NRBC Open Classic Challenge Champion. NRBC Classic Challenge Reserve Champion. AQHA Select Reining World Champion. High Roller Reining Classic Non-Pro Prime Time Derby Champion. WEG Individual Final qualification represents world-class competitive credential \u2014 only top 15 scores from the individual qualifiers advance, competing among the best reiners from 20+ nations. Enrolled: NRBC, NRHA Sire and Dam, NARS, All Star Reining Stakes. Tom McCutcheon Reining Horses, 3732 Shepard Rd, Aubrey TX 76227. (940) 453-0003. NOTE: Pedigree (sire/dam) not confirmed \u2014 genetic scoring conservative until confirmed."
+  },
+  {
+    "id": "tmc008",
+    "name": "Lil Dreamin Magnum",
+    "station": "Tom McCutcheon Reining Horses",
+    "source_url": "https://tmreining.com/lil-dreamin-magnum/",
+    "genetics": {
+      "sire": "Magnum Chic Dream",
+      "dam": "Myo Starlight (Paddys Irish Whisky)",
+      "bloodline_cluster": "MagnumChicDream",
+      "offspring_success_score": 45
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 84,
+      "balance_score": 86
+    },
+    "mental": {
+      "trainability": 88,
+      "reactivity": "moderate",
+      "consistency": 84
+    },
+    "health": {
+      "soundness_score": 88
+    },
+    "performance": {
+      "earnings": 124600,
+      "offspring_earnings": 0,
+      "discipline_strength": {
+        "reining": 80,
+        "cowHorse": 38,
+        "ranchRiding": 52,
+        "cutting": 18,
+        "teamRoping": 22,
+        "barrelRacing": 20
+      },
+      "discipline_earnings": {
+        "reining": 124600
+      }
+    },
+    "market": {
+      "stud_fee": 1500,
+      "demand_index": 55
+    },
+    "_disciplines": [
+      "reining"
+    ],
+    "_sire_line_strength": "premier",
+    "_proven_crosses": [
+      "Paddys Irish Whisky daughters",
+      "Shining Spark daughters",
+      "Smart Chic Olena daughters",
+      "Topsail Whiz daughters"
+    ],
+    "_athleticism": 84,
+    "_cow_sense": 28,
+    "_speed": 82,
+    "_stamina": 82,
+    "_temperament": 90,
+    "_performance_summary": "Lil Dreamin Magnum \u2014 2011 AQHA Sorrel Stallion. Nickname: Dimpy. Standing at Tom McCutcheon Reining Horses, Aubrey TX. Book Now Pay Later \u2014 no payments until 12/31/26. 2026 stud fee $1,500 (chute and booking fee included). By Magnum Chic Dream (NRHA Hall of Fame; NRHA $10M+ Sire; NRHA Hall of Fame; 4-panel negative; ridden by Patti Brownshadel and Casey Hinton; sire of Mr Farenheit, Magnum With A Dream, Chic Dreamin; producing consistent champions across Open, Non Pro, and Youth) out of Myo Starlight (Paddys Irish Whisky \u2014 NRHA Hall of Fame sire; dam LTE $13,000+). LTE $124,600+ (still showing). First foal crop 2017. 26 Open and Championship titles in the United States. High score 156.5 in go-round competition. Score of 227 achieved at highest level of competition. NRHA Futurity Finalist. NRBC Finalist. NRHA Derby Finalist. Primary trainer: Jeremy Gates, Stony Ford Ranch NY. 5-Panel N/N, IMM N/N. Enrolled: NRBC, NRHA Sire & Dam, Northeast Breeders Trust, North American Reining Stakes, NRHA Germany SSP Program, IRHBA (Italian Breeders). Tom McCutcheon Reining Horses, 3732 Shepard Rd, Aubrey TX 76227. (940) 453-0003."
   }
 ]
