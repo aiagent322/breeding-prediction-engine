@@ -9413,5 +9413,66 @@
     "_stamina": 85,
     "_temperament": 92,
     "_performance_summary": "Super Marioo \u2014 2016 AQHA Sorrel Stallion, 14.3H, 1,120 lbs. Owned by Story Book Stables, Scottsdale AZ. Standing at Tom McCutcheon Reining Horses, Aubrey TX. Book Now Pay Later \u2014 no payments until 12/31/26. By Gunnatrashya (Colonels Smoking Gun x Natrasha/Trashadeous \u2014 LTE $218,046; 2009 NRHA Open Futurity Champion; 2009 All American Congress Futurity Open Champion; 2010 NRHA Open Derby Champion; $3.6M+ Sire; multiple NRHA Futurity Champion sire; Colonels Smoking Gun: NRHA Hall of Fame, $16M+ All-Time Leading Sire) out of HA Chic A Tune (Smart Chic Olena \u2014 NRHA Hall of Fame; $7M+ Sire; full sister to 2001 NRHA Futurity Int. Non-Pro Champion Da Chics Tune). LTE $338,800+. 2019 NRHA Open Futurity L4 Champion (ridden by Cade McCutcheon \u2014 his first year as a professional, making him the youngest NRHA Open Futurity Champion and youngest NRHA Million Dollar Rider). 2019 NRHA Open Futurity L3 Champion. 2019 NRHA Open Futurity L2 Champion. NRHA Open L4 Derby Co-Reserve Champion. Cactus Reining Classic L4 Co-Champion, score 227. NRBC Open Finalist. NRHA Open Derby Finalist. Represented internationally by Serequine (Europe). 6-Panel N/N (GBED, HERDA, HYPP, MH, PSSM1, IMM). Cooled semen available. Enrolled: NRBC, RMRHA, NRHA Sire & Dam, NARS, Northeast Breeders Trust, All Star Reining Stakes, IRHA, SWRHA. 2026 stud fee $2,500. Booking fee $500. Balance due on confirmed pregnancy. Mare care $500-$600/month. Shipped semen $350. Tom McCutcheon Reining Horses, 3732 Shepard Rd, Aubrey TX 76227. Breeding office: (940) 453-0003. tmreining.com/stallions/super-marioo/"
+  },
+  {
+    "id": "tmc003",
+    "name": "Gunners Tinseltown",
+    "station": "Tom McCutcheon Reining Horses",
+    "source_url": "https://tmreining.com/stallions/gunners-tinseltown/",
+    "genetics": {
+      "sire": "Colonels Smoking Gun",
+      "dam": "Miss Tinseltown (Great Red Pine)",
+      "bloodline_cluster": "SmokingGun",
+      "offspring_success_score": 72
+    },
+    "physical": {
+      "height_hands": 15.1,
+      "weight_class": "medium",
+      "bone_density_score": 88,
+      "balance_score": 90
+    },
+    "mental": {
+      "trainability": 90,
+      "reactivity": "moderate",
+      "consistency": 88
+    },
+    "health": {
+      "soundness_score": 90
+    },
+    "performance": {
+      "earnings": 307000,
+      "offspring_earnings": 1000000,
+      "discipline_strength": {
+        "reining": 90,
+        "cowHorse": 42,
+        "ranchRiding": 62,
+        "cutting": 18,
+        "teamRoping": 25,
+        "barrelRacing": 20
+      },
+      "discipline_earnings": {
+        "reining": 307000
+      }
+    },
+    "market": {
+      "stud_fee": 2500,
+      "demand_index": 80
+    },
+    "_disciplines": [
+      "reining"
+    ],
+    "_sire_line_strength": "elite",
+    "_proven_crosses": [
+      "Topsail Whiz daughters",
+      "Shining Spark daughters",
+      "Wimpys Little Step daughters",
+      "Smart Chic Olena daughters"
+    ],
+    "_athleticism": 90,
+    "_cow_sense": 32,
+    "_speed": 88,
+    "_stamina": 85,
+    "_temperament": 92,
+    "_performance_summary": "Gunners Tinseltown \u2014 2009 AQHA/APHA Sorrel Stallion, 15.1H. Nickname: Gunny. Bred, owned, and nominated by David Silva Sr. (Silva Reining Horses). Standing at Tom McCutcheon Reining Horses, Aubrey TX. Book Now Pay Later \u2014 no payments until 12/31/26. By Colonels Smoking Gun (Gunner \u2014 NRHA Hall of Fame; NRHA $15M+ All-Time Leading Sire; nearly 1,000 NRHA money-earning offspring; 24 offspring over $100K LTE; sire of Gunnatrashya, Gunners Special Nite, Tinker With Guns, Down Right Amazing) out of Miss Tinseltown (Great Red Pine \u2014 NRHA Hall of Fame; first mare in NRHA history to score above 230; 1999 NRBC Champion, score 233.5; NRHA All-Time Leading Dam; 11 foals earning $741,156 total, avg $67,377 each). BOTH PARENTS NRHA HALL OF FAMERS. LTE $307,000. NRHA Million Dollar Sire (November 2024). 99 offspring with NRHA LTE. NRHA All-Time Leading Money Earners \u2014 10th. 2012 NRHA Open Futurity Reserve Champion (Tim McQuay, $143,473 check). NRBC L4 Open Derby 3rd. NRBC L3 Open Derby Reserve Champion. NRHA Derby L3 Open Reserve Champion and Top 5 L4. Cactus Reining Classic L3 Open Derby Champion and L4 Top 5. High Roller Reining Classic L3 Open 4-Year-Old Stakes Reserve Champion and Top 5 L4. Offspring in NRHA Derby L4 Open Finals (QHN 2022). 5-Panel N/N (GBED, HERDA, HYPP, MH, PSSM1). Cooled and frozen semen available. International: Serequine (Europe), Frozen Partners (Germany). Enrolled: NRBC, All Star Reining Stakes, NRHA Sire & Dam. 2026 stud fee $2,500. Booking fee $500. Book Now Pay Later until 12/31/26. Tom McCutcheon Reining Horses, 3732 Shepard Rd, Aubrey TX 76227. (940) 453-0003. tmreining.com/stallions/gunners-tinseltown/"
   }
 ]
