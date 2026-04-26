@@ -10142,5 +10142,69 @@
     "_stamina": 80,
     "_temperament": 88,
     "_performance_summary": "Shawne Bug Leo \u2014 2001 Stallion. Legacy / Senior Sire. Frozen semen available. Standing at 70 Ranch Performance Horses, Gainesville TX. 2025 stud fee $3,500 (chute and first shipment included). Contact: Jamie Stout \u2014 jamiestout@70rph.com \u2014 (940) 291-2030. By Shawne Bug (foundation Leo/Poco Bueno line \u2014 one of the last standing sons of Shawne Bug in active breeding use) out of Countess Edith (Count Giacomo). 2001 \u2014 racing career cut short by injury; retired to breeding shed. 2.2 Million Dollar Sire (per 70 Ranch current). 2x NFR Qualifier among offspring. 4 American Rodeo Semi-Finalists. Multiple Pro Rodeo/Futurity/Derby Reserve Champions. Riata Buckle Roping Futurity Short Go Finalist offspring. High School and College Rodeo standouts. THE ULTIMATE OUTCROSS: Shawne Bug bloodlines are extremely rare in the modern barrel/roping horse gene pool \u2014 virtually all competing horses trace to Dash Ta Fame, Frenchmans Guy, or Fire Water Flit. Shawne Bug Leo offers fresh genetics with zero inbreeding risk to mares of those lines. Diverse offspring success across barrel racing, heading, heeling, breakaway, futurities, pro rodeo, and high school/college rodeo. Previously stood at NickelBar Ranch LLC, San Angelo TX before 70 Ranch. Incentives: Pink Buckle, Ruby Buckle, Breeders Challenge, Future Fortunes, Royal Crown, Select Stallion Stakes, WPRA PESI, VGBRA, Cowboy State Incentive, Colorado Classic, TQHA Barrel Incentive, Tomorrow's Legends, Riata Buckle, Triple Crown 100. 70rph.com"
+  },
+  {
+    "id": "wag001",
+    "name": "Cat Man Do",
+    "station": "W.T. Waggoner Ranch",
+    "source_url": "https://waggonerranch.com/cat-man-do/",
+    "genetics": {
+      "sire": "High Brow Cat",
+      "dam": "Some Kinda Playgirl (Freckles Playboy)",
+      "bloodline_cluster": "HighBrowCat",
+      "offspring_success_score": 72
+    },
+    "physical": {
+      "height_hands": 15.1,
+      "weight_class": "medium",
+      "bone_density_score": 86,
+      "balance_score": 88
+    },
+    "mental": {
+      "trainability": 88,
+      "reactivity": "moderate",
+      "consistency": 86
+    },
+    "health": {
+      "soundness_score": 88
+    },
+    "performance": {
+      "earnings": 20522,
+      "offspring_earnings": 0,
+      "discipline_strength": {
+        "teamRoping": 88,
+        "cutting": 70,
+        "cowHorse": 65,
+        "ranchRiding": 68,
+        "barrelRacing": 45,
+        "reining": 30
+      },
+      "discipline_earnings": {
+        "teamRoping": 262162,
+        "cutting": 20522
+      }
+    },
+    "market": {
+      "stud_fee": 0,
+      "demand_index": 78
+    },
+    "_disciplines": [
+      "teamRoping",
+      "cutting",
+      "ranchRiding"
+    ],
+    "_sire_line_strength": "elite",
+    "_proven_crosses": [
+      "Peptoboonsmal daughters",
+      "Dual Rey daughters",
+      "Freckles Playboy daughters",
+      "Smart Little Lena daughters"
+    ],
+    "_athleticism": 86,
+    "_cow_sense": 80,
+    "_speed": 72,
+    "_stamina": 84,
+    "_temperament": 88,
+    "_performance_summary": "Cat Man Do \u2014 2005 Gray Stallion. Bred and standing at W.T. Waggoner Ranch, Vernon TX (one of the largest ranches in the US \u2014 historic 520,000-acre estate, now owned by Stan Kroenke family). Stud fee: contact ranch (waggonerranch.com \u2014 website periodically unavailable). By High Brow Cat (AQHA/NCHA #1 All-Time Leading Sire; offspring earnings $97M+; 8 NCHA Open Futurity Champions; NRHA Hall of Fame; Equi-Stat All-Time Leading Sire since 2003) out of Some Kinda Playgirl (Freckles Playboy \u2014 NCHA LTE $80,109; 1986 NCHA Futurity 3YO Open & NP semifinalist; 1988 NCHA Summer Spectacular finalist; paternal sister to Some Kinda Memories \u2014 1997 NCHA Futurity Champion, $378,671). Personal LTE: $20,522 (NCHA; AQHA ROM; 2009 Augusta Futurity 4YO Open finalist; 2009 Abilene Spectacular 4YO Open finalist). #1 Riata Buckle Rope Horse Sire of 2023. 2023 AQHA Top Roping Sires: top-5 nationally with offspring earnings of $262,162. Offspring bred on the historic Waggoner Ranch and competing at the highest levels of heading, heeling, and ranch roping. Waggoner Ranch horse program produces working cattle horses \u2014 the Cat Man Do cross targets both team roping athletes and ranch/working horse buyers. A son bred on Cat Man Do (Peptos Little Catman) was described as resembling his maternal grandsire and stands at Cashe Ranch with 8 foal crops on the ground. Waggoner Ranch, Vernon TX | waggonerranch.com"
   }
 ]
