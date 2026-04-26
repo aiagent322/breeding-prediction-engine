@@ -9773,5 +9773,67 @@
     "_stamina": 82,
     "_temperament": 90,
     "_performance_summary": "Lil Dreamin Magnum \u2014 2011 AQHA Sorrel Stallion. Nickname: Dimpy. Standing at Tom McCutcheon Reining Horses, Aubrey TX. Book Now Pay Later \u2014 no payments until 12/31/26. 2026 stud fee $1,500 (chute and booking fee included). By Magnum Chic Dream (NRHA Hall of Fame; NRHA $10M+ Sire; NRHA Hall of Fame; 4-panel negative; ridden by Patti Brownshadel and Casey Hinton; sire of Mr Farenheit, Magnum With A Dream, Chic Dreamin; producing consistent champions across Open, Non Pro, and Youth) out of Myo Starlight (Paddys Irish Whisky \u2014 NRHA Hall of Fame sire; dam LTE $13,000+). LTE $124,600+ (still showing). First foal crop 2017. 26 Open and Championship titles in the United States. High score 156.5 in go-round competition. Score of 227 achieved at highest level of competition. NRHA Futurity Finalist. NRBC Finalist. NRHA Derby Finalist. Primary trainer: Jeremy Gates, Stony Ford Ranch NY. 5-Panel N/N, IMM N/N. Enrolled: NRBC, NRHA Sire & Dam, Northeast Breeders Trust, North American Reining Stakes, NRHA Germany SSP Program, IRHBA (Italian Breeders). Tom McCutcheon Reining Horses, 3732 Shepard Rd, Aubrey TX 76227. (940) 453-0003."
+  },
+  {
+    "id": "s70r001",
+    "name": "Feel The Sting",
+    "station": "70 Ranch Performance Horses",
+    "source_url": "https://www.70rph.com/feel-the-sting",
+    "genetics": {
+      "sire": "Dash Ta Fame",
+      "dam": "MP Meter My Hay (Stingray)",
+      "bloodline_cluster": "DashTaFame",
+      "offspring_success_score": 75
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 86,
+      "balance_score": 88
+    },
+    "mental": {
+      "trainability": 86,
+      "reactivity": "hot",
+      "consistency": 85
+    },
+    "health": {
+      "soundness_score": 82
+    },
+    "performance": {
+      "earnings": 138000,
+      "offspring_earnings": 1000000,
+      "discipline_strength": {
+        "barrelRacing": 90,
+        "teamRoping": 65,
+        "ranchRiding": 50,
+        "reining": 20,
+        "cowHorse": 15,
+        "cutting": 12
+      },
+      "discipline_earnings": {
+        "barrelRacing": 138000
+      }
+    },
+    "market": {
+      "stud_fee": 3500,
+      "demand_index": 75
+    },
+    "_disciplines": [
+      "barrelRacing",
+      "teamRoping"
+    ],
+    "_sire_line_strength": "premier",
+    "_proven_crosses": [
+      "First Down Dash daughters",
+      "PC Frenchmans Hayday daughters",
+      "Frenchmans Guy daughters",
+      "Dash For Cash daughters"
+    ],
+    "_athleticism": 90,
+    "_cow_sense": 20,
+    "_speed": 96,
+    "_stamina": 82,
+    "_temperament": 85,
+    "_performance_summary": "Feel The Sting \u2014 2013 Chestnut Stallion. Nickname: Stinger. Owned and standing at 70 Ranch Performance Horses, Gainesville TX. Phone: (940) 291-2030. 2025/2026 stud fee $3,500 (chute and first shipment included). By Dash Ta Fame (All-Time Leading Barrel Racing Sire; TB-cross QH; offspring earnings well in excess of $100M; foundational sire of modern barrel horse industry) out of MP Meter My Hay, known as Stingray (Sherry Cervi's mare; 2-Time WPRA World Champion; 9-time NFR qualifier; dam of champions). LTE $138,000. NRHA Million Dollar Sire. NFR qualifier (fractured hock precluded Vegas run under Ryann Pedone; came back under Sherry Cervi before knee injury led to retirement). Raised by Highpoint Performance Horses; acquired by 70 Ranch Performance Horses. 15H, stout, conformationally correct. Top offspring: HP Feel The Fame (first foal) \u2014 2021 BFA Juvenile World Championship, LTE ~$300,000. Sire of barrel racing AND team roping horses (head/heel). Incentives: Pink Buckle, Riata Buckle, Future Fortunes, Triple Crown 100, Royal Crown, Breeders Challenge, Tomorrows Legends, Blue Collar Breeders, Select Stallion Stakes, Legends of the South, Colorado Classic, Cornhusker. Shipped cooled and frozen semen available. 70rph.com | Facebook: @Stinger70RPH"
   }
 ]
