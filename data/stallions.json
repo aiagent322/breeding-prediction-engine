@@ -1244,58 +1244,66 @@
     "id": "s022",
     "name": "Woody Be Tuff",
     "genetics": {
-      "sire": "Dual Rey",
-      "dam": "Woody Lady",
-      "bloodline_cluster": "Pep",
-      "offspring_success_score": 82
+      "sire": "Nitas Wood",
+      "dam": "Tuffs Junie",
+      "bloodline_cluster": "NitasWood",
+      "offspring_success_score": 95
     },
     "physical": {
-      "height_hands": 14.3,
-      "weight_class": "light",
-      "bone_density_score": 78,
-      "balance_score": 82
+      "height_hands": 15.1,
+      "weight_class": "medium",
+      "bone_density_score": 90,
+      "balance_score": 92
     },
     "mental": {
-      "trainability": 80,
-      "reactivity": "high",
-      "consistency": 76
+      "trainability": 96,
+      "reactivity": "cool",
+      "consistency": 96
     },
     "performance": {
+      "earnings": 351062,
+      "offspring_earnings": 15300000,
       "discipline_strength": {
-        "cutting": 88,
-        "cowHorse": 72,
-        "reining": 40,
-        "ranchRiding": 55,
-        "teamRoping": 30,
-        "barrelRacing": 20
+        "cutting": 90,
+        "cowHorse": 85,
+        "ranchRiding": 92,
+        "teamRoping": 78,
+        "reining": 65,
+        "barrelRacing": 25
       },
-      "earnings": 98000,
-      "offspring_earnings": 1500000,
       "discipline_earnings": {
-        "cutting": 1300000,
-        "cowHorse": 180000,
-        "reining": 20000
+        "cutting": 351062
       }
     },
     "health": {
-      "soundness_score": 84
+      "soundness_score": 92
     },
     "market": {
-      "stud_fee": 1800,
-      "demand_index": 72
+      "stud_fee": 6500,
+      "demand_index": 95
     },
     "_disciplines": [
-      "cutting"
+      "cutting",
+      "cowHorse",
+      "ranchRiding",
+      "teamRoping"
     ],
-    "_sire_line_strength": "premier",
+    "_sire_line_strength": "elite",
     "_proven_crosses": [
-      "Metallic Cat"
+      "High Brow Cat daughters",
+      "Metallic Cat daughters",
+      "Peptoboonsmal daughters",
+      "Dual Rey daughters",
+      "Smart Little Lena daughters"
     ],
-    "_athleticism": 90,
-    "_cow_sense": 95,
-    "_speed": 72,
-    "_stamina": 78,
-    "_temperament": 72
+    "_athleticism": 94,
+    "_cow_sense": 90,
+    "_speed": 86,
+    "_stamina": 94,
+    "_temperament": 98,
+    "station": "Solo Select Horses",
+    "source_url": "https://www.soloselecthorses.com/stallions/woody-be-tuff",
+    "_performance_summary": "Woody Be Tuff \u2014 2001 AQHA Sorrel Stallion. AQHA #1 All-Time Leading Sire of Ranch Horse Point-Earners. Managed by Solo Select Horses, Whitesboro, Texas. Contact: stallions@soloselect.com | soloselecthorses.com/stallions/woody-be-tuff. Owner: Center Ranch. 2026 Breeding Fee: $6,500 + chute \u2014 frozen on-site OR FedEx. $4,500 ICSI \u2014 no charge until recipient mare confirmed in foal. Frozen ONLY or ICSI \u2014 no fresh semen. Booked full every year since 2021. Book early \u2014 contacts fill immediately. \n\nPEDIGREE: By Nitas Wood (NCHA earning stallion; a son of the elite cutting sire Nitas Wood line; offspring are renowned for elite cow sense, natural athleticism, size, structural correctness, and the kind of 'quiet mind' that makes horses easy to train and consistent to show; the Nitas Wood bloodline has proven itself as a premier outcross across cutting, reined cow horse, ranch horse, and roping) out of Tuffs Junie. Woody Be Tuff's pedigree provides one of the cleanest outcrosses available in the modern performance horse market \u2014 carrying none of the High Brow Cat, Metallic Cat, Peptoboonsmal, or Dual Rey blood that saturates the industry's dominant sire lines. This makes him uniquely valuable as a cross on mares from any of those dominant bloodline families, providing the hybrid vigor that results from breeding away from pedigree saturation. \n\nSHOW CAREER: Personal NCHA LTE $351,062. Cotton Stakes Classic Open Champion. Augusta Open Classic Champion. His show record reflects elite-level cutting performance at two of the sport's most competitive regional events, establishing the cow sense credentials that his offspring have since validated across every western performance discipline. \n\nSIRE RECORD: The most versatile active sire in the American Quarter Horse industry. Offspring earnings exceed $15.3 Million across cutting, reining, reined cow horse, roping, and ranch horse events \u2014 from very limited foal crops. His largest foal crop to date will be three-year-olds in 2026, meaning the $15.3M PE has been built from small, intentional foal crops \u2014 a per-foal production efficiency that is arguably unmatched. AQHA #1 All-Time Leading Sire of Ranch Horse Point-Earners. 2020 RGP #1 Leading Sire of Ranch Riding Money-Earners. RGP #2 All-Time Leading Sire of Ranch Horse Money-Earners. A Leading Sire in Cutting, Reining, Reined Cow Horse, Roping and Ranch Events. 259+ money-earners spanning every discipline. Top offspring: CR Tuff Lucy ($382,088 \u2014 4th NCHA Open Futurity; NCHA Bronze Award), CR Tuff Hearted Cat ($276,864 \u2014 NCHA Open Futurity Co-Champion), CR First Tuff ($191,305 \u2014 3rd NCHA Open Super Stakes). His offspring are in demand at every level \u2014 from elite futurity competition to the ranch pen and rodeo arena. \n\nTHE OUTCROSS STORY: 'Booked full every year since 2021' \u2014 the commercial reality of Woody Be Tuff is that he is the most sought-after genuine outcross in the western performance horse industry. In a breeding world dominated by High Brow Cat, Metallic Cat, Peptoboonsmal, and Dual Rey, Woody Be Tuff produces documented results when crossed on mares from all those dominant lines. Melanie Smith of Solo Select Horses: 'We have searched for another stallion for years \u2014 always looking for that outcross with size and consistency as a sire. He has always been a great horse and is truly one of a kind.' Contact stallions@soloselect.com for 2026 contracts and ICSI scheduling. Book immediately \u2014 he fills annually before the season opens."
   },
   {
     "id": "s023",
