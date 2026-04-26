@@ -10642,5 +10642,67 @@
     "_stamina": 90,
     "_temperament": 92,
     "_performance_summary": "Shine Chic Shine \u2014 2009 Stallion. NRHA Two Million Dollar Sire (milestone reached 2023). Owned by Fabio De Iulio. Bred by Manntana LLC. Contact Burns Ranch for breeding information: theburnsranch.com. \n\nPEDIGREE: By Smart Chic Olena (NRHA Hall of Fame; NRHA and NRCHA All-Time Leading Sire; PE $7.6M+ NRHA; sired Smart Spook $405,650, Shiners Chic $315,876, and dozens of NRHA Futurity and Derby Champions; by Smart Little Lena \u00d7 Gay Sugar Chic) out of Ebony Shines (NRHA Hall of Fame \u2014 the NRHA all-time leading producing dam; PE $1M+; her offspring include earners of more than $6M combined across disciplines; by Shining Spark \u00d7 Ebony Whiz). Shine Chic Shine is one of the most elite-pedigreed reining stallions of his era \u2014 both his sire Smart Chic Olena and his dam Ebony Shines are NRHA Hall of Fame inductees. This dual Hall of Fame parentage is extraordinarily rare and reflects the depth of blue-blood reining genetics concentrated in a single horse. Sterling Ranch in Pilot Point, Texas houses Ebony Shines and has built an entire breeding program around her produce \u2014 Shine Chic Shine is her most decorated son. \n\nSHOW CAREER: Personal NRHA LTE $148,714. Shown by NRHA Hall of Famer Shawn Flarida. Although shown at only six events \u2014 a deliberately limited campaign \u2014 those six outings produced two of the most significant results in reining history: 2011 National Reining Breeders Classic Level 4 Open Championship \u2014 won in a runoff with a score of 231, one of the defining performances of that show year. The NRBC is among the most competitive events on the NRHA calendar, drawing the deepest fields outside the Futurity itself, and winning at Level 4 Open in a runoff requires producing a near-perfect reining pattern under pressure. 2011 NRHA Derby Level 4 Open Co-Reserve Championship \u2014 achieved in the same calendar year as the NRBC Championship, making 2011 one of the most accomplished single seasons for any reining stallion. His campaign with Shawn Flarida, while brief, cemented his reputation as a horse capable of winning at reining's highest levels. \n\nSIRE RECORD: NRHA Two Million Dollar Sire \u2014 milestone achieved in 2023. His foals have won across NRHA futurities, derbies, and classic events, establishing him as one of the most consistent and commercially successful reining sires currently standing. \n\nTOP OFFSPRING: Best Shine (LTE $682,562 \u2014 by Shine Chic Shine out of Best Stop by Custom Crome; 2023 Run for a Million Open Champion with Jason Vanlandingham \u2014 this win simultaneously made Best Stop an NRHA Million Dollar Dam, pushed Vanlandingham to NRHA Three Million Dollar Rider status, and elevated Shine Chic Shine to NRHA Two Million Dollar Sire; currently standing at Toyon Ranch, Pilot Point, Texas; 2017 Buckskin Stallion owned by Bob and Arlene Santagata). Mr Farenheit (LTE $465,800+ \u2014 NRHA Derby finalist; multiple Level 4 placings; 2021 NRBC L4 Open Co-Reserve Champion with Andrea Fappani; one of the top-earning reining stallions of the 2020s; a flashy mover with exceptional athleticism that embodies the Shine Chic Shine type). PS Mega Shine Chic (LTE $239,655 \u2014 NRBC Open Derby Co-Reserve Champion; Run For A Million Reining Shoot-Out Open Champion; NRBC L3 Open Derby Champion twice; by Shine Chic Shine out of Megas Sugar Baby; 2013 stallion currently standing at Tom McCutcheon Reining Horses, Aubrey, Texas). \n\nCROSS NOTES: Shine Chic Shine's Smart Chic Olena top line crosses exceptionally well on mares carrying Colonels Smoking Gun, Magnum Chic Dream, Wimpys Little Step, Custom Crome, and Topsail Whiz blood. The Best Shine cross \u2014 Shine Chic Shine on Best Stop (Custom Crome \u00d7 Rest Stop) \u2014 produced a $682,562 Run for a Million Champion, the definitive proof of his nicking ability with the Custom Crome / Rest Stop female line. His dual Hall of Fame parentage means his offspring carry the deepest concentration of proven NRHA genetics currently available in any commercial reining stallion. Breeders targeting the Run for a Million, NRBC, and NRHA Derby levels of competition should consider Shine Chic Shine one of the premier options in the industry \u2014 his sire record has already produced winners at all three major events, and with his oldest foals only now reaching their prime competitive years, his best sire results may still be ahead. Contact Burns Ranch directly for current stud fee, availability, and breeding contracts."
+  },
+  {
+    "id": "bur005",
+    "name": "Gunner Dun It Again",
+    "station": "Burns Ranch",
+    "source_url": "https://www.theburnsranch.com/stallions",
+    "genetics": {
+      "sire": "Colonels Smoking Gun",
+      "dam": "Dun Its Deja Vu (Hollywood Dun It)",
+      "bloodline_cluster": "ColonelsSmokinGun",
+      "offspring_success_score": 86
+    },
+    "physical": {
+      "height_hands": 15.1,
+      "weight_class": "medium",
+      "bone_density_score": 90,
+      "balance_score": 90
+    },
+    "mental": {
+      "trainability": 90,
+      "reactivity": "cool",
+      "consistency": 92
+    },
+    "health": {
+      "soundness_score": 92
+    },
+    "performance": {
+      "earnings": 113985,
+      "offspring_earnings": 15123113,
+      "discipline_strength": {
+        "reining": 88,
+        "cowHorse": 65,
+        "ranchRiding": 50,
+        "cutting": 30,
+        "teamRoping": 25,
+        "barrelRacing": 20
+      },
+      "discipline_earnings": {
+        "reining": 113985
+      }
+    },
+    "market": {
+      "stud_fee": 2050,
+      "demand_index": 86
+    },
+    "_disciplines": [
+      "reining"
+    ],
+    "_sire_line_strength": "elite",
+    "_proven_crosses": [
+      "Magnum Chic Dream daughters",
+      "Smart Chic Olena daughters",
+      "Wimpys Little Step daughters",
+      "Topsail Whiz daughters",
+      "Shining Spark daughters"
+    ],
+    "_athleticism": 92,
+    "_cow_sense": 68,
+    "_speed": 88,
+    "_stamina": 92,
+    "_temperament": 92,
+    "_performance_summary": "Gunner Dun It Again \u2014 2011 Buckskin AQHA/APHA Stallion. 5-Panel Genetic Test N/N; MYHM N/My. Standing at Burns Ranch. Physical station history includes Tripol Ranch, Cardinal Reining Horses (Aubrey, TX), Toyon Ranch (Pilot Point, TX \u2014 no longer), and Turnabout Farm per RMRHA enrollment. 2025-2026 NRHA Sire & Dam stud fee: $2,050 + $650 chute fee; transported cooled semen $375. Donated to NRHA charity auction by Tripol Ranch. Nominated: NRBC, The Invitational, NRHA Sire and Dam Program, 100X Reining, NRHA Germany, Italy, and Belgium. Nominated 2026 Xibition Stallion Program \u2014 foals eligible for XRS Reining & Rope Horse incentives. \n\nPEDIGREE: By Colonels Smoking Gun \u2014 known throughout the industry simply as 'Gunner' (NRHA Hall of Fame; NRHA Open Futurity Reserve Champion 1996; NRHA Eleven Million Dollar Sire; APHA World Champion Junior Reining Horse; USET Reining Championship 2001; sired 902 NRHA money-earners totaling $15.1M+ in offspring earnings; sired Gunnatrashya \u2014 2009 NRHA Futurity Champion, NRHA $16M sire; Gunners Special Nite \u2014 2010 WEG Individual and Team Gold Medalist, NRHA Million Dollar Sire; Gunners Tinseltown $302,000+; Americasnextgunmodel $223,900 \u2014 2012 NRHA Futurity Champion; HF Mobster \u2014 2013 NRHA Derby Champion; Tinker With Guns $336,200 \u2014 2011 NRHA Derby Champion; Gunnatrashya stands as the all-time defining sire-of-sires cross from the Gunner line) out of Dun Its Deja Vu (by Hollywood Dun It; LTE $26,288; dam of offspring with earnings exceeding $299,000 and granddam of performers with $498,000+). Gunner Dun It Again stacks two of reining's most dominant bloodlines \u2014 Colonels Smoking Gun on top and Hollywood Dun It through the dam \u2014 creating a pedigree that crosses cleanly on virtually any modern NRHA mare. \n\nSHOW CAREER: Personal NRHA LTE $113,985. An accomplished international competitor who represented Brazil on the world stage. 2014 Brazil ANCR Super Open Reining Stakes Champion. 2015 NRBC Intermediate Open Derby Champion. 2015 NRBC Limited Open Derby Champion \u2014 back-to-back NRBC Derby titles in the same year. 2015 NRHA Derby Ancillary Reserve Champion. 2015 NRHA Open Ancillary Reserve Champion. 2016 NRBC Top 5, scoring an impressive 228. 2017 NRBC Open Finalist. 2018 WEG Brazilian Team Qualifier and Individual Finalist \u2014 4th at the FEI World Equestrian Games Open Reining; 5th FEI WEG Team Brazil Open \u2014 representing Brazil at the highest level of international reining competition. 2019 NRHA Open Derby Class Reserve Winner. His career spanned competitive years across North America and South America, demonstrating both physical soundness and consistent competitive output over multiple seasons. \n\nSIRE RECORD: NRHA Million Dollar Sire. As of late 2025, his offspring have earned $15,123,113 in combined NRHA and discipline earnings \u2014 placing him among the elite active sires in the industry. 902 NRHA money-earning offspring with an average earnings per money-earner of $15,266 \u2014 one of the highest average-earnings figures of any currently active reining stallion. 8,725 AQHA performance points earned by his get. Top offspring: No Smoking Required ($564,599 \u2014 Run for a Million Reining Invitational Open Co-Champion; one of the highest-earning sons of Gunner through the Gunner Dun It Again line); Down Right Amazing ($533,243 \u2014 2023 NRHA Level 4 Open Derby Champion; 2023 NRBC Level 4 Open Derby Champion; 2022 Run for a Million Open Shootout Champion; split 3rd 2020 NRHA Level 4 Open Futurity); Custom Made Gun ($420,690 and 14.5 AQHA points \u2014 Run for a Million Reining Invitational Open Co-Champion). 565 AQHA-registered foals with 78 money-earners as of December 2025. \n\nCROSS NOTES: Gunner Dun It Again's Colonels Smoking Gun \u00d7 Hollywood Dun It pedigree crosses exceptionally on mares carrying Magnum Chic Dream, Smart Chic Olena, Wimpys Little Step, Topsail Whiz, and Shining Spark blood. His 'flawless individual' conformation \u2014 as described by multiple breeding publications \u2014 passes reliably to offspring with refined heads, great substance, bone, and outstanding disposition. The average $15,266 earnings per money-earner reflects not just quantity of earners but genuine quality \u2014 his offspring win, not merely participate. With Down Right Amazing and No Smoking Required both as Run for a Million-caliber competitors, Gunner Dun It Again has proven he can produce horses capable of winning at the sport's most prestigious and highest-paying single event. Contact Burns Ranch or Tripol Ranch for current availability and breeding contracts."
   }
 ]
