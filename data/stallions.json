@@ -11899,5 +11899,69 @@
     "_stamina": 92,
     "_temperament": 96,
     "_performance_summary": "CD Diamond \u2014 2009 Palomino Stallion. NRCHA Million Dollar Sire. Bred, raised, and owned by San Juan Ranch. San Juan Ranch: 613 W FM 1885, Weatherford, TX 76088. (940) 682-2205 | horses@sanjuanranch.com | sanjuanranch.com/cd-diamond.html. ICSI Only \u2014 breed at Weatherford Equine Breeding Center ONLY. Weatherford Equine Breeding Center, Weatherford, TX. (817) 594-9181 | weatherfordequine.com. 2026 Breeding Fee: $3,750 early booking (paid in full by 12/31/25) + chute fee. 8-Panel Negative, HERDA N/N, EVA Negative. Nominated: NRCHA Cow Horse Incentive, Royal Crown Roping, Riata Stallion Incentive, Gold Buckle Futurity. INCENTIVE: Top placing CD Diamond foals through 2029 NRCHA Fort Worth Futurity Finals receive $25,000 (Open) $10,000 (Non-Pro) \u2014 San Juan Ranch funded. 2024 Gold Buckle Futurities Leading Sire. San Juan Ranch is an NRCHA Million Dollar Breeder. \n\nPEDIGREE: By CD Olena (NCHA Horse of the Year; personal LTE $170,706; NCHA Open Futurity Champion AND NCHA Open Derby Champion \u2014 one of the few stallions to win both in the same era; All-Time NCHA Leading Sire; 2012 NCHA Top-Twenty Leading Sire; 2012 NRCHA #7 Leading Sire; sired offspring earnings exceeding $17,748,162 with producers of more than $19,600,000; by Smart Chic Olena NRHA Hall of Fame \u00d7 Doc's Stylish Oak) out of Shiners Diamond Girl (by Shining Spark NRHA Hall of Fame \u00d7 Zans Diamond Jackie \u00d7 Zans Diamond Sun; personal LTE $67,765 \u2014 5th, World's Greatest Horseman; split 4th, NRCHA Open Bridle Spectacular; NRCHA Stakes Open Bridle Reserve Champion; NRCHA Supreme Reined Cow Horse; NRCHA $750,000 Dam Award Recipient \u2014 her offspring have earned over $750,000 in NRCHA competition; progeny earnings exceed $705,765 in EquiStat, including CD Diamond $153,320 \u2014 2012 NRCHA Futurity Champion, SJR Talkin Diamonds $203,712 \u2014 2024 TAPH Open Cow Horse Champion, SJR Royal Diamond $119,190 \u2014 2021 NRCHA Futurity 3rd). CD Diamond's pedigree combines the deep cutting genetics of CD Olena \u2014 one of the all-time great cutting sires \u2014 with the proven working cow horse production record of Shiners Diamond Girl, the NRCHA's preeminent broodmare. This cross of All-Time NCHA Leading Sire bloodline on top with NRCHA Supreme Reined Cow Horse and $750,000 NRCHA Dam genetics on the bottom represents the complete package of cutting and cow horse pedigree. \n\nSHOW CAREER: Personal NRCHA LTE $153,320. A natural fence horse from day one \u2014 described as having the innate ability to 'wrap himself around a cow naturally.' 2012 NRCHA Snaffle Bit Open Futurity Champion \u2014 fence work champion. 2012 NRCHA Horse of the Year. 2012 NRCHA Leading Money-Earner. 2012 NSHA Snaffle Bit Futurity 3-Year-Old Open finalist. 2013 NRCHA Open Derby \u2014 3rd place. 2014 NRCHA Open Derby \u2014 4th place. His three consecutive top-5 Derby finishes (2012-2014) across Futurity and multiple Derby campaigns confirm sustained elite-level reined cow horse ability. \n\nSIRE RECORD: NRCHA Million Dollar Sire. Offspring earnings exceed $1,000,000 in NRCHA competition. 2024 Gold Buckle Futurities Leading Sire \u2014 one of the most significant sire titles in the rope horse futurity world. His flagship son SJR Diamond Mist ($179,883 \u2014 2018 NRCHA Open Futurity Champion and Horse of the Year) proves his sire-line ability to produce champions at the highest level, and that son is now himself a successful sire. Enrolled in the Etalon Genetics Program for genomic profiling. \n\nCROSS NOTES: CD Diamond's CD Olena \u00d7 Shining Spark pedigree crosses exceptionally on mares carrying High Brow Cat, Peptoboonsmal, Dual Rey, Metallic Cat, and Colonels Smoking Gun blood. His proven 2024 Gold Buckle Futurities Leading Sire status confirms commercial rope horse market success alongside NRCHA cow horse earnings. As ICSI only at Weatherford Equine, early booking is essential. Contact San Juan Ranch at (940) 682-2205 or Weatherford Equine at (817) 594-9181."
+  },
+  {
+    "id": "sjr002",
+    "name": "SJR Diamond Mist",
+    "station": "Weatherford Equine Breeding Center",
+    "source_url": "https://weatherfordequine.com/sjr-diamond-mist/",
+    "genetics": {
+      "sire": "CD Diamond",
+      "dam": "Cat Mist (High Brow Cat)",
+      "bloodline_cluster": "SmartChicOlena",
+      "offspring_success_score": 65
+    },
+    "physical": {
+      "height_hands": 15.1,
+      "weight_class": "medium",
+      "bone_density_score": 90,
+      "balance_score": 92
+    },
+    "mental": {
+      "trainability": 94,
+      "reactivity": "cool",
+      "consistency": 94
+    },
+    "health": {
+      "soundness_score": 92
+    },
+    "performance": {
+      "earnings": 179883,
+      "offspring_earnings": 270000,
+      "discipline_strength": {
+        "cowHorse": 94,
+        "cutting": 84,
+        "reining": 74,
+        "teamRoping": 68,
+        "ranchRiding": 58,
+        "barrelRacing": 22
+      },
+      "discipline_earnings": {
+        "cowHorse": 179883
+      }
+    },
+    "market": {
+      "stud_fee": 1500,
+      "demand_index": 80
+    },
+    "_disciplines": [
+      "cowHorse",
+      "cutting",
+      "teamRoping"
+    ],
+    "_sire_line_strength": "elite",
+    "_proven_crosses": [
+      "Peptoboonsmal daughters",
+      "Dual Rey daughters",
+      "Metallic Cat daughters",
+      "Smart Little Lena daughters",
+      "Colonels Smoking Gun daughters"
+    ],
+    "_athleticism": 95,
+    "_cow_sense": 97,
+    "_speed": 88,
+    "_stamina": 92,
+    "_temperament": 96,
+    "_performance_summary": "SJR Diamond Mist \u2014 2015 Stallion. 2018 NRCHA Open Futurity Champion and Horse of the Year. Bred, raised, and owned by San Juan Ranch, Weatherford, Texas \u2014 an NRCHA Million Dollar Breeder. San Juan Ranch: 613 W FM 1885, Weatherford, TX 76088. (940) 682-2205 | horses@sanjuanranch.com | sanjuanranch.com. Standing at: Weatherford Equine Breeding Center, Weatherford, TX. (817) 594-9181 | breeding@weatherfordequine.com | weatherfordequine.com/sjr-diamond-mist. 2026 Breeding Fee: $1,500 early (paid in full by 12/31/25) + chute fee. Cooled and frozen shipped semen available. COMBO DEAL: Breeders to CD Diamond at $3,000 fee offered SJR Diamond Mist breeding for $1,000. 8-Panel Negative, HERDA N/N, EVA Negative. AQHA ROM; 12.5 AQHA points earned across working cow horse, reining, and cutting. Nominated: NRCHA Cow Horse Incentive, NCHA Super Stakes, Fort Worth NRCHA Futurity Incentive, Royal Crown Roping, Gold Buckle Futurity, Riata Stallion Incentive. INCENTIVE: Top placing SJR Diamond Mist foals through 2029 NRCHA Fort Worth Futurity Finals receive $25,000 (Open) $10,000 (Non-Pro) \u2014 San Juan Ranch funded. \n\nPEDIGREE: By CD Diamond (sjr001 in this database; 2009 Palomino Stallion; 2012 NRCHA Snaffle Bit Open Futurity Champion \u2014 fence work champion; 2012 NRCHA Horse of the Year; NRCHA Million Dollar Sire; 2024 Gold Buckle Futurities Leading Sire; by CD Olena NCHA Horse of the Year and All-Time NCHA Leading Sire \u00d7 Shiners Diamond Girl NRCHA Supreme Reined Cow Horse and $750K NRCHA Dam Award Recipient) out of Cat Mist (by High Brow Cat \u2014 pit002 in this database; NCHA #1 All-Time Leading Sire; PE $97M+; personal LTE $70,261; PCCHA Open Derby Reserve Champion; Bonanza 4-Year-Old Open Reserve Champion; West Texas Open Derby Reserve Champion; split 6th, Galles Ranch Open Classic; 7th, Brazos Bash Open Derby; dam of 26 money-earners totaling $1.3M+ in offspring earnings \u2014 one of the most prolific producing daughters of High Brow Cat). SJR Diamond Mist is the product of one of the most remarkable breeding decisions in recent reined cow horse history: CD Diamond (NRCHA Futurity Champion sire) crossed on Cat Mist (High Brow Cat's $1.3M-producing daughter). This cross combines the complete CD Olena / CD Diamond cow horse pedigree on top with High Brow Cat's dominant cutting and cow horse genetics on the bottom \u2014 two of the industry's most proven crossing bloodlines within three generations. \n\nSHOW CAREER: Personal LTE $179,883 in NRCHA and AQHA combined. A natural fence horse in the mold of his father CD Diamond, described as 'a natural-born fence horse like his father.' 2018 NRCHA Snaffle Bit Open Futurity Champion \u2014 claimed the NRCHA's most prestigious 3-year-old title in dominant fashion. 2018 NRCHA Horse of the Year. 2018 NRCHA Leading Money-Earner. 2018 San Juan Ranch Open Incentive winner. 3rd, 2019 NRCHA Open Stakes \u2014 Derby-year ancillary title. Finalist, 2019 NRCHA Open Derby. 12.5 AQHA points in working cow horse, reining, and cutting; AQHA Open ROM. He and his sire CD Diamond are one of only a handful of father-son pairs in history to both win the NRCHA Snaffle Bit Open Futurity Championship. \n\nSIRE RECORD: First foals hit the ground in 2021. Top offspring: SJR Mists Natasha ($64,038 \u2014 Top 10 NRCHA Open Futurity; San Juan Ranch NRCHA Open Incentive Winner), SJR Sumkinda Mist ($53,774 \u2014 NRCHA Hackamore Classic Non-Pro Reserve Champion; San Juan Ranch NRCHA Non-Pro Incentive Winner), SJR Mists Apache ($26,690 \u2014 Gold Buckle Spring Heeling Breeder Incentive Champion; 4th, Royal Crown Buckeye 4-Year-Old Heeling Futurity), SJR Cadilac Mist ($22,007 \u2014 2nd, Idaho RCHA Open Futurity; Top 20, NRCHA Celebration of Champions Open Derby). His offspring span cow horse, cutting, roping, and ranch horse events \u2014 confirming the versatility that defines the best of the CD Diamond sire line. \n\nCROSS NOTES: SJR Diamond Mist's CD Diamond \u00d7 High Brow Cat pedigree crosses exceptionally on mares carrying Peptoboonsmal, Dual Rey, Metallic Cat, Smart Little Lena, and Colonels Smoking Gun blood. His CD Diamond \u00d7 Cat Mist breeding is a documented productive combination that does not carry High Brow Cat or CD Olena at close range in the top line \u2014 making him an effective outcross on High Brow Cat mares while still delivering the Cat Mist/High Brow Cat influence through the dam. At $1,500 early with cooled and frozen semen available, SJR Diamond Mist is one of the most exceptional value propositions in NRCHA-focused cow horse breeding \u2014 a Futurity Champion son of a Futurity Champion with early offspring results that confirm the cross is working. Contact Weatherford Equine at (817) 594-9181 for 2026 contracts."
   }
 ]
