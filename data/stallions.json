@@ -10081,5 +10081,66 @@
     "_stamina": 88,
     "_temperament": 88,
     "_performance_summary": "SR Industry Titan \u2014 2013 Sorrel Stallion. Owned and standing at 70 Ranch Performance Horses, Gainesville TX. Acquired by 70 Ranch September 29, 2023. Contact: Jamie Stout \u2014 jamiestout@70rph.com \u2014 (940) 291-2030. 2025 stud fee $3,500 (chute and first shipment included). By Firewaterontherocks (Fire Water Flit line \u2014 major barrel racing sire) out of Mulberry Canyon Moon (Marthas Six Moons \u2014 described as 'the great NFR mare'). LTE $390,000+. NFR Qualifier. Multiple Arena Record Holder with numerous riders. First foal crop arrived 2020 \u2014 offspring now 5-6 years old and competing. Won $70,000 during the 2023 summer run alone. September 29, 2023: Brittany Tonozzi rode SR Industry Titan to break the WPRA regular-season earnings record in Sioux Falls, South Dakota (Cinch Governor's Cup); clocked 13.95 \u2014 split the Round 1 win, earning $8,750 on the day that put Tonozzi's 2023 season earnings at $258,313. Arena records set at Ellensburg WA and Stephenville TX. 70 Ranch Incentive Program: $100,000 bonus to offspring at the Pink Buckle average ($70,000 to fastest time, $30,000 to second fastest). Enrolled: Pink Buckle and 70 Ranch Incentive Program. 70rph.com"
+  },
+  {
+    "id": "s70r006",
+    "name": "Shawne Bug Leo",
+    "station": "70 Ranch Performance Horses",
+    "source_url": "https://www.70rph.com/shawne-bug-leo",
+    "genetics": {
+      "sire": "Shawne Bug",
+      "dam": "Countess Edith (Count Giacomo)",
+      "bloodline_cluster": "ShawneBug",
+      "offspring_success_score": 82
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 82,
+      "balance_score": 82
+    },
+    "mental": {
+      "trainability": 85,
+      "reactivity": "moderate",
+      "consistency": 85
+    },
+    "health": {
+      "soundness_score": 75
+    },
+    "performance": {
+      "earnings": 0,
+      "offspring_earnings": 2200000,
+      "discipline_strength": {
+        "barrelRacing": 82,
+        "teamRoping": 72,
+        "ranchRiding": 58,
+        "reining": 25,
+        "cowHorse": 25,
+        "cutting": 18
+      },
+      "discipline_earnings": {}
+    },
+    "market": {
+      "stud_fee": 3500,
+      "demand_index": 75
+    },
+    "_disciplines": [
+      "barrelRacing",
+      "teamRoping"
+    ],
+    "_sire_line_strength": "strong",
+    "_proven_crosses": [
+      "Dash Ta Fame daughters",
+      "Frenchmans Guy daughters",
+      "Fire Water Flit daughters",
+      "First Down Dash daughters",
+      "Bully Bullion daughters"
+    ],
+    "_athleticism": 80,
+    "_cow_sense": 30,
+    "_speed": 82,
+    "_stamina": 80,
+    "_temperament": 88,
+    "_performance_summary": "Shawne Bug Leo \u2014 2001 Stallion. Legacy / Senior Sire. Frozen semen available. Standing at 70 Ranch Performance Horses, Gainesville TX. 2025 stud fee $3,500 (chute and first shipment included). Contact: Jamie Stout \u2014 jamiestout@70rph.com \u2014 (940) 291-2030. By Shawne Bug (foundation Leo/Poco Bueno line \u2014 one of the last standing sons of Shawne Bug in active breeding use) out of Countess Edith (Count Giacomo). 2001 \u2014 racing career cut short by injury; retired to breeding shed. 2.2 Million Dollar Sire (per 70 Ranch current). 2x NFR Qualifier among offspring. 4 American Rodeo Semi-Finalists. Multiple Pro Rodeo/Futurity/Derby Reserve Champions. Riata Buckle Roping Futurity Short Go Finalist offspring. High School and College Rodeo standouts. THE ULTIMATE OUTCROSS: Shawne Bug bloodlines are extremely rare in the modern barrel/roping horse gene pool \u2014 virtually all competing horses trace to Dash Ta Fame, Frenchmans Guy, or Fire Water Flit. Shawne Bug Leo offers fresh genetics with zero inbreeding risk to mares of those lines. Diverse offspring success across barrel racing, heading, heeling, breakaway, futurities, pro rodeo, and high school/college rodeo. Previously stood at NickelBar Ranch LLC, San Angelo TX before 70 Ranch. Incentives: Pink Buckle, Ruby Buckle, Breeders Challenge, Future Fortunes, Royal Crown, Select Stallion Stakes, WPRA PESI, VGBRA, Cowboy State Incentive, Colorado Classic, TQHA Barrel Incentive, Tomorrow's Legends, Riata Buckle, Triple Crown 100. 70rph.com"
   }
 ]
