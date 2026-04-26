@@ -11835,5 +11835,69 @@
     "_stamina": 88,
     "_temperament": 92,
     "_performance_summary": "High Roller Whiz \u2014 2008 Bay AQHA Stallion. 15.0 hands. Previously standing at Cedar Ridge Stallion Station, Whitesboro, Texas \u2014 his pedigree PDF remains hosted at cedarridgestallions.com. BREEDING AVAILABILITY NOTE: High Roller Whiz's current primary standing location is not publicly confirmed as of 2026. Cooled and frozen semen are listed as available through the NRHA stallion directory. He has appeared in regional association breeding auctions including CNYRHA (Central New York RHA) and RMRHA (Rocky Mountain RHA). Breeders should contact Cedar Ridge Stallion Station at (903) 564-7686 or search the current NRHA stallion directory at nrha.com/stallions for current availability. Source: nrha.com/stallions/high-roller-whiz. \n\nPEDIGREE: By West Coast Whiz (NRHA Million Dollar Sire \u2014 the second third-generation NRHA Million Dollar Sire, following the Topsail Cody \u2192 Topsail Whiz \u2192 West Coast Whiz lineage; stood at Bob Loomis Reining Horses in Marietta, Oklahoma; by Topsail Whiz NRHA Hall of Fame and $12M Sire \u00d7 Miss Shiney Chex by Custom Crome; leading offspring include Western Whiz LTE $116,737 \u2014 NRHA Derby Open finalist; Whizs Chic A Dee LTE $86,103 \u2014 2008 All American Quarter Horse Congress Reining Futurity Champion and NRHA Futurity Open finalist; Whizs Bronze Star LTE $58,180 \u2014 2010 FEI World Equestrian Games finalist; West Coast Mizzen LTE $48,695 \u2014 2009 NRHA Non Pro Futurity Champion; West Coast Wrangler LTE $45,931 \u2014 2010 NRHA Open Reserve World Champion; West Coast Whiz's offspring have earned $1M+ in NRHA competition, validating the Topsail Whiz line's proven genetic transfer across generations) out of Gettinsmart (by Smart Chic Olena \u2014 NRHA Hall of Fame; $13M Sire; by Smart Little Lena \u00d7 Gay Sugar Chic; sire of Magnum Chic Dream $14.5M sire, Shine Chic Shine $2M sire, and Smart Spook; dam Gettinsmart is the dam of 7 money-earners). High Roller Whiz's pedigree combines two NRHA Hall of Fame sire lines within two generations on both sides: Topsail Whiz through West Coast Whiz on top, Smart Chic Olena through Gettinsmart on the bottom. Both West Coast Whiz and Smart Chic Olena carry Million Dollar Sire credentials, making High Roller Whiz's genetic depth exceptional for a regional-market stallion. \n\nSHOW CAREER: Personal NRHA LTE $127,274 across NRHA and AQHA competition. 2011 Cowtown Classic Open Futurity Finalist \u2014 4th; a competitive futurity debut. 2012 NRHA Open Derby Finalist. 2013 NRHA Intermediate Open Derby Finalist \u2014 5th overall; 3rd in the Limited Open, finalist in the Open. 2013 AQHA World Champion Junior Reining \u2014 the AQHA World Championship in junior reining is one of the most competitive AQHA titles and represents sustained excellence across multiple go-rounds at the world's largest single-breed horse competition. 2014 NRBC Open Derby Finalist \u2014 6th; the NRBC is the second most prestigious event on the NRHA calendar. 2014 NRHA Open Derby Finalist \u2014 3rd; a top-3 finish at the NRHA Derby alongside the elite of professional reining. His multi-year competitive arc \u2014 from futurity through multiple derby campaigns \u2014 demonstrates sustained soundness and the durability associated with the Topsail Whiz athletic foundation. \n\nCROSS NOTES: High Roller Whiz's West Coast Whiz \u00d7 Smart Chic Olena pedigree crosses exceptionally on mares carrying Colonels Smoking Gun, Magnum Chic Dream, Wimpys Little Step, Spooks Gotta Whiz, and Hollywood Dun It blood. His Topsail Whiz / Smart Chic Olena dual Hall-of-Fame pedigree is an uncommon combination at the regional market price point, offering breeders access to two of reining's most proven bloodlines in a single cross. Breeders should confirm current 2026 availability and fee directly by contacting Cedar Ridge Stallion Station at (903) 564-7686 or checking nrha.com/stallions for the most current standing information."
+  },
+  {
+    "id": "sjr001",
+    "name": "CD Diamond",
+    "station": "Weatherford Equine Breeding Center",
+    "source_url": "https://sanjuanranch.com/cd-diamond.html",
+    "genetics": {
+      "sire": "CD Olena",
+      "dam": "Shiners Diamond Girl (Shining Spark)",
+      "bloodline_cluster": "SmartChicOlena",
+      "offspring_success_score": 75
+    },
+    "physical": {
+      "height_hands": 15.1,
+      "weight_class": "medium",
+      "bone_density_score": 90,
+      "balance_score": 92
+    },
+    "mental": {
+      "trainability": 94,
+      "reactivity": "cool",
+      "consistency": 94
+    },
+    "health": {
+      "soundness_score": 92
+    },
+    "performance": {
+      "earnings": 153320,
+      "offspring_earnings": 1000000,
+      "discipline_strength": {
+        "cowHorse": 94,
+        "cutting": 82,
+        "reining": 75,
+        "teamRoping": 65,
+        "ranchRiding": 58,
+        "barrelRacing": 22
+      },
+      "discipline_earnings": {
+        "cowHorse": 153320
+      }
+    },
+    "market": {
+      "stud_fee": 3750,
+      "demand_index": 88
+    },
+    "_disciplines": [
+      "cowHorse",
+      "cutting",
+      "teamRoping"
+    ],
+    "_sire_line_strength": "elite",
+    "_proven_crosses": [
+      "High Brow Cat daughters",
+      "Peptoboonsmal daughters",
+      "Dual Rey daughters",
+      "Metallic Cat daughters",
+      "Colonels Smoking Gun daughters"
+    ],
+    "_athleticism": 95,
+    "_cow_sense": 97,
+    "_speed": 88,
+    "_stamina": 92,
+    "_temperament": 96,
+    "_performance_summary": "CD Diamond \u2014 2009 Palomino Stallion. NRCHA Million Dollar Sire. Bred, raised, and owned by San Juan Ranch. San Juan Ranch: 613 W FM 1885, Weatherford, TX 76088. (940) 682-2205 | horses@sanjuanranch.com | sanjuanranch.com/cd-diamond.html. ICSI Only \u2014 breed at Weatherford Equine Breeding Center ONLY. Weatherford Equine Breeding Center, Weatherford, TX. (817) 594-9181 | weatherfordequine.com. 2026 Breeding Fee: $3,750 early booking (paid in full by 12/31/25) + chute fee. 8-Panel Negative, HERDA N/N, EVA Negative. Nominated: NRCHA Cow Horse Incentive, Royal Crown Roping, Riata Stallion Incentive, Gold Buckle Futurity. INCENTIVE: Top placing CD Diamond foals through 2029 NRCHA Fort Worth Futurity Finals receive $25,000 (Open) $10,000 (Non-Pro) \u2014 San Juan Ranch funded. 2024 Gold Buckle Futurities Leading Sire. San Juan Ranch is an NRCHA Million Dollar Breeder. \n\nPEDIGREE: By CD Olena (NCHA Horse of the Year; personal LTE $170,706; NCHA Open Futurity Champion AND NCHA Open Derby Champion \u2014 one of the few stallions to win both in the same era; All-Time NCHA Leading Sire; 2012 NCHA Top-Twenty Leading Sire; 2012 NRCHA #7 Leading Sire; sired offspring earnings exceeding $17,748,162 with producers of more than $19,600,000; by Smart Chic Olena NRHA Hall of Fame \u00d7 Doc's Stylish Oak) out of Shiners Diamond Girl (by Shining Spark NRHA Hall of Fame \u00d7 Zans Diamond Jackie \u00d7 Zans Diamond Sun; personal LTE $67,765 \u2014 5th, World's Greatest Horseman; split 4th, NRCHA Open Bridle Spectacular; NRCHA Stakes Open Bridle Reserve Champion; NRCHA Supreme Reined Cow Horse; NRCHA $750,000 Dam Award Recipient \u2014 her offspring have earned over $750,000 in NRCHA competition; progeny earnings exceed $705,765 in EquiStat, including CD Diamond $153,320 \u2014 2012 NRCHA Futurity Champion, SJR Talkin Diamonds $203,712 \u2014 2024 TAPH Open Cow Horse Champion, SJR Royal Diamond $119,190 \u2014 2021 NRCHA Futurity 3rd). CD Diamond's pedigree combines the deep cutting genetics of CD Olena \u2014 one of the all-time great cutting sires \u2014 with the proven working cow horse production record of Shiners Diamond Girl, the NRCHA's preeminent broodmare. This cross of All-Time NCHA Leading Sire bloodline on top with NRCHA Supreme Reined Cow Horse and $750,000 NRCHA Dam genetics on the bottom represents the complete package of cutting and cow horse pedigree. \n\nSHOW CAREER: Personal NRCHA LTE $153,320. A natural fence horse from day one \u2014 described as having the innate ability to 'wrap himself around a cow naturally.' 2012 NRCHA Snaffle Bit Open Futurity Champion \u2014 fence work champion. 2012 NRCHA Horse of the Year. 2012 NRCHA Leading Money-Earner. 2012 NSHA Snaffle Bit Futurity 3-Year-Old Open finalist. 2013 NRCHA Open Derby \u2014 3rd place. 2014 NRCHA Open Derby \u2014 4th place. His three consecutive top-5 Derby finishes (2012-2014) across Futurity and multiple Derby campaigns confirm sustained elite-level reined cow horse ability. \n\nSIRE RECORD: NRCHA Million Dollar Sire. Offspring earnings exceed $1,000,000 in NRCHA competition. 2024 Gold Buckle Futurities Leading Sire \u2014 one of the most significant sire titles in the rope horse futurity world. His flagship son SJR Diamond Mist ($179,883 \u2014 2018 NRCHA Open Futurity Champion and Horse of the Year) proves his sire-line ability to produce champions at the highest level, and that son is now himself a successful sire. Enrolled in the Etalon Genetics Program for genomic profiling. \n\nCROSS NOTES: CD Diamond's CD Olena \u00d7 Shining Spark pedigree crosses exceptionally on mares carrying High Brow Cat, Peptoboonsmal, Dual Rey, Metallic Cat, and Colonels Smoking Gun blood. His proven 2024 Gold Buckle Futurities Leading Sire status confirms commercial rope horse market success alongside NRCHA cow horse earnings. As ICSI only at Weatherford Equine, early booking is essential. Contact San Juan Ranch at (940) 682-2205 or Weatherford Equine at (817) 594-9181."
   }
 ]
