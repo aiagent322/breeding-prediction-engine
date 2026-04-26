@@ -11963,5 +11963,69 @@
     "_stamina": 92,
     "_temperament": 96,
     "_performance_summary": "SJR Diamond Mist \u2014 2015 Stallion. 2018 NRCHA Open Futurity Champion and Horse of the Year. Bred, raised, and owned by San Juan Ranch, Weatherford, Texas \u2014 an NRCHA Million Dollar Breeder. San Juan Ranch: 613 W FM 1885, Weatherford, TX 76088. (940) 682-2205 | horses@sanjuanranch.com | sanjuanranch.com. Standing at: Weatherford Equine Breeding Center, Weatherford, TX. (817) 594-9181 | breeding@weatherfordequine.com | weatherfordequine.com/sjr-diamond-mist. 2026 Breeding Fee: $1,500 early (paid in full by 12/31/25) + chute fee. Cooled and frozen shipped semen available. COMBO DEAL: Breeders to CD Diamond at $3,000 fee offered SJR Diamond Mist breeding for $1,000. 8-Panel Negative, HERDA N/N, EVA Negative. AQHA ROM; 12.5 AQHA points earned across working cow horse, reining, and cutting. Nominated: NRCHA Cow Horse Incentive, NCHA Super Stakes, Fort Worth NRCHA Futurity Incentive, Royal Crown Roping, Gold Buckle Futurity, Riata Stallion Incentive. INCENTIVE: Top placing SJR Diamond Mist foals through 2029 NRCHA Fort Worth Futurity Finals receive $25,000 (Open) $10,000 (Non-Pro) \u2014 San Juan Ranch funded. \n\nPEDIGREE: By CD Diamond (sjr001 in this database; 2009 Palomino Stallion; 2012 NRCHA Snaffle Bit Open Futurity Champion \u2014 fence work champion; 2012 NRCHA Horse of the Year; NRCHA Million Dollar Sire; 2024 Gold Buckle Futurities Leading Sire; by CD Olena NCHA Horse of the Year and All-Time NCHA Leading Sire \u00d7 Shiners Diamond Girl NRCHA Supreme Reined Cow Horse and $750K NRCHA Dam Award Recipient) out of Cat Mist (by High Brow Cat \u2014 pit002 in this database; NCHA #1 All-Time Leading Sire; PE $97M+; personal LTE $70,261; PCCHA Open Derby Reserve Champion; Bonanza 4-Year-Old Open Reserve Champion; West Texas Open Derby Reserve Champion; split 6th, Galles Ranch Open Classic; 7th, Brazos Bash Open Derby; dam of 26 money-earners totaling $1.3M+ in offspring earnings \u2014 one of the most prolific producing daughters of High Brow Cat). SJR Diamond Mist is the product of one of the most remarkable breeding decisions in recent reined cow horse history: CD Diamond (NRCHA Futurity Champion sire) crossed on Cat Mist (High Brow Cat's $1.3M-producing daughter). This cross combines the complete CD Olena / CD Diamond cow horse pedigree on top with High Brow Cat's dominant cutting and cow horse genetics on the bottom \u2014 two of the industry's most proven crossing bloodlines within three generations. \n\nSHOW CAREER: Personal LTE $179,883 in NRCHA and AQHA combined. A natural fence horse in the mold of his father CD Diamond, described as 'a natural-born fence horse like his father.' 2018 NRCHA Snaffle Bit Open Futurity Champion \u2014 claimed the NRCHA's most prestigious 3-year-old title in dominant fashion. 2018 NRCHA Horse of the Year. 2018 NRCHA Leading Money-Earner. 2018 San Juan Ranch Open Incentive winner. 3rd, 2019 NRCHA Open Stakes \u2014 Derby-year ancillary title. Finalist, 2019 NRCHA Open Derby. 12.5 AQHA points in working cow horse, reining, and cutting; AQHA Open ROM. He and his sire CD Diamond are one of only a handful of father-son pairs in history to both win the NRCHA Snaffle Bit Open Futurity Championship. \n\nSIRE RECORD: First foals hit the ground in 2021. Top offspring: SJR Mists Natasha ($64,038 \u2014 Top 10 NRCHA Open Futurity; San Juan Ranch NRCHA Open Incentive Winner), SJR Sumkinda Mist ($53,774 \u2014 NRCHA Hackamore Classic Non-Pro Reserve Champion; San Juan Ranch NRCHA Non-Pro Incentive Winner), SJR Mists Apache ($26,690 \u2014 Gold Buckle Spring Heeling Breeder Incentive Champion; 4th, Royal Crown Buckeye 4-Year-Old Heeling Futurity), SJR Cadilac Mist ($22,007 \u2014 2nd, Idaho RCHA Open Futurity; Top 20, NRCHA Celebration of Champions Open Derby). His offspring span cow horse, cutting, roping, and ranch horse events \u2014 confirming the versatility that defines the best of the CD Diamond sire line. \n\nCROSS NOTES: SJR Diamond Mist's CD Diamond \u00d7 High Brow Cat pedigree crosses exceptionally on mares carrying Peptoboonsmal, Dual Rey, Metallic Cat, Smart Little Lena, and Colonels Smoking Gun blood. His CD Diamond \u00d7 Cat Mist breeding is a documented productive combination that does not carry High Brow Cat or CD Olena at close range in the top line \u2014 making him an effective outcross on High Brow Cat mares while still delivering the Cat Mist/High Brow Cat influence through the dam. At $1,500 early with cooled and frozen semen available, SJR Diamond Mist is one of the most exceptional value propositions in NRCHA-focused cow horse breeding \u2014 a Futurity Champion son of a Futurity Champion with early offspring results that confirm the cross is working. Contact Weatherford Equine at (817) 594-9181 for 2026 contracts."
+  },
+  {
+    "id": "sjr003",
+    "name": "SJR Talkin Diamonds",
+    "station": "San Juan Ranch",
+    "source_url": "https://sanjuanranch.com/",
+    "genetics": {
+      "sire": "Smooth Talkin Style",
+      "dam": "Shiners Diamond Girl (Shining Spark)",
+      "bloodline_cluster": "SmoothAsACat",
+      "offspring_success_score": 38
+    },
+    "physical": {
+      "height_hands": 15.1,
+      "weight_class": "medium",
+      "bone_density_score": 90,
+      "balance_score": 92
+    },
+    "mental": {
+      "trainability": 94,
+      "reactivity": "cool",
+      "consistency": 94
+    },
+    "health": {
+      "soundness_score": 92
+    },
+    "performance": {
+      "earnings": 203712,
+      "offspring_earnings": 0,
+      "discipline_strength": {
+        "cowHorse": 92,
+        "cutting": 85,
+        "reining": 72,
+        "teamRoping": 65,
+        "ranchRiding": 58,
+        "barrelRacing": 22
+      },
+      "discipline_earnings": {
+        "cowHorse": 203712
+      }
+    },
+    "market": {
+      "stud_fee": 0,
+      "demand_index": 82
+    },
+    "_disciplines": [
+      "cowHorse",
+      "cutting",
+      "teamRoping"
+    ],
+    "_sire_line_strength": "elite",
+    "_proven_crosses": [
+      "High Brow Cat daughters",
+      "Peptoboonsmal daughters",
+      "Dual Rey daughters",
+      "Metallic Cat daughters",
+      "CD Diamond daughters"
+    ],
+    "_athleticism": 96,
+    "_cow_sense": 96,
+    "_speed": 90,
+    "_stamina": 92,
+    "_temperament": 96,
+    "_performance_summary": "SJR Talkin Diamonds \u2014 2017 Palomino Stallion. 2024 The American Performance Horseman Open Working Cow Horse Champion. Bred, raised, and owned by San Juan Ranch, an NRCHA Million Dollar Breeder. San Juan Ranch: 613 W FM 1885, Weatherford, TX 76088. (940) 682-2205 | horses@sanjuanranch.com | sanjuanranch.com. NEW TO STUD \u2014 2026 is his first breeding season. Contact San Juan Ranch directly for 2026 stud fee and breeding availability. Nominated: NRCHA Cow Horse Incentive, San Juan Ranch NRCHA Futurity Incentive. Half-brother to CD Diamond (sjr001) \u2014 both out of Shiners Diamond Girl. \n\nPEDIGREE: By Smooth Talkin Style (NCHA Horse of the Year; personal LTE $305,284; by Smooth As A Cat \u2014 NCHA/QData #5 All-Time Leading Cutting Sire \u2014 out of Stylish Play Lena \u2014 NCHA/QData #4 All-Time Leading Cutting Dam; this cross of the #5 all-time sire \u00d7 #4 all-time dam produced one of the most elite individual pedigrees in modern cutting history; Smooth Talkin Style's progeny earnings: $9.3M and climbing; #6 QData Leading Cow Horse Sire; Top 10 Leading Cutting Sire; Leading Freshman Sire of 2020; top offspring: Storyteler $383,249 \u2014 2024 TAPH Open Cutting Champion; Gingersnaps $219,416 \u2014 NCHA Open Derby Champion, Breeders Invitational Open Derby Champion, PCCHA Open Derby Champion; Talkin Reycy $211,337 \u2014 2024 NCHA $5,000 Novice Horse Non-Pro World Champion; SJR Talkin Diamonds $203,712 \u2014 2024 TAPH Open Cow Horse Champion) out of Shiners Diamond Girl (by Shining Spark NRHA Hall of Fame \u00d7 Zans Diamond Jackie \u00d7 Zans Diamond Sun; personal LTE $67,765 \u2014 NRCHA Supreme Reined Cow Horse; 5th, World's Greatest Horseman; split 4th, NRCHA Open Bridle Spectacular; NRCHA Stakes Open Bridle Reserve Champion; NRCHA $750,000 Dam Award Recipient \u2014 her foals have earned over $750,000 in NRCHA competition; dam of CD Diamond $153,320 \u2014 2012 NRCHA Futurity Champion, SJR Talkin Diamonds $203,712 \u2014 2024 TAPH Open Cow Horse Champion, SJR Royal Diamond $119,190 \u2014 2021 NRCHA Futurity 3rd; the most decorated broodmare in San Juan Ranch history). \n\nSJR Talkin Diamonds and CD Diamond are half-brothers out of Shiners Diamond Girl, but represent dramatically different sire-line approaches: CD Diamond brings the CD Olena / Smart Chic Olena NRCHA cutting sire tradition, while SJR Talkin Diamonds brings Smooth Talkin Style's dominant modern cutting genetics through the Smooth As A Cat \u00d7 Stylish Play Lena nick \u2014 arguably the most elite individual sire pedigree combination in modern cutting. Having both half-brothers at stud at San Juan Ranch gives breeders access to Shiners Diamond Girl's proven genetics through two completely different and highly complementary sire-line approaches. \n\nSHOW CAREER: Personal LTE $203,712. 2022 NRCHA Derby Reserve Champion \u2014 a top-2 finish at the NRCHA's premier aged event as a 5-year-old signals elite ability across all three phases of reined cow horse. 2024 The American Performance Horseman Open Working Cow Horse Champion \u2014 Globe Life Field, Arlington, Texas. Ridden by Equi-Stat Elite $4 Million Rider Corey Cushing, SJR Talkin Diamonds posted a combined reining and fence work score of 439, winning the $100,000 Open Cow Horse title by just half a point over Scooter Kat with Justin Wright \u2014 the highest money-earning reined cow horse in NRCHA history at that time. Cushing: 'I believe in that horse ever since I started taking him down the fence as a 3-year-old. We've been the bridesmaid quite a few times but never the bride, and tonight was his night.' Winning by half a point over the sport's all-time leading money-earner at the most prestigious event in performance horse competition is the defining proof of elite individual athletic ability. \n\nCROSS NOTES: SJR Talkin Diamonds' Smooth Talkin Style \u00d7 Shining Spark pedigree carries no High Brow Cat, no CD Olena, no Peptoboonsmal, and no Dual Rey at close range \u2014 making him a genuine outcross on mares from all those bloodlines. His Smooth As A Cat / Stylish Play Lena sire combination crosses powerfully on High Brow Cat mares, Peptoboonsmal mares, Dual Rey mares, Metallic Cat mares, and CD Diamond daughters. As a first-year sire in 2026, breeders booking now are entering at ground level on a TAPH Open Cow Horse Champion with elite maternal production credentials from both the sire (Smooth Talkin Style $9.3M progeny sire) and dam (Shiners Diamond Girl $750K NRCHA Dam Award). Contact San Juan Ranch at (940) 682-2205 for 2026 stud fee and contract information."
   }
 ]
