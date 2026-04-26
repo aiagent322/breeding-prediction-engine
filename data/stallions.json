@@ -11145,5 +11145,70 @@
     "_stamina": 92,
     "_temperament": 98,
     "_performance_summary": "Smart Little Lena \u2014 1979 AQHA Stallion. NCHA Hall of Fame. DECEASED \u2014 frozen semen available via ICSI only. Frozen semen owned by Colorado State University. Owned by Smart Little Lena Syndicate. Primary Station: CSU Equine Reproduction Laboratory (ERL), Colorado State University, Fort Collins, Colorado. Contact: (970) 491-8626 | vetmedbiosci.colostate.edu/erl. ICSI fee: $1,250 breeding fee (due at 35-day pregnancy confirmed) + $500 semen use fee (due with signed contract) = $1,750 total. ICSI work must be performed at the CSU Equine Reproduction Laboratory. Also available at: Weatherford Equine, Weatherford, Texas (817) 594-9181 | weatherfordequine.com. \n\nPEDIGREE: By Doc O'Lena (NCHA Hall of Fame; 1972 NCHA Futurity Champion; by Doc Bar \u00d7 Poco Lena; one of the most influential sires in the history of western performance horses; his offspring include Docs Stylish Oak, Doc's Hickory, Lenas Gyrator, and dozens of NCHA Futurity finalists and champions; the Doc O'Lena bloodline is the foundation of modern cutting) out of Smart Peppy (by Peppy San Badger \u2014 1977 NCHA Futurity Champion; NCHA Hall of Fame; PE $25M+). Smart Little Lena's pedigree combines Doc Bar through Doc O'Lena with Peppy San Badger through Smart Peppy \u2014 a cross that produced the single most influential stallion in the history of western performance horse breeding. His pedigree is the foundation upon which the entire modern cutting, cow horse, and reining industries are built. \n\nSHOW CAREER: Personal NCHA LTE $743,275 \u2014 one of the highest individual earnings in cutting horse history at the time. 1982 NCHA Triple Crown Champion \u2014 the first horse in NCHA history to win the Futurity, Super Stakes, and Derby Open all in the same calendar year. This achievement was unprecedented and remains one of the most celebrated individual performances in the sport. Multiple NCHA Horse of the Year titles. NCHA Hall of Fame inductee. His career established the standard by which cutting horses are measured, and the records he set at the time were considered unreachable. \n\nSIRE RECORD: NCHA Leading Sire. PE $42.3M+ across disciplines. Smart Little Lena is not merely a leading sire \u2014 he is the architect of the modern western performance horse. His sons and daughters created the dominant bloodlines that define cutting, reining, reined cow horse, and versatility ranch horse today. Key sons and daughters that transformed the industry: Smart Chic Olena (by Smart Little Lena \u00d7 Gay Sugar Chic \u2014 NRHA Hall of Fame; NRHA and NRCHA All-Time Leading Sire; sire of Magnum Chic Dream, Shine Chic Shine, Smart Spook, and $7.6M+ NRHA offspring); One Time Soon ($331,097 \u2014 2006 Augusta Open Classic Champion; dam of One Time Pepto $331,097 by Peptoboonsmal); Smart Little Lena's daughters and granddaughters appear in the pedigrees of virtually every major western performance champion. His daughters have produced: Peptoboonsmal (1995 NCHA Futurity Champion, $28M sire; dam Smart Peppy is by Peppy San Badger out of a Smart Little Lena daughter), Smart Chic Olena ($13M sire; by Smart Little Lena \u00d7 Gay Sugar Chic), and through Smart Chic Olena: Magnum Chic Dream ($14.5M sire), Shine Chic Shine ($2M sire), and countless other industry pillars. \n\nCSU ERL PROGRAM: The Equine Reproduction Laboratory at Colorado State University is one of the world's leading equine reproductive research facilities. Their successful production of offspring from Smart Little Lena's frozen semen via ICSI was announced as a landmark achievement in equine reproduction science. Dr. Katrin Hinrichs stated: 'We have successfully produced offspring from Smart Little Lena's frozen semen in our clinical ICSI program.' 42 straws of frozen semen were donated by Ron Ward to support equine reproduction research at Texas A&M CVM, with additional inventory at CSU available through the ICSI program. \n\nCROSS NOTES: Smart Little Lena crosses with exceptional results on mares carrying Peppy San Badger, High Brow Cat, Peptoboonsmal, Doc Bar, and Dual Rey blood. Given his foundational status, virtually every modern performance horse pedigree already carries Smart Little Lena somewhere \u2014 breeders should evaluate pedigree saturation carefully before booking. At $1,750 total (breeding fee plus semen use fee at CSU ERL), a breeding to Smart Little Lena represents extraordinary value for breeders seeking access to the foundational genetics of all western performance disciplines. Frozen semen inventory is finite and irreplaceable. Contact CSU ERL at (970) 491-8626 to verify availability and schedule ICSI."
+  },
+  {
+    "id": "cr001",
+    "name": "Black N Blu Boon",
+    "station": "Cedar Ridge Stallion Station",
+    "source_url": "https://cedarridgestallions.com/black-n-blu-boon/",
+    "genetics": {
+      "sire": "Once In A Blu Boon",
+      "dam": "Lil Autumn Splendor (CD Olena)",
+      "bloodline_cluster": "OnceInABluBoon",
+      "offspring_success_score": 42
+    },
+    "physical": {
+      "height_hands": 15.0,
+      "weight_class": "medium",
+      "bone_density_score": 88,
+      "balance_score": 88
+    },
+    "mental": {
+      "trainability": 88,
+      "reactivity": "cool",
+      "consistency": 86
+    },
+    "health": {
+      "soundness_score": 90
+    },
+    "performance": {
+      "earnings": 27035,
+      "offspring_earnings": 0,
+      "discipline_strength": {
+        "cutting": 78,
+        "cowHorse": 72,
+        "teamRoping": 65,
+        "ranchRiding": 58,
+        "reining": 45,
+        "barrelRacing": 28
+      },
+      "discipline_earnings": {
+        "cutting": 27035
+      }
+    },
+    "market": {
+      "stud_fee": 1400,
+      "demand_index": 62
+    },
+    "_disciplines": [
+      "cutting",
+      "cowHorse",
+      "teamRoping",
+      "ranchRiding"
+    ],
+    "_sire_line_strength": "premier",
+    "_proven_crosses": [
+      "High Brow Cat daughters",
+      "Peptoboonsmal daughters",
+      "Dual Rey daughters",
+      "Metallic Cat daughters",
+      "Smart Little Lena daughters"
+    ],
+    "_athleticism": 88,
+    "_cow_sense": 88,
+    "_speed": 80,
+    "_stamina": 86,
+    "_temperament": 90,
+    "_performance_summary": "Black N Blu Boon \u2014 2018 Blue Roan Stallion. Triple registered: AQHA / APHA / ApHC \u2014 a rare multi-registry designation that expands his commercial reach across Quarter Horse, Paint, and Appaloosa markets. Standing at Cedar Ridge Stallion Station, Whitesboro, Texas. Breeding contact: (903) 564-7686 | info@cedarridgestallions.com. Training: Josh Crawley (817) 991-7876. cedarridgestallions.com/black-n-blu-boon. 2026 Breeding Fee: $1,400 includes chute fee. LIMITED BOOK for 2026. Book Now, Pay Later program \u2014 chute fee due at booking, remainder due after mare is confirmed in foal at 45 days. 6-Panel Genetic Test N/N. Coat color test results available on request. \n\nPEDIGREE: By Once In A Blu Boon (NCHA $10 Million Sire; 14 major limited aged event championship titles and 2 reserve titles with 29 trips to the finals \u2014 bred by legendary horseman and trainer Bill Freeman; trained and shown by James Payne; top offspring include Badboonarising LTE $367,101 \u2014 2018 NCHA Open Futurity Champion; also produced Once In A Blu Boon sons Dont Stopp Believin LTE $367,101 and multiple other six-figure earners across cutting and cow horse events) out of Lil Autumn Splendor (by CD Olena \u2014 by Smart Chic Olena \u00d7 Miss Autumn Boon; CD Olena carries the Smart Chic Olena NRHA Hall of Fame and NRCHA leading sire genetics combined with the Autumn Boon dam line \u2014 Royal Blue Boon's elite broodmare daughters including Autumn Boon $259,685 NCHA Super Stakes Open Derby Champion). Black N Blu Boon stacks Once In A Blu Boon's elite cutting pedigree on a Smart Chic Olena / Autumn Boon dam line \u2014 an exceptional combination of proven cow sense genetics from two of the industry's most respected bloodline families. \n\nSHOW CAREER: Personal LTE $27,035 (NCHA). He 'proved himself' with his NCHA earnings per the QHN Stallion Register description. His show record, combined with his elite pedigree and striking blue roan color with ApHC eligibility, positions him as an accessible option for breeders targeting the cutting, cow horse, roping, and versatility ranch horse markets. \n\nCOLOR AND REGISTRY VALUE: Blue roan with AQHA, APHA, and ApHC registration is a commercially powerful combination. Blue roan color is in high demand across multiple disciplines, and triple registry opens foal markets beyond the AQHA-only segment. The Coat Color Test results confirm his genetics for producing roan offspring, a trait breeders actively seek for market value. As an own son of Once In A Blu Boon, he passes the Once In A Blu Boon blue roan color genetics reliably. \n\nSIRE ONCE IN A BLU BOON: One of the most decorated cutting competitors of his era \u2014 14 major LAE championship titles, 2 reserve titles, 29 trips to the finals \u2014 his record in the show pen rivals any stallion of his generation. As a $10 Million Sire, he has established a proven offspring production record across cutting, cow horse, and roping. Badboonarising ($367,101 \u2014 2018 NCHA Open Futurity Champion) is the flagship demonstration of what an Once In A Blu Boon son can accomplish at the sport's highest level. \n\nCROSS NOTES: Black N Blu Boon's Once In A Blu Boon \u00d7 CD Olena pedigree crosses well on mares carrying High Brow Cat, Peptoboonsmal, Dual Rey, Metallic Cat, and Smart Little Lena blood. His triple registry and limited 2026 book make early booking essential. At $1,400 with chute included and a Book Now, Pay Later structure, he represents exceptional access to $10 Million Once In A Blu Boon genetics at a price point competitive with any cutting/cow horse stallion in North Texas. Contact Cedar Ridge at (903) 564-7686 for 2026 contract availability."
   }
 ]
